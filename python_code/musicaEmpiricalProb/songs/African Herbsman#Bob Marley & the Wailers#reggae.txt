@@ -1,0 +1,42 @@
+Political Reggae:                    0.9 : 8
+Roots Reggae:                        0.9 : 8
+Atmospheric:                         0.8 : 7
+Austere:                             0.8 : 7
+Bright:                              0.8 : 7
+Druggy:                              0.8 : 7
+Earnest:                             0.8 : 7
+Earthy:                              0.8 : 7
+Elegant:                             0.8 : 7
+Ethereal:                            0.8 : 7
+Gritty:                              0.8 : 7
+Intimate:                            0.8 : 7
+Organic:                             0.8 : 7
+Passionate:                          0.8 : 7
+Pastoral:                            0.8 : 7
+Plaintive:                           0.8 : 7
+Poignant:                            0.8 : 7
+Reflective:                          0.8 : 7
+Reverent:                            0.8 : 7
+Rustic:                              0.8 : 7
+Spiritual:                           0.8 : 7
+Summery:                             0.8 : 7
+Warm:                                0.8 : 7
+Wistful:                             0.8 : 7
+Yearning:                            0.8 : 7
+Reggae-Pop:                          0.6 : 5
+Eerie:                               0.6 : 5
+Rebellious:                          0.6 : 5
+Street-Smart:                        0.6 : 5
+Wry:                                 0.6 : 5
+Affirmation:                         0.6 : 5
+Celebration:                         0.6 : 5
+Empowering:                          0.6 : 5
+Feeling Blue:                        0.6 : 5
+Freedom:                             0.6 : 5
+Hanging Out:                         0.6 : 5
+Late Night:                          0.6 : 5
+Rainy Day:                           0.6 : 5
+Revolutionary:                       0.6 : 5
+Road Trip:                           0.6 : 5
+Summer:                              0.6 : 5
+Sunday Afternoon:                    0.6 : 5

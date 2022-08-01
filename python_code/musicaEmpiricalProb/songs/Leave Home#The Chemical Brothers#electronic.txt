@@ -1,0 +1,31 @@
+Big Beat:                            0.9 : 9
+Club/Dance:                          0.9 : 9
+Funky Breaks:                        0.9 : 9
+Boisterous:                          0.9 : 9
+Energetic:                           0.9 : 9
+Rousing:                             0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Guys Night Out:                      0.9 : 9
+Motivation:                          0.9 : 9
+TGIF:                                0.9 : 9
+Trip-Hop:                            0.7999999999999999 : 8
+Celebratory:                         0.7999999999999999 : 8
+Fun:                                 0.7999999999999999 : 8
+Freedom:                             0.7999999999999999 : 8
+Road Trip:                           0.7999999999999999 : 8
+Electronica:                         0.7 : 7
+Aggressive:                          0.7 : 7
+Brash:                               0.7 : 7
+Confident:                           0.7 : 7
+Freewheeling:                        0.7 : 7
+Rambunctious:                        0.7 : 7
+Stylish:                             0.7 : 7
+Exercise/Workout:                    0.7 : 7
+Housework:                           0.7 : 7
+Carefree:                            0.6 : 6
+Rollicking:                          0.6 : 6
+Swaggering:                          0.6 : 6
+Visceral:                            0.6 : 6
+Club:                                0.6 : 6
+Partying:                            0.6 : 6
+Sports:                              0.6 : 6

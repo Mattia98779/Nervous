@@ -1,0 +1,16 @@
+Contemporary Folk:                   0.9 : 7
+Calm/Peaceful:                       0.9 : 7
+Gentle:                              0.9 : 7
+Poignant:                            0.9 : 7
+Reverent:                            0.9 : 7
+Comfort:                             0.9 : 7
+Empowering:                          0.9 : 7
+Solitude:                            0.9 : 7
+Singer/Songwriter:                   0.6 : 6
+Cathartic:                           0.6 : 6
+Intimate:                            0.6 : 6
+Reflective:                          0.6 : 6
+Soothing:                            0.6 : 6
+Early Morning:                       0.6 : 6
+Introspection:                       0.6 : 6
+Sunday Afternoon:                    0.6 : 6

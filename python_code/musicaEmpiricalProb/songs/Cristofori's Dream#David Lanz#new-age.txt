@@ -1,0 +1,19 @@
+Solo Instrumental:                   0.9 : 9
+Adult Alternative:                   0.825 : 8
+Melancholy:                          0.825 : 8
+Solitude:                            0.825 : 8
+Autumnal:                            0.75 : 7
+Dramatic:                            0.75 : 7
+Lush:                                0.75 : 7
+Yearning:                            0.75 : 7
+Feeling Blue:                        0.75 : 7
+Dreamy:                              0.675 : 6
+Elegant:                             0.675 : 6
+Pastoral:                            0.675 : 6
+Reflective:                          0.675 : 6
+Smooth:                              0.675 : 6
+Wistful:                             0.675 : 6
+Background Music:                    0.675 : 6
+Relaxation:                          0.6 : 5
+Atmospheric:                         0.6 : 5
+Bittersweet:                         0.6 : 5

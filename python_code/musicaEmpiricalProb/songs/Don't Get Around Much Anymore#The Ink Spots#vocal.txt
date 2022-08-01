@@ -1,0 +1,36 @@
+Traditional Pop:                     0.9 : 9
+Bittersweet:                         0.9 : 9
+Melancholy:                          0.9 : 9
+Comfort:                             0.9 : 9
+Sweet Dreams:                        0.9 : 9
+Harmony Vocal Group:                 0.8 : 8
+Vocal Pop:                           0.8 : 8
+Delicate:                            0.8 : 8
+Laid-Back/Mellow:                    0.8 : 8
+Nocturnal:                           0.8 : 8
+Refined:                             0.8 : 8
+Soft/Quiet:                          0.8 : 8
+Warm:                                0.8 : 8
+Wistful:                             0.8 : 8
+Feeling Blue:                        0.8 : 8
+Reminiscing:                         0.8 : 8
+Early R&B:                           0.7000000000000001 : 7
+Dreamy:                              0.7000000000000001 : 7
+Gentle:                              0.7000000000000001 : 7
+Innocent:                            0.7000000000000001 : 7
+Precious:                            0.7000000000000001 : 7
+Reserved:                            0.7000000000000001 : 7
+Sentimental:                         0.7000000000000001 : 7
+Smooth:                              0.7000000000000001 : 7
+Soothing:                            0.7000000000000001 : 7
+Sweet:                               0.7000000000000001 : 7
+Hanging Out:                         0.7000000000000001 : 7
+Relaxation:                          0.7000000000000001 : 7
+Calm/Peaceful:                       0.6 : 6
+Elegant:                             0.6 : 6
+Intimate:                            0.6 : 6
+Light:                               0.6 : 6
+Sad:                                 0.6 : 6
+Introspection:                       0.6 : 6
+Solitude:                            0.6 : 6
+Stay in Bed:                         0.6 : 6

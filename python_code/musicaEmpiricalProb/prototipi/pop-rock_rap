@@ -1,0 +1,31 @@
+#Title composizione
+Title : pop-rock#rap
+
+#Concetto Principale
+Head Concept Name : pop-rock
+Head Concept Count : 45
+
+#Concetto Modificatore
+Modifier Concept Name : rap
+Modifier Concept Count : 32
+
+
+
+
+
+T(modifier), -Unsettling, 0.9, 31
+T(modifier), -Solitude, 0.9, 31
+T(modifier), Brash, 0.9, 26
+T(modifier), Street-Smart, 0.864, 23
+T(modifier), Confident, 0.8400000000000001, 21
+T(modifier), Partying, 0.8400000000000001, 21
+
+T(head), -New Romantic, 0.9, 44
+T(head), -Spicy, 0.9, 44
+T(head), Rousing, 0.9, 30
+T(head), Contemporary Pop/Rock, 0.8689655172413793, 27
+T(head), Album Rock, 0.8172413793103448, 22
+T(head), Confident, 0.8172413793103448, 22
+
+
+Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 5.998115229885057

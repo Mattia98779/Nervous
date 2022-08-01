@@ -1,0 +1,29 @@
+Early Pop/Rock:                      0.9 : 9
+Earnest:                             0.9 : 9
+Poignant:                            0.9 : 9
+Reflective:                          0.9 : 9
+Searching:                           0.9 : 9
+Wistful:                             0.9 : 9
+Breakup:                             0.9 : 9
+Feeling Blue:                        0.9 : 9
+Heartache:                           0.9 : 9
+Folk-Rock:                           0.8625 : 8
+Psychedelic/Garage:                  0.8625 : 8
+Intimate:                            0.8625 : 8
+Delicate:                            0.8250000000000001 : 7
+Melancholy:                          0.8250000000000001 : 7
+Precious:                            0.8250000000000001 : 7
+Warm:                                0.7875000000000001 : 6
+Organic:                             0.75 : 5
+In Love:                             0.75 : 5
+Loss/Grief:                          0.75 : 5
+Reminiscing:                         0.75 : 5
+Baroque Pop:                         0.675 : 3
+British Invasion:                    0.6 : 1
+Contemporary Pop/Rock:               0.6 : 1
+Singer/Songwriter:                   0.6 : 1
+British Psychedelia:                 0.6 : 1
+Chamber Pop:                         0.6 : 1
+Bittersweet:                         0.6 : 1
+Plaintive:                           0.6 : 1
+Yearning:                            0.6 : 1

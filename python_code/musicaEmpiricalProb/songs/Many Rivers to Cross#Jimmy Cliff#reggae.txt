@@ -1,0 +1,26 @@
+Earthy:                              0.9 : 9
+Reflective:                          0.9 : 9
+Reflection:                          0.9 : 9
+Reggae-Pop:                          0.8500000000000001 : 8
+Cheerful:                            0.8500000000000001 : 8
+Melancholy:                          0.8500000000000001 : 8
+Romantic:                            0.8500000000000001 : 8
+In Love:                             0.8500000000000001 : 8
+Introspection:                       0.8500000000000001 : 8
+Confident:                           0.8 : 7
+Smooth:                              0.8 : 7
+Sweet:                               0.8 : 7
+Rainy Day:                           0.8 : 7
+Amiable/Good-Natured:                0.75 : 6
+Earnest:                             0.75 : 6
+Effervescent:                        0.75 : 6
+Laid-Back/Mellow:                    0.75 : 6
+Sentimental:                         0.75 : 6
+Long Walk:                           0.75 : 6
+Club/Dance:                          0.7 : 5
+Intimate:                            0.7 : 5
+Passionate:                          0.7 : 5
+Summery:                             0.7 : 5
+Yearning:                            0.7 : 5
+New Love:                            0.7 : 5
+Wedding:                             0.6 : 3

@@ -1,0 +1,16 @@
+Original Score:                      0.9 : 8
+Stylish:                             0.9 : 8
+Dreamy:                              0.8 : 7
+Plaintive:                           0.8 : 7
+Sophisticated:                       0.8 : 7
+Theatrical:                          0.8 : 7
+Affirmation:                         0.8 : 7
+Boisterous:                          0.7 : 6
+Complex:                             0.7 : 6
+Dramatic:                            0.7 : 6
+Elegant:                             0.7 : 6
+Refined:                             0.7 : 6
+Award Winners:                       0.7 : 6
+Film Music:                          0.6 : 5
+Soundtracks:                         0.6 : 5
+Whimsical:                           0.6 : 5

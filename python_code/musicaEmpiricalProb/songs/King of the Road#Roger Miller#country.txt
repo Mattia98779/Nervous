@@ -1,0 +1,26 @@
+Amiable/Good-Natured:                0.9 : 9
+Cheerful:                            0.9 : 9
+Freewheeling:                        0.9 : 9
+Fun:                                 0.9 : 9
+Humorous:                            0.9 : 9
+Laid-Back/Mellow:                    0.9 : 9
+Light:                               0.9 : 9
+Playful_mood:                        0.9 : 9
+Swaggering:                          0.9 : 9
+Warm:                                0.9 : 9
+Day Driving:                         0.9 : 9
+Night Driving:                       0.9 : 9
+Road Trip:                           0.9 : 9
+TGIF:                                0.9 : 9
+Nashville Sound/Countrypolitan:      0.8625 : 8
+Traditional Country:                 0.8625 : 8
+Witty:                               0.8625 : 8
+Vacation:                            0.8625 : 8
+Cool & Cocky:                        0.825 : 7
+The Great Outdoors:                  0.825 : 7
+Country-Pop:                         0.6 : 1
+Confident:                           0.6 : 1
+Lively:                              0.6 : 1
+Street-Smart:                        0.6 : 1
+Adventure:                           0.6 : 1
+Maverick:                            0.6 : 1

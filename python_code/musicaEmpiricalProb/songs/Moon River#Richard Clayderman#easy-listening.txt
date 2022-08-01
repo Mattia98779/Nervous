@@ -1,0 +1,15 @@
+Instrumental Pop:                    0.9 : 8
+Dinner Ambiance:                     0.9 : 8
+Contemporary Instrumental:           0.75 : 7
+Amiable/Good-Natured:                0.75 : 7
+Laid-Back/Mellow:                    0.75 : 7
+Romantic:                            0.75 : 7
+Soothing:                            0.75 : 7
+Background Music:                    0.75 : 7
+Romantic Evening:                    0.75 : 7
+Gentle:                              0.6 : 6
+Lush:                                0.6 : 6
+Sentimental:                         0.6 : 6
+Soft/Quiet:                          0.6 : 6
+In Love:                             0.6 : 6
+Relaxation:                          0.6 : 6

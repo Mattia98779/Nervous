@@ -1,0 +1,15 @@
+Club/Dance:                          0.9 : 9
+Contemporary Reggae:                 0.825 : 8
+Reggae-Pop:                          0.825 : 8
+Hypnotic:                            0.75 : 7
+Smooth:                              0.75 : 7
+Snide:                               0.75 : 7
+Stylish:                             0.75 : 7
+Bitter:                              0.675 : 6
+Earnest:                             0.675 : 6
+Laid-Back/Mellow:                    0.675 : 6
+Poignant:                            0.675 : 6
+Reflective:                          0.675 : 6
+Slick:                               0.675 : 6
+Revolutionary:                       0.675 : 6
+Searching:                           0.6 : 5

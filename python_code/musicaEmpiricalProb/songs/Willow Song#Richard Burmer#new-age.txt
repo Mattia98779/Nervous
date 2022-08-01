@@ -1,0 +1,4 @@
+Adult Alternative:                   0.9 : 8
+Progressive Electronic:              0.9 : 8
+Nature:                              0.825 : 7
+Laid-Back/Mellow:                    0.825 : 7

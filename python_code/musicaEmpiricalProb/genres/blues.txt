@@ -1,0 +1,229 @@
+#Numero di canzoni: 48
+
+Regional Blues:                      0.9, 40
+Earthy:                              0.8615384615384616, 35
+Gritty:                              0.8615384615384616, 35
+Passionate:                          0.8153846153846154, 29
+Late Night:                          0.8153846153846154, 29
+Hanging Out:                         0.7615384615384615, 22
+Greasy:                              0.7538461538461538, 21
+Street-Smart:                        0.7461538461538462, 20
+Swaggering:                          0.7461538461538462, 20
+Organic:                             0.7461538461538462, 20
+Feeling Blue:                        0.7307692307692307, 18
+Earnest:                             0.7307692307692307, 18
+Intimate:                            0.7230769230769231, 17
+Cool & Cocky:                        0.7230769230769231, 17
+Boisterous:                          0.7230769230769231, 17
+Rollicking:                          0.7153846153846154, 16
+Confident:                           0.7153846153846154, 16
+Road Trip:                           0.7153846153846154, 16
+Rousing:                             0.7076923076923077, 15
+Freedom:                             0.7076923076923077, 15
+Electric Chicago Blues:              0.7076923076923077, 15
+Gutsy:                               0.7076923076923077, 15
+Confrontational:                     0.7, 14
+Intense:                             0.7, 14
+Chicago Blues:                       0.7, 14
+Electric Blues:                      0.6923076923076923, 13
+Guys Night Out:                      0.6923076923076923, 13
+Early R&B:                           0.6846153846153846, 12
+Playful_mood:                        0.6846153846153846, 12
+Drinking:                            0.676923076923077, 11
+Bravado:                             0.6692307692307692, 10
+Partying:                            0.6692307692307692, 10
+Amiable/Good-Natured:                0.6692307692307692, 10
+Atmospheric:                         0.6692307692307692, 10
+Laid-Back/Mellow:                    0.6615384615384615, 9
+Energetic:                           0.6615384615384615, 9
+Raucous:                             0.6615384615384615, 9
+Plaintive:                           0.6615384615384615, 9
+Exuberant:                           0.6615384615384615, 9
+Rustic:                              0.6615384615384615, 9
+Yearning:                            0.6538461538461539, 8
+Reflective:                          0.6538461538461539, 8
+Country Blues:                       0.6538461538461539, 8
+Urgent:                              0.6538461538461539, 8
+Lively:                              0.6538461538461539, 8
+Electric Harmonica Blues:            0.6538461538461539, 8
+Soul-Blues:                          0.6461538461538461, 7
+Dramatic:                            0.6461538461538461, 7
+Brooding:                            0.6461538461538461, 7
+Sophisticated:                       0.6461538461538461, 7
+Brash:                               0.6461538461538461, 7
+Fiery:                               0.6461538461538461, 7
+Lazy:                                0.6461538461538461, 7
+Night Driving:                       0.6461538461538461, 7
+Ominous:                             0.6461538461538461, 7
+Texas Blues:                         0.6461538461538461, 7
+Sparse:                              0.6461538461538461, 7
+Sunday Afternoon:                    0.6461538461538461, 7
+Introspection:                       0.6461538461538461, 7
+Weary:                               0.6461538461538461, 7
+Harmonica Blues:                     0.6461538461538461, 7
+TGIF:                                0.6461538461538461, 7
+Acoustic Blues:                      0.6461538461538461, 7
+Modern Electric Blues:               0.6384615384615384, 6
+Melancholy:                          0.6384615384615384, 6
+Rock & Roll:                         0.6384615384615384, 6
+Exciting:                            0.6384615384615384, 6
+Eerie:                               0.6384615384615384, 6
+Tense/Anxious:                       0.6384615384615384, 6
+Sensual:                             0.6307692307692307, 5
+Refined:                             0.6307692307692307, 5
+Searching:                           0.6307692307692307, 5
+Stylish:                             0.6307692307692307, 5
+Juke Joint Blues:                    0.6307692307692307, 5
+Blues Revival:                       0.6307692307692307, 5
+Freewheeling:                        0.6307692307692307, 5
+Rowdy:                               0.6307692307692307, 5
+Sexual:                              0.6307692307692307, 5
+Bleak:                               0.6307692307692307, 5
+Pre-War Blues:                       0.6307692307692307, 5
+Pre-War Country Blues:               0.6307692307692307, 5
+Somber:                              0.6307692307692307, 5
+Reminiscing:                         0.6307692307692307, 5
+West Coast Blues:                    0.6307692307692307, 5
+Electric Texas Blues:                0.6307692307692307, 5
+Austere:                             0.6307692307692307, 5
+Rainy Day:                           0.6307692307692307, 5
+Knotty:                              0.6307692307692307, 5
+Relaxed:                             0.6307692307692307, 5
+Angst-Ridden:                        0.6307692307692307, 5
+Bittersweet:                         0.6230769230769231, 4
+Nocturnal:                           0.6230769230769231, 4
+Smooth:                              0.6230769230769231, 4
+Sad:                                 0.6230769230769231, 4
+Soothing:                            0.6230769230769231, 4
+Heartache:                           0.6230769230769231, 4
+In Love:                             0.6230769230769231, 4
+Aggressive:                          0.6230769230769231, 4
+Uncompromising:                      0.6230769230769231, 4
+Romantic:                            0.6230769230769231, 4
+Reflection:                          0.6230769230769231, 4
+Urban Blues:                         0.6230769230769231, 4
+Delta Blues:                         0.6230769230769231, 4
+Gloomy:                              0.6230769230769231, 4
+Joyous:                              0.6230769230769231, 4
+Jump Blues:                          0.6230769230769231, 4
+Hypnotic:                            0.6230769230769231, 4
+Anguished/Distraught:                0.6230769230769231, 4
+Summer:                              0.6230769230769231, 4
+Celebratory:                         0.6230769230769231, 4
+Warm:                                0.6230769230769231, 4
+Slide Guitar Blues:                  0.6230769230769231, 4
+Early Morning:                       0.6230769230769231, 4
+Elegant:                             0.6153846153846154, 3
+Breakup:                             0.6153846153846154, 3
+Rebellious:                          0.6153846153846154, 3
+Wry:                                 0.6153846153846154, 3
+Cathartic:                           0.6153846153846154, 3
+Seduction:                           0.6153846153846154, 3
+Sex:                                 0.6153846153846154, 3
+Playful:                             0.6153846153846154, 3
+Self-Conscious:                      0.6153846153846154, 3
+Affection/Fondness:                  0.6153846153846154, 3
+Modern Electric Chicago Blues:       0.6153846153846154, 3
+Relaxation:                          0.6153846153846154, 3
+Acoustic Chicago Blues:              0.6153846153846154, 3
+Sentimental:                         0.6153846153846154, 3
+Reserved:                            0.6153846153846154, 3
+Autumnal:                            0.6153846153846154, 3
+Autumn:                              0.6153846153846154, 3
+Folk-Blues:                          0.6153846153846154, 3
+Poignant:                            0.6153846153846154, 3
+Soul:                                0.6076923076923076, 2
+Blues-Rock:                          0.6076923076923076, 2
+Electric Delta Blues:                0.6076923076923076, 2
+Reckless:                            0.6076923076923076, 2
+Happy:                               0.6076923076923076, 2
+Regret:                              0.6076923076923076, 2
+Visceral:                            0.6076923076923076, 2
+Classic Female Blues:                0.6076923076923076, 2
+Brassy:                              0.6076923076923076, 2
+Quirky:                              0.6076923076923076, 2
+Early Pop/Rock:                      0.6076923076923076, 2
+Rockabilly:                          0.6076923076923076, 2
+Electric Memphis Blues:              0.6076923076923076, 2
+Restrained:                          0.6076923076923076, 2
+Insular:                             0.6076923076923076, 2
+Dreamy:                              0.6076923076923076, 2
+Summery:                             0.6076923076923076, 2
+Solitude:                            0.6076923076923076, 2
+Louisiana Blues:                     0.6076923076923076, 2
+Swamp Blues:                         0.6076923076923076, 2
+Ramshackle:                          0.6076923076923076, 2
+Small Gathering:                     0.6076923076923076, 2
+Piano Blues:                         0.6076923076923076, 2
+Delicate:                            0.6076923076923076, 2
+Affirmation:                         0.6076923076923076, 2
+Carefree:                            0.6076923076923076, 2
+Menacing:                            0.6076923076923076, 2
+Jealousy:                            0.6076923076923076, 2
+Provocative:                         0.6076923076923076, 2
+East Coast Blues:                    0.6076923076923076, 2
+Romantic Evening:                    0.6076923076923076, 2
+Fun:                                 0.6076923076923076, 2
+Unsettling:                          0.6076923076923076, 2
+Club:                                0.6076923076923076, 2
+Wistful:                             0.6076923076923076, 2
+Slow Dance:                          0.6076923076923076, 2
+Smooth Soul:                         0.6, 1
+Lush:                                0.6, 1
+D-I-V-O-R-C-E:                       0.6, 1
+Loss/Grief:                          0.6, 1
+British Blues:                       0.6, 1
+British Invasion:                    0.6, 1
+Detroit Blues:                       0.6, 1
+Sleazy:                              0.6, 1
+Thuggish:                            0.6, 1
+Mischievous:                         0.6, 1
+Snide:                               0.6, 1
+Girls Night Out:                     0.6, 1
+Contemporary Pop/Rock:               0.6, 1
+Detached:                            0.6, 1
+Brittle:                             0.6, 1
+Cold:                                0.6, 1
+Clinical:                            0.6, 1
+Long Walk:                           0.6, 1
+New Orleans Blues:                   0.6, 1
+New Orleans R&B:                     0.6, 1
+Jazz Blues:                          0.6, 1
+Gentle:                              0.6, 1
+Background Music:                    0.6, 1
+Electric Country Blues:              0.6, 1
+Early Jazz:                          0.6, 1
+Manic:                               0.6, 1
+Memphis Blues:                       0.6, 1
+Spicy:                               0.6, 1
+New York Blues:                      0.6, 1
+Contemporary Blues:                  0.6, 1
+Club/Dance:                          0.6, 1
+Retro-Soul:                          0.6, 1
+Album Rock:                          0.6, 1
+Slick:                               0.6, 1
+Theatrical:                          0.6, 1
+Bright:                              0.6, 1
+Reunion:                             0.6, 1
+Swamp Pop:                           0.6, 1
+Light:                               0.6, 1
+Soft/Quiet:                          0.6, 1
+Sweet:                               0.6, 1
+New Love:                            0.6, 1
+Dirty Blues:                         0.6, 1
+Humorous:                            0.6, 1
+Gleeful:                             0.6, 1
+Ethereal:                            0.6, 1
+Eccentric:                           0.6, 1
+Spooky:                              0.6, 1
+Empowering:                          0.6, 1
+Acoustic Texas Blues:                0.6, 1
+Pre-War Gospel Blues:                0.6, 1
+Paranoid:                            0.6, 1
+Messy:                               0.6, 1
+Acoustic Memphis Blues:              0.6, 1
+Piedmont Blues:                      0.6, 1
+Songster:                            0.6, 1
+Comfort:                             0.6, 1
+Day Driving:                         0.6, 1
+The Creative Side:                   0.6, 1

@@ -1,0 +1,31 @@
+#Title composizione
+Title : blues#classical
+
+#Concetto Principale
+Head Concept Name : blues
+Head Concept Count : 48
+
+#Concetto Modificatore
+Modifier Concept Name : classical
+Modifier Concept Count : 7
+
+
+
+
+
+T(modifier), -Wistful, 0.9, 6
+T(modifier), -Tender, 0.9, 6
+T(modifier), Sentimental, 0.9, 4
+T(modifier), Confident, 0.9, 4
+T(modifier), Classical Crossover, 0.8, 3
+T(modifier), Melancholy, 0.8, 3
+
+T(head), -The Creative Side, 0.9, 47
+T(head), -Day Driving, 0.9, 47
+T(head), Regional Blues, 0.9, 40
+T(head), Earthy, 0.8615384615384616, 35
+T(head), Gritty, 0.8615384615384616, 35
+T(head), Passionate, 0.8153846153846154, 29
+
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 5.535210622710621

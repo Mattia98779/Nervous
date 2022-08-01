@@ -1,0 +1,41 @@
+Country Blues:                       0.9 : 9
+Field Recordings:                    0.9 : 9
+Folk Revival:                        0.9 : 9
+Folksongs:                           0.9 : 9
+Acoustic Blues:                      0.8250000000000001 : 8
+Folk-Blues:                          0.8250000000000001 : 8
+Songster:                            0.8250000000000001 : 8
+Traditional Folk:                    0.8250000000000001 : 8
+Organic:                             0.8250000000000001 : 8
+Rustic:                              0.8250000000000001 : 8
+Atmospheric:                         0.75 : 7
+Intimate:                            0.75 : 7
+Sparse:                              0.75 : 7
+Uncompromising:                      0.75 : 7
+Yearning:                            0.75 : 7
+Early Morning:                       0.75 : 7
+Freedom:                             0.75 : 7
+Loss/Grief:                          0.75 : 7
+Rainy Day:                           0.75 : 7
+Road Trip:                           0.75 : 7
+Sunday Afternoon:                    0.75 : 7
+Earthy:                              0.6749999999999999 : 6
+Passionate:                          0.6749999999999999 : 6
+Political Folk:                      0.6 : 5
+Austere:                             0.6 : 5
+Autumnal:                            0.6 : 5
+Bittersweet:                         0.6 : 5
+Earnest:                             0.6 : 5
+Gritty:                              0.6 : 5
+Melancholy:                          0.6 : 5
+Plaintive:                           0.6 : 5
+Poignant:                            0.6 : 5
+Rollicking:                          0.6 : 5
+Sad:                                 0.6 : 5
+Autumn:                              0.6 : 5
+Empowering:                          0.6 : 5
+Feeling Blue:                        0.6 : 5
+Hanging Out:                         0.6 : 5
+Late Night:                          0.6 : 5
+Reflection:                          0.6 : 5
+Small Gathering:                     0.6 : 5

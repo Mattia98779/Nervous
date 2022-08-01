@@ -1,0 +1,31 @@
+#Title composizione
+Title : country#folk
+
+#Concetto Principale
+Head Concept Name : country
+Head Concept Count : 49
+
+#Concetto Modificatore
+Modifier Concept Name : folk
+Modifier Concept Count : 47
+
+
+
+
+
+T(modifier), -Guys Night Out, 0.9, 46
+T(modifier), -Mischievous, 0.9, 46
+T(modifier), Earthy, 0.9, 30
+T(modifier), Poignant, 0.8896551724137931, 29
+T(modifier), Earnest, 0.8896551724137931, 29
+T(modifier), Bittersweet, 0.8482758620689655, 25
+
+T(head), -Sardonic, 0.9, 48
+T(head), -Housework, 0.9, 48
+T(head), Traditional Country, 0.9, 33
+T(head), Earthy, 0.890625, 32
+T(head), Earnest, 0.8625, 29
+T(head), Reflective, 0.84375, 27
+
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 6.119219589890247

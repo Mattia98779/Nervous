@@ -1,0 +1,31 @@
+#Title composizione
+Title : pop-rock#easy-listening
+
+#Concetto Principale
+Head Concept Name : pop-rock
+Head Concept Count : 45
+
+#Concetto Modificatore
+Modifier Concept Name : easy-listening
+Modifier Concept Count : 43
+
+
+
+
+
+T(modifier), -Wry, 0.9, 42
+T(modifier), -Gleeful, 0.9, 42
+T(modifier), Dinner Ambiance, 0.9, 27
+T(modifier), Amiable/Good-Natured, 0.8884615384615384, 26
+T(modifier), Relaxation, 0.8653846153846154, 24
+T(modifier), Soothing, 0.8653846153846154, 24
+
+T(head), -New Romantic, 0.9, 44
+T(head), -Spicy, 0.9, 44
+T(head), Rousing, 0.9, 30
+T(head), Contemporary Pop/Rock, 0.8689655172413793, 27
+T(head), Album Rock, 0.8172413793103448, 22
+T(head), Confident, 0.8172413793103448, 22
+
+
+Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 6.101818107046654

@@ -1,0 +1,31 @@
+#Title composizione
+Title : reggae#childrens
+
+#Concetto Principale
+Head Concept Name : reggae
+Head Concept Count : 48
+
+#Concetto Modificatore
+Modifier Concept Name : childrens
+Modifier Concept Count : 23
+
+
+
+
+
+T(modifier), -Wry, 0.9, 22
+T(modifier), -Quirky, 0.9, 22
+T(modifier), Hanging Out, 0.9, 22
+T(modifier), Playful, 0.9, 22
+T(modifier), Fun, 0.8857142857142857, 21
+T(modifier), Sing-Alongs, 0.8714285714285714, 20
+
+T(head), -Night Driving, 0.9, 47
+T(head), -Healing/Comfort, 0.9, 47
+T(head), Summery, 0.9, 35
+T(head), Roots Reggae, 0.8735294117647059, 32
+T(head), Earnest, 0.8558823529411764, 30
+T(head), Earthy, 0.8117647058823529, 25
+
+
+Result : '0', '1', '1', '1', '0', '0', '1', '1', '1', '0', '0', '0', 5.831833820484714

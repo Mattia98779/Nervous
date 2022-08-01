@@ -1,0 +1,32 @@
+Observational Humor:                 0.9 : 9
+Standup Comedy:                      0.9 : 9
+Amiable/Good-Natured:                0.9 : 9
+Brooding:                            0.9 : 9
+Cerebral:                            0.9 : 9
+Cynical/Sarcastic:                   0.9 : 9
+Earnest:                             0.9 : 9
+Eccentric:                           0.9 : 9
+Humorous:                            0.9 : 9
+Ironic:                              0.9 : 9
+Quirky:                              0.9 : 9
+Reflective:                          0.9 : 9
+Sophisticated:                       0.9 : 9
+Hanging Out:                         0.9 : 9
+Mischievous:                         0.9 : 9
+Playful:                             0.9 : 9
+Relaxation:                          0.9 : 9
+Sunday Afternoon:                    0.9 : 9
+The Creative Side:                   0.9 : 9
+Comedy:                              0.825 : 8
+Fun:                                 0.825 : 8
+Playful_mood:                        0.825 : 8
+Innocent:                            0.75 : 7
+Relaxed:                             0.75 : 7
+Light:                               0.675 : 6
+Refined:                             0.675 : 6
+Witty:                               0.675 : 6
+Bright:                              0.6 : 5
+Literate:                            0.6 : 5
+Self-Conscious:                      0.6 : 5
+Silly:                               0.6 : 5
+Wry:                                 0.6 : 5

@@ -1,0 +1,31 @@
+#Title composizione
+Title : country#pop-rock
+
+#Concetto Principale
+Head Concept Name : country
+Head Concept Count : 49
+
+#Concetto Modificatore
+Modifier Concept Name : pop-rock
+Modifier Concept Count : 45
+
+
+
+
+
+T(modifier), -New Romantic, 0.9, 44
+T(modifier), -Spicy, 0.9, 44
+T(modifier), Rousing, 0.9, 30
+T(modifier), Contemporary Pop/Rock, 0.8689655172413793, 27
+T(modifier), Album Rock, 0.8172413793103448, 22
+T(modifier), Confident, 0.8172413793103448, 22
+
+T(head), -Sardonic, 0.9, 48
+T(head), -Housework, 0.9, 48
+T(head), Traditional Country, 0.9, 33
+T(head), Earthy, 0.890625, 32
+T(head), Earnest, 0.8625, 29
+T(head), Reflective, 0.84375, 27
+
+
+Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 6.118779517554147

@@ -1,0 +1,31 @@
+#Title composizione
+Title : electronic#pop-rock
+
+#Concetto Principale
+Head Concept Name : electronic
+Head Concept Count : 38
+
+#Concetto Modificatore
+Modifier Concept Name : pop-rock
+Modifier Concept Count : 45
+
+
+
+
+
+T(modifier), -New Romantic, 0.9, 44
+T(modifier), -Spicy, 0.9, 44
+T(modifier), Rousing, 0.9, 30
+T(modifier), Contemporary Pop/Rock, 0.8689655172413793, 27
+T(modifier), Album Rock, 0.8172413793103448, 22
+T(modifier), Confident, 0.8172413793103448, 22
+
+T(head), -Delicate, 0.9, 37
+T(head), -Sprawling, 0.9, 37
+T(head), Hypnotic, 0.9, 27
+T(head), Electronica, 0.8538461538461538, 23
+T(head), Trippy, 0.8538461538461538, 23
+T(head), Techno, 0.8307692307692307, 21
+
+
+Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 6.072781345494595

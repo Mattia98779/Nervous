@@ -1,0 +1,31 @@
+#Title composizione
+Title : vocal#latin
+
+#Concetto Principale
+Head Concept Name : vocal
+Head Concept Count : 49
+
+#Concetto Modificatore
+Modifier Concept Name : latin
+Modifier Concept Count : 5
+
+
+
+
+
+T(modifier), -Summer, 0.9, 4
+T(modifier), -Partying, 0.9, 4
+T(modifier), Rousing, 0.9, 3
+T(modifier), Romantic, 0.9, 3
+T(modifier), Latin Pop, 0.75, 2
+T(modifier), Celebration, 0.75, 2
+
+T(head), -Jazz Instrument, 0.9, 48
+T(head), -Guitar Jazz, 0.9, 48
+T(head), Traditional Pop, 0.9, 47
+T(head), Vocal Pop, 0.8478260869565217, 39
+T(head), Refined, 0.7630434782608696, 26
+T(head), Sentimental, 0.7630434782608696, 26
+
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 5.522590949423247

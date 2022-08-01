@@ -1,0 +1,20 @@
+Modern Electric Chicago Blues:       0.9 : 9
+Regional Blues:                      0.9 : 9
+Earthy:                              0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Freedom:                             0.9 : 9
+Chicago Blues:                       0.8400000000000001 : 8
+Electric Chicago Blues:              0.8400000000000001 : 8
+Modern Electric Blues:               0.8400000000000001 : 8
+Boisterous:                          0.8400000000000001 : 8
+Reckless:                            0.8400000000000001 : 8
+Rowdy:                               0.8400000000000001 : 8
+Partying:                            0.8400000000000001 : 8
+Fiery:                               0.78 : 7
+Greasy:                              0.78 : 7
+Rousing:                             0.78 : 7
+Street-Smart:                        0.78 : 7
+Gritty:                              0.72 : 6
+Celebratory:                         0.6599999999999999 : 5
+Exuberant:                           0.6599999999999999 : 5
+Knotty:                              0.6 : 4

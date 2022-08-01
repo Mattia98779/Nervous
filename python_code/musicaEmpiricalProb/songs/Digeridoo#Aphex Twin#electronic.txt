@@ -1,0 +1,25 @@
+Experimental Techno:                 0.9 : 9
+IDM:                                 0.9 : 9
+Circular:                            0.9 : 9
+Electronica:                         0.75 : 8
+Hardcore Techno:                     0.75 : 8
+Atmospheric:                         0.75 : 8
+Cerebral:                            0.75 : 8
+Clinical:                            0.75 : 8
+Cold:                                0.75 : 8
+Confident:                           0.75 : 8
+Ethereal:                            0.75 : 8
+Gutsy:                               0.75 : 8
+Hypnotic:                            0.75 : 8
+Sophisticated:                       0.75 : 8
+Tense/Anxious:                       0.75 : 8
+Trippy:                              0.75 : 8
+Urgent:                              0.75 : 8
+Background Music:                    0.75 : 8
+The Creative Side:                   0.75 : 8
+Acid Techno:                         0.6 : 7
+Techno:                              0.6 : 7
+Trance:                              0.6 : 7
+Quirky:                              0.6 : 7
+Club:                                0.6 : 7
+Maverick:                            0.6 : 7

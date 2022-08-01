@@ -1,0 +1,30 @@
+Traditional Pop:                     0.9 : 8
+Refined:                             0.9 : 8
+Delicate:                            0.8 : 7
+Earnest:                             0.8 : 7
+Gentle:                              0.8 : 7
+Intimate:                            0.8 : 7
+Lush:                                0.8 : 7
+Poignant:                            0.8 : 7
+Sentimental:                         0.8 : 7
+Dinner Ambiance:                     0.8 : 7
+In Love:                             0.8 : 7
+Romantic Evening:                    0.8 : 7
+Amiable/Good-Natured:                0.7000000000000001 : 6
+Romantic:                            0.7000000000000001 : 6
+Sweet:                               0.7000000000000001 : 6
+Yearning:                            0.7000000000000001 : 6
+Early Pop/Rock:                      0.6 : 5
+Vocal Pop:                           0.6 : 5
+Atmospheric:                         0.6 : 5
+Calm/Peaceful:                       0.6 : 5
+Dreamy:                              0.6 : 5
+Plaintive:                           0.6 : 5
+Reflective:                          0.6 : 5
+Relaxed:                             0.6 : 5
+Smooth:                              0.6 : 5
+Soothing:                            0.6 : 5
+Sophisticated:                       0.6 : 5
+Stylish:                             0.6 : 5
+Wistful:                             0.6 : 5
+Heartache:                           0.6 : 5

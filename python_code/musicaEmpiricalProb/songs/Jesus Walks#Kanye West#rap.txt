@@ -1,0 +1,22 @@
+Alternative Rap:                     0.9000000000000001 : 9
+East Coast Rap:                      0.9000000000000001 : 9
+Dramatic:                            0.9000000000000001 : 9
+Poignant:                            0.9000000000000001 : 9
+Provocative:                         0.9000000000000001 : 9
+Rousing:                             0.9000000000000001 : 9
+Uncompromising:                      0.9000000000000001 : 9
+Acerbic:                             0.84 : 8
+Ambitious:                           0.78 : 7
+Boisterous:                          0.78 : 7
+Brash:                               0.78 : 7
+Somber:                              0.78 : 7
+Revolutionary:                       0.78 : 7
+Confident:                           0.72 : 6
+Gutsy:                               0.72 : 6
+Ominous:                             0.72 : 6
+Tense/Anxious:                       0.72 : 6
+Reflection:                          0.72 : 6
+Street-Smart:                        0.6599999999999999 : 5
+Cool & Cocky:                        0.6599999999999999 : 5
+Literate:                            0.6 : 4
+Swaggering:                          0.6 : 4

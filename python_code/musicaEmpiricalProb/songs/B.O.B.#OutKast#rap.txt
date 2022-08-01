@@ -1,0 +1,19 @@
+Southern Rap:                        0.9 : 9
+Partying:                            0.9 : 9
+Alternative Rap:                     0.825 : 8
+Aggressive:                          0.825 : 8
+Brash:                               0.825 : 8
+Campy:                               0.825 : 8
+Rousing:                             0.825 : 8
+Hardcore Rap:                        0.75 : 7
+Energetic:                           0.75 : 7
+Fun:                                 0.75 : 7
+Happy:                               0.75 : 7
+Urgent:                              0.75 : 7
+Visceral:                            0.75 : 7
+Dirty South:                         0.675 : 6
+Exciting:                            0.675 : 6
+Intense:                             0.675 : 6
+Street-Smart:                        0.675 : 6
+Warm:                                0.675 : 6
+Reckless:                            0.6 : 5

@@ -1,0 +1,22 @@
+Amiable/Good-Natured:                0.9 : 9
+Romantic:                            0.9 : 9
+Comfort:                             0.9 : 9
+In Love:                             0.9 : 9
+Reflection:                          0.9 : 9
+Romantic Evening:                    0.9 : 9
+Nashville Sound/Countrypolitan:      0.8625 : 8
+Traditional Country:                 0.8625 : 8
+Dramatic:                            0.8625 : 8
+Sentimental:                         0.8625 : 8
+Fierce:                              0.825 : 7
+Passionate:                          0.825 : 7
+Reflective:                          0.825 : 7
+Smooth:                              0.825 : 7
+Country-Pop:                         0.7875 : 6
+Gutsy:                               0.7875 : 6
+Intimate:                            0.7875 : 6
+Sweet:                               0.7875 : 6
+Yearning:                            0.7875 : 6
+Innocent:                            0.75 : 5
+Warm:                                0.75 : 5
+Honky Tonk:                          0.6 : 1

@@ -1,0 +1,36 @@
+Electric Chicago Blues:              0.9000000000000001 : 9
+Regional Blues:                      0.9000000000000001 : 9
+Confrontational:                     0.9000000000000001 : 9
+Swaggering:                          0.9000000000000001 : 9
+Drinking:                            0.9000000000000001 : 9
+Freedom:                             0.9000000000000001 : 9
+Late Night:                          0.9000000000000001 : 9
+Chicago Blues:                       0.825 : 8
+Gritty:                              0.825 : 8
+Street-Smart:                        0.825 : 8
+Atmospheric:                         0.75 : 7
+Greasy:                              0.75 : 7
+Gutsy:                               0.75 : 7
+Messy:                               0.75 : 7
+Poignant:                            0.75 : 7
+Provocative:                         0.75 : 7
+Sparse:                              0.75 : 7
+Early Morning:                       0.75 : 7
+Earnest:                             0.6749999999999999 : 6
+Passionate:                          0.6749999999999999 : 6
+Uncompromising:                      0.6749999999999999 : 6
+Road Trip:                           0.6749999999999999 : 6
+Brash:                               0.6 : 5
+Earthy:                              0.6 : 5
+Intense:                             0.6 : 5
+Intimate:                            0.6 : 5
+Lazy:                                0.6 : 5
+Organic:                             0.6 : 5
+Plaintive:                           0.6 : 5
+Rustic:                              0.6 : 5
+Weary:                               0.6 : 5
+Affirmation:                         0.6 : 5
+Feeling Blue:                        0.6 : 5
+Hanging Out:                         0.6 : 5
+Night Driving:                       0.6 : 5
+Rainy Day:                           0.6 : 5

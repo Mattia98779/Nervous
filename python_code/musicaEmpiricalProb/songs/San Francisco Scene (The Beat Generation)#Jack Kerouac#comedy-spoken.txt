@@ -1,0 +1,29 @@
+Beat Poetry:                         0.9 : 9
+Spoken Word:                         0.9 : 9
+Literate:                            0.9 : 9
+Reflective:                          0.9 : 9
+Self-Conscious:                      0.9 : 9
+Freedom:                             0.9 : 9
+Introspection:                       0.9 : 9
+Reflection:                          0.9 : 9
+Revolutionary:                       0.9 : 9
+The Creative Side:                   0.9 : 9
+Uncompromising:                      0.84 : 8
+Ambitious:                           0.78 : 7
+Intense:                             0.78 : 7
+Intimate:                            0.78 : 7
+Plaintive:                           0.78 : 7
+Whimsical:                           0.78 : 7
+Poetry:                              0.72 : 6
+Freewheeling:                        0.72 : 6
+Playful_mood:                        0.72 : 6
+Warm:                                0.72 : 6
+Yearning:                            0.72 : 6
+Dramatic:                            0.66 : 5
+Elaborate:                           0.66 : 5
+Gutsy:                               0.66 : 5
+Searching:                           0.66 : 5
+Sentimental:                         0.66 : 5
+Theatrical:                          0.66 : 5
+Weary:                               0.66 : 5
+Earnest:                             0.6 : 4

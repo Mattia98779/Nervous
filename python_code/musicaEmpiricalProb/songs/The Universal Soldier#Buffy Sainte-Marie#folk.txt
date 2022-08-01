@@ -1,0 +1,28 @@
+Psychedelic/Garage:                  0.9 : 9
+Contemporary Folk:                   0.84 : 8
+Folk-Pop:                            0.84 : 8
+Folk-Rock:                           0.84 : 8
+Brooding:                            0.78 : 7
+Reflection:                          0.78 : 7
+Political Folk:                      0.72 : 6
+Bittersweet:                         0.72 : 6
+Confrontational:                     0.72 : 6
+Earnest:                             0.72 : 6
+Earthy:                              0.72 : 6
+Plaintive:                           0.72 : 6
+Poignant:                            0.72 : 6
+Weary:                               0.72 : 6
+Yearning:                            0.72 : 6
+Introspection:                       0.72 : 6
+Atmospheric:                         0.66 : 5
+Ethereal:                            0.66 : 5
+Intimate:                            0.66 : 5
+Literate:                            0.66 : 5
+Sparse:                              0.66 : 5
+Wistful:                             0.66 : 5
+Early Morning:                       0.66 : 5
+Feeling Blue:                        0.66 : 5
+Freedom:                             0.66 : 5
+Hanging Out:                         0.66 : 5
+Rainy Day:                           0.66 : 5
+Folk Revival:                        0.6 : 4

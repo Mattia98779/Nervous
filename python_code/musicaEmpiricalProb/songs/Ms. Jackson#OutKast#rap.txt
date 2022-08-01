@@ -1,0 +1,20 @@
+Alternative Rap:                     0.9 : 9
+Dirty South:                         0.9 : 9
+Southern Rap:                        0.9 : 9
+Amiable/Good-Natured:                0.9 : 9
+Fun:                                 0.9 : 9
+Partying:                            0.9 : 9
+Soothing:                            0.85 : 8
+Reflective:                          0.7999999999999999 : 7
+Smooth:                              0.7999999999999999 : 7
+Guys Night Out:                      0.7999999999999999 : 7
+Hanging Out:                         0.7999999999999999 : 7
+Cheerful:                            0.75 : 6
+Earnest:                             0.75 : 6
+Playful_mood:                        0.75 : 6
+Sweet:                               0.75 : 6
+Brash:                               0.7 : 5
+Confident:                           0.7 : 5
+Lively:                              0.7 : 5
+Slick:                               0.7 : 5
+Relaxed:                             0.6 : 3

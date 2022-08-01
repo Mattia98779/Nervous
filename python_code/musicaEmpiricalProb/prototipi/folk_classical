@@ -1,0 +1,31 @@
+#Title composizione
+Title : folk#classical
+
+#Concetto Principale
+Head Concept Name : folk
+Head Concept Count : 47
+
+#Concetto Modificatore
+Modifier Concept Name : classical
+Modifier Concept Count : 7
+
+
+
+
+
+T(modifier), -Wistful, 0.9, 6
+T(modifier), -Tender, 0.9, 6
+T(modifier), Sentimental, 0.9, 4
+T(modifier), Confident, 0.9, 4
+T(modifier), Classical Crossover, 0.8, 3
+T(modifier), Melancholy, 0.8, 3
+
+T(head), -Guys Night Out, 0.9, 46
+T(head), -Mischievous, 0.9, 46
+T(head), Earthy, 0.9, 30
+T(head), Poignant, 0.8896551724137931, 29
+T(head), Earnest, 0.8896551724137931, 29
+T(head), Bittersweet, 0.8482758620689655, 25
+
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 5.171281836285504

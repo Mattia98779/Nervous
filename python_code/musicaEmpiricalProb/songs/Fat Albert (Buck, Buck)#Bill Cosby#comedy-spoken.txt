@@ -1,0 +1,13 @@
+Fun:                                 0.9 : 9
+Humorous:                            0.9 : 9
+Playful_mood:                        0.9 : 9
+Comedy:                              0.8250000000000001 : 8
+Observational Humor:                 0.8250000000000001 : 8
+Standup Comedy:                      0.8250000000000001 : 8
+Whimsical:                           0.8250000000000001 : 8
+Energetic:                           0.75 : 7
+Innocent:                            0.75 : 7
+Playful:                             0.75 : 7
+Cheerful:                            0.675 : 6
+Silly:                               0.675 : 6
+Reflective:                          0.6 : 5

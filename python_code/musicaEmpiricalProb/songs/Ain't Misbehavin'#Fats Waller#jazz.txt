@@ -1,0 +1,56 @@
+Big Band:                            0.8999999999999999 : 9
+Jive:                                0.8999999999999999 : 9
+Stride:                              0.8999999999999999 : 9
+Amiable/Good-Natured:                0.8999999999999999 : 9
+Bright:                              0.8999999999999999 : 9
+Carefree:                            0.8999999999999999 : 9
+Joyous:                              0.8999999999999999 : 9
+Raucous:                             0.8999999999999999 : 9
+Rollicking:                          0.8999999999999999 : 9
+Romantic:                            0.8999999999999999 : 9
+Sweet:                               0.8999999999999999 : 9
+Theatrical:                          0.8999999999999999 : 9
+Comfort:                             0.8999999999999999 : 9
+Hanging Out:                         0.8999999999999999 : 9
+Mischievous:                         0.8999999999999999 : 9
+Relaxation:                          0.8999999999999999 : 9
+Reminiscing:                         0.8999999999999999 : 9
+Romantic Evening:                    0.8999999999999999 : 9
+Sunday Afternoon:                    0.8999999999999999 : 9
+Early Jazz:                          0.85 : 8
+Swing:                               0.85 : 8
+Cheerful:                            0.85 : 8
+Elegant:                             0.85 : 8
+Energetic:                           0.85 : 8
+Warm:                                0.85 : 8
+Earnest:                             0.8 : 7
+Happy:                               0.8 : 7
+Innocent:                            0.8 : 7
+Irreverent:                          0.8 : 7
+Knotty:                              0.8 : 7
+Relaxed:                             0.8 : 7
+Reserved:                            0.8 : 7
+Sophisticated:                       0.8 : 7
+Yearning:                            0.8 : 7
+In Love:                             0.8 : 7
+Playful:                             0.8 : 7
+Gentle:                              0.75 : 6
+Humorous:                            0.75 : 6
+Intimate:                            0.75 : 6
+Refined:                             0.75 : 6
+Sentimental:                         0.75 : 6
+Smooth:                              0.75 : 6
+Whimsical:                           0.75 : 6
+Boisterous:                          0.7 : 5
+Effervescent:                        0.7 : 5
+Freewheeling:                        0.7 : 5
+Laid-Back/Mellow:                    0.7 : 5
+Lively:                              0.7 : 5
+Organic:                             0.7 : 5
+Playful_mood:                        0.7 : 5
+Affection/Fondness:                  0.7 : 5
+Confident:                           0.65 : 4
+Lazy:                                0.65 : 4
+Rousing:                             0.65 : 4
+Stylish:                             0.65 : 4
+Light:                               0.6 : 3

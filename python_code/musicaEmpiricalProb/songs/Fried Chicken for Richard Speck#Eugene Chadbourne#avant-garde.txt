@@ -1,0 +1,15 @@
+Experimental:                        0.9 : 9
+Political Folk:                      0.9 : 9
+Cynical/Sarcastic:                   0.9 : 9
+Folk-Rock:                           0.825 : 8
+Psychedelic/Garage:                  0.825 : 8
+Outraged:                            0.825 : 8
+Provocative:                         0.825 : 8
+Mischievous:                         0.825 : 8
+Confrontational:                     0.75 : 7
+Irreverent:                          0.75 : 7
+Revolutionary:                       0.75 : 7
+Singer/Songwriter:                   0.675 : 6
+Street-Smart:                        0.675 : 6
+Humorous:                            0.6 : 5
+Rousing:                             0.6 : 5

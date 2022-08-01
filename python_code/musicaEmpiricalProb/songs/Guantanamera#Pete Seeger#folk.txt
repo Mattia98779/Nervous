@@ -1,0 +1,15 @@
+Folk Revival:                        0.9 : 8
+Dramatic:                            0.9 : 8
+Earnest:                             0.9 : 8
+Earthy:                              0.9 : 8
+Organic:                             0.9 : 8
+Passionate:                          0.9 : 8
+Plaintive:                           0.9 : 8
+Reflective:                          0.9 : 8
+Warm:                                0.9 : 8
+Political Folk:                      0.75 : 7
+Amiable/Good-Natured:                0.75 : 7
+Poignant:                            0.75 : 7
+Wistful:                             0.75 : 7
+Revolutionary:                       0.75 : 7
+Freedom:                             0.6 : 6

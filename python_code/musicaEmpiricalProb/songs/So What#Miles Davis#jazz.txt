@@ -1,0 +1,76 @@
+Bop:                                 0.9 : 9
+Mainstream Jazz:                     0.9 : 9
+Modal Music:                         0.9 : 9
+Brash:                               0.9 : 9
+Brassy:                              0.9 : 9
+Bravado:                             0.9 : 9
+Confident:                           0.9 : 9
+Exciting:                            0.9 : 9
+Fiery:                               0.9 : 9
+Passionate:                          0.9 : 9
+Rambunctious:                        0.9 : 9
+Rousing:                             0.9 : 9
+Searching:                           0.9 : 9
+Stylish:                             0.9 : 9
+Swaggering:                          0.9 : 9
+Urgent:                              0.9 : 9
+Warm:                                0.9 : 9
+Comfort:                             0.9 : 9
+Hanging Out:                         0.9 : 9
+Introspection:                       0.9 : 9
+Late Night:                          0.9 : 9
+Reflection:                          0.9 : 9
+Relaxation:                          0.9 : 9
+Small Gathering:                     0.9 : 9
+Sunday Afternoon:                    0.9 : 9
+The Creative Side:                   0.9 : 9
+Victory:                             0.9 : 9
+Dramatic:                            0.8625 : 8
+Intense:                             0.8625 : 8
+Intimate:                            0.8625 : 8
+Reflective:                          0.8625 : 8
+Relaxed:                             0.8625 : 8
+Restrained:                          0.8625 : 8
+Sophisticated:                       0.8625 : 8
+Sprawling:                           0.8625 : 8
+Visceral:                            0.8625 : 8
+Dinner Ambiance:                     0.8625 : 8
+Empowering:                          0.8625 : 8
+Freedom:                             0.8625 : 8
+Guys Night Out:                      0.8625 : 8
+Rainy Day:                           0.8625 : 8
+Aggressive:                          0.825 : 7
+Ambitious:                           0.825 : 7
+Amiable/Good-Natured:                0.825 : 7
+Atmospheric:                         0.825 : 7
+Carefree:                            0.825 : 7
+Earnest:                             0.825 : 7
+Earthy:                              0.825 : 7
+Elaborate:                           0.825 : 7
+Energetic:                           0.825 : 7
+Exuberant:                           0.825 : 7
+Freewheeling:                        0.825 : 7
+Literate:                            0.825 : 7
+Playful_mood:                        0.825 : 7
+Provocative:                         0.825 : 7
+Quirky:                              0.825 : 7
+Self-Conscious:                      0.825 : 7
+Smooth:                              0.825 : 7
+Stately:                             0.825 : 7
+Street-Smart:                        0.825 : 7
+Witty:                               0.825 : 7
+Wry:                                 0.825 : 7
+Affirmation:                         0.825 : 7
+Cool & Cocky:                        0.825 : 7
+Mischievous:                         0.825 : 7
+Motivation:                          0.825 : 7
+Playful:                             0.825 : 7
+School:                              0.825 : 7
+Sports:                              0.825 : 7
+The Great Outdoors:                  0.825 : 7
+Romantic Evening:                    0.7875 : 6
+Hard Bop:                            0.75 : 5
+Lively:                              0.75 : 5
+Refined:                             0.75 : 5
+Long Walk:                           0.75 : 5
+Cool:                                0.6 : 1

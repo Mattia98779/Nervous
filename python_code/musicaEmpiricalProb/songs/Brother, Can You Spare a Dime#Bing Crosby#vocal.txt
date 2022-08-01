@@ -1,0 +1,20 @@
+Tin Pan Alley Pop:                   0.9 : 9
+Brooding:                            0.9 : 9
+Gloomy:                              0.9 : 9
+Plaintive:                           0.9 : 9
+Poignant:                            0.9 : 9
+Weary:                               0.9 : 9
+Feeling Blue:                        0.9 : 9
+American Popular Song:               0.7500000000000001 : 8
+Standards:                           0.7500000000000001 : 8
+Traditional Pop:                     0.7500000000000001 : 8
+Bitter:                              0.7500000000000001 : 8
+Bleak:                               0.7500000000000001 : 8
+Melancholy:                          0.7500000000000001 : 8
+Somber:                              0.7500000000000001 : 8
+Reflection:                          0.7500000000000001 : 8
+Vocal Jazz:                          0.6 : 7
+Reflective:                          0.6 : 7
+Sad:                                 0.6 : 7
+Sentimental:                         0.6 : 7
+Introspection:                       0.6 : 7

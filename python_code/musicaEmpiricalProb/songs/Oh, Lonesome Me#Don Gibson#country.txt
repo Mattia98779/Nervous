@@ -1,0 +1,22 @@
+Earnest:                             0.9 : 9
+Weary:                               0.9 : 9
+Breakup:                             0.9 : 9
+D-I-V-O-R-C-E:                       0.9 : 9
+Feeling Blue:                        0.9 : 9
+Heartache:                           0.9 : 9
+Introspection:                       0.9 : 9
+Country-Pop:                         0.825 : 8
+Nashville Sound/Countrypolitan:      0.825 : 8
+Traditional Country:                 0.825 : 8
+Intimate:                            0.825 : 8
+Passionate:                          0.825 : 8
+Reflective:                          0.825 : 8
+Laid-Back/Mellow:                    0.75 : 7
+Self-Conscious:                      0.75 : 7
+Yearning:                            0.75 : 7
+Anguished/Distraught:                0.6749999999999999 : 6
+Melancholy:                          0.6749999999999999 : 6
+Smooth:                              0.6749999999999999 : 6
+Somber:                              0.6749999999999999 : 6
+Plaintive:                           0.6 : 5
+Sentimental:                         0.6 : 5

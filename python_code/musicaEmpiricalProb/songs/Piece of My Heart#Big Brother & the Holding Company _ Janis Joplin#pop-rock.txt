@@ -1,0 +1,44 @@
+Album Rock:                          0.9 : 9
+Blues-Rock:                          0.9 : 9
+Angst-Ridden:                        0.9 : 9
+Boisterous:                          0.9 : 9
+Cathartic:                           0.9 : 9
+Confident:                           0.9 : 9
+Confrontational:                     0.9 : 9
+Earthy:                              0.9 : 9
+Fierce:                              0.9 : 9
+Greasy:                              0.9 : 9
+Gritty:                              0.9 : 9
+Gutsy:                               0.9 : 9
+Intense:                             0.9 : 9
+Organic:                             0.9 : 9
+Passionate:                          0.9 : 9
+Plaintive:                           0.9 : 9
+Raucous:                             0.9 : 9
+Reckless:                            0.9 : 9
+Rousing:                             0.9 : 9
+Rowdy:                               0.9 : 9
+Street-Smart:                        0.9 : 9
+Swaggering:                          0.9 : 9
+Visceral:                            0.9 : 9
+Yearning:                            0.9 : 9
+Breakup:                             0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Empowering:                          0.9 : 9
+Girls Night Out:                     0.9 : 9
+In Love:                             0.9 : 9
+Fiery:                               0.8625 : 8
+Sexual:                              0.8625 : 8
+Dramatic:                            0.825 : 7
+Bravado:                             0.7875 : 6
+Self-Conscious:                      0.7875 : 6
+Contemporary Pop/Rock:               0.75 : 5
+Aggressive:                          0.75 : 5
+Brash:                               0.75 : 5
+Earnest:                             0.75 : 5
+Optimistic:                          0.75 : 5
+Urgent:                              0.75 : 5
+Drinking:                            0.75 : 5
+Acid Rock:                           0.6 : 1
+Hard Rock:                           0.6 : 1
+Psychedelic/Garage:                  0.6 : 1

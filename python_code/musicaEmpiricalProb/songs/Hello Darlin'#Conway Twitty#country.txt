@@ -1,0 +1,21 @@
+Nashville Sound/Countrypolitan:      0.9 : 9
+Autumnal:                            0.9 : 9
+Bittersweet:                         0.9 : 9
+Laid-Back/Mellow:                    0.9 : 9
+Lush:                                0.9 : 9
+Melancholy:                          0.9 : 9
+Nocturnal:                           0.9 : 9
+Poignant:                            0.9 : 9
+Sad:                                 0.9 : 9
+Searching:                           0.9 : 9
+Smooth:                              0.9 : 9
+Soft/Quiet:                          0.9 : 9
+Warm:                                0.9 : 9
+Yearning:                            0.9 : 9
+Breakup:                             0.9 : 9
+Feeling Blue:                        0.9 : 9
+Heartache:                           0.9 : 9
+Late Night:                          0.9 : 9
+Regret:                              0.9 : 9
+Country-Pop:                         0.6 : 8
+Traditional Country:                 0.6 : 8

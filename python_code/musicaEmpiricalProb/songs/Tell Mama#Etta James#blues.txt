@@ -1,0 +1,18 @@
+Early R&B:                           0.9000000000000001 : 9
+Soul-Blues:                          0.9000000000000001 : 9
+Brassy:                              0.825 : 8
+Earthy:                              0.825 : 8
+Exciting:                            0.75 : 7
+Playful_mood:                        0.75 : 7
+Gritty:                              0.6749999999999999 : 6
+Boisterous:                          0.6 : 5
+Gutsy:                               0.6 : 5
+Intimate:                            0.6 : 5
+Knotty:                              0.6 : 5
+Passionate:                          0.6 : 5
+Raucous:                             0.6 : 5
+Sensual:                             0.6 : 5
+Hanging Out:                         0.6 : 5
+Late Night:                          0.6 : 5
+Partying:                            0.6 : 5
+TGIF:                                0.6 : 5

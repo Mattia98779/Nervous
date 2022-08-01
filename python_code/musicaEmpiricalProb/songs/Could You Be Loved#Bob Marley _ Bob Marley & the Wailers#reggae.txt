@@ -1,0 +1,26 @@
+Earnest:                             0.9 : 8
+Spiritual:                           0.9 : 8
+Rousing:                             0.84 : 7
+Summery:                             0.84 : 7
+Summer:                              0.84 : 7
+Amiable/Good-Natured:                0.78 : 6
+Relaxation:                          0.78 : 6
+Political Reggae:                    0.72 : 5
+Roots Reggae:                        0.72 : 5
+Earthy:                              0.72 : 5
+Laid-Back/Mellow:                    0.72 : 5
+Lively:                              0.72 : 5
+Optimistic:                          0.72 : 5
+Outraged:                            0.72 : 5
+Provocative:                         0.72 : 5
+Soothing:                            0.72 : 5
+Hanging Out:                         0.72 : 5
+In Love:                             0.72 : 5
+Revolutionary:                       0.72 : 5
+Bittersweet:                         0.66 : 4
+Gentle:                              0.66 : 4
+Organic:                             0.66 : 4
+Poignant:                            0.66 : 4
+Freedom:                             0.66 : 4
+Reflective:                          0.6 : 3
+Sweet:                               0.6 : 3

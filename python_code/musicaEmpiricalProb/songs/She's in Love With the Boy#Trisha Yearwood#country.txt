@@ -1,0 +1,26 @@
+Country-Pop:                         0.9 : 9
+Amiable/Good-Natured:                0.9 : 9
+Bright:                              0.9 : 9
+Cheerful:                            0.9 : 9
+Confident:                           0.9 : 9
+Earnest:                             0.9 : 9
+Earthy:                              0.9 : 9
+Exuberant:                           0.9 : 9
+Fun:                                 0.9 : 9
+Gutsy:                               0.9 : 9
+Happy:                               0.9 : 9
+Innocent:                            0.9 : 9
+Lively:                              0.9 : 9
+Playful_mood:                        0.9 : 9
+Reflective:                          0.9 : 9
+Romantic:                            0.9 : 9
+Sentimental:                         0.9 : 9
+Slick:                               0.9 : 9
+Smooth:                              0.9 : 9
+Sophisticated:                       0.9 : 9
+Sweet:                               0.9 : 9
+Affection/Fondness:                  0.9 : 9
+In Love:                             0.9 : 9
+New Love:                            0.9 : 9
+Contemporary Country:                0.8250000000000001 : 8
+Wedding:                             0.6 : 5

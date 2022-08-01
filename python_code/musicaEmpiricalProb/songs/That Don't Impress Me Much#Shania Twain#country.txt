@@ -1,0 +1,25 @@
+Adult Contemporary:                  0.9 : 9
+Contemporary Country:                0.9 : 9
+Contemporary Pop/Rock:               0.9 : 9
+Country-Pop:                         0.9 : 9
+Bright:                              0.9 : 9
+Celebratory:                         0.9 : 9
+Cheerful:                            0.9 : 9
+Confident:                           0.9 : 9
+Fun:                                 0.9 : 9
+Lively:                              0.9 : 9
+Playful_mood:                        0.9 : 9
+Sexy:                                0.9 : 9
+Stylish:                             0.9 : 9
+Swaggering:                          0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Girls Night Out:                     0.9 : 9
+Late Night:                          0.9 : 9
+Night Driving:                       0.9 : 9
+Partying:                            0.9 : 9
+Sex:                                 0.9 : 9
+TGIF:                                0.9 : 9
+Humorous:                            0.75 : 7
+Rollicking:                          0.75 : 7
+Rousing:                             0.75 : 7
+In Love:                             0.6 : 5

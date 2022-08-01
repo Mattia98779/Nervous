@@ -1,0 +1,27 @@
+Acid Techno:                         0.9000000000000001 : 9
+Club/Dance:                          0.9000000000000001 : 9
+Techno:                              0.9000000000000001 : 9
+Circular:                            0.9000000000000001 : 9
+Clinical:                            0.9000000000000001 : 9
+Energetic:                           0.9000000000000001 : 9
+Intense:                             0.9000000000000001 : 9
+Urgent:                              0.9000000000000001 : 9
+Visceral:                            0.9000000000000001 : 9
+Motivation:                          0.9000000000000001 : 9
+Partying:                            0.9000000000000001 : 9
+Hypnotic:                            0.8 : 8
+Club:                                0.8 : 8
+Acid House:                          0.7 : 7
+House:                               0.7 : 7
+Aggressive:                          0.7 : 7
+Celebratory:                         0.7 : 7
+Confident:                           0.7 : 7
+Rousing:                             0.7 : 7
+Trippy:                              0.7 : 7
+Wintry:                              0.7 : 7
+Rave:                                0.6 : 6
+Boisterous:                          0.6 : 6
+Cathartic:                           0.6 : 6
+Nocturnal:                           0.6 : 6
+Smooth:                              0.6 : 6
+Stylish:                             0.6 : 6

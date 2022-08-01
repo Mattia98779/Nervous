@@ -1,0 +1,16 @@
+Nocturnal:                           0.9 : 9
+Adult Contemporary:                  0.8625 : 8
+Contemporary Pop/Rock:               0.8625 : 8
+Atmospheric:                         0.8625 : 8
+Detached:                            0.8625 : 8
+Stylish:                             0.8625 : 8
+Dramatic:                            0.825 : 7
+Introspection:                       0.825 : 7
+Late Night:                          0.825 : 7
+Night Driving:                       0.825 : 7
+Eerie:                               0.7875 : 6
+Intense:                             0.7875 : 6
+Theatrical:                          0.7875 : 6
+Album Rock:                          0.6 : 1
+Ambient Pop:                         0.6 : 1
+Soft Rock:                           0.6 : 1

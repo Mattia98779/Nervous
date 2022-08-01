@@ -1,0 +1,25 @@
+Honky Tonk:                          0.9 : 9
+Celebratory:                         0.9 : 9
+Energetic:                           0.9 : 9
+Exciting:                            0.9 : 9
+Freewheeling:                        0.9 : 9
+Fun:                                 0.9 : 9
+Humorous:                            0.9 : 9
+Playful_mood:                        0.9 : 9
+Raucous:                             0.9 : 9
+Rollicking:                          0.9 : 9
+Rousing:                             0.9 : 9
+Rowdy:                               0.9 : 9
+Swaggering:                          0.9 : 9
+Witty:                               0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Day Driving:                         0.9 : 9
+Drinking:                            0.9 : 9
+Hanging Out:                         0.9 : 9
+Late Night:                          0.9 : 9
+Partying:                            0.9 : 9
+Summer:                              0.9 : 9
+TGIF:                                0.9 : 9
+Traditional Country:                 0.8 : 8
+Reckless:                            0.8 : 8
+Rockabilly:                          0.6 : 6

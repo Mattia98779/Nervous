@@ -1,0 +1,41 @@
+Hard Bop:                            0.9 : 9
+Mainstream Jazz:                     0.9 : 9
+Rollicking:                          0.9 : 9
+Literate:                            0.8250000000000001 : 8
+Stylish:                             0.8250000000000001 : 8
+Carefree:                            0.75 : 7
+Confident:                           0.75 : 7
+Earnest:                             0.75 : 7
+Earthy:                              0.75 : 7
+Exuberant:                           0.75 : 7
+Freewheeling:                        0.75 : 7
+Fun:                                 0.75 : 7
+Happy:                               0.75 : 7
+Lively:                              0.75 : 7
+Rousing:                             0.75 : 7
+Searching:                           0.75 : 7
+Smooth:                              0.75 : 7
+Stately:                             0.75 : 7
+Street-Smart:                        0.75 : 7
+Warm:                                0.75 : 7
+Witty:                               0.75 : 7
+Playful:                             0.75 : 7
+Sports:                              0.75 : 7
+The Creative Side:                   0.75 : 7
+The Great Outdoors:                  0.75 : 7
+Victory:                             0.75 : 7
+Energetic:                           0.6749999999999999 : 6
+Playful_mood:                        0.6749999999999999 : 6
+Summer:                              0.6749999999999999 : 6
+Amiable/Good-Natured:                0.6 : 5
+Elaborate:                           0.6 : 5
+Refined:                             0.6 : 5
+Sophisticated:                       0.6 : 5
+Summery:                             0.6 : 5
+Affirmation:                         0.6 : 5
+Cool & Cocky:                        0.6 : 5
+Guys Night Out:                      0.6 : 5
+Hanging Out:                         0.6 : 5
+Homecoming:                          0.6 : 5
+Motivation:                          0.6 : 5
+Reunion:                             0.6 : 5

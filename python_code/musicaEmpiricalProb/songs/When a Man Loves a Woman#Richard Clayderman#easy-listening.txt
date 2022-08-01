@@ -1,0 +1,13 @@
+Gentle:                              0.9 : 8
+Amiable/Good-Natured:                0.7999999999999999 : 7
+Calm/Peaceful:                       0.7999999999999999 : 7
+Laid-Back/Mellow:                    0.7999999999999999 : 7
+Sentimental:                         0.7999999999999999 : 7
+Background Music:                    0.7999999999999999 : 7
+Relaxation:                          0.7999999999999999 : 7
+Romantic:                            0.7 : 6
+Soothing:                            0.7 : 6
+Dinner Ambiance:                     0.7 : 6
+Romantic Evening:                    0.7 : 6
+Intimate:                            0.6 : 5
+Reflective:                          0.6 : 5

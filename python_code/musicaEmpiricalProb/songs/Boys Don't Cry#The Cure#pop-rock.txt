@@ -1,0 +1,26 @@
+Heartache:                           0.9 : 9
+Reminiscing:                         0.9 : 9
+Alternative/Indie Rock:              0.8625 : 8
+Post-Punk:                           0.8625 : 8
+Punk/New Wave:                       0.8625 : 8
+Brash:                               0.825 : 7
+Bright:                              0.825 : 7
+Brooding:                            0.825 : 7
+Cold:                                0.825 : 7
+Cynical/Sarcastic:                   0.825 : 7
+Detached:                            0.825 : 7
+Dramatic:                            0.825 : 7
+Fractured:                           0.825 : 7
+Innocent:                            0.825 : 7
+Insular:                             0.825 : 7
+Literate:                            0.825 : 7
+Street-Smart:                        0.825 : 7
+Stylish:                             0.825 : 7
+Tense/Anxious:                       0.825 : 7
+Playful_mood:                        0.7875 : 6
+Amiable/Good-Natured:                0.75 : 5
+Giddy:                               0.75 : 5
+Ironic:                              0.75 : 5
+College Rock:                        0.675 : 3
+New Wave:                            0.675 : 3
+Jangle Pop:                          0.6 : 1

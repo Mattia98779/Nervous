@@ -1,0 +1,13 @@
+Organic:                             0.9 : 9
+Traditional Folk:                    0.8250000000000001 : 8
+Sentimental:                         0.8250000000000001 : 8
+Revolutionary:                       0.8250000000000001 : 8
+Yearning:                            0.75 : 7
+Loss/Grief:                          0.75 : 7
+Dramatic:                            0.675 : 6
+Earnest:                             0.675 : 6
+Earthy:                              0.675 : 6
+Intimate:                            0.675 : 6
+Poignant:                            0.675 : 6
+Wistful:                             0.675 : 6
+Amiable/Good-Natured:                0.6 : 5

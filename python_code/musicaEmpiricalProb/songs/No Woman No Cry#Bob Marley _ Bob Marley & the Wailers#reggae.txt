@@ -1,0 +1,23 @@
+Roots Reggae:                        0.9 : 8
+Earthy:                              0.9 : 8
+Sentimental:                         0.9 : 8
+Soothing:                            0.9 : 8
+Bittersweet:                         0.8 : 7
+Druggy:                              0.8 : 7
+Happy:                               0.8 : 7
+Laid-Back/Mellow:                    0.8 : 7
+Melancholy:                          0.8 : 7
+Reflective:                          0.8 : 7
+Romantic:                            0.8 : 7
+Rousing:                             0.8 : 7
+Yearning:                            0.8 : 7
+Empowering:                          0.8 : 7
+In Love:                             0.8 : 7
+Calm/Peaceful:                       0.7 : 6
+Stately:                             0.7 : 6
+Club/Dance:                          0.6 : 5
+Cheerful:                            0.6 : 5
+Optimistic:                          0.6 : 5
+Poignant:                            0.6 : 5
+Relaxed:                             0.6 : 5
+Motivation:                          0.6 : 5

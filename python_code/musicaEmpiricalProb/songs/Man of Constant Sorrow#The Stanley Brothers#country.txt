@@ -1,0 +1,15 @@
+Bluegrass:                           0.9 : 8
+Traditional Bluegrass:               0.9 : 8
+Earthy:                              0.9 : 8
+Plaintive:                           0.9 : 8
+Earnest:                             0.75 : 6
+Reverent:                            0.75 : 6
+Traditional Country:                 0.6749999999999999 : 5
+Amiable/Good-Natured:                0.6749999999999999 : 5
+Passionate:                          0.6749999999999999 : 5
+Wistful:                             0.6749999999999999 : 5
+Heartache:                           0.6749999999999999 : 5
+Reminiscing:                         0.6749999999999999 : 5
+Organic:                             0.6 : 4
+Reflective:                          0.6 : 4
+Rousing:                             0.6 : 4

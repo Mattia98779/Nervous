@@ -1,0 +1,10 @@
+Progressive Electronic:              0.9 : 9
+Adult Alternative:                   0.7 : 7
+Contemporary Instrumental:           0.7 : 7
+Cerebral:                            0.7 : 7
+Detached:                            0.7 : 7
+Dramatic:                            0.7 : 7
+Refined:                             0.7 : 7
+Exciting:                            0.6 : 6
+Reflection:                          0.6 : 6
+The Creative Side:                   0.6 : 6

@@ -1,0 +1,31 @@
+#Title composizione
+Title : electronic#stage-screen
+
+#Concetto Principale
+Head Concept Name : electronic
+Head Concept Count : 38
+
+#Concetto Modificatore
+Modifier Concept Name : stage-screen
+Modifier Concept Count : 18
+
+
+
+
+
+T(modifier), -Introspection, 0.9, 17
+T(modifier), -Rainy Day, 0.9, 17
+T(modifier), Soundtracks, 0.9, 13
+T(modifier), Dramatic, 0.875, 12
+T(modifier), Original Score, 0.8500000000000001, 11
+T(modifier), Theatrical, 0.825, 10
+
+T(head), -Delicate, 0.9, 37
+T(head), -Sprawling, 0.9, 37
+T(head), Hypnotic, 0.9, 27
+T(head), Electronica, 0.8538461538461538, 23
+T(head), Trippy, 0.8538461538461538, 23
+T(head), Techno, 0.8307692307692307, 21
+
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 5.59732343679712

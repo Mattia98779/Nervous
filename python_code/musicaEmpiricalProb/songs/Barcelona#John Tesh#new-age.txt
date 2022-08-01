@@ -1,0 +1,13 @@
+Contemporary Instrumental:           0.9 : 8
+Atmospheric:                         0.7999999999999999 : 7
+Complex:                             0.7999999999999999 : 7
+Dramatic:                            0.7999999999999999 : 7
+Elaborate:                           0.7999999999999999 : 7
+Exciting:                            0.7999999999999999 : 7
+Literate:                            0.7999999999999999 : 7
+Refined:                             0.7999999999999999 : 7
+Theatrical:                          0.7999999999999999 : 7
+Background Music:                    0.6 : 5
+Introspection:                       0.6 : 5
+Sports:                              0.6 : 5
+The Creative Side:                   0.6 : 5

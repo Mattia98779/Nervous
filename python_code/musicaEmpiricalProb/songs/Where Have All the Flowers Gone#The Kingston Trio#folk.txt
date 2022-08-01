@@ -1,0 +1,15 @@
+Folk Revival:                        0.9 : 8
+Folk-Pop:                            0.9 : 8
+Rousing:                             0.9 : 8
+Bittersweet:                         0.825 : 7
+Earnest:                             0.825 : 7
+Literate:                            0.825 : 7
+Melancholy:                          0.825 : 7
+Reflective:                          0.825 : 7
+Wistful:                             0.825 : 7
+Freedom:                             0.825 : 7
+Earthy:                              0.75 : 6
+Poignant:                            0.75 : 6
+Empowering:                          0.6749999999999999 : 5
+Revolutionary:                       0.6749999999999999 : 5
+Confrontational:                     0.6 : 4

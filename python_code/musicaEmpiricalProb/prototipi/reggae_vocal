@@ -1,0 +1,31 @@
+#Title composizione
+Title : reggae#vocal
+
+#Concetto Principale
+Head Concept Name : reggae
+Head Concept Count : 48
+
+#Concetto Modificatore
+Modifier Concept Name : vocal
+Modifier Concept Count : 49
+
+
+
+
+
+T(modifier), -Jazz Instrument, 0.9, 48
+T(modifier), -Guitar Jazz, 0.9, 48
+T(modifier), Traditional Pop, 0.9, 47
+T(modifier), Vocal Pop, 0.8478260869565217, 39
+T(modifier), Refined, 0.7630434782608696, 26
+T(modifier), Sentimental, 0.7630434782608696, 26
+
+T(head), -Night Driving, 0.9, 47
+T(head), -Healing/Comfort, 0.9, 47
+T(head), Summery, 0.9, 35
+T(head), Roots Reggae, 0.8735294117647059, 32
+T(head), Earnest, 0.8558823529411764, 30
+T(head), Earthy, 0.8117647058823529, 25
+
+
+Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 6.66282817474816

@@ -1,0 +1,13 @@
+DJ/Toasting:                         0.9 : 8
+Boisterous:                          0.9 : 8
+Exuberant:                           0.9 : 8
+Freewheeling:                        0.9 : 8
+Summery:                             0.9 : 8
+Summer:                              0.9 : 8
+Amiable/Good-Natured:                0.84 : 7
+Earnest:                             0.84 : 7
+Playful_mood:                        0.84 : 7
+Cathartic:                           0.78 : 6
+Confident:                           0.78 : 6
+Rousing:                             0.78 : 6
+Roots Reggae:                        0.6 : 3

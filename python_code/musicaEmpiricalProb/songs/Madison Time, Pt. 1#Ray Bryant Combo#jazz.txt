@@ -1,0 +1,18 @@
+Instrumental Rock:                   0.9 : 9
+Soul:                                0.9 : 9
+Uptown Soul:                         0.9 : 9
+Carefree:                            0.9 : 9
+Celebratory:                         0.9 : 9
+Cheerful:                            0.9 : 9
+Freewheeling:                        0.9 : 9
+Fun:                                 0.9 : 9
+Joyous:                              0.9 : 9
+Lively:                              0.9 : 9
+Playful_mood:                        0.9 : 9
+Rollicking:                          0.9 : 9
+Stylish:                             0.9 : 9
+Swaggering:                          0.9 : 9
+Hanging Out:                         0.9 : 9
+Partying:                            0.9 : 9
+TGIF:                                0.9 : 9
+Soul Jazz:                           0.6 : 8

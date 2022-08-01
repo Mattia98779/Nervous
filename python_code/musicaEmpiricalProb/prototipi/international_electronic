@@ -1,0 +1,31 @@
+#Title composizione
+Title : international#electronic
+
+#Concetto Principale
+Head Concept Name : international
+Head Concept Count : 3
+
+#Concetto Modificatore
+Modifier Concept Name : electronic
+Modifier Concept Count : 38
+
+
+
+
+
+T(modifier), -Delicate, 0.9, 37
+T(modifier), -Sprawling, 0.9, 37
+T(modifier), Hypnotic, 0.9, 27
+T(modifier), Electronica, 0.8538461538461538, 23
+T(modifier), Trippy, 0.8538461538461538, 23
+T(modifier), Techno, 0.8307692307692307, 21
+
+T(head), -Playful, 0.9, 2
+T(head), -TGIF, 0.9, 2
+T(head), Stylish, 0.9, 2
+T(head), Boisterous, 0.9, 2
+T(head), Exuberant, 0.9, 2
+T(head), Yearning, 0.9, 2
+
+
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 5.100607287449391

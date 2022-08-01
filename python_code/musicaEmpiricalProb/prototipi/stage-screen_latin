@@ -1,0 +1,31 @@
+#Title composizione
+Title : stage-screen#latin
+
+#Concetto Principale
+Head Concept Name : stage-screen
+Head Concept Count : 18
+
+#Concetto Modificatore
+Modifier Concept Name : latin
+Modifier Concept Count : 5
+
+
+
+
+
+T(modifier), -Summer, 0.9, 4
+T(modifier), -Partying, 0.9, 4
+T(modifier), Rousing, 0.9, 3
+T(modifier), Romantic, 0.9, 3
+T(modifier), Latin Pop, 0.75, 2
+T(modifier), Celebration, 0.75, 2
+
+T(head), -Introspection, 0.9, 17
+T(head), -Rainy Day, 0.9, 17
+T(head), Soundtracks, 0.9, 13
+T(head), Dramatic, 0.875, 12
+T(head), Original Score, 0.8500000000000001, 11
+T(head), Theatrical, 0.825, 10
+
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 5.265555555555556

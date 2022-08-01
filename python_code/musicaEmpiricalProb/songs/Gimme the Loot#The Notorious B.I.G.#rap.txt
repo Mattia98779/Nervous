@@ -1,0 +1,23 @@
+East Coast Rap:                      0.9 : 9
+Gangsta Rap:                         0.9 : 9
+Hardcore Rap:                        0.9 : 9
+Brash:                               0.9 : 9
+Confrontational:                     0.9 : 9
+Fiery:                               0.9 : 9
+Hedonistic:                          0.9 : 9
+Street-Smart:                        0.9 : 9
+Swaggering:                          0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Guys Night Out:                      0.9 : 9
+Hanging Out:                         0.9 : 9
+Aggressive:                          0.825 : 8
+Menacing:                            0.825 : 8
+Fierce:                              0.75 : 7
+Provocative:                         0.75 : 7
+Rebellious:                          0.75 : 7
+Confident:                           0.6749999999999999 : 6
+Poignant:                            0.6749999999999999 : 6
+Thuggish:                            0.6749999999999999 : 6
+Urgent:                              0.6749999999999999 : 6
+Uncompromising:                      0.6 : 5
+Mischievous:                         0.6 : 5

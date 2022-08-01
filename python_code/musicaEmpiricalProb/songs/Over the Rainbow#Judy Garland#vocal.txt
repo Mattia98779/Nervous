@@ -1,0 +1,28 @@
+Musicals:                            0.9 : 9
+Traditional Pop:                     0.9 : 9
+Calm/Peaceful:                       0.9 : 9
+Innocent:                            0.9 : 9
+Searching:                           0.9 : 9
+Comfort:                             0.9 : 9
+Spring:                              0.9 : 9
+Cast Recordings:                     0.7999999999999999 : 8
+Show Tunes:                          0.7999999999999999 : 8
+Springlike:                          0.7999999999999999 : 8
+Wistful:                             0.7999999999999999 : 8
+Yearning:                            0.7999999999999999 : 8
+Introspection:                       0.7999999999999999 : 8
+Delicate:                            0.7 : 7
+Ethereal:                            0.7 : 7
+Gentle:                              0.7 : 7
+Poignant:                            0.7 : 7
+Soothing:                            0.7 : 7
+Sweet:                               0.7 : 7
+Warm:                                0.7 : 7
+Reflection:                          0.7 : 7
+Standards:                           0.6 : 6
+Atmospheric:                         0.6 : 6
+Earnest:                             0.6 : 6
+Naive:                               0.6 : 6
+Precious:                            0.6 : 6
+Reflective:                          0.6 : 6
+Reserved:                            0.6 : 6

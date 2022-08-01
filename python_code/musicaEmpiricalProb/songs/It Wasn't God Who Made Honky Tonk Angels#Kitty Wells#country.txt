@@ -1,0 +1,16 @@
+Bittersweet:                         0.9 : 9
+Honky Tonk:                          0.8 : 8
+Traditional Country:                 0.8 : 8
+Earthy:                              0.8 : 8
+Plaintive:                           0.8 : 8
+Sad:                                 0.8 : 8
+Wistful:                             0.8 : 8
+Drinking:                            0.8 : 8
+Austere:                             0.7 : 7
+Intimate:                            0.7 : 7
+Self-Conscious:                      0.7 : 7
+Breakup:                             0.7 : 7
+Girls Night Out:                     0.7 : 7
+Earnest:                             0.6 : 6
+Reflective:                          0.6 : 6
+Searching:                           0.6 : 6

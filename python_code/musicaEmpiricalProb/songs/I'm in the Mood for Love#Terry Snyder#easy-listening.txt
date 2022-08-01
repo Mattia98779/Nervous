@@ -1,0 +1,18 @@
+Exotica:                             0.9 : 8
+Space Age Pop:                       0.9 : 8
+Lively:                              0.8 : 7
+Playful_mood:                        0.8 : 7
+Lounge:                              0.7 : 6
+Bright:                              0.6 : 5
+Eccentric:                           0.6 : 5
+Effervescent:                        0.6 : 5
+Quirky:                              0.6 : 5
+Slick:                               0.6 : 5
+Sophisticated:                       0.6 : 5
+Stylish:                             0.6 : 5
+Whimsical:                           0.6 : 5
+Background Music:                    0.6 : 5
+Dinner Ambiance:                     0.6 : 5
+Playful:                             0.6 : 5
+Relaxation:                          0.6 : 5
+The Creative Side:                   0.6 : 5

@@ -1,0 +1,20 @@
+Orchestral/Easy Listening:           0.9 : 9
+Soundtracks:                         0.9 : 9
+TV Music:                            0.9 : 9
+Atmospheric:                         0.9 : 9
+Bright:                              0.9 : 9
+Dreamy:                              0.9 : 9
+Light:                               0.9 : 9
+Lively:                              0.9 : 9
+Relaxed:                             0.9 : 9
+Slick:                               0.9 : 9
+Smooth:                              0.9 : 9
+Soothing:                            0.9 : 9
+Sophisticated:                       0.9 : 9
+Stylish:                             0.9 : 9
+Background Music:                    0.9 : 9
+Day Driving:                         0.9 : 9
+Night Driving:                       0.9 : 9
+Road Trip:                           0.9 : 9
+Lounge:                              0.6 : 8
+TV Soundtracks:                      0.6 : 8

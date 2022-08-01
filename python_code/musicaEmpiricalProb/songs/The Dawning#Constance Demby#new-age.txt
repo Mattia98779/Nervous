@@ -1,0 +1,27 @@
+Healing:                             0.9 : 9
+Neo-Classical:                       0.9 : 9
+Progressive Electronic:              0.9 : 9
+Space:                               0.9 : 9
+Spiritual:                           0.9 : 9
+Atmospheric:                         0.9 : 9
+Bright:                              0.9 : 9
+Calm/Peaceful:                       0.9 : 9
+Cathartic:                           0.9 : 9
+Cerebral:                            0.9 : 9
+Dramatic:                            0.9 : 9
+Dreamy:                              0.9 : 9
+Ethereal:                            0.9 : 9
+Hypnotic:                            0.9 : 9
+Relaxed:                             0.9 : 9
+Soothing:                            0.9 : 9
+Spacey:                              0.9 : 9
+Sparkling:                           0.9 : 9
+Spiritual:                           0.9 : 9
+Background Music:                    0.9 : 9
+Introspection:                       0.9 : 9
+Meditation:                          0.9 : 9
+Reflection:                          0.9 : 9
+Relaxation:                          0.9 : 9
+The Creative Side:                   0.9 : 9
+Elaborate:                           0.6 : 5
+Epic:                                0.6 : 5

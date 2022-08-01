@@ -1,0 +1,12 @@
+Chamber Jazz:                        0.9 : 8
+Atmospheric:                         0.8 : 7
+Cerebral:                            0.8 : 7
+Cold:                                0.8 : 7
+Dramatic:                            0.8 : 7
+Elegant:                             0.8 : 7
+Ethereal:                            0.8 : 7
+Hypnotic:                            0.8 : 7
+Nocturnal:                           0.8 : 7
+Crossover Jazz:                      0.6 : 5
+Progressive Electronic:              0.6 : 5
+Background Music:                    0.6 : 5

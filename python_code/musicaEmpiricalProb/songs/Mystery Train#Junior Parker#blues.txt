@@ -1,0 +1,57 @@
+Contemporary Pop/Rock:               0.9 : 9
+Early Pop/Rock:                      0.9 : 9
+Rock & Roll:                         0.9 : 9
+Rockabilly:                          0.9 : 9
+Bravado:                             0.9 : 9
+Detached:                            0.9 : 9
+Earthy:                              0.9 : 9
+Greasy:                              0.9 : 9
+Hypnotic:                            0.9 : 9
+Nocturnal:                           0.9 : 9
+Passionate:                          0.9 : 9
+Raucous:                             0.9 : 9
+Rollicking:                          0.9 : 9
+Swaggering:                          0.9 : 9
+Feeling Blue:                        0.9 : 9
+Freedom:                             0.9 : 9
+Hanging Out:                         0.9 : 9
+Night Driving:                       0.9 : 9
+Road Trip:                           0.9 : 9
+Summer:                              0.9 : 9
+Electric Memphis Blues:              0.8500000000000001 : 8
+Regional Blues:                      0.8500000000000001 : 8
+Gloomy:                              0.8500000000000001 : 8
+Restrained:                          0.8500000000000001 : 8
+Tense/Anxious:                       0.8500000000000001 : 8
+Yearning:                            0.8500000000000001 : 8
+Solitude:                            0.8500000000000001 : 8
+Anguished/Distraught:                0.8 : 7
+Brittle:                             0.8 : 7
+Cold:                                0.8 : 7
+Confrontational:                     0.8 : 7
+Insular:                             0.8 : 7
+Lazy:                                0.8 : 7
+Self-Conscious:                      0.8 : 7
+Urgent:                              0.8 : 7
+Cool & Cocky:                        0.8 : 7
+Late Night:                          0.8 : 7
+Long Walk:                           0.8 : 7
+Reflection:                          0.8 : 7
+Early R&B:                           0.75 : 6
+Atmospheric:                         0.75 : 6
+Dreamy:                              0.75 : 6
+Gritty:                              0.75 : 6
+Lively:                              0.75 : 6
+Melancholy:                          0.75 : 6
+Rousing:                             0.75 : 6
+Searching:                           0.75 : 6
+Street-Smart:                        0.75 : 6
+Summery:                             0.75 : 6
+Introspection:                       0.75 : 6
+Boisterous:                          0.7 : 5
+Clinical:                            0.7 : 5
+Rebellious:                          0.7 : 5
+Earnest:                             0.65 : 4
+Plaintive:                           0.65 : 4
+Amiable/Good-Natured:                0.6 : 3
+Exuberant:                           0.6 : 3

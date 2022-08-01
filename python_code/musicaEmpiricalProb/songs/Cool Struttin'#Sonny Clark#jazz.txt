@@ -1,0 +1,38 @@
+Cool:                                0.9 : 9
+Mainstream Jazz:                     0.9 : 9
+Amiable/Good-Natured:                0.75 : 7
+Confident:                           0.75 : 7
+Laid-Back/Mellow:                    0.75 : 7
+Literate:                            0.75 : 7
+Playful_mood:                        0.75 : 7
+Refined:                             0.75 : 7
+Relaxed:                             0.75 : 7
+Stately:                             0.75 : 7
+Street-Smart:                        0.75 : 7
+Warm:                                0.75 : 7
+Cool & Cocky:                        0.75 : 7
+Playful:                             0.75 : 7
+Relaxation:                          0.75 : 7
+The Great Outdoors:                  0.75 : 7
+Carefree:                            0.675 : 6
+Cheerful:                            0.675 : 6
+Earnest:                             0.675 : 6
+Earthy:                              0.675 : 6
+Elaborate:                           0.675 : 6
+Elegant:                             0.675 : 6
+Exuberant:                           0.675 : 6
+Freewheeling:                        0.675 : 6
+Precious:                            0.675 : 6
+Reflective:                          0.675 : 6
+Sophisticated:                       0.675 : 6
+Stylish:                             0.675 : 6
+Whimsical:                           0.675 : 6
+Witty:                               0.675 : 6
+Freedom:                             0.675 : 6
+Hanging Out:                         0.675 : 6
+Affirmation:                         0.6 : 5
+Empowering:                          0.6 : 5
+Guys Night Out:                      0.6 : 5
+Sports:                              0.6 : 5
+The Creative Side:                   0.6 : 5
+Victory:                             0.6 : 5

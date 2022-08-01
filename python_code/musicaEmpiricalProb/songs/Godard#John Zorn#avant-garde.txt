@@ -1,0 +1,16 @@
+Enigmatic:                           0.9 : 9
+Avant-Garde Jazz:                    0.75 : 8
+Modern Composition:                  0.75 : 8
+Cerebral:                            0.75 : 8
+Elaborate:                           0.75 : 8
+Freewheeling:                        0.75 : 8
+Intense:                             0.75 : 8
+Manic:                               0.75 : 8
+Provocative:                         0.75 : 8
+Quirky:                              0.75 : 8
+Theatrical:                          0.75 : 8
+Uncompromising:                      0.75 : 8
+Volatile:                            0.75 : 8
+Revolutionary:                       0.75 : 8
+The Creative Side:                   0.75 : 8
+Structured Improvisation:            0.6 : 7

@@ -1,0 +1,47 @@
+Contemporary Pop/Rock:               0.9 : 9
+Soul:                                0.9 : 9
+Sunshine Pop:                        0.9 : 9
+Celebratory:                         0.8625 : 8
+Confident:                           0.8625 : 8
+Earthy:                              0.8625 : 8
+Fiery:                               0.8625 : 8
+Rousing:                             0.8625 : 8
+Affirmation:                         0.8625 : 8
+Empowering:                          0.8625 : 8
+Girls Night Out:                     0.8625 : 8
+Motivation:                          0.8625 : 8
+Summer:                              0.8625 : 8
+Pop-Soul:                            0.825 : 7
+Earnest:                             0.825 : 7
+Gentle:                              0.825 : 7
+Happy:                               0.825 : 7
+Innocent:                            0.825 : 7
+Sentimental:                         0.825 : 7
+Sweet:                               0.825 : 7
+Uplifting:                           0.825 : 7
+Cool & Cocky:                        0.825 : 7
+Freedom:                             0.825 : 7
+Partying:                            0.825 : 7
+Bubblegum:                           0.7875 : 6
+Carefree:                            0.7875 : 6
+Exuberant:                           0.7875 : 6
+Melancholy:                          0.7875 : 6
+Sexy:                                0.7875 : 6
+Warm:                                0.7875 : 6
+Wistful:                             0.7875 : 6
+Hanging Out:                         0.7875 : 6
+Amiable/Good-Natured:                0.75 : 5
+Brash:                               0.75 : 5
+Bravado:                             0.75 : 5
+Energetic:                           0.75 : 5
+Exciting:                            0.75 : 5
+Poignant:                            0.75 : 5
+Reflective:                          0.75 : 5
+In Love:                             0.75 : 5
+Sex:                                 0.75 : 5
+TGIF:                                0.75 : 5
+Gritty:                              0.7125 : 4
+Passionate:                          0.7125 : 4
+Swaggering:                          0.7125 : 4
+Exercise/Workout:                    0.7125 : 4
+Early Pop/Rock:                      0.6 : 1

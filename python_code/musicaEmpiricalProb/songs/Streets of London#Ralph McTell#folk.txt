@@ -1,0 +1,28 @@
+Poignant:                            0.8999999999999999 : 9
+British Folk:                        0.85 : 8
+British Folk-Rock:                   0.85 : 8
+Singer/Songwriter:                   0.85 : 8
+Earthy:                              0.85 : 8
+Passionate:                          0.8 : 7
+Bittersweet:                         0.75 : 6
+Intimate:                            0.75 : 6
+Organic:                             0.75 : 6
+Reflective:                          0.75 : 6
+Autumn:                              0.75 : 6
+Amiable/Good-Natured:                0.7 : 5
+Earnest:                             0.7 : 5
+Melancholy:                          0.7 : 5
+Plaintive:                           0.7 : 5
+Sentimental:                         0.7 : 5
+Whimsical:                           0.7 : 5
+Wistful:                             0.7 : 5
+Yearning:                            0.7 : 5
+Introspection:                       0.7 : 5
+Long Walk:                           0.7 : 5
+Rainy Day:                           0.7 : 5
+Reminiscing:                         0.7 : 5
+Sunday Afternoon:                    0.7 : 5
+Autumnal:                            0.65 : 4
+Gentle:                              0.65 : 4
+Searching:                           0.65 : 4
+Literate:                            0.6 : 3

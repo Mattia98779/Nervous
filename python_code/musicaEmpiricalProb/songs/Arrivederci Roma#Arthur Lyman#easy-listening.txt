@@ -1,0 +1,16 @@
+Exotica:                             0.9 : 8
+Lounge:                              0.9 : 8
+Amiable/Good-Natured:                0.8 : 7
+Cheerful:                            0.8 : 7
+Exuberant:                           0.8 : 7
+Lush:                                0.8 : 7
+Organic:                             0.8 : 7
+Playful_mood:                        0.8 : 7
+Soothing:                            0.8 : 7
+Summery:                             0.8 : 7
+Warm:                                0.8 : 7
+At the Beach:                        0.6 : 5
+Dinner Ambiance:                     0.6 : 5
+Pool Party:                          0.6 : 5
+Summer:                              0.6 : 5
+Vacation:                            0.6 : 5

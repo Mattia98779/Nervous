@@ -1,0 +1,17 @@
+Ambient:                             0.9 : 8
+Progressive Electronic:              0.9 : 8
+Reflective:                          0.8 : 7
+Solitude:                            0.8 : 7
+Dramatic:                            0.7000000000000001 : 6
+Dreamy:                              0.7000000000000001 : 6
+Ethereal:                            0.7000000000000001 : 6
+Hypnotic:                            0.7000000000000001 : 6
+Lush:                                0.7000000000000001 : 6
+Refined:                             0.7000000000000001 : 6
+Soothing:                            0.7000000000000001 : 6
+Spiritual:                           0.7000000000000001 : 6
+Stylish:                             0.7000000000000001 : 6
+Introspection:                       0.7000000000000001 : 6
+Meditation:                          0.7000000000000001 : 6
+Atmospheric:                         0.6 : 5
+Relaxation:                          0.6 : 5

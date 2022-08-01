@@ -1,0 +1,31 @@
+Rave:                                0.9 : 9
+Techno:                              0.9 : 9
+Fiery:                               0.9 : 9
+Harsh:                               0.9 : 9
+Tense/Anxious:                       0.9 : 9
+Club:                                0.9 : 9
+Mischievous:                         0.9 : 9
+Partying:                            0.9 : 9
+Playful:                             0.9 : 9
+Club/Dance:                          0.825 : 8
+Funky Breaks:                        0.825 : 8
+Aggressive:                          0.825 : 8
+Dramatic:                            0.825 : 8
+Fierce:                              0.825 : 8
+Swaggering:                          0.825 : 8
+Urgent:                              0.825 : 8
+Cool & Cocky:                        0.825 : 8
+Malevolent:                          0.75 : 7
+Reckless:                            0.75 : 7
+Guys Night Out:                      0.75 : 7
+Brash:                               0.6749999999999999 : 6
+Energetic:                           0.6749999999999999 : 6
+Exciting:                            0.6749999999999999 : 6
+Hostile:                             0.6749999999999999 : 6
+Intense:                             0.6749999999999999 : 6
+Menacing:                            0.6749999999999999 : 6
+Raucous:                             0.6749999999999999 : 6
+Rebellious:                          0.6749999999999999 : 6
+Rowdy:                               0.6749999999999999 : 6
+Volatile:                            0.6749999999999999 : 6
+Paranoid:                            0.6 : 5

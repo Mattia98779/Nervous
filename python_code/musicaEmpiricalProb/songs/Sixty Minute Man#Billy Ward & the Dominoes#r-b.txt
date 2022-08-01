@@ -1,0 +1,23 @@
+Early R&B:                           0.9 : 9
+Amiable/Good-Natured:                0.9 : 9
+Swaggering:                          0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Late Night:                          0.9 : 9
+Partying:                            0.9 : 9
+Reminiscing:                         0.9 : 9
+Boisterous:                          0.84 : 8
+Celebratory:                         0.84 : 8
+Exuberant:                           0.84 : 8
+Street-Smart:                        0.84 : 8
+Doo Wop:                             0.78 : 7
+Bravado:                             0.78 : 7
+Greasy:                              0.78 : 7
+Sexy:                                0.78 : 7
+Confident:                           0.72 : 6
+Fun:                                 0.72 : 6
+Playful_mood:                        0.72 : 6
+Earthy:                              0.6599999999999999 : 5
+Gritty:                              0.6599999999999999 : 5
+Joyous:                              0.6599999999999999 : 5
+Passionate:                          0.6599999999999999 : 5
+Lazy:                                0.6 : 4

@@ -1,0 +1,23 @@
+Gritty:                              0.9 : 9
+Swaggering:                          0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Hanging Out:                         0.9 : 9
+Late Night:                          0.9 : 9
+Reunion:                             0.9 : 9
+Electric Texas Blues:                0.825 : 8
+Regional Blues:                      0.825 : 8
+Soul-Blues:                          0.825 : 8
+Texas Blues:                         0.825 : 8
+West Coast Blues:                    0.825 : 8
+Bravado:                             0.825 : 8
+Earthy:                              0.825 : 8
+Bright:                              0.75 : 7
+Greasy:                              0.75 : 7
+Lazy:                                0.75 : 7
+Urgent:                              0.75 : 7
+Confident:                           0.6749999999999999 : 6
+Earnest:                             0.6749999999999999 : 6
+Sentimental:                         0.6749999999999999 : 6
+Yearning:                            0.6749999999999999 : 6
+Confrontational:                     0.6 : 5
+Street-Smart:                        0.6 : 5

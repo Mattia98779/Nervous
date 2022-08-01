@@ -1,0 +1,40 @@
+Country-Pop:                         0.9 : 9
+Honky Tonk:                          0.9 : 9
+Nashville Sound/Countrypolitan:      0.9 : 9
+Traditional Country:                 0.9 : 9
+Autumnal:                            0.9 : 9
+Bittersweet:                         0.9 : 9
+Dramatic:                            0.9 : 9
+Lush:                                0.9 : 9
+Melancholy:                          0.9 : 9
+Nocturnal:                           0.9 : 9
+Plaintive:                           0.9 : 9
+Poignant:                            0.9 : 9
+Reflective:                          0.9 : 9
+Sad:                                 0.9 : 9
+Sentimental:                         0.9 : 9
+Smooth:                              0.9 : 9
+Soothing:                            0.9 : 9
+Sophisticated:                       0.9 : 9
+Theatrical:                          0.9 : 9
+Wistful:                             0.9 : 9
+Yearning:                            0.9 : 9
+Breakup:                             0.9 : 9
+Comfort:                             0.9 : 9
+D-I-V-O-R-C-E:                       0.9 : 9
+Drinking:                            0.9 : 9
+Feeling Blue:                        0.9 : 9
+Hanging Out:                         0.9 : 9
+Heartache:                           0.9 : 9
+Late Night:                          0.9 : 9
+Partying:                            0.9 : 9
+Reflection:                          0.9 : 9
+Regret:                              0.9 : 9
+Earthy:                              0.6 : 5
+Intimate:                            0.6 : 5
+Romantic:                            0.6 : 5
+Somber:                              0.6 : 5
+Stylish:                             0.6 : 5
+Weary:                               0.6 : 5
+Wry:                                 0.6 : 5
+TGIF:                                0.6 : 5

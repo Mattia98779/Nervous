@@ -1,0 +1,41 @@
+Hard Bop:                            0.9 : 9
+Post-Bop:                            0.9 : 9
+Progressive Big Band:                0.9 : 9
+Progressive Jazz:                    0.9 : 9
+Boisterous:                          0.9 : 9
+Lively:                              0.9 : 9
+Rambunctious:                        0.9 : 9
+Rebellious:                          0.9 : 9
+Rowdy:                               0.9 : 9
+Volatile:                            0.9 : 9
+Celebration:                         0.9 : 9
+Freedom:                             0.9 : 9
+Maverick:                            0.9 : 9
+The Creative Side:                   0.9 : 9
+Victory:                             0.9 : 9
+Aggressive:                          0.8250000000000001 : 8
+Bright:                              0.8250000000000001 : 8
+Earnest:                             0.8250000000000001 : 8
+Fiery:                               0.8250000000000001 : 8
+Gutsy:                               0.8250000000000001 : 8
+Passionate:                          0.8250000000000001 : 8
+Urgent:                              0.8250000000000001 : 8
+Gritty:                              0.75 : 7
+Street-Smart:                        0.75 : 7
+Swaggering:                          0.75 : 7
+Earthy:                              0.6749999999999999 : 6
+Greasy:                              0.6749999999999999 : 6
+Rollicking:                          0.6749999999999999 : 6
+Affirmation:                         0.6749999999999999 : 6
+Revolutionary:                       0.6749999999999999 : 6
+Celebratory:                         0.6 : 5
+Energetic:                           0.6 : 5
+Enigmatic:                           0.6 : 5
+Exuberant:                           0.6 : 5
+Freewheeling:                        0.6 : 5
+Joyous:                              0.6 : 5
+Raucous:                             0.6 : 5
+Rousing:                             0.6 : 5
+Spicy:                               0.6 : 5
+Spiritual:                           0.6 : 5
+Visceral:                            0.6 : 5

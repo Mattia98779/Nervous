@@ -1,0 +1,11 @@
+Bittersweet:                         0.9 : 9
+Poignant:                            0.9 : 9
+Contemporary Folk:                   0.75 : 8
+Folk Revival:                        0.75 : 8
+Singer/Songwriter:                   0.75 : 8
+Reflective:                          0.75 : 8
+Wistful:                             0.75 : 8
+Literate:                            0.6 : 7
+Melancholy:                          0.6 : 7
+Feeling Blue:                        0.6 : 7
+Loss/Grief:                          0.6 : 7

@@ -1,0 +1,19 @@
+Children's Folk:                     0.9 : 8
+Amiable/Good-Natured:                0.8 : 7
+Carefree:                            0.8 : 7
+Cheerful:                            0.8 : 7
+Earnest:                             0.8 : 7
+Energetic:                           0.8 : 7
+Fun:                                 0.8 : 7
+Playful_mood:                        0.8 : 7
+Rollicking:                          0.8 : 7
+Sweet:                               0.8 : 7
+Whimsical:                           0.8 : 7
+Exuberant:                           0.7 : 6
+Gentle:                              0.7 : 6
+Laid-Back/Mellow:                    0.7 : 6
+Sing-Alongs:                         0.6 : 5
+Lively:                              0.6 : 5
+Family Gatherings:                   0.6 : 5
+Hanging Out:                         0.6 : 5
+Playful:                             0.6 : 5

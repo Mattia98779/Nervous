@@ -1,0 +1,29 @@
+Contemporary Instrumental:           0.9 : 9
+Relaxation:                          0.9 : 9
+Smooth Jazz:                         0.9 : 9
+Atmospheric:                         0.9 : 9
+Bright:                              0.9 : 9
+Calm/Peaceful:                       0.9 : 9
+Delicate:                            0.9 : 9
+Dreamy:                              0.9 : 9
+Gentle:                              0.9 : 9
+Hypnotic:                            0.9 : 9
+Laid-Back/Mellow:                    0.9 : 9
+Light:                               0.9 : 9
+Refined:                             0.9 : 9
+Relaxed:                             0.9 : 9
+Reserved:                            0.9 : 9
+Romantic:                            0.9 : 9
+Slick:                               0.9 : 9
+Smooth:                              0.9 : 9
+Soft/Quiet:                          0.9 : 9
+Soothing:                            0.9 : 9
+Sophisticated:                       0.9 : 9
+Sparkling:                           0.9 : 9
+Background Music:                    0.9 : 9
+Dinner Ambiance:                     0.9 : 9
+Introspection:                       0.9 : 9
+Meditation:                          0.9 : 9
+Reflection:                          0.9 : 9
+Relaxation:                          0.9 : 9
+Romantic Evening:                    0.6 : 5

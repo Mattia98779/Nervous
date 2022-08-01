@@ -1,0 +1,14 @@
+Reggae-Pop:                          0.9 : 8
+Happy:                               0.9 : 8
+Summery:                             0.9 : 8
+Sweet:                               0.9 : 8
+Amiable/Good-Natured:                0.825 : 7
+Cheerful:                            0.825 : 7
+Confident:                           0.825 : 7
+Empowering:                          0.825 : 7
+Joyous:                              0.75 : 6
+Poignant:                            0.75 : 6
+Soul:                                0.675 : 5
+In Love:                             0.675 : 5
+Motivation:                          0.675 : 5
+Innocent:                            0.6 : 4

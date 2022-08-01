@@ -1,0 +1,22 @@
+Calm/Peaceful:                       0.9 : 9
+Delicate:                            0.9 : 9
+Pastoral:                            0.9 : 9
+Soft/Quiet:                          0.9 : 9
+Warm:                                0.9 : 9
+Relaxation:                          0.9 : 9
+Soothing:                            0.825 : 8
+Sweet:                               0.825 : 8
+Vacation:                            0.825 : 8
+American Popular Song:               0.75 : 7
+Vocal Pop:                           0.75 : 7
+Ethereal:                            0.75 : 7
+Reflective:                          0.75 : 7
+Sentimental:                         0.75 : 7
+Smooth:                              0.75 : 7
+Summery:                             0.75 : 7
+Reflection:                          0.75 : 7
+Gentle:                              0.6749999999999999 : 6
+Refined:                             0.6749999999999999 : 6
+Hawaiian Pop:                        0.6 : 5
+Oceanic Traditions:                  0.6 : 5
+Intimate:                            0.6 : 5

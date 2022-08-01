@@ -1,0 +1,11 @@
+Chicago Blues:                       0.9 : 8
+Electric Blues:                      0.9 : 8
+Electric Chicago Blues:              0.9 : 8
+Electric Memphis Blues:              0.9 : 8
+Regional Blues:                      0.9 : 8
+Fiery:                               0.9 : 8
+Intense:                             0.9 : 8
+Cathartic:                           0.825 : 7
+Confrontational:                     0.75 : 6
+Manic:                               0.6749999999999999 : 5
+Raucous:                             0.6 : 4

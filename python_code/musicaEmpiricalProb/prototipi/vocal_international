@@ -1,0 +1,31 @@
+#Title composizione
+Title : vocal#international
+
+#Concetto Principale
+Head Concept Name : vocal
+Head Concept Count : 49
+
+#Concetto Modificatore
+Modifier Concept Name : international
+Modifier Concept Count : 3
+
+
+
+
+
+T(modifier), -Playful, 0.9, 2
+T(modifier), -TGIF, 0.9, 2
+T(modifier), Stylish, 0.9, 2
+T(modifier), Boisterous, 0.9, 2
+T(modifier), Exuberant, 0.9, 2
+T(modifier), Yearning, 0.9, 2
+
+T(head), -Jazz Instrument, 0.9, 48
+T(head), -Guitar Jazz, 0.9, 48
+T(head), Traditional Pop, 0.9, 47
+T(head), Vocal Pop, 0.8478260869565217, 39
+T(head), Refined, 0.7630434782608696, 26
+T(head), Sentimental, 0.7630434782608696, 26
+
+
+Result : '1', '0', '1', '0', '0', '0', '1', '1', '1', '1', '0', '0', 5.331026323572907

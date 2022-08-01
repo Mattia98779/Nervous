@@ -1,0 +1,43 @@
+Glam Rock:                           0.9 : 9
+Hard Rock:                           0.9 : 9
+Aggressive:                          0.9 : 9
+Angry:                               0.9 : 9
+Angst-Ridden:                        0.9 : 9
+Boisterous:                          0.9 : 9
+Brash:                               0.9 : 9
+Bravado:                             0.9 : 9
+Confident:                           0.9 : 9
+Confrontational:                     0.9 : 9
+Gritty:                              0.9 : 9
+Gutsy:                               0.9 : 9
+Hostile:                             0.9 : 9
+Irreverent:                          0.9 : 9
+Raucous:                             0.9 : 9
+Rebellious:                          0.9 : 9
+Rousing:                             0.9 : 9
+Rowdy:                               0.9 : 9
+Self-Conscious:                      0.9 : 9
+Sentimental:                         0.9 : 9
+Street-Smart:                        0.9 : 9
+Swaggering:                          0.9 : 9
+Urgent:                              0.9 : 9
+Visceral:                            0.9 : 9
+Volatile:                            0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Drinking:                            0.9 : 9
+Feeling Blue:                        0.9 : 9
+Guys Night Out:                      0.9 : 9
+Introspection:                       0.9 : 9
+Maverick:                            0.9 : 9
+Mischievous:                         0.9 : 9
+Partying:                            0.9 : 9
+Reflection:                          0.9 : 9
+TGIF:                                0.9 : 9
+Victory:                             0.9 : 9
+Album Rock:                          0.8625 : 8
+Arena Rock:                          0.8625 : 8
+Heavy Metal:                         0.8625 : 8
+Provocative:                         0.8625 : 8
+Theatrical:                          0.8625 : 8
+Motivation:                          0.75 : 5
+Detroit Rock:                        0.6 : 1

@@ -1,0 +1,13 @@
+Hard Bop:                            0.9 : 8
+Complex:                             0.9 : 8
+Organic:                             0.9 : 8
+Passionate:                          0.9 : 8
+Searching:                           0.9 : 8
+Sophisticated:                       0.9 : 8
+Spiritual:                           0.9 : 8
+Urgent:                              0.9 : 8
+Visceral:                            0.9 : 8
+Confident:                           0.6 : 5
+Dramatic:                            0.6 : 5
+Fiery:                               0.6 : 5
+Freewheeling:                        0.6 : 5

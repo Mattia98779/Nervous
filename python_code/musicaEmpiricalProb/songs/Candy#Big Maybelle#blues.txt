@@ -1,0 +1,20 @@
+East Coast Blues:                    0.9 : 9
+Regional Blues:                      0.9 : 9
+Confident:                           0.9 : 9
+Organic:                             0.9 : 9
+Sensual:                             0.9 : 9
+Street-Smart:                        0.9 : 9
+Late Night:                          0.9 : 9
+Reminiscing:                         0.9 : 9
+Romantic Evening:                    0.9 : 9
+Dramatic:                            0.8 : 8
+Gutsy:                               0.8 : 8
+Passionate:                          0.8 : 8
+Early R&B:                           0.7 : 7
+Earnest:                             0.7 : 7
+Gritty:                              0.7 : 7
+Reflective:                          0.7 : 7
+Warm:                                0.7 : 7
+New York Blues:                      0.6 : 6
+Earthy:                              0.6 : 6
+Reserved:                            0.6 : 6

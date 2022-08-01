@@ -1,0 +1,25 @@
+Early R&B:                           0.9 : 9
+Brash:                               0.9 : 9
+Celebratory:                         0.9 : 9
+Energetic:                           0.9 : 9
+Exciting:                            0.9 : 9
+Passionate:                          0.9 : 9
+Playful_mood:                        0.9 : 9
+Raucous:                             0.9 : 9
+Rebellious:                          0.9 : 9
+Rousing:                             0.9 : 9
+Rowdy:                               0.9 : 9
+Swaggering:                          0.9 : 9
+Partying:                            0.9 : 9
+Freewheeling:                        0.8625 : 8
+Joyous:                              0.8625 : 8
+Manic:                               0.8625 : 8
+Reckless:                            0.8625 : 8
+Theatrical:                          0.8625 : 8
+Urgent:                              0.7875 : 6
+Confident:                           0.75 : 5
+Outrageous:                          0.75 : 5
+Summer:                              0.75 : 5
+TGIF:                                0.75 : 5
+Rock & Roll:                         0.6 : 1
+Sexual:                              0.6 : 1

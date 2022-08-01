@@ -1,0 +1,21 @@
+Eerie:                               0.9 : 9
+Delta Blues:                         0.8400000000000001 : 8
+Pre-War Blues:                       0.8400000000000001 : 8
+Regional Blues:                      0.8400000000000001 : 8
+Slide Guitar Blues:                  0.8400000000000001 : 8
+Intense:                             0.8400000000000001 : 8
+Feeling Blue:                        0.8400000000000001 : 8
+Late Night:                          0.8400000000000001 : 8
+Country Blues:                       0.78 : 7
+Bleak:                               0.78 : 7
+Ominous:                             0.78 : 7
+Pre-War Country Blues:               0.72 : 6
+Plaintive:                           0.72 : 6
+Visceral:                            0.72 : 6
+Reminiscing:                         0.72 : 6
+Gloomy:                              0.66 : 5
+Gritty:                              0.66 : 5
+Tense/Anxious:                       0.66 : 5
+Earthy:                              0.6 : 4
+Searching:                           0.6 : 4
+Somber:                              0.6 : 4

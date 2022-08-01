@@ -1,0 +1,223 @@
+#Numero di canzoni: 49
+
+Traditional Country:                 0.9, 33
+Earthy:                              0.890625, 32
+Earnest:                             0.8625, 29
+Reflective:                          0.84375, 27
+Plaintive:                           0.815625, 24
+Amiable/Good-Natured:                0.80625, 23
+Sentimental:                         0.7781250000000001, 20
+Organic:                             0.76875, 19
+Yearning:                            0.759375, 18
+Feeling Blue:                        0.759375, 18
+Wistful:                             0.75, 17
+Smooth:                              0.7406250000000001, 16
+Melancholy:                          0.73125, 15
+Intimate:                            0.73125, 15
+Late Night:                          0.73125, 15
+Lively:                              0.73125, 15
+Rousing:                             0.73125, 15
+Passionate:                          0.721875, 14
+Honky Tonk:                          0.721875, 14
+Contemporary Country:                0.721875, 14
+Rollicking:                          0.721875, 14
+Drinking:                            0.721875, 14
+Playful_mood:                        0.721875, 14
+Poignant:                            0.7125, 13
+Heartache:                           0.7125, 13
+Introspection:                       0.7125, 13
+Country-Pop:                         0.7125, 13
+Freewheeling:                        0.7125, 13
+Fun:                                 0.7125, 13
+Reflection:                          0.703125, 12
+Rustic:                              0.703125, 12
+Road Trip:                           0.703125, 12
+Swaggering:                          0.703125, 12
+Nashville Sound/Countrypolitan:      0.69375, 11
+Day Driving:                         0.69375, 11
+Breakup:                             0.684375, 10
+In Love:                             0.684375, 10
+Confident:                           0.684375, 10
+Warm:                                0.684375, 10
+Hanging Out:                         0.684375, 10
+Refined:                             0.684375, 10
+Gentle:                              0.675, 9
+Bittersweet:                         0.675, 9
+Searching:                           0.675, 9
+Comfort:                             0.675, 9
+Guys Night Out:                      0.675, 9
+Cool & Cocky:                        0.675, 9
+The Great Outdoors:                  0.675, 9
+New Traditionalist:                  0.675, 9
+Carefree:                            0.675, 9
+Cheerful:                            0.675, 9
+Romantic:                            0.675, 9
+Dramatic:                            0.665625, 8
+Autumnal:                            0.665625, 8
+Sad:                                 0.665625, 8
+Freedom:                             0.665625, 8
+Sweet:                               0.665625, 8
+Light:                               0.665625, 8
+TGIF:                                0.665625, 8
+Atmospheric:                         0.65625, 7
+Laid-Back/Mellow:                    0.65625, 7
+Exuberant:                           0.65625, 7
+Gutsy:                               0.65625, 7
+Bright:                              0.65625, 7
+Bluegrass:                           0.65625, 7
+Sunday Afternoon:                    0.65625, 7
+Lush:                                0.646875, 6
+Weary:                               0.646875, 6
+Loss/Grief:                          0.646875, 6
+Regret:                              0.646875, 6
+Early Morning:                       0.646875, 6
+Relaxed:                             0.646875, 6
+Rowdy:                               0.646875, 6
+Night Driving:                       0.646875, 6
+Partying:                            0.646875, 6
+Sophisticated:                       0.646875, 6
+Soothing:                            0.6375, 5
+Innocent:                            0.6375, 5
+Reminiscing:                         0.6375, 5
+Progressive Country:                 0.6375, 5
+Self-Conscious:                      0.6375, 5
+Celebratory:                         0.6375, 5
+Picnic:                              0.6375, 5
+Slick:                               0.6375, 5
+Cowboy:                              0.6375, 5
+Nocturnal:                           0.6281249999999999, 4
+Long Walk:                           0.6281249999999999, 4
+Empowering:                          0.6281249999999999, 4
+Outlaw Country:                      0.6281249999999999, 4
+Rebellious:                          0.6281249999999999, 4
+Brash:                               0.6281249999999999, 4
+Energetic:                           0.6281249999999999, 4
+Raucous:                             0.6281249999999999, 4
+Somber:                              0.6281249999999999, 4
+Happy:                               0.6281249999999999, 4
+Boisterous:                          0.6281249999999999, 4
+Whimsical:                           0.6281249999999999, 4
+Nostalgic:                           0.6281249999999999, 4
+Bravado:                             0.6281249999999999, 4
+Stylish:                             0.6281249999999999, 4
+Affection/Fondness:                  0.6281249999999999, 4
+D-I-V-O-R-C-E:                       0.6281249999999999, 4
+Relaxation:                          0.6281249999999999, 4
+Joyous:                              0.6281249999999999, 4
+Traditional Bluegrass:               0.6281249999999999, 4
+Romantic Evening:                    0.6281249999999999, 4
+Cathartic:                           0.61875, 3
+Soft/Quiet:                          0.61875, 3
+Restrained:                          0.61875, 3
+Autumn:                              0.61875, 3
+Anguished/Distraught:                0.61875, 3
+Circular:                            0.61875, 3
+Affirmation:                         0.61875, 3
+Confrontational:                     0.61875, 3
+Cynical/Sarcastic:                   0.61875, 3
+Fiery:                               0.61875, 3
+Rambunctious:                        0.61875, 3
+Summer:                              0.61875, 3
+Reckless:                            0.61875, 3
+Neo-Traditionalist Country:          0.61875, 3
+Humorous:                            0.61875, 3
+Country-Folk:                        0.61875, 3
+Sweet Dreams:                        0.61875, 3
+Witty:                               0.61875, 3
+Old-Timey:                           0.61875, 3
+Bakersfield Sound:                   0.61875, 3
+Delicate:                            0.609375, 2
+Sensual:                             0.609375, 2
+Eerie:                               0.609375, 2
+Calm/Peaceful:                       0.609375, 2
+Reserved:                            0.609375, 2
+Jealousy:                            0.609375, 2
+Gloomy:                              0.609375, 2
+Rockabilly:                          0.609375, 2
+Country Boogie:                      0.609375, 2
+Bitter:                              0.609375, 2
+Brooding:                            0.609375, 2
+Irreverent:                          0.609375, 2
+Street-Smart:                        0.609375, 2
+Wry:                                 0.609375, 2
+Summery:                             0.609375, 2
+Playful:                             0.609375, 2
+Theatrical:                          0.609375, 2
+Singer/Songwriter:                   0.609375, 2
+Adult Contemporary:                  0.609375, 2
+Girls Night Out:                     0.609375, 2
+Central European Traditions:         0.609375, 2
+German:                              0.609375, 2
+Reverent:                            0.609375, 2
+Close Harmony:                       0.609375, 2
+Pastoral:                            0.609375, 2
+Spiritual:                           0.609375, 2
+Austere:                             0.609375, 2
+Exciting:                            0.609375, 2
+Vacation:                            0.609375, 2
+Angst-Ridden:                        0.6, 1
+Hypnotic:                            0.6, 1
+Ethereal:                            0.6, 1
+Tense/Anxious:                       0.6, 1
+Bleak:                               0.6, 1
+Rock & Roll:                         0.6, 1
+Acerbic:                             0.6, 1
+Gritty:                              0.6, 1
+Ramshackle:                          0.6, 1
+Aggressive:                          0.6, 1
+Cold:                                0.6, 1
+Insular:                             0.6, 1
+Menacing:                            0.6, 1
+Provocative:                         0.6, 1
+Sparse:                              0.6, 1
+Detached:                            0.6, 1
+Knotty:                              0.6, 1
+Visceral:                            0.6, 1
+Wintry:                              0.6, 1
+Ominous:                             0.6, 1
+Soft Rock:                           0.6, 1
+Urban Cowboy:                        0.6, 1
+At the Office:                       0.6, 1
+Celebration:                         0.6, 1
+Snide:                               0.6, 1
+Enigmatic:                           0.6, 1
+Tender:                              0.6, 1
+New Love:                            0.6, 1
+Wedding:                             0.6, 1
+Contemporary Pop/Rock:               0.6, 1
+Sexy:                                0.6, 1
+Sex:                                 0.6, 1
+Angry:                               0.6, 1
+Contemporary Folk:                   0.6, 1
+Contemporary Singer/Songwriter:      0.6, 1
+Country-Rock:                        0.6, 1
+Progressive Folk:                    0.6, 1
+Americana:                           0.6, 1
+Literate:                            0.6, 1
+Brittle:                             0.6, 1
+Small Gathering:                     0.6, 1
+Dinner Ambiance:                     0.6, 1
+Early Pop/Rock:                      0.6, 1
+Western Swing Revival:               0.6, 1
+Campy:                               0.6, 1
+Elegant:                             0.6, 1
+Contemporary Bluegrass:              0.6, 1
+Bluegrass-Gospel:                    0.6, 1
+Gospel:                              0.6, 1
+Folk-Pop:                            0.6, 1
+Dreamy:                              0.6, 1
+Spacey:                              0.6, 1
+Sparkling:                           0.6, 1
+Quirky:                              0.6, 1
+Appalachian:                         0.6, 1
+North American Traditions:           0.6, 1
+Rainy Day:                           0.6, 1
+Stay in Bed:                         0.6, 1
+Sports:                              0.6, 1
+Fierce:                              0.6, 1
+Adventure:                           0.6, 1
+Maverick:                            0.6, 1
+Progressive Bluegrass:               0.6, 1
+Giddy:                               0.6, 1
+Housework:                           0.6, 1
+Sardonic:                            0.6, 1

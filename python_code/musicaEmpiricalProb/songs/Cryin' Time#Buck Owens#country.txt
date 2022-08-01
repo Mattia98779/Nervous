@@ -1,0 +1,22 @@
+Bakersfield Sound:                   0.9 : 9
+Honky Tonk:                          0.9 : 9
+Bittersweet:                         0.9 : 9
+Melancholy:                          0.9 : 9
+Plaintive:                           0.9 : 9
+Poignant:                            0.9 : 9
+Reflective:                          0.9 : 9
+Relaxed:                             0.9 : 9
+Wistful:                             0.9 : 9
+Yearning:                            0.9 : 9
+Breakup:                             0.9 : 9
+Comfort:                             0.9 : 9
+D-I-V-O-R-C-E:                       0.9 : 9
+Drinking:                            0.9 : 9
+Feeling Blue:                        0.9 : 9
+Heartache:                           0.9 : 9
+Late Night:                          0.9 : 9
+Rainy Day:                           0.9 : 9
+Reflection:                          0.9 : 9
+Regret:                              0.9 : 9
+Stay in Bed:                         0.9 : 9
+Traditional Country:                 0.6 : 8

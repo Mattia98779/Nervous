@@ -1,0 +1,29 @@
+Traditional Pop:                     0.9 : 9
+Gentle:                              0.9 : 9
+Soft/Quiet:                          0.9 : 9
+Soothing:                            0.9 : 9
+Comfort:                             0.9 : 9
+Relaxation:                          0.9 : 9
+Vocal Pop:                           0.8 : 8
+Elegant:                             0.8 : 8
+Refined:                             0.8 : 8
+Stylish:                             0.8 : 8
+Vocal Jazz:                          0.7 : 7
+Dramatic:                            0.7 : 7
+Intimate:                            0.7 : 7
+Romantic:                            0.7 : 7
+Sentimental:                         0.7 : 7
+Smooth:                              0.7 : 7
+Dinner Ambiance:                     0.7 : 7
+In Love:                             0.7 : 7
+Reminiscing:                         0.7 : 7
+Sunday Afternoon:                    0.7 : 7
+Autumnal:                            0.6 : 6
+Lush:                                0.6 : 6
+Poignant:                            0.6 : 6
+Reverent:                            0.6 : 6
+Sweet:                               0.6 : 6
+Affection/Fondness:                  0.6 : 6
+Reflection:                          0.6 : 6
+Romantic Evening:                    0.6 : 6
+Stay in Bed:                         0.6 : 6

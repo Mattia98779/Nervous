@@ -1,0 +1,24 @@
+Early Pop/Rock:                      0.9 : 8
+Rock & Roll:                         0.9 : 8
+Cathartic:                           0.9 : 8
+Dramatic:                            0.9 : 8
+Lush:                                0.9 : 8
+Theatrical:                          0.9 : 8
+Wistful:                             0.9 : 8
+Yearning:                            0.9 : 8
+Girls Night Out:                     0.9 : 8
+Poignant:                            0.8571428571428572 : 7
+Romantic:                            0.8571428571428572 : 7
+Bittersweet:                         0.7714285714285715 : 5
+Innocent:                            0.7714285714285715 : 5
+Naive:                               0.7714285714285715 : 5
+Sentimental:                         0.7714285714285715 : 5
+Sweet:                               0.7714285714285715 : 5
+Affection/Fondness:                  0.7714285714285715 : 5
+Feeling Blue:                        0.7714285714285715 : 5
+Heartache:                           0.7714285714285715 : 5
+In Love:                             0.7714285714285715 : 5
+Romantic Evening:                    0.7714285714285715 : 5
+Summer:                              0.7714285714285715 : 5
+Brill Building Pop:                  0.6 : 1
+Girl Groups:                         0.6 : 1

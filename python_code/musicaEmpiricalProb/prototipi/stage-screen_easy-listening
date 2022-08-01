@@ -1,0 +1,31 @@
+#Title composizione
+Title : stage-screen#easy-listening
+
+#Concetto Principale
+Head Concept Name : stage-screen
+Head Concept Count : 18
+
+#Concetto Modificatore
+Modifier Concept Name : easy-listening
+Modifier Concept Count : 43
+
+
+
+
+
+T(modifier), -Wry, 0.9, 42
+T(modifier), -Gleeful, 0.9, 42
+T(modifier), Dinner Ambiance, 0.9, 27
+T(modifier), Amiable/Good-Natured, 0.8884615384615384, 26
+T(modifier), Relaxation, 0.8653846153846154, 24
+T(modifier), Soothing, 0.8653846153846154, 24
+
+T(head), -Introspection, 0.9, 17
+T(head), -Rainy Day, 0.9, 17
+T(head), Soundtracks, 0.9, 13
+T(head), Dramatic, 0.875, 12
+T(head), Original Score, 0.8500000000000001, 11
+T(head), Theatrical, 0.825, 10
+
+
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 5.460862651560326

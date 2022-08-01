@@ -1,0 +1,19 @@
+Provocative:                         0.9 : 9
+Street-Smart:                        0.9 : 9
+East Coast Rap:                      0.825 : 8
+Aggressive:                          0.825 : 8
+Boisterous:                          0.825 : 8
+Brash:                               0.825 : 8
+Rambunctious:                        0.825 : 8
+Reckless:                            0.825 : 8
+Thuggish:                            0.825 : 8
+Cool & Cocky:                        0.825 : 8
+Fierce:                              0.75 : 7
+Outrageous:                          0.75 : 7
+Rowdy:                               0.75 : 7
+Uncompromising:                      0.75 : 7
+Guys Night Out:                      0.75 : 7
+Confrontational:                     0.6 : 5
+Energetic:                           0.6 : 5
+Fiery:                               0.6 : 5
+Partying:                            0.6 : 5

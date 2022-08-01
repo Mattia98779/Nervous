@@ -1,0 +1,12 @@
+Intense:                             0.9 : 9
+Folk-Blues:                          0.7499999999999999 : 8
+Folksongs:                           0.7499999999999999 : 8
+Earthy:                              0.7499999999999999 : 8
+Heartache:                           0.7499999999999999 : 8
+Long Walk:                           0.7499999999999999 : 8
+Bittersweet:                         0.6 : 7
+Gritty:                              0.6 : 7
+Melancholy:                          0.6 : 7
+Introspection:                       0.6 : 7
+Reflection:                          0.6 : 7
+Solitude:                            0.6 : 7

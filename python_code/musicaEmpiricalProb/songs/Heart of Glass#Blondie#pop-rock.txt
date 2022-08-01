@@ -1,0 +1,52 @@
+Club/Dance:                          0.9 : 9
+Contemporary Pop/Rock:               0.9 : 9
+Disco:                               0.9 : 9
+New Wave:                            0.9 : 9
+Acerbic:                             0.9 : 9
+Bittersweet:                         0.9 : 9
+Boisterous:                          0.9 : 9
+Brooding:                            0.9 : 9
+Celebratory:                         0.9 : 9
+Cold:                                0.9 : 9
+Confident:                           0.9 : 9
+Dreamy:                              0.9 : 9
+Fun:                                 0.9 : 9
+Hypnotic:                            0.9 : 9
+Lively:                              0.9 : 9
+Lush:                                0.9 : 9
+Plaintive:                           0.9 : 9
+Reflective:                          0.9 : 9
+Relaxed:                             0.9 : 9
+Sensual:                             0.9 : 9
+Sexy:                                0.9 : 9
+Stylish:                             0.9 : 9
+Summery:                             0.9 : 9
+Swaggering:                          0.9 : 9
+Sweet:                               0.9 : 9
+Warm:                                0.9 : 9
+Wistful:                             0.9 : 9
+Club:                                0.9 : 9
+Partying:                            0.9 : 9
+Regret:                              0.9 : 9
+Punk/New Wave:                       0.8625 : 8
+Detached:                            0.8625 : 8
+Light:                               0.8625 : 8
+Slick:                               0.8625 : 8
+Street-Smart:                        0.8625 : 8
+Wry:                                 0.8625 : 8
+Cool & Cocky:                        0.8625 : 8
+Girls Night Out:                     0.8625 : 8
+Introspection:                       0.8625 : 8
+Mischievous:                         0.8625 : 8
+Reflection:                          0.8625 : 8
+Sex:                                 0.8625 : 8
+Carefree:                            0.825 : 7
+Gentle:                              0.825 : 7
+Soft/Quiet:                          0.825 : 7
+House:                               0.75 : 5
+Intimate:                            0.75 : 5
+Nostalgic:                           0.75 : 5
+In Love:                             0.75 : 5
+Reminiscing:                         0.75 : 5
+Dance-Rock:                          0.6375 : 2
+Alternative Dance:                   0.6 : 1

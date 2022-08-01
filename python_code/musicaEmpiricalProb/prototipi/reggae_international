@@ -1,0 +1,31 @@
+#Title composizione
+Title : reggae#international
+
+#Concetto Principale
+Head Concept Name : reggae
+Head Concept Count : 48
+
+#Concetto Modificatore
+Modifier Concept Name : international
+Modifier Concept Count : 3
+
+
+
+
+
+T(modifier), -Playful, 0.9, 2
+T(modifier), -TGIF, 0.9, 2
+T(modifier), Stylish, 0.9, 2
+T(modifier), Boisterous, 0.9, 2
+T(modifier), Exuberant, 0.9, 2
+T(modifier), Yearning, 0.9, 2
+
+T(head), -Night Driving, 0.9, 47
+T(head), -Healing/Comfort, 0.9, 47
+T(head), Summery, 0.9, 35
+T(head), Roots Reggae, 0.8735294117647059, 32
+T(head), Earnest, 0.8558823529411764, 30
+T(head), Earthy, 0.8117647058823529, 25
+
+
+Result : '0', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 5.129901960784314

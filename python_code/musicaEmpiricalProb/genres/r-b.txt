@@ -1,0 +1,222 @@
+#Numero di canzoni: 43
+
+Soul:                                0.9, 21
+Playful_mood:                        0.855, 18
+Energetic:                           0.855, 18
+Partying:                            0.855, 18
+Warm:                                0.855, 18
+Smooth:                              0.855, 18
+Rousing:                             0.84, 17
+Lively:                              0.84, 17
+Celebratory:                         0.84, 17
+Confident:                           0.84, 17
+Exuberant:                           0.84, 17
+In Love:                             0.825, 16
+Fun:                                 0.825, 16
+Swaggering:                          0.81, 15
+Sex:                                 0.81, 15
+Urban:                               0.81, 15
+Stylish:                             0.81, 15
+Passionate:                          0.7949999999999999, 14
+Sophisticated:                       0.7949999999999999, 14
+Joyous:                              0.78, 13
+Sweet:                               0.78, 13
+Sexy:                                0.78, 13
+Girls Night Out:                     0.78, 13
+Sensual:                             0.78, 13
+Happy:                               0.765, 12
+Amiable/Good-Natured:                0.765, 12
+Bright:                              0.765, 12
+Soothing:                            0.765, 12
+TGIF:                                0.75, 11
+Carefree:                            0.75, 11
+Seduction:                           0.75, 11
+Late Night:                          0.735, 10
+Funk:                                0.735, 10
+Intimate:                            0.735, 10
+Slick:                               0.735, 10
+Laid-Back/Mellow:                    0.735, 10
+Romantic:                            0.735, 10
+Summery:                             0.735, 10
+Romantic Evening:                    0.735, 10
+Lush:                                0.735, 10
+Freewheeling:                        0.72, 9
+Gentle:                              0.72, 9
+Sentimental:                         0.72, 9
+Boisterous:                          0.72, 9
+Contemporary Pop/Rock:               0.705, 8
+Pop-Soul:                            0.705, 8
+Earnest:                             0.705, 8
+Poignant:                            0.705, 8
+Empowering:                          0.705, 8
+Motivation:                          0.705, 8
+Summer:                              0.705, 8
+Dramatic:                            0.705, 8
+Yearning:                            0.705, 8
+Heartache:                           0.705, 8
+Relaxed:                             0.705, 8
+Slow Dance:                          0.705, 8
+Cheerful:                            0.705, 8
+Soft/Quiet:                          0.705, 8
+Hanging Out:                         0.69, 7
+Playful:                             0.69, 7
+Bravado:                             0.69, 7
+Reflective:                          0.69, 7
+Gritty:                              0.69, 7
+Light:                               0.69, 7
+Elegant:                             0.69, 7
+Early R&B:                           0.675, 6
+Early Pop/Rock:                      0.675, 6
+Wistful:                             0.675, 6
+Street-Smart:                        0.675, 6
+Disco:                               0.675, 6
+Gleeful:                             0.675, 6
+Club:                                0.675, 6
+Smooth Soul:                         0.675, 6
+Bittersweet:                         0.675, 6
+Plaintive:                           0.675, 6
+Comfort:                             0.675, 6
+Feeling Blue:                        0.675, 6
+Quiet Storm:                         0.675, 6
+Celebration:                         0.675, 6
+Exciting:                            0.66, 5
+Earthy:                              0.66, 5
+Melancholy:                          0.66, 5
+Brash:                               0.66, 5
+Affirmation:                         0.66, 5
+Cool & Cocky:                        0.66, 5
+Freedom:                             0.66, 5
+Motown:                              0.66, 5
+New Love:                            0.66, 5
+Contemporary R&B:                    0.66, 5
+Calm/Peaceful:                       0.66, 5
+Sexual:                              0.66, 5
+Dreamy:                              0.66, 5
+Affection/Fondness:                  0.66, 5
+Innocent:                            0.645, 4
+Exercise/Workout:                    0.645, 4
+Club/Dance:                          0.645, 4
+Sparkling:                           0.645, 4
+Dance-Pop:                           0.645, 4
+Nocturnal:                           0.645, 4
+Refined:                             0.645, 4
+Doo Wop:                             0.645, 4
+Aggressive:                          0.645, 4
+Intense:                             0.645, 4
+Greasy:                              0.63, 3
+Introspection:                       0.63, 3
+Reflection:                          0.63, 3
+Hedonistic:                          0.63, 3
+Searching:                           0.63, 3
+Organic:                             0.63, 3
+Delicate:                            0.63, 3
+Quirky:                              0.63, 3
+Humorous:                            0.63, 3
+Hypnotic:                            0.63, 3
+Sad:                                 0.63, 3
+Brooding:                            0.63, 3
+Breakup:                             0.63, 3
+Rollicking:                          0.63, 3
+Regret:                              0.63, 3
+Effervescent:                        0.63, 3
+Pop:                                 0.63, 3
+Fiery:                               0.615, 2
+Uplifting:                           0.615, 2
+Psychedelic Soul:                    0.615, 2
+Visceral:                            0.615, 2
+Adult Contemporary:                  0.615, 2
+Day Driving:                         0.615, 2
+Southern Soul:                       0.615, 2
+Reserved:                            0.615, 2
+Theatrical:                          0.615, 2
+Optimistic:                          0.615, 2
+Relaxation:                          0.615, 2
+Philly Soul:                         0.615, 2
+Rambunctious:                        0.615, 2
+Mischievous:                         0.615, 2
+Gloomy:                              0.615, 2
+Weary:                               0.615, 2
+Cathartic:                           0.615, 2
+Northern Soul:                       0.615, 2
+Uptown Soul:                         0.615, 2
+Chicago Soul:                        0.615, 2
+Girl Groups:                         0.615, 2
+Housework:                           0.615, 2
+Pool Party:                          0.615, 2
+Victory:                             0.615, 2
+Urgent:                              0.615, 2
+Post-Disco:                          0.615, 2
+Neo-Soul:                            0.615, 2
+Tender:                              0.615, 2
+Rock & Roll:                         0.6, 1
+Jazz Blues:                          0.6, 1
+Raucous:                             0.6, 1
+Sunshine Pop:                        0.6, 1
+Bubblegum:                           0.6, 1
+Singer/Songwriter:                   0.6, 1
+Giddy:                               0.6, 1
+Sugary:                              0.6, 1
+Memphis Soul:                        0.6, 1
+Gutsy:                               0.6, 1
+Dinner Ambiance:                     0.6, 1
+Epic:                                0.6, 1
+Small Gathering:                     0.6, 1
+Sleazy:                              0.6, 1
+Manic:                               0.6, 1
+Album Rock:                          0.6, 1
+Dance-Rock:                          0.6, 1
+Synth Pop:                           0.6, 1
+Bleak:                               0.6, 1
+Jealousy:                            0.6, 1
+Harmony Vocal Group:                 0.6, 1
+Tin Pan Alley Pop:                   0.6, 1
+Traditional Pop:                     0.6, 1
+Jump Blues:                          0.6, 1
+Urban Blues:                         0.6, 1
+East Coast Blues:                    0.6, 1
+Regional Blues:                      0.6, 1
+Lazy:                                0.6, 1
+Reminiscing:                         0.6, 1
+Witty:                               0.6, 1
+Wry:                                 0.6, 1
+Brill Building Pop:                  0.6, 1
+Vocal Pop:                           0.6, 1
+Brown-Eyed Soul:                     0.6, 1
+Irreverent:                          0.6, 1
+Picnic:                              0.6, 1
+Springlike:                          0.6, 1
+Guys Night Out:                      0.6, 1
+Brassy:                              0.6, 1
+Blaxploitation:                      0.6, 1
+Soundtracks:                         0.6, 1
+Bitter:                              0.6, 1
+Angst-Ridden:                        0.6, 1
+Ominous:                             0.6, 1
+Provocative:                         0.6, 1
+Tense/Anxious:                       0.6, 1
+Anguished/Distraught:                0.6, 1
+Confrontational:                     0.6, 1
+Literate:                            0.6, 1
+Revolutionary:                       0.6, 1
+Long Walk:                           0.6, 1
+Loss/Grief:                          0.6, 1
+Restrained:                          0.6, 1
+Autumnal:                            0.6, 1
+Rainy Day:                           0.6, 1
+Soft Rock:                           0.6, 1
+Spicy:                               0.6, 1
+Free Funk:                           0.6, 1
+Whimsical:                           0.6, 1
+At the Office:                       0.6, 1
+Birthday:                            0.6, 1
+Anniversary:                         0.6, 1
+Druggy:                              0.6, 1
+Jungle/Drum'n'Bass:                  0.6, 1
+Adult Contemporary R&B:              0.6, 1
+Contemporary Rap:                    0.6, 1
+Elaborate:                           0.6, 1
+Angry:                               0.6, 1
+Ironic:                              0.6, 1
+Sarcastic:                           0.6, 1
+Separation:                          0.6, 1
+Teen Pop:                            0.6, 1

@@ -1,0 +1,31 @@
+#Title composizione
+Title : r-b#vocal
+
+#Concetto Principale
+Head Concept Name : r-b
+Head Concept Count : 43
+
+#Concetto Modificatore
+Modifier Concept Name : vocal
+Modifier Concept Count : 49
+
+
+
+
+
+T(modifier), -Jazz Instrument, 0.9, 48
+T(modifier), -Guitar Jazz, 0.9, 48
+T(modifier), Traditional Pop, 0.9, 47
+T(modifier), Vocal Pop, 0.8478260869565217, 39
+T(modifier), Refined, 0.7630434782608696, 26
+T(modifier), Sentimental, 0.7630434782608696, 26
+
+T(head), -Teen Pop, 0.9, 42
+T(head), -Separation, 0.9, 42
+T(head), Soul, 0.9, 21
+T(head), Playful_mood, 0.855, 18
+T(head), Energetic, 0.855, 18
+T(head), Partying, 0.855, 18
+
+
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 6.420085016817645

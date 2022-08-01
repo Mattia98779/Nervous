@@ -1,0 +1,29 @@
+Electric Blues:                      0.9 : 8
+Electric Harmonica Blues:            0.9 : 8
+Harmonica Blues:                     0.9 : 8
+Juke Joint Blues:                    0.9 : 8
+Louisiana Blues:                     0.9 : 8
+Regional Blues:                      0.9 : 8
+Swamp Blues:                         0.9 : 8
+Confident:                           0.9 : 8
+Earthy:                              0.9 : 8
+Gritty:                              0.9 : 8
+Atmospheric:                         0.6 : 5
+Greasy:                              0.6 : 5
+Gutsy:                               0.6 : 5
+Hypnotic:                            0.6 : 5
+Intimate:                            0.6 : 5
+Organic:                             0.6 : 5
+Playful_mood:                        0.6 : 5
+Ramshackle:                          0.6 : 5
+Rustic:                              0.6 : 5
+Wry:                                 0.6 : 5
+Feeling Blue:                        0.6 : 5
+Freedom:                             0.6 : 5
+Guys Night Out:                      0.6 : 5
+Hanging Out:                         0.6 : 5
+Late Night:                          0.6 : 5
+Night Driving:                       0.6 : 5
+Rainy Day:                           0.6 : 5
+Road Trip:                           0.6 : 5
+TGIF:                                0.6 : 5

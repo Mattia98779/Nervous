@@ -1,0 +1,21 @@
+Ambient House:                       0.9 : 9
+Ambient Techno:                      0.9 : 9
+Electronica:                         0.9 : 9
+Techno:                              0.9 : 9
+Circular:                            0.9 : 9
+Dreamy:                              0.9 : 9
+Hypnotic:                            0.9 : 9
+Searching:                           0.9 : 9
+Spacey:                              0.9 : 9
+Late Night:                          0.9 : 9
+Reflection:                          0.9 : 9
+Solitude:                            0.9 : 9
+Laid-Back/Mellow:                    0.8 : 8
+Pastoral:                            0.8 : 8
+Trippy:                              0.8 : 8
+Eccentric:                           0.7 : 7
+Eerie:                               0.7 : 7
+Smooth:                              0.7 : 7
+The Creative Side:                   0.7 : 7
+Winter:                              0.7 : 7
+Soothing:                            0.6 : 6

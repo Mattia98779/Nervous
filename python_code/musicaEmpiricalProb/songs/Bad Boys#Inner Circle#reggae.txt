@@ -1,0 +1,13 @@
+Contemporary Reggae:                 0.9000000000000001 : 9
+Reggae-Pop:                          0.9000000000000001 : 9
+Dancehall:                           0.8 : 8
+Provocative:                         0.8 : 8
+Street-Smart:                        0.8 : 8
+Swaggering:                          0.8 : 8
+Cool & Cocky:                        0.8 : 8
+Guys Night Out:                      0.8 : 8
+Partying:                            0.8 : 8
+Dramatic:                            0.7 : 7
+Gritty:                              0.7 : 7
+Ominous:                             0.7 : 7
+Lively:                              0.6 : 6

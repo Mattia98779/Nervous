@@ -1,0 +1,28 @@
+Afro-Cuban Jazz:                     0.9 : 9
+Big Band:                            0.9 : 9
+World Fusion:                        0.9 : 9
+Boisterous:                          0.9 : 9
+Bright:                              0.9 : 9
+Celebratory:                         0.9 : 9
+Effervescent:                        0.9 : 9
+Energetic:                           0.9 : 9
+Exciting:                            0.9 : 9
+Exuberant:                           0.9 : 9
+Fiery:                               0.9 : 9
+Freewheeling:                        0.9 : 9
+Fun:                                 0.9 : 9
+Lively:                              0.9 : 9
+Playful_mood:                        0.9 : 9
+Smooth:                              0.9 : 9
+Sophisticated:                       0.9 : 9
+Spicy:                               0.9 : 9
+Stylish:                             0.9 : 9
+Visceral:                            0.9 : 9
+Celebration:                         0.9 : 9
+Partying:                            0.9 : 9
+Playful:                             0.9 : 9
+Pool Party:                          0.9 : 9
+Cuban Traditions:                    0.6 : 8
+Instrumental Pop:                    0.6 : 8
+Lounge:                              0.6 : 8
+Mambo:                               0.6 : 8

@@ -1,0 +1,31 @@
+#Title composizione
+Title : childrens#electronic
+
+#Concetto Principale
+Head Concept Name : childrens
+Head Concept Count : 23
+
+#Concetto Modificatore
+Modifier Concept Name : electronic
+Modifier Concept Count : 38
+
+
+
+
+
+T(modifier), -Delicate, 0.9, 37
+T(modifier), -Sprawling, 0.9, 37
+T(modifier), Hypnotic, 0.9, 27
+T(modifier), Electronica, 0.8538461538461538, 23
+T(modifier), Trippy, 0.8538461538461538, 23
+T(modifier), Techno, 0.8307692307692307, 21
+
+T(head), -Wry, 0.9, 22
+T(head), -Quirky, 0.9, 22
+T(head), Hanging Out, 0.9, 22
+T(head), Playful, 0.9, 22
+T(head), Fun, 0.8857142857142857, 21
+T(head), Sing-Alongs, 0.8714285714285714, 20
+
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 6.031462016244625

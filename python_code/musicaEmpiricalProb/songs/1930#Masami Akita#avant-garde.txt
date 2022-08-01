@@ -1,0 +1,15 @@
+Harsh:                               0.9 : 9
+Dark Ambient:                        0.825 : 8
+Noise:                               0.825 : 8
+Trippy:                              0.825 : 8
+Unsettling:                          0.825 : 8
+Halloween:                           0.825 : 8
+Scary Music:                         0.825 : 8
+The Creative Side:                   0.825 : 8
+Circular:                            0.75 : 7
+Menacing:                            0.75 : 7
+Tense/Anxious:                       0.75 : 7
+Cold:                                0.675 : 6
+Detached:                            0.675 : 6
+Meandering:                          0.675 : 6
+Urgent:                              0.6 : 5

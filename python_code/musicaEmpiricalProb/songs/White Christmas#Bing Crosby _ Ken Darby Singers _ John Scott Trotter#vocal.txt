@@ -1,0 +1,30 @@
+American Popular Song:               0.9 : 9
+Traditional Pop:                     0.9 : 9
+Gentle:                              0.9 : 9
+Poignant:                            0.9 : 9
+Reverent:                            0.9 : 9
+Sentimental:                         0.9 : 9
+Soothing:                            0.9 : 9
+Vocal Pop:                           0.8 : 8
+Plaintive:                           0.8 : 8
+Refined:                             0.8 : 8
+Reflective:                          0.8 : 8
+Smooth:                              0.8 : 8
+Christmas Party:                     0.8 : 8
+Winter:                              0.8 : 8
+Delicate:                            0.7 : 7
+Earnest:                             0.7 : 7
+Innocent:                            0.7 : 7
+Melancholy:                          0.7 : 7
+Precious:                            0.7 : 7
+Relaxed:                             0.7 : 7
+Reserved:                            0.7 : 7
+Wintry:                              0.7 : 7
+Comfort:                             0.7 : 7
+Amiable/Good-Natured:                0.6 : 6
+Dramatic:                            0.6 : 6
+Ethereal:                            0.6 : 6
+Intimate:                            0.6 : 6
+Lazy:                                0.6 : 6
+Light:                               0.6 : 6
+Restrained:                          0.6 : 6

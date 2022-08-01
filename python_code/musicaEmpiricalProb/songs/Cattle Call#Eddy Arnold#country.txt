@@ -1,0 +1,47 @@
+Country-Pop:                         0.9 : 9
+Atmospheric:                         0.9 : 9
+Bright:                              0.9 : 9
+Cheerful:                            0.9 : 9
+Dreamy:                              0.9 : 9
+Earthy:                              0.9 : 9
+Happy:                               0.9 : 9
+Light:                               0.9 : 9
+Lively:                              0.9 : 9
+Nocturnal:                           0.9 : 9
+Organic:                             0.9 : 9
+Romantic:                            0.9 : 9
+Searching:                           0.9 : 9
+Sentimental:                         0.9 : 9
+Sophisticated:                       0.9 : 9
+Spacey:                              0.9 : 9
+Sparkling:                           0.9 : 9
+Sweet:                               0.9 : 9
+Wistful:                             0.9 : 9
+Yearning:                            0.9 : 9
+Affection/Fondness:                  0.9 : 9
+In Love:                             0.9 : 9
+Late Night:                          0.9 : 9
+Romantic Evening:                    0.9 : 9
+Sweet Dreams:                        0.9 : 9
+Country-Folk:                        0.825 : 8
+Cowboy:                              0.825 : 8
+Folk-Pop:                            0.825 : 8
+Traditional Country:                 0.825 : 8
+Playful_mood:                        0.825 : 8
+Amiable/Good-Natured:                0.75 : 7
+Earnest:                             0.75 : 7
+Plaintive:                           0.75 : 7
+Sunday Afternoon:                    0.75 : 7
+The Great Outdoors:                  0.75 : 7
+Carefree:                            0.6749999999999999 : 6
+Early Morning:                       0.6749999999999999 : 6
+Fun:                                 0.6 : 5
+Intimate:                            0.6 : 5
+Irreverent:                          0.6 : 5
+Quirky:                              0.6 : 5
+Whimsical:                           0.6 : 5
+Affirmation:                         0.6 : 5
+Hanging Out:                         0.6 : 5
+Heartache:                           0.6 : 5
+Introspection:                       0.6 : 5
+Long Walk:                           0.6 : 5

@@ -1,0 +1,18 @@
+Bittersweet:                         0.9000000000000001 : 9
+Bright:                              0.9000000000000001 : 9
+Cheerful:                            0.9000000000000001 : 9
+Lively:                              0.9000000000000001 : 9
+Melancholy:                          0.9000000000000001 : 9
+Poignant:                            0.9000000000000001 : 9
+Reflective:                          0.9000000000000001 : 9
+Summery:                             0.9000000000000001 : 9
+Wistful:                             0.9000000000000001 : 9
+Yearning:                            0.9000000000000001 : 9
+Day Driving:                         0.9000000000000001 : 9
+In Love:                             0.9000000000000001 : 9
+Summer:                              0.9000000000000001 : 9
+AM Pop:                              0.8625 : 8
+Singer/Songwriter:                   0.75 : 5
+Power Pop:                           0.6 : 1
+Contemporary Pop/Rock:               0.6 : 1
+Soft Rock:                           0.6 : 1

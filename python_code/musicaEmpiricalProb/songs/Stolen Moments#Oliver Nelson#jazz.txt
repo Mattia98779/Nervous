@@ -1,0 +1,50 @@
+Mainstream Jazz:                     0.9 : 9
+Modern Big Band:                     0.9 : 9
+Amiable/Good-Natured:                0.9 : 9
+Bright:                              0.9 : 9
+Elegant:                             0.9 : 9
+Exuberant:                           0.9 : 9
+Playful_mood:                        0.9 : 9
+Poignant:                            0.9 : 9
+Precious:                            0.9 : 9
+Rousing:                             0.9 : 9
+Sentimental:                         0.9 : 9
+Sophisticated:                       0.9 : 9
+Stylish:                             0.9 : 9
+Empowering:                          0.9 : 9
+Mischievous:                         0.9 : 9
+Playful:                             0.9 : 9
+Thoughtful:                          0.8250000000000001 : 8
+Warm:                                0.8250000000000001 : 8
+Wistful:                             0.8250000000000001 : 8
+Hanging Out:                         0.8250000000000001 : 8
+Sports:                              0.8250000000000001 : 8
+The Great Outdoors:                  0.8250000000000001 : 8
+Carefree:                            0.75 : 7
+Confident:                           0.75 : 7
+Dramatic:                            0.75 : 7
+Earnest:                             0.75 : 7
+Earthy:                              0.75 : 7
+Elaborate:                           0.75 : 7
+Freewheeling:                        0.75 : 7
+Literate:                            0.75 : 7
+Lively:                              0.75 : 7
+Passionate:                          0.75 : 7
+Refined:                             0.75 : 7
+Reflective:                          0.75 : 7
+Searching:                           0.75 : 7
+Witty:                               0.75 : 7
+Wry:                                 0.75 : 7
+Affirmation:                         0.75 : 7
+Cool & Cocky:                        0.75 : 7
+Freedom:                             0.75 : 7
+Introspection:                       0.75 : 7
+Motivation:                          0.75 : 7
+The Creative Side:                   0.75 : 7
+Victory:                             0.75 : 7
+Hard Bop:                            0.6 : 5
+Post-Bop:                            0.6 : 5
+Progressive Big Band:                0.6 : 5
+Progressive Jazz:                    0.6 : 5
+Lush:                                0.6 : 5
+Nocturnal:                           0.6 : 5

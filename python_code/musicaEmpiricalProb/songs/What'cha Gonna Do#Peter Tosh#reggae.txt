@@ -1,0 +1,15 @@
+Druggy:                              0.9 : 8
+Earnest:                             0.9 : 8
+Provocative:                         0.9 : 8
+Earthy:                              0.825 : 7
+Laid-Back/Mellow:                    0.825 : 7
+Nocturnal:                           0.825 : 7
+Freedom:                             0.825 : 7
+Street-Smart:                        0.75 : 6
+Political Reggae:                    0.6749999999999999 : 5
+Roots Reggae:                        0.6749999999999999 : 5
+Passionate:                          0.6749999999999999 : 5
+Motivation:                          0.6749999999999999 : 5
+Atmospheric:                         0.6 : 4
+Revolutionary:                       0.6 : 4
+Small Gathering:                     0.6 : 4

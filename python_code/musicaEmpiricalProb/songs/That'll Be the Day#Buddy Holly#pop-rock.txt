@@ -1,0 +1,29 @@
+Rock & Roll:                         0.9 : 8
+Rockabilly:                          0.9 : 8
+Rollicking:                          0.9 : 8
+Exciting:                            0.8250000000000001 : 7
+Joyous:                              0.8250000000000001 : 7
+Celebratory:                         0.75 : 6
+Fun:                                 0.75 : 6
+Innocent:                            0.75 : 6
+Playful_mood:                        0.75 : 6
+Carefree:                            0.675 : 5
+Cheerful:                            0.675 : 5
+Energetic:                           0.675 : 5
+Freewheeling:                        0.675 : 5
+Light:                               0.675 : 5
+Lively:                              0.675 : 5
+Optimistic:                          0.675 : 5
+Rambunctious:                        0.675 : 5
+Raucous:                             0.675 : 5
+Rousing:                             0.675 : 5
+Swaggering:                          0.675 : 5
+Cool & Cocky:                        0.675 : 5
+Day Driving:                         0.675 : 5
+Guys Night Out:                      0.675 : 5
+Hanging Out:                         0.675 : 5
+In Love:                             0.675 : 5
+Partying:                            0.675 : 5
+Summer:                              0.675 : 5
+TGIF:                                0.675 : 5
+Amiable/Good-Natured:                0.6 : 4

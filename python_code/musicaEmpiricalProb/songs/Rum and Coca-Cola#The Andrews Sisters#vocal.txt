@@ -1,0 +1,27 @@
+Traditional Pop:                     0.9 : 9
+Vocal Pop:                           0.9 : 9
+Cheerful:                            0.9 : 9
+Fun:                                 0.9 : 9
+Refined:                             0.9 : 9
+Drinking:                            0.9 : 9
+Small Gathering:                     0.9 : 9
+Vacation:                            0.9 : 9
+Harmony Vocal Group:                 0.8250000000000001 : 8
+Happy:                               0.8250000000000001 : 8
+Humorous:                            0.8250000000000001 : 8
+Lively:                              0.8250000000000001 : 8
+Playful_mood:                        0.8250000000000001 : 8
+Summery:                             0.8250000000000001 : 8
+Partying:                            0.8250000000000001 : 8
+Pool Party:                          0.8250000000000001 : 8
+Carefree:                            0.75 : 7
+Energetic:                           0.75 : 7
+Rousing:                             0.75 : 7
+Sparkling:                           0.75 : 7
+Celebration:                         0.75 : 7
+Amiable/Good-Natured:                0.675 : 6
+Exuberant:                           0.675 : 6
+Light:                               0.675 : 6
+Smooth:                              0.675 : 6
+Confident:                           0.6 : 5
+Silly:                               0.6 : 5

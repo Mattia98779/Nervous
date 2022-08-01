@@ -1,0 +1,25 @@
+Big Band:                            0.9 : 9
+Bright:                              0.9 : 9
+Dramatic:                            0.9 : 9
+Exciting:                            0.9 : 9
+Lively:                              0.9 : 9
+Road Trip:                           0.9 : 9
+Orchestral Jazz:                     0.8250000000000001 : 8
+Progressive Big Band:                0.8250000000000001 : 8
+Progressive Jazz:                    0.8250000000000001 : 8
+Complex:                             0.8250000000000001 : 8
+Energetic:                           0.8250000000000001 : 8
+Manic:                               0.8250000000000001 : 8
+Boisterous:                          0.75 : 7
+Rollicking:                          0.75 : 7
+Sparkling:                           0.75 : 7
+Urgent:                              0.75 : 7
+Day Driving:                         0.75 : 7
+Aggressive:                          0.6749999999999999 : 6
+Brassy:                              0.6749999999999999 : 6
+Cheerful:                            0.6749999999999999 : 6
+Confident:                           0.6749999999999999 : 6
+Rousing:                             0.6749999999999999 : 6
+Smooth:                              0.6749999999999999 : 6
+Theatrical:                          0.6749999999999999 : 6
+Summery:                             0.6 : 5

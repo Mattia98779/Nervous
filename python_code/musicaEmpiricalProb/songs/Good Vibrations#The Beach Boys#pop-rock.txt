@@ -1,0 +1,47 @@
+Baroque Pop:                         0.9 : 9
+Psychedelic/Garage:                  0.9 : 9
+Sunshine Pop:                        0.9 : 9
+Ambitious:                           0.9 : 9
+Complex:                             0.9 : 9
+Elaborate:                           0.9 : 9
+Bright:                              0.8625 : 8
+Confident:                           0.8625 : 8
+Druggy:                              0.8625 : 8
+Exciting:                            0.8625 : 8
+Sparkling:                           0.8625 : 8
+Trippy:                              0.8625 : 8
+Warm:                                0.8625 : 8
+Affection/Fondness:                  0.8625 : 8
+Picnic:                              0.8625 : 8
+Pool Party:                          0.8625 : 8
+Early Pop/Rock:                      0.825 : 7
+Amiable/Good-Natured:                0.825 : 7
+Freewheeling:                        0.825 : 7
+Joyous:                              0.825 : 7
+Smooth:                              0.825 : 7
+Sugary:                              0.825 : 7
+Summery:                             0.825 : 7
+Freedom:                             0.825 : 7
+TGIF:                                0.825 : 7
+Contemporary Pop/Rock:               0.7875 : 6
+Carefree:                            0.7875 : 6
+Cheerful:                            0.7875 : 6
+Fun:                                 0.7875 : 6
+Happy:                               0.7875 : 6
+Playful_mood:                        0.7875 : 6
+Rousing:                             0.7875 : 6
+Sophisticated:                       0.7875 : 6
+Spacey:                              0.7875 : 6
+Maverick:                            0.7875 : 6
+Motivation:                          0.7875 : 6
+Spring:                              0.7875 : 6
+Summer:                              0.7875 : 6
+Epic:                                0.75 : 5
+Quirky:                              0.75 : 5
+Rollicking:                          0.75 : 5
+At the Beach:                        0.75 : 5
+In Love:                             0.75 : 5
+Psychedelic Pop:                     0.6 : 1
+Acid Rock:                           0.6 : 1
+Doo Wop:                             0.6 : 1
+Early R&B:                           0.6 : 1

@@ -1,0 +1,18 @@
+Playful_mood:                        0.9 : 8
+Old-Timey:                           0.8 : 7
+Amiable/Good-Natured:                0.8 : 7
+Carefree:                            0.8 : 7
+Sweet:                               0.8 : 7
+Sunday Afternoon:                    0.8 : 7
+Traditional Country:                 0.7 : 6
+Cheerful:                            0.7 : 6
+Fun:                                 0.7 : 6
+Gleeful:                             0.7 : 6
+Happy:                               0.7 : 6
+Innocent:                            0.7 : 6
+Joyous:                              0.7 : 6
+Whimsical:                           0.7 : 6
+Hanging Out:                         0.7 : 6
+Summer:                              0.7 : 6
+The Great Outdoors:                  0.7 : 6
+Traditional Folk:                    0.6 : 5

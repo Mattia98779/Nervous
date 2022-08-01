@@ -1,0 +1,63 @@
+Rollicking:                          0.9 : 9
+Warm:                                0.9 : 9
+Freedom:                             0.9 : 9
+Small Gathering:                     0.9 : 9
+The Creative Side:                   0.9 : 9
+Hard Bop:                            0.825 : 8
+Soul Jazz:                           0.825 : 8
+Gritty:                              0.825 : 8
+Mainstream Jazz:                     0.75 : 7
+Bright:                              0.75 : 7
+Celebratory:                         0.75 : 7
+Cheerful:                            0.75 : 7
+Confident:                           0.75 : 7
+Effervescent:                        0.75 : 7
+Fun:                                 0.75 : 7
+Lively:                              0.75 : 7
+Sentimental:                         0.75 : 7
+Wry:                                 0.75 : 7
+Yearning:                            0.75 : 7
+Celebration:                         0.75 : 7
+Partying:                            0.75 : 7
+Playful:                             0.75 : 7
+Victory:                             0.75 : 7
+Reflective:                          0.675 : 6
+Jazz-Funk:                           0.6 : 5
+Ambitious:                           0.6 : 5
+Amiable/Good-Natured:                0.6 : 5
+Boisterous:                          0.6 : 5
+Complex:                             0.6 : 5
+Dramatic:                            0.6 : 5
+Earnest:                             0.6 : 5
+Earthy:                              0.6 : 5
+Elegant:                             0.6 : 5
+Energetic:                           0.6 : 5
+Exuberant:                           0.6 : 5
+Freewheeling:                        0.6 : 5
+Joyous:                              0.6 : 5
+Literate:                            0.6 : 5
+Lush:                                0.6 : 5
+Organic:                             0.6 : 5
+Passionate:                          0.6 : 5
+Playful_mood:                        0.6 : 5
+Refined:                             0.6 : 5
+Rousing:                             0.6 : 5
+Sophisticated:                       0.6 : 5
+Street-Smart:                        0.6 : 5
+Stylish:                             0.6 : 5
+Witty:                               0.6 : 5
+Affirmation:                         0.6 : 5
+Background Music:                    0.6 : 5
+Cool & Cocky:                        0.6 : 5
+Dinner Ambiance:                     0.6 : 5
+Family Gatherings:                   0.6 : 5
+Guys Night Out:                      0.6 : 5
+Hanging Out:                         0.6 : 5
+Motivation:                          0.6 : 5
+Regret:                              0.6 : 5
+Relaxation:                          0.6 : 5
+Romantic Evening:                    0.6 : 5
+Sports:                              0.6 : 5
+Summer:                              0.6 : 5
+Sunday Afternoon:                    0.6 : 5
+The Great Outdoors:                  0.6 : 5

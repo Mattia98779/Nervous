@@ -1,0 +1,41 @@
+Traditional Folk:                    0.9 : 9
+Gritty:                              0.9 : 9
+Empowering:                          0.9 : 9
+Revolutionary:                       0.9 : 9
+The Great Outdoors:                  0.9 : 9
+Political Folk:                      0.8250000000000001 : 8
+Earthy:                              0.8250000000000001 : 8
+Pastoral:                            0.8250000000000001 : 8
+Poignant:                            0.8250000000000001 : 8
+Reverent:                            0.8250000000000001 : 8
+Rustic:                              0.8250000000000001 : 8
+Relaxation:                          0.8250000000000001 : 8
+Folksongs:                           0.75 : 7
+Atmospheric:                         0.75 : 7
+Confident:                           0.75 : 7
+Freewheeling:                        0.75 : 7
+Gentle:                              0.75 : 7
+Intimate:                            0.75 : 7
+Plaintive:                           0.75 : 7
+Soothing:                            0.75 : 7
+Sparse:                              0.75 : 7
+Comfort:                             0.75 : 7
+Early Morning:                       0.75 : 7
+Rainy Day:                           0.75 : 7
+Road Trip:                           0.75 : 7
+Sunday Afternoon:                    0.75 : 7
+Amiable/Good-Natured:                0.6749999999999999 : 6
+Brittle:                             0.6749999999999999 : 6
+Carefree:                            0.6749999999999999 : 6
+Organic:                             0.6749999999999999 : 6
+Freedom:                             0.6749999999999999 : 6
+Reflection:                          0.6749999999999999 : 6
+Austere:                             0.6 : 5
+Autumnal:                            0.6 : 5
+Earnest:                             0.6 : 5
+Somber:                              0.6 : 5
+Autumn:                              0.6 : 5
+Feeling Blue:                        0.6 : 5
+Hanging Out:                         0.6 : 5
+Late Night:                          0.6 : 5
+Small Gathering:                     0.6 : 5

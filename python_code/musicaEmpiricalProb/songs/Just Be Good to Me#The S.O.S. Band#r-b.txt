@@ -1,0 +1,4 @@
+Funk:                                0.9 : 7
+Romantic:                            0.9 : 7
+Rousing:                             0.9 : 7
+In Love:                             0.9 : 7

@@ -1,0 +1,31 @@
+#Title composizione
+Title : reggae#folk
+
+#Concetto Principale
+Head Concept Name : reggae
+Head Concept Count : 48
+
+#Concetto Modificatore
+Modifier Concept Name : folk
+Modifier Concept Count : 47
+
+
+
+
+
+T(modifier), -Guys Night Out, 0.9, 46
+T(modifier), -Mischievous, 0.9, 46
+T(modifier), Earthy, 0.9, 30
+T(modifier), Poignant, 0.8896551724137931, 29
+T(modifier), Earnest, 0.8896551724137931, 29
+T(modifier), Bittersweet, 0.8482758620689655, 25
+
+T(head), -Night Driving, 0.9, 47
+T(head), -Healing/Comfort, 0.9, 47
+T(head), Summery, 0.9, 35
+T(head), Roots Reggae, 0.8735294117647059, 32
+T(head), Earnest, 0.8558823529411764, 30
+T(head), Earthy, 0.8117647058823529, 25
+
+
+Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 6.217627008617091

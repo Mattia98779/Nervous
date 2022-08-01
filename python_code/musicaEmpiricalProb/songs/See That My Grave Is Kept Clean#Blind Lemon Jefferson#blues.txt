@@ -1,0 +1,25 @@
+Acoustic Texas Blues:                0.9 : 9
+Pre-War Blues:                       0.9 : 9
+Feeling Blue:                        0.9 : 9
+Introspection:                       0.9 : 9
+Reminiscing:                         0.9 : 9
+Acoustic Blues:                      0.8625 : 8
+Country Blues:                       0.8625 : 8
+Pre-War Gospel Blues:                0.8625 : 8
+Regional Blues:                      0.8625 : 8
+Texas Blues:                         0.8625 : 8
+Confident:                           0.8625 : 8
+Eerie:                               0.8625 : 8
+Confrontational:                     0.8250000000000001 : 7
+Street-Smart:                        0.8250000000000001 : 7
+Swaggering:                          0.8250000000000001 : 7
+Bravado:                             0.7875 : 6
+Earnest:                             0.7875 : 6
+Exuberant:                           0.7875 : 6
+Gritty:                              0.7875 : 6
+Gutsy:                               0.7875 : 6
+Folk-Blues:                          0.75 : 5
+Freewheeling:                        0.75 : 5
+Organic:                             0.75 : 5
+Passionate:                          0.75 : 5
+Pre-War Country Blues:               0.6 : 1

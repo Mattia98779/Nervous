@@ -1,0 +1,21 @@
+Progressive Jazz:                    0.9 : 8
+Traditional Pop:                     0.9 : 8
+Sensual:                             0.8 : 7
+Reflection:                          0.7 : 6
+Vocal Jazz:                          0.6 : 5
+Calm/Peaceful:                       0.6 : 5
+Delicate:                            0.6 : 5
+Elegant:                             0.6 : 5
+Gentle:                              0.6 : 5
+Intimate:                            0.6 : 5
+Refined:                             0.6 : 5
+Reflective:                          0.6 : 5
+Restrained:                          0.6 : 5
+Soothing:                            0.6 : 5
+Sophisticated:                       0.6 : 5
+Stylish:                             0.6 : 5
+Sweet:                               0.6 : 5
+Dinner Ambiance:                     0.6 : 5
+Relaxation:                          0.6 : 5
+Romantic Evening:                    0.6 : 5
+Sunday Afternoon:                    0.6 : 5

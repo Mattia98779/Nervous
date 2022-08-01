@@ -1,0 +1,86 @@
+Mainstream Jazz:                     0.9 : 9
+Standards:                           0.9 : 9
+Torch Songs:                         0.9 : 9
+Vocal Jazz:                          0.9 : 9
+Ambitious:                           0.9 : 9
+Elegant:                             0.9 : 9
+Gloomy:                              0.9 : 9
+Melancholy:                          0.9 : 9
+Nocturnal:                           0.9 : 9
+Passionate:                          0.9 : 9
+Poignant:                            0.9 : 9
+Swaggering:                          0.9 : 9
+Visceral:                            0.9 : 9
+Wistful:                             0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Dinner Ambiance:                     0.9 : 9
+Feeling Blue:                        0.9 : 9
+Hanging Out:                         0.9 : 9
+Heartache:                           0.9 : 9
+Introspection:                       0.9 : 9
+Reflection:                          0.9 : 9
+Relaxation:                          0.9 : 9
+Reminiscing:                         0.9 : 9
+Reunion:                             0.9 : 9
+Romantic Evening:                    0.9 : 9
+The Creative Side:                   0.9 : 9
+Early Jazz:                          0.85 : 8
+Bravado:                             0.85 : 8
+Dramatic:                            0.85 : 8
+Freewheeling:                        0.85 : 8
+Organic:                             0.85 : 8
+Plaintive:                           0.85 : 8
+Sensual:                             0.85 : 8
+Sophisticated:                       0.85 : 8
+Stylish:                             0.85 : 8
+Warm:                                0.85 : 8
+Yearning:                            0.85 : 8
+Affection/Fondness:                  0.85 : 8
+Anniversary:                         0.85 : 8
+Birth:                               0.85 : 8
+Comfort:                             0.85 : 8
+Day Driving:                         0.85 : 8
+In Love:                             0.85 : 8
+Late Night:                          0.85 : 8
+Loss/Grief:                          0.85 : 8
+New Love:                            0.85 : 8
+Rainy Day:                           0.85 : 8
+Sunday Afternoon:                    0.85 : 8
+Wedding:                             0.85 : 8
+Bittersweet:                         0.8 : 7
+Brooding:                            0.8 : 7
+Delicate:                            0.8 : 7
+Gentle:                              0.8 : 7
+Gritty:                              0.8 : 7
+Intimate:                            0.8 : 7
+Relaxed:                             0.8 : 7
+Sad:                                 0.8 : 7
+Sentimental:                         0.8 : 7
+Soothing:                            0.8 : 7
+Sweet:                               0.8 : 7
+Whimsical:                           0.8 : 7
+Regret:                              0.8 : 7
+Traditional Pop:                     0.75 : 6
+Autumnal:                            0.75 : 6
+Complex:                             0.75 : 6
+Confident:                           0.75 : 6
+Earnest:                             0.75 : 6
+Gutsy:                               0.75 : 6
+Light:                               0.75 : 6
+Reflective:                          0.75 : 6
+Searching:                           0.75 : 6
+Smooth:                              0.75 : 6
+Big Band:                            0.7 : 5
+Swing:                               0.7 : 5
+Amiable/Good-Natured:                0.7 : 5
+Cerebral:                            0.7 : 5
+Innocent:                            0.7 : 5
+Laid-Back/Mellow:                    0.7 : 5
+Lively:                              0.7 : 5
+Refined:                             0.7 : 5
+Bop:                                 0.65 : 4
+Reserved:                            0.65 : 4
+Restrained:                          0.65 : 4
+Romantic:                            0.65 : 4
+Boisterous:                          0.6 : 3
+Earthy:                              0.6 : 3

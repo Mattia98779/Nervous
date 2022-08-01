@@ -1,0 +1,19 @@
+Old-Timey:                           0.9 : 8
+Traditional Folk:                    0.9 : 8
+Earnest:                             0.9 : 8
+Earthy:                              0.9 : 8
+Rustic:                              0.9 : 8
+Urgent:                              0.9 : 8
+Appalachian:                         0.8 : 7
+North American Traditions:           0.8 : 7
+Amiable/Good-Natured:                0.8 : 7
+Bright:                              0.8 : 7
+Carefree:                            0.8 : 7
+Cheerful:                            0.8 : 7
+Exuberant:                           0.8 : 7
+Freewheeling:                        0.8 : 7
+Light:                               0.8 : 7
+Rollicking:                          0.8 : 7
+Rousing:                             0.8 : 7
+Summer:                              0.6 : 5
+Sunday Afternoon:                    0.6 : 5

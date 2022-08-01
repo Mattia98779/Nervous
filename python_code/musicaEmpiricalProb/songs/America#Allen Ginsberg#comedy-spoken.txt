@@ -1,0 +1,37 @@
+Ambitious:                           0.9 : 9
+Angst-Ridden:                        0.9 : 9
+Cathartic:                           0.9 : 9
+Uncompromising:                      0.9 : 9
+Empowering:                          0.9 : 9
+Introspection:                       0.9 : 9
+Revolutionary:                       0.9 : 9
+The Creative Side:                   0.9 : 9
+Beat Poetry:                         0.8500000000000001 : 8
+Poetry:                              0.8500000000000001 : 8
+Spoken Word:                         0.8500000000000001 : 8
+Anguished/Distraught:                0.8500000000000001 : 8
+Cerebral:                            0.8500000000000001 : 8
+Complex:                             0.8500000000000001 : 8
+Fiery:                               0.8500000000000001 : 8
+Confrontational:                     0.8 : 7
+Dramatic:                            0.8 : 7
+Elaborate:                           0.8 : 7
+Freewheeling:                        0.8 : 7
+Indulgent:                           0.8 : 7
+Provocative:                         0.8 : 7
+Rebellious:                          0.8 : 7
+Reckless:                            0.8 : 7
+Rousing:                             0.8 : 7
+Theatrical:                          0.8 : 7
+Volatile:                            0.8 : 7
+Intense:                             0.75 : 6
+Intimate:                            0.75 : 6
+Literate:                            0.75 : 6
+Passionate:                          0.7 : 5
+Sad:                                 0.7 : 5
+Reflective:                          0.65 : 4
+Self-Conscious:                      0.65 : 4
+Unsettling:                          0.65 : 4
+Sentimental:                         0.6 : 3
+Urgent:                              0.6 : 3
+Yearning:                            0.6 : 3

@@ -1,0 +1,31 @@
+#Title composizione
+Title : childrens#pop-rock
+
+#Concetto Principale
+Head Concept Name : childrens
+Head Concept Count : 23
+
+#Concetto Modificatore
+Modifier Concept Name : pop-rock
+Modifier Concept Count : 45
+
+
+
+
+
+T(modifier), -New Romantic, 0.9, 44
+T(modifier), -Spicy, 0.9, 44
+T(modifier), Rousing, 0.9, 30
+T(modifier), Contemporary Pop/Rock, 0.8689655172413793, 27
+T(modifier), Album Rock, 0.8172413793103448, 22
+T(modifier), Confident, 0.8172413793103448, 22
+
+T(head), -Wry, 0.9, 22
+T(head), -Quirky, 0.9, 22
+T(head), Hanging Out, 0.9, 22
+T(head), Playful, 0.9, 22
+T(head), Fun, 0.8857142857142857, 21
+T(head), Sing-Alongs, 0.8714285714285714, 20
+
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 5.84903643416387

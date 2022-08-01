@@ -1,0 +1,18 @@
+Instrumental Pop:                    0.9 : 9
+Movie Themes:                        0.9 : 9
+Original Score:                      0.9 : 9
+Soundtracks:                         0.9 : 9
+Spy Music:                           0.9 : 9
+Hypnotic:                            0.8 : 7
+Nocturnal:                           0.8 : 7
+Smooth:                              0.8 : 7
+Street-Smart:                        0.8 : 7
+Stylish:                             0.8 : 7
+Cool & Cocky:                        0.8 : 7
+Atmospheric:                         0.75 : 6
+Dramatic:                            0.75 : 6
+Menacing:                            0.75 : 6
+Sparse:                              0.75 : 6
+Playful_mood:                        0.7 : 5
+Enigmatic:                           0.65 : 4
+Hanging Out:                         0.6 : 3

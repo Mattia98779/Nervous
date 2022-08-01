@@ -1,0 +1,17 @@
+Adult Alternative:                   0.9 : 8
+Contemporary Instrumental:           0.9 : 8
+Hypnotic:                            0.9 : 8
+Smooth:                              0.9 : 8
+Classical Crossover:                 0.7499999999999999 : 7
+Calm/Peaceful:                       0.7499999999999999 : 7
+Laid-Back/Mellow:                    0.7499999999999999 : 7
+Rousing:                             0.7499999999999999 : 7
+Warm:                                0.7499999999999999 : 7
+Day Driving:                         0.7499999999999999 : 7
+Amiable/Good-Natured:                0.6 : 6
+Gentle:                              0.6 : 6
+Light:                               0.6 : 6
+Playful_mood:                        0.6 : 6
+Refined:                             0.6 : 6
+Soothing:                            0.6 : 6
+Background Music:                    0.6 : 6

@@ -1,0 +1,31 @@
+#Title composizione
+Title : classical#pop-rock
+
+#Concetto Principale
+Head Concept Name : classical
+Head Concept Count : 7
+
+#Concetto Modificatore
+Modifier Concept Name : pop-rock
+Modifier Concept Count : 45
+
+
+
+
+
+T(modifier), -New Romantic, 0.9, 44
+T(modifier), -Spicy, 0.9, 44
+T(modifier), Rousing, 0.9, 30
+T(modifier), Contemporary Pop/Rock, 0.8689655172413793, 27
+T(modifier), Album Rock, 0.8172413793103448, 22
+T(modifier), Confident, 0.8172413793103448, 22
+
+T(head), -Wistful, 0.9, 6
+T(head), -Tender, 0.9, 6
+T(head), Sentimental, 0.9, 4
+T(head), Confident, 0.9, 4
+T(head), Classical Crossover, 0.8, 3
+T(head), Melancholy, 0.8, 3
+
+
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 5.1165845648604265

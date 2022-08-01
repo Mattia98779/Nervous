@@ -1,0 +1,17 @@
+Disco:                               0.9 : 9
+Soul:                                0.9 : 9
+Quiet Storm:                         0.8400000000000001 : 8
+Playful_mood:                        0.8400000000000001 : 8
+Sensual:                             0.78 : 7
+Sexy:                                0.78 : 7
+Seduction:                           0.78 : 7
+Fun:                                 0.72 : 6
+Sexual:                              0.72 : 6
+Celebratory:                         0.66 : 5
+Stylish:                             0.66 : 5
+In Love:                             0.66 : 5
+Motivation:                          0.66 : 5
+Sex:                                 0.66 : 5
+Hedonistic:                          0.6 : 4
+Spicy:                               0.6 : 4
+Romantic Evening:                    0.6 : 4

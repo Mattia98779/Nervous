@@ -1,0 +1,31 @@
+#Title composizione
+Title : avant-garde#vocal
+
+#Concetto Principale
+Head Concept Name : avant-garde
+Head Concept Count : 13
+
+#Concetto Modificatore
+Modifier Concept Name : vocal
+Modifier Concept Count : 49
+
+
+
+
+
+T(modifier), -Jazz Instrument, 0.9, 48
+T(modifier), -Guitar Jazz, 0.9, 48
+T(modifier), Traditional Pop, 0.9, 47
+T(modifier), Vocal Pop, 0.8478260869565217, 39
+T(modifier), Refined, 0.7630434782608696, 26
+T(modifier), Sentimental, 0.7630434782608696, 26
+
+T(head), -Freedom, 0.9, 12
+T(head), -Dramatic, 0.9, 12
+T(head), The Creative Side, 0.9, 6
+T(head), Cerebral, 0.84, 5
+T(head), Uncompromising, 0.78, 4
+T(head), Provocative, 0.78, 4
+
+
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 5.757755784588082

@@ -1,0 +1,35 @@
+Album Rock:                          0.9 : 9
+Contemporary Pop/Rock:               0.9 : 9
+Punk/New Wave:                       0.9 : 9
+Synth Pop:                           0.9 : 9
+Brittle:                             0.9 : 9
+Dramatic:                            0.9 : 9
+Refined:                             0.9 : 9
+Reflective:                          0.9 : 9
+Reserved:                            0.9 : 9
+Stylish:                             0.9 : 9
+Theatrical:                          0.9 : 9
+Halloween:                           0.9 : 9
+Scary Music:                         0.9 : 9
+Winter:                              0.9 : 9
+Progressive Electronic:              0.8625 : 8
+Ambitious:                           0.8625 : 8
+Eerie:                               0.8625 : 8
+Elaborate:                           0.8625 : 8
+Hypnotic:                            0.8625 : 8
+Ominous:                             0.8625 : 8
+Late Night:                          0.8625 : 8
+Meditation:                          0.8625 : 8
+The Creative Side:                   0.8625 : 8
+Bright:                              0.8250000000000001 : 7
+Cerebral:                            0.8250000000000001 : 7
+Complex:                             0.8250000000000001 : 7
+Detached:                            0.8250000000000001 : 7
+Nocturnal:                           0.8250000000000001 : 7
+Sophisticated:                       0.7875000000000001 : 6
+Tense/Anxious:                       0.7875000000000001 : 6
+Wintry:                              0.7875000000000001 : 6
+Art Rock:                            0.6 : 1
+Instrumental Rock:                   0.6 : 1
+Prog-Rock:                           0.6 : 1
+Classical Crossover:                 0.6 : 1

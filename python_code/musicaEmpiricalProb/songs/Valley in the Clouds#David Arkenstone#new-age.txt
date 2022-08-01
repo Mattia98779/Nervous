@@ -1,0 +1,18 @@
+Calm/Peaceful:                       0.9000000000000001 : 9
+Gentle:                              0.9000000000000001 : 9
+Adult Alternative:                   0.825 : 8
+Contemporary Instrumental:           0.825 : 8
+Progressive Electronic:              0.825 : 8
+Solo Instrumental:                   0.825 : 8
+Soft/Quiet:                          0.825 : 8
+Soothing:                            0.825 : 8
+Delicate:                            0.75 : 7
+Intimate:                            0.75 : 7
+Laid-Back/Mellow:                    0.75 : 7
+Ethnic Fusion:                       0.6749999999999999 : 6
+Dramatic:                            0.6749999999999999 : 6
+Smooth:                              0.6749999999999999 : 6
+Dreamy:                              0.6 : 5
+Background Music:                    0.6 : 5
+Relaxation:                          0.6 : 5
+Solitude:                            0.6 : 5

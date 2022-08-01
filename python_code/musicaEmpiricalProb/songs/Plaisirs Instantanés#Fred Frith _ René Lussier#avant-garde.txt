@@ -1,0 +1,13 @@
+Art Rock:                            0.9 : 9
+Experimental:                        0.9 : 9
+Prog-Rock:                           0.9 : 9
+Energetic:                           0.8400000000000001 : 8
+Intense:                             0.8400000000000001 : 8
+Freewheeling:                        0.78 : 7
+Introspection:                       0.78 : 7
+The Creative Side:                   0.78 : 7
+Boisterous:                          0.72 : 6
+Free Improvisation:                  0.66 : 5
+Fun:                                 0.6 : 4
+Humorous:                            0.6 : 4
+Quirky:                              0.6 : 4

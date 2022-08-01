@@ -1,0 +1,25 @@
+Easy Pop:                            0.9 : 9
+Orchestral/Easy Listening:           0.9 : 9
+Atmospheric:                         0.9 : 9
+Boisterous:                          0.9 : 9
+Bright:                              0.9 : 9
+Carefree:                            0.9 : 9
+Cheerful:                            0.9 : 9
+Dramatic:                            0.9 : 9
+Effervescent:                        0.9 : 9
+Exuberant:                           0.9 : 9
+Fun:                                 0.9 : 9
+Light:                               0.9 : 9
+Lively:                              0.9 : 9
+Playful_mood:                        0.9 : 9
+Refined:                             0.9 : 9
+Slick:                               0.9 : 9
+Smooth:                              0.9 : 9
+Soothing:                            0.9 : 9
+Sophisticated:                       0.9 : 9
+Stylish:                             0.9 : 9
+Whimsical:                           0.9 : 9
+Background Music:                    0.9 : 9
+Dinner Ambiance:                     0.9 : 9
+Playful:                             0.9 : 9
+Vocal Pop:                           0.6 : 8

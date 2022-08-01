@@ -1,0 +1,14 @@
+Space:                               0.9 : 9
+Introspection:                       0.9 : 9
+Meditation:                          0.9 : 9
+Reflection:                          0.9 : 9
+Relaxation:                          0.9 : 9
+The Creative Side:                   0.9 : 9
+Hypnotic:                            0.7999999999999999 : 8
+Atmospheric:                         0.7 : 7
+Delicate:                            0.7 : 7
+Detached:                            0.7 : 7
+Restrained:                          0.7 : 7
+Ethereal:                            0.6 : 6
+Soft/Quiet:                          0.6 : 6
+Trippy:                              0.6 : 6

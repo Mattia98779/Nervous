@@ -1,0 +1,21 @@
+Rousing:                             0.9 : 9
+Rocksteady:                          0.8400000000000001 : 8
+Celebratory:                         0.8400000000000001 : 8
+Earthy:                              0.8400000000000001 : 8
+Energetic:                           0.8400000000000001 : 8
+Lively:                              0.8400000000000001 : 8
+Summery:                             0.8400000000000001 : 8
+At the Beach:                        0.8400000000000001 : 8
+Pool Party:                          0.8400000000000001 : 8
+Spring:                              0.8400000000000001 : 8
+Summer:                              0.8400000000000001 : 8
+Boisterous:                          0.78 : 7
+Rollicking:                          0.78 : 7
+Urgent:                              0.78 : 7
+Partying:                            0.78 : 7
+Roots Reggae:                        0.72 : 6
+Day Driving:                         0.72 : 6
+Road Trip:                           0.72 : 6
+Atmospheric:                         0.66 : 5
+Exuberant:                           0.6 : 4
+Exercise/Workout:                    0.6 : 4

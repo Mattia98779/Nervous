@@ -1,0 +1,18 @@
+Lively:                              0.9 : 9
+Motivation:                          0.9 : 9
+Small Gathering:                     0.9 : 9
+The Creative Side:                   0.9 : 9
+Bop:                                 0.8400000000000001 : 8
+Bright:                              0.8400000000000001 : 8
+Energetic:                           0.8400000000000001 : 8
+Exuberant:                           0.8400000000000001 : 8
+Ambitious:                           0.78 : 7
+Sparkling:                           0.78 : 7
+Stylish:                             0.78 : 7
+Complex:                             0.72 : 6
+Rollicking:                          0.72 : 6
+Spicy:                               0.72 : 6
+Amiable/Good-Natured:                0.66 : 5
+Knotty:                              0.66 : 5
+Passionate:                          0.66 : 5
+Organic:                             0.6 : 4

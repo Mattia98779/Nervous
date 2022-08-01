@@ -1,0 +1,13 @@
+Roots Reggae:                        0.9 : 8
+Rousing:                             0.9 : 8
+Druggy:                              0.7499999999999999 : 7
+Earthy:                              0.7499999999999999 : 7
+Hedonistic:                          0.7499999999999999 : 7
+Hypnotic:                            0.7499999999999999 : 7
+Laid-Back/Mellow:                    0.7499999999999999 : 7
+Organic:                             0.7499999999999999 : 7
+Spacey:                              0.7499999999999999 : 7
+Trippy:                              0.7499999999999999 : 7
+Yearning:                            0.7499999999999999 : 7
+Reflective:                          0.6 : 6
+Reverent:                            0.6 : 6

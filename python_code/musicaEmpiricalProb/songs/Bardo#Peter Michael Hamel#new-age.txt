@@ -1,0 +1,17 @@
+Contemporary Instrumental:           0.9 : 9
+Ethnic Fusion:                       0.9 : 9
+Minimalism:                          0.9 : 9
+Neo-Classical:                       0.9 : 9
+Ethereal:                            0.8 : 8
+Hypnotic:                            0.8 : 8
+Meditation:                          0.8 : 8
+Atmospheric:                         0.7 : 7
+Lush:                                0.7 : 7
+Refined:                             0.7 : 7
+Ambitious:                           0.6 : 6
+Calm/Peaceful:                       0.6 : 6
+Cerebral:                            0.6 : 6
+Pastoral:                            0.6 : 6
+Reflective:                          0.6 : 6
+Wistful:                             0.6 : 6
+Background Music:                    0.6 : 6

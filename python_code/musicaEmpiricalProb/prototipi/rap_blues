@@ -1,0 +1,31 @@
+#Title composizione
+Title : rap#blues
+
+#Concetto Principale
+Head Concept Name : rap
+Head Concept Count : 32
+
+#Concetto Modificatore
+Modifier Concept Name : blues
+Modifier Concept Count : 48
+
+
+
+
+
+T(modifier), -The Creative Side, 0.9, 47
+T(modifier), -Day Driving, 0.9, 47
+T(modifier), Regional Blues, 0.9, 40
+T(modifier), Earthy, 0.8615384615384616, 35
+T(modifier), Gritty, 0.8615384615384616, 35
+T(modifier), Passionate, 0.8153846153846154, 29
+
+T(head), -Unsettling, 0.9, 31
+T(head), -Solitude, 0.9, 31
+T(head), Brash, 0.9, 26
+T(head), Street-Smart, 0.864, 23
+T(head), Confident, 0.8400000000000001, 21
+T(head), Partying, 0.8400000000000001, 21
+
+
+Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 6.144919871794872

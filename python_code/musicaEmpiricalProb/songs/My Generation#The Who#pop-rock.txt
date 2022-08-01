@@ -1,0 +1,47 @@
+Album Rock:                          0.9 : 9
+Contemporary Pop/Rock:               0.9 : 9
+Mod:                                 0.9 : 9
+Acerbic:                             0.9 : 9
+Angry:                               0.9 : 9
+Angst-Ridden:                        0.9 : 9
+Brash:                               0.9 : 9
+Bravado:                             0.9 : 9
+Carefree:                            0.9 : 9
+Confident:                           0.9 : 9
+Confrontational:                     0.9 : 9
+Earnest:                             0.9 : 9
+Energetic:                           0.9 : 9
+Exciting:                            0.9 : 9
+Fiery:                               0.9 : 9
+Harsh:                               0.9 : 9
+Nihilistic:                          0.9 : 9
+Provocative:                         0.9 : 9
+Raucous:                             0.9 : 9
+Rousing:                             0.9 : 9
+Rowdy:                               0.9 : 9
+Stylish:                             0.9 : 9
+Urgent:                              0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Empowering:                          0.9 : 9
+Freedom:                             0.9 : 9
+Revolutionary:                       0.9 : 9
+British Invasion:                    0.8625 : 8
+Rock & Roll:                         0.8625 : 8
+Aggressive:                          0.8625 : 8
+Intense:                             0.8625 : 8
+Rebellious:                          0.8625 : 8
+Reckless:                            0.8625 : 8
+Visceral:                            0.8625 : 8
+Volatile:                            0.8625 : 8
+Hanging Out:                         0.825 : 7
+Partying:                            0.825 : 7
+Fun:                                 0.7875 : 6
+Freewheeling:                        0.7125 : 4
+Happy:                               0.7125 : 4
+Playful_mood:                        0.7125 : 4
+Joyous:                              0.6749999999999999 : 3
+Proto-Punk:                          0.6375 : 2
+Hard Rock:                           0.6 : 1
+British Trad Rock:                   0.6 : 1
+Power Pop:                           0.6 : 1
+Manic:                               0.6 : 1

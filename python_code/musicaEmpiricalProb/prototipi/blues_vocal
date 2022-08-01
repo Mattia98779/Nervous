@@ -1,0 +1,31 @@
+#Title composizione
+Title : blues#vocal
+
+#Concetto Principale
+Head Concept Name : blues
+Head Concept Count : 48
+
+#Concetto Modificatore
+Modifier Concept Name : vocal
+Modifier Concept Count : 49
+
+
+
+
+
+T(modifier), -Jazz Instrument, 0.9, 48
+T(modifier), -Guitar Jazz, 0.9, 48
+T(modifier), Traditional Pop, 0.9, 47
+T(modifier), Vocal Pop, 0.8478260869565217, 39
+T(modifier), Refined, 0.7630434782608696, 26
+T(modifier), Sentimental, 0.7630434782608696, 26
+
+T(head), -The Creative Side, 0.9, 47
+T(head), -Day Driving, 0.9, 47
+T(head), Regional Blues, 0.9, 40
+T(head), Earthy, 0.8615384615384616, 35
+T(head), Gritty, 0.8615384615384616, 35
+T(head), Passionate, 0.8153846153846154, 29
+
+
+Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 6.796237884786021

@@ -1,0 +1,29 @@
+Ambient Techno:                      0.9 : 9
+Electronica:                         0.9 : 9
+Techno:                              0.9 : 9
+Circular:                            0.9 : 9
+Clinical:                            0.9 : 9
+Energetic:                           0.9 : 9
+Hypnotic:                            0.9 : 9
+Spacey:                              0.9 : 9
+Late Night:                          0.9 : 9
+Reflection:                          0.9 : 9
+Solitude:                            0.9 : 9
+Cerebral:                            0.825 : 8
+Laid-Back/Mellow:                    0.825 : 8
+Smooth:                              0.825 : 8
+Trippy:                              0.825 : 8
+Warm:                                0.825 : 8
+Wintry:                              0.825 : 8
+Winter:                              0.825 : 8
+IDM:                                 0.75 : 7
+Detached:                            0.75 : 7
+Dreamy:                              0.75 : 7
+Ethereal:                            0.75 : 7
+Nocturnal:                           0.75 : 7
+Restrained:                          0.75 : 7
+Introspection:                       0.75 : 7
+Reflective:                          0.6749999999999999 : 6
+Wistful:                             0.6749999999999999 : 6
+Ambient House:                       0.6 : 5
+Gentle:                              0.6 : 5

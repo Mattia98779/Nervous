@@ -1,0 +1,29 @@
+Alternative Rap:                     0.9 : 9
+Celebratory:                         0.9 : 9
+Exuberant:                           0.9 : 9
+Fun:                                 0.9 : 9
+Humorous:                            0.9 : 9
+Quirky:                              0.9 : 9
+Silly:                               0.9 : 9
+Witty:                               0.9 : 9
+Partying:                            0.9 : 9
+West Coast Rap:                      0.8625 : 8
+Brash:                               0.8625 : 8
+Energetic:                           0.8625 : 8
+Boisterous:                          0.8250000000000001 : 7
+Bright:                              0.8250000000000001 : 7
+Joyous:                              0.8250000000000001 : 7
+Rambunctious:                        0.8250000000000001 : 7
+Carefree:                            0.7875000000000001 : 6
+Pool Party:                          0.7875000000000001 : 6
+Pop-Rap:                             0.75 : 5
+Playful_mood:                        0.75 : 5
+Sexual:                              0.75 : 5
+Summery:                             0.75 : 5
+At the Beach:                        0.75 : 5
+Girls Night Out:                     0.75 : 5
+Guys Night Out:                      0.75 : 5
+Hanging Out:                         0.75 : 5
+Prom:                                0.75 : 5
+G-Funk:                              0.6375 : 2
+New Jack Swing:                      0.6 : 1

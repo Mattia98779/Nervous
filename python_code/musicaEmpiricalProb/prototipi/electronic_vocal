@@ -1,0 +1,31 @@
+#Title composizione
+Title : electronic#vocal
+
+#Concetto Principale
+Head Concept Name : electronic
+Head Concept Count : 38
+
+#Concetto Modificatore
+Modifier Concept Name : vocal
+Modifier Concept Count : 49
+
+
+
+
+
+T(modifier), -Jazz Instrument, 0.9, 48
+T(modifier), -Guitar Jazz, 0.9, 48
+T(modifier), Traditional Pop, 0.9, 47
+T(modifier), Vocal Pop, 0.8478260869565217, 39
+T(modifier), Refined, 0.7630434782608696, 26
+T(modifier), Sentimental, 0.7630434782608696, 26
+
+T(head), -Delicate, 0.9, 37
+T(head), -Sprawling, 0.9, 37
+T(head), Hypnotic, 0.9, 27
+T(head), Electronica, 0.8538461538461538, 23
+T(head), Trippy, 0.8538461538461538, 23
+T(head), Techno, 0.8307692307692307, 21
+
+
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 6.411869227536111

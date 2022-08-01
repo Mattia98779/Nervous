@@ -1,0 +1,31 @@
+#Title composizione
+Title : avant-garde#childrens
+
+#Concetto Principale
+Head Concept Name : avant-garde
+Head Concept Count : 13
+
+#Concetto Modificatore
+Modifier Concept Name : childrens
+Modifier Concept Count : 23
+
+
+
+
+
+T(modifier), -Wry, 0.9, 22
+T(modifier), -Quirky, 0.9, 22
+T(modifier), Hanging Out, 0.9, 22
+T(modifier), Playful, 0.9, 22
+T(modifier), Fun, 0.8857142857142857, 21
+T(modifier), Sing-Alongs, 0.8714285714285714, 20
+
+T(head), -Freedom, 0.9, 12
+T(head), -Dramatic, 0.9, 12
+T(head), The Creative Side, 0.9, 6
+T(head), Cerebral, 0.84, 5
+T(head), Uncompromising, 0.78, 4
+T(head), Provocative, 0.78, 4
+
+
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 6.344653607262304

@@ -1,0 +1,21 @@
+New Orleans Blues:                   0.9 : 8
+New Orleans R&B:                     0.9 : 8
+Regional Blues:                      0.9 : 8
+Earthy:                              0.9 : 8
+Atmospheric:                         0.8 : 7
+Austere:                             0.8 : 7
+Confident:                           0.8 : 7
+Gritty:                              0.8 : 7
+Intimate:                            0.8 : 7
+Passionate:                          0.8 : 7
+Refined:                             0.8 : 7
+Somber:                              0.8 : 7
+Stylish:                             0.8 : 7
+Weary:                               0.8 : 7
+Affection/Fondness:                  0.6 : 5
+Feeling Blue:                        0.6 : 5
+Guys Night Out:                      0.6 : 5
+Hanging Out:                         0.6 : 5
+Late Night:                          0.6 : 5
+Road Trip:                           0.6 : 5
+Sunday Afternoon:                    0.6 : 5

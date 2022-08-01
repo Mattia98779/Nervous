@@ -1,0 +1,24 @@
+Modern Composition:                  0.9 : 8
+Structured Improvisation:            0.9 : 8
+Cerebral:                            0.9 : 8
+Complex:                             0.9 : 8
+Reflective:                          0.9 : 8
+Reserved:                            0.9 : 8
+Restrained:                          0.9 : 8
+Reflection:                          0.9 : 8
+Solitude:                            0.9 : 8
+Autumnal:                            0.8250000000000001 : 7
+Meandering:                          0.8250000000000001 : 7
+Ominous:                             0.8250000000000001 : 7
+Plaintive:                           0.8250000000000001 : 7
+Refined:                             0.8250000000000001 : 7
+Somber:                              0.8250000000000001 : 7
+Late Night:                          0.8250000000000001 : 7
+Cold:                                0.75 : 6
+Difficult:                           0.75 : 6
+Knotty:                              0.75 : 6
+Lush:                                0.75 : 6
+Sparse:                              0.75 : 6
+Detached:                            0.6 : 4
+Insular:                             0.6 : 4
+Sprawling:                           0.6 : 4

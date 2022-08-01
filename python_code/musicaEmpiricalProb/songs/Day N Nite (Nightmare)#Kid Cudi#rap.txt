@@ -1,0 +1,24 @@
+Insular:                             0.9 : 9
+Confident:                           0.7499999999999999 : 8
+Detached:                            0.7499999999999999 : 8
+Hanging Out:                         0.7499999999999999 : 8
+Alternative Rap:                     0.6 : 7
+Left-Field Hip-Hop:                  0.6 : 7
+Underground Rap:                     0.6 : 7
+Brash:                               0.6 : 7
+Dreamy:                              0.6 : 7
+Druggy:                              0.6 : 7
+Energetic:                           0.6 : 7
+Hypnotic:                            0.6 : 7
+Lively:                              0.6 : 7
+Nocturnal:                           0.6 : 7
+Quirky:                              0.6 : 7
+Rollicking:                          0.6 : 7
+Slick:                               0.6 : 7
+Spacey:                              0.6 : 7
+Trippy:                              0.6 : 7
+Club:                                0.6 : 7
+Late Night:                          0.6 : 7
+Maverick:                            0.6 : 7
+Night Driving:                       0.6 : 7
+Solitude:                            0.6 : 7

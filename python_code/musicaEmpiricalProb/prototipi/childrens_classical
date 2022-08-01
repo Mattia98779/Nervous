@@ -1,0 +1,31 @@
+#Title composizione
+Title : childrens#classical
+
+#Concetto Principale
+Head Concept Name : childrens
+Head Concept Count : 23
+
+#Concetto Modificatore
+Modifier Concept Name : classical
+Modifier Concept Count : 7
+
+
+
+
+
+T(modifier), -Wistful, 0.9, 6
+T(modifier), -Tender, 0.9, 6
+T(modifier), Sentimental, 0.9, 4
+T(modifier), Confident, 0.9, 4
+T(modifier), Classical Crossover, 0.8, 3
+T(modifier), Melancholy, 0.8, 3
+
+T(head), -Wry, 0.9, 22
+T(head), -Quirky, 0.9, 22
+T(head), Hanging Out, 0.9, 22
+T(head), Playful, 0.9, 22
+T(head), Fun, 0.8857142857142857, 21
+T(head), Sing-Alongs, 0.8714285714285714, 20
+
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 6.109316770186336

@@ -1,0 +1,32 @@
+Early Pop/Rock:                      0.9 : 8
+Traditional Pop:                     0.9 : 8
+Vocal Pop:                           0.9 : 8
+Boisterous:                          0.9 : 8
+Brassy:                              0.9 : 8
+Carefree:                            0.9 : 8
+Cheerful:                            0.9 : 8
+Confident:                           0.9 : 8
+Dramatic:                            0.9 : 8
+Elaborate:                           0.9 : 8
+Elegant:                             0.9 : 8
+Energetic:                           0.9 : 8
+Exciting:                            0.9 : 8
+Exuberant:                           0.9 : 8
+Gutsy:                               0.9 : 8
+Lively:                              0.9 : 8
+Passionate:                          0.9 : 8
+Rollicking:                          0.9 : 8
+Romantic:                            0.9 : 8
+Rousing:                             0.9 : 8
+Slick:                               0.9 : 8
+Smooth:                              0.9 : 8
+Sophisticated:                       0.9 : 8
+Stylish:                             0.9 : 8
+Warm:                                0.9 : 8
+In Love:                             0.9 : 8
+New Love:                            0.9 : 8
+Partying:                            0.9 : 8
+Reflection:                          0.9 : 8
+Romantic Evening:                    0.9 : 8
+Big Band:                            0.6 : 5
+Swing:                               0.6 : 5

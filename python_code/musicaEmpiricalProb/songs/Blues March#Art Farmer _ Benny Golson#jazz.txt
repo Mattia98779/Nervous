@@ -1,0 +1,57 @@
+Hard Bop:                            0.9 : 9
+Mainstream Jazz:                     0.9 : 9
+Standards:                           0.9 : 9
+Carefree:                            0.9 : 9
+Energetic:                           0.9 : 9
+Epic:                                0.9 : 9
+Playful_mood:                        0.9 : 9
+Rousing:                             0.9 : 9
+Sexual:                              0.9 : 9
+Sophisticated:                       0.9 : 9
+Sprawling:                           0.9 : 9
+Playful:                             0.9 : 9
+Small Gathering:                     0.9 : 9
+TGIF:                                0.9 : 9
+Brash:                               0.825 : 8
+Freewheeling:                        0.825 : 8
+Ambitious:                           0.75 : 7
+Amiable/Good-Natured:                0.75 : 7
+Brassy:                              0.75 : 7
+Bravado:                             0.75 : 7
+Dramatic:                            0.75 : 7
+Earnest:                             0.75 : 7
+Elaborate:                           0.75 : 7
+Lazy:                                0.75 : 7
+Literate:                            0.75 : 7
+Lively:                              0.75 : 7
+Passionate:                          0.75 : 7
+Searching:                           0.75 : 7
+Stately:                             0.75 : 7
+Street-Smart:                        0.75 : 7
+Witty:                               0.75 : 7
+Wry:                                 0.75 : 7
+Affirmation:                         0.75 : 7
+Cool & Cocky:                        0.75 : 7
+Empowering:                          0.75 : 7
+Freedom:                             0.75 : 7
+Mischievous:                         0.75 : 7
+Motivation:                          0.75 : 7
+Sports:                              0.75 : 7
+The Creative Side:                   0.75 : 7
+The Great Outdoors:                  0.75 : 7
+Victory:                             0.75 : 7
+Confident:                           0.675 : 6
+Earthy:                              0.675 : 6
+Greasy:                              0.675 : 6
+Irreverent:                          0.675 : 6
+Drinking:                            0.675 : 6
+Hanging Out:                         0.675 : 6
+Celebratory:                         0.6 : 5
+Gritty:                              0.6 : 5
+Joyous:                              0.6 : 5
+Rollicking:                          0.6 : 5
+Sleazy:                              0.6 : 5
+Spicy:                               0.6 : 5
+Summery:                             0.6 : 5
+Swaggering:                          0.6 : 5
+Day Driving:                         0.6 : 5

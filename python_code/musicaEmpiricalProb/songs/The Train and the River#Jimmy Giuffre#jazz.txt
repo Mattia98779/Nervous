@@ -1,0 +1,41 @@
+Cool:                                0.9 : 9
+Mainstream Jazz:                     0.9 : 9
+Progressive Jazz:                    0.9 : 9
+West Coast Jazz:                     0.9 : 9
+Cerebral:                            0.9 : 9
+Confident:                           0.9 : 9
+Dramatic:                            0.9 : 9
+Epic:                                0.9 : 9
+Freewheeling:                        0.9 : 9
+Fun:                                 0.9 : 9
+Playful_mood:                        0.9 : 9
+Rousing:                             0.9 : 9
+Sophisticated:                       0.9 : 9
+Sprawling:                           0.9 : 9
+Warm:                                0.9 : 9
+Witty:                               0.9 : 9
+Wry:                                 0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Hanging Out:                         0.9 : 9
+Playful:                             0.9 : 9
+Amiable/Good-Natured:                0.8400000000000001 : 8
+Literate:                            0.8400000000000001 : 8
+Organic:                             0.8400000000000001 : 8
+Searching:                           0.8400000000000001 : 8
+Street-Smart:                        0.8400000000000001 : 8
+Whimsical:                           0.8400000000000001 : 8
+Freedom:                             0.8400000000000001 : 8
+Mischievous:                         0.8400000000000001 : 8
+Victory:                             0.8400000000000001 : 8
+Earnest:                             0.78 : 7
+Earthy:                              0.78 : 7
+Passionate:                          0.78 : 7
+Affirmation:                         0.78 : 7
+Empowering:                          0.78 : 7
+Sports:                              0.78 : 7
+The Creative Side:                   0.78 : 7
+The Great Outdoors:                  0.78 : 7
+Insular:                             0.72 : 6
+Relaxed:                             0.72 : 6
+Cold:                                0.6599999999999999 : 5
+Smooth:                              0.6 : 4

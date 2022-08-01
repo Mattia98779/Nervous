@@ -1,0 +1,25 @@
+AM Pop:                              0.9 : 9
+Contemporary Pop/Rock:               0.9 : 9
+Early Pop/Rock:                      0.9 : 9
+Soft Rock:                           0.9 : 9
+Atmospheric:                         0.9 : 9
+Dreamy:                              0.9 : 9
+Hypnotic:                            0.9 : 9
+Nocturnal:                           0.9 : 9
+Relaxed:                             0.9 : 9
+Soothing:                            0.9 : 9
+Sparkling:                           0.9 : 9
+Background Music:                    0.9 : 9
+Day Driving:                         0.9 : 9
+Night Driving:                       0.9 : 9
+Road Trip:                           0.9 : 9
+Slow Dance:                          0.9 : 9
+Classical Pop:                       0.75 : 8
+Film Music:                          0.75 : 8
+Movie Themes:                        0.75 : 8
+Orchestral/Easy Listening:           0.75 : 8
+Original Score:                      0.75 : 8
+Soundtracks:                         0.75 : 8
+Calm/Peaceful:                       0.75 : 8
+Laid-Back/Mellow:                    0.75 : 8
+Autumnal:                            0.6 : 7

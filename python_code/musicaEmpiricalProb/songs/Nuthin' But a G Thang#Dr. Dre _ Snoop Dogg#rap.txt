@@ -1,0 +1,37 @@
+Boisterous:                          0.9 : 9
+Bravado:                             0.9 : 9
+Confident:                           0.9 : 9
+Laid-Back/Mellow:                    0.9 : 9
+Day Driving:                         0.9 : 9
+G-Funk:                              0.8500000000000001 : 8
+Gangsta Rap:                         0.8500000000000001 : 8
+West Coast Rap:                      0.8500000000000001 : 8
+Celebratory:                         0.8500000000000001 : 8
+Thuggish:                            0.8500000000000001 : 8
+Guys Night Out:                      0.8500000000000001 : 8
+Rambunctious:                        0.8 : 7
+Raucous:                             0.8 : 7
+Witty:                               0.8 : 7
+Cool & Cocky:                        0.8 : 7
+Revolutionary:                       0.8 : 7
+Aggressive:                          0.75 : 6
+Brash:                               0.75 : 6
+Confrontational:                     0.75 : 6
+Druggy:                              0.75 : 6
+Gleeful:                             0.75 : 6
+Hostile:                             0.75 : 6
+Humorous:                            0.75 : 6
+Malevolent:                          0.75 : 6
+Reckless:                            0.75 : 6
+Rowdy:                               0.75 : 6
+Street-Smart:                        0.75 : 6
+Visceral:                            0.75 : 6
+Partying:                            0.75 : 6
+Playful_mood:                        0.7 : 5
+Rebellious:                          0.7 : 5
+Stylish:                             0.7 : 5
+Hanging Out:                         0.7 : 5
+TGIF:                                0.7 : 5
+Menacing:                            0.65 : 4
+Rousing:                             0.65 : 4
+Nihilistic:                          0.6 : 3

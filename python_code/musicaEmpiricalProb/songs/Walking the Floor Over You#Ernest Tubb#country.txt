@@ -1,0 +1,21 @@
+Honky Tonk:                          0.9 : 9
+Traditional Country:                 0.9 : 9
+Earthy:                              0.9 : 9
+Reflective:                          0.9 : 9
+Rustic:                              0.9 : 9
+Feeling Blue:                        0.9 : 9
+Jealousy:                            0.9 : 9
+Reminiscing:                         0.9 : 9
+Earnest:                             0.8250000000000001 : 8
+Organic:                             0.8250000000000001 : 8
+Plaintive:                           0.8250000000000001 : 8
+Refined:                             0.8250000000000001 : 8
+Sentimental:                         0.8250000000000001 : 8
+Amiable/Good-Natured:                0.75 : 7
+Bittersweet:                         0.675 : 6
+Melancholy:                          0.675 : 6
+Wistful:                             0.675 : 6
+Yearning:                            0.675 : 6
+Confrontational:                     0.6 : 5
+Intimate:                            0.6 : 5
+Slick:                               0.6 : 5

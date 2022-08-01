@@ -1,0 +1,47 @@
+Mainstream Jazz:                     0.9 : 9
+West Coast Jazz:                     0.9 : 9
+Epic:                                0.9 : 9
+Literate:                            0.9 : 9
+Stylish:                             0.9 : 9
+Cool:                                0.84 : 8
+Bright:                              0.84 : 8
+Elegant:                             0.84 : 8
+Light:                               0.84 : 8
+Playful_mood:                        0.84 : 8
+Refined:                             0.84 : 8
+Reserved:                            0.84 : 8
+Sophisticated:                       0.84 : 8
+Warm:                                0.84 : 8
+Witty:                               0.84 : 8
+Monday Morning:                      0.84 : 8
+Playful:                             0.84 : 8
+TGIF:                                0.84 : 8
+The Great Outdoors:                  0.84 : 8
+Amiable/Good-Natured:                0.78 : 7
+Dramatic:                            0.78 : 7
+Freewheeling:                        0.78 : 7
+Lively:                              0.78 : 7
+Relaxed:                             0.78 : 7
+Cool & Cocky:                        0.78 : 7
+Day Driving:                         0.78 : 7
+Homecoming:                          0.78 : 7
+Relaxation:                          0.78 : 7
+Road Trip:                           0.78 : 7
+Sports:                              0.78 : 7
+Cheerful:                            0.72 : 6
+Confident:                           0.72 : 6
+Earnest:                             0.72 : 6
+Earthy:                              0.72 : 6
+Elaborate:                           0.72 : 6
+Precious:                            0.72 : 6
+Whimsical:                           0.72 : 6
+Reunion:                             0.72 : 6
+Victory:                             0.72 : 6
+Enigmatic:                           0.66 : 5
+Gentle:                              0.66 : 5
+Intimate:                            0.66 : 5
+Laid-Back/Mellow:                    0.66 : 5
+Restrained:                          0.66 : 5
+Affirmation:                         0.66 : 5
+Motivation:                          0.66 : 5
+Sentimental:                         0.6 : 4

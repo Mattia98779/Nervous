@@ -1,0 +1,31 @@
+#Title composizione
+Title : childrens#folk
+
+#Concetto Principale
+Head Concept Name : childrens
+Head Concept Count : 23
+
+#Concetto Modificatore
+Modifier Concept Name : folk
+Modifier Concept Count : 47
+
+
+
+
+
+T(modifier), -Guys Night Out, 0.9, 46
+T(modifier), -Mischievous, 0.9, 46
+T(modifier), Earthy, 0.9, 30
+T(modifier), Poignant, 0.8896551724137931, 29
+T(modifier), Earnest, 0.8896551724137931, 29
+T(modifier), Bittersweet, 0.8482758620689655, 25
+
+T(head), -Wry, 0.9, 22
+T(head), -Quirky, 0.9, 22
+T(head), Hanging Out, 0.9, 22
+T(head), Playful, 0.9, 22
+T(head), Fun, 0.8857142857142857, 21
+T(head), Sing-Alongs, 0.8714285714285714, 20
+
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 5.76766085042585

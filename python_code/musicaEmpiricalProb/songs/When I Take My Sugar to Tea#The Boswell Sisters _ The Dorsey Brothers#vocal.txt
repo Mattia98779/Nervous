@@ -1,0 +1,17 @@
+Harmony Vocal Group:                 0.9 : 9
+Carefree:                            0.9 : 9
+Irreverent:                          0.9 : 9
+Playful_mood:                        0.9 : 9
+Springlike:                          0.9 : 9
+Affection/Fondness:                  0.9 : 9
+Spring:                              0.9 : 9
+Tin Pan Alley Pop:                   0.825 : 8
+Vocal Jazz:                          0.825 : 8
+Traditional Pop:                     0.75 : 7
+Cheerful:                            0.75 : 7
+Witty:                               0.75 : 7
+In Love:                             0.75 : 7
+Confident:                           0.675 : 6
+Fun:                                 0.675 : 6
+Happy:                               0.675 : 6
+Earthy:                              0.6 : 5

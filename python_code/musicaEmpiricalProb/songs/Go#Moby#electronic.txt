@@ -1,0 +1,49 @@
+Club/Dance:                          0.9 : 9
+Tech-House:                          0.9 : 9
+Techno:                              0.9 : 9
+Trance:                              0.9 : 9
+Circular:                            0.9 : 9
+Clinical:                            0.9 : 9
+Detached:                            0.9 : 9
+Eerie:                               0.9 : 9
+Ominous:                             0.9 : 9
+Smooth:                              0.9 : 9
+Late Night:                          0.9 : 9
+Night Driving:                       0.9 : 9
+Partying:                            0.9 : 9
+Reflection:                          0.9 : 9
+Solitude:                            0.9 : 9
+Acid House:                          0.825 : 8
+Experimental Techno:                 0.825 : 8
+House:                               0.825 : 8
+Brooding:                            0.825 : 8
+Dramatic:                            0.825 : 8
+Hypnotic:                            0.825 : 8
+Nocturnal:                           0.825 : 8
+Organic:                             0.825 : 8
+Somber:                              0.825 : 8
+Sparse:                              0.825 : 8
+Wintry:                              0.825 : 8
+Minimal Techno:                      0.75 : 7
+Boisterous:                          0.75 : 7
+Cerebral:                            0.75 : 7
+Complex:                             0.75 : 7
+Lively:                              0.75 : 7
+Refined:                             0.75 : 7
+Restrained:                          0.75 : 7
+Stylish:                             0.75 : 7
+Tense/Anxious:                       0.75 : 7
+Trippy:                              0.75 : 7
+Acid Techno:                         0.6749999999999999 : 6
+Rave:                                0.6749999999999999 : 6
+Bittersweet:                         0.6749999999999999 : 6
+Bleak:                               0.6749999999999999 : 6
+Cathartic:                           0.6749999999999999 : 6
+Energetic:                           0.6749999999999999 : 6
+Melancholy:                          0.6749999999999999 : 6
+Paranoid:                            0.6749999999999999 : 6
+Reflective:                          0.6749999999999999 : 6
+Visceral:                            0.6749999999999999 : 6
+Motivation:                          0.6749999999999999 : 6
+Aggressive:                          0.6 : 5
+Club:                                0.6 : 5

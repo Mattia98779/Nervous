@@ -1,0 +1,18 @@
+Electric Blues:                      0.9000000000000001 : 9
+Electric Chicago Blues:              0.9000000000000001 : 9
+Modern Electric Chicago Blues:       0.9000000000000001 : 9
+Regional Blues:                      0.9000000000000001 : 9
+Passionate:                          0.9000000000000001 : 9
+Chicago Blues:                       0.825 : 8
+Angst-Ridden:                        0.825 : 8
+Earthy:                              0.825 : 8
+Ominous:                             0.825 : 8
+Brooding:                            0.75 : 7
+Guys Night Out:                      0.75 : 7
+Amiable/Good-Natured:                0.6 : 5
+Fiery:                               0.6 : 5
+Intense:                             0.6 : 5
+Rollicking:                          0.6 : 5
+Rousing:                             0.6 : 5
+Cool & Cocky:                        0.6 : 5
+Partying:                            0.6 : 5

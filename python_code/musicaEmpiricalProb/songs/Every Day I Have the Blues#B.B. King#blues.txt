@@ -1,0 +1,22 @@
+Early R&B:                           0.9 : 9
+Memphis Blues:                       0.9 : 9
+Regional Blues:                      0.9 : 9
+Feeling Blue:                        0.9 : 9
+Hanging Out:                         0.9 : 9
+Jealousy:                            0.9 : 9
+Late Night:                          0.9 : 9
+Soul-Blues:                          0.8500000000000001 : 8
+Rollicking:                          0.8500000000000001 : 8
+Self-Conscious:                      0.8500000000000001 : 8
+Confrontational:                     0.8 : 7
+Earthy:                              0.8 : 7
+Passionate:                          0.8 : 7
+Street-Smart:                        0.8 : 7
+Swaggering:                          0.8 : 7
+Dramatic:                            0.75 : 6
+Gritty:                              0.75 : 6
+Yearning:                            0.75 : 6
+Bravado:                             0.7 : 5
+Urgent:                              0.7 : 5
+Earnest:                             0.65 : 4
+Knotty:                              0.6 : 3

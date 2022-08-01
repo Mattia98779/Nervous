@@ -1,0 +1,21 @@
+Torch Songs:                         0.9 : 8
+Vocal Pop:                           0.9 : 8
+Calm/Peaceful:                       0.9 : 8
+Delicate:                            0.9 : 8
+Melancholy:                          0.9 : 8
+Nocturnal:                           0.9 : 8
+Sensual:                             0.9 : 8
+Feeling Blue:                        0.9 : 8
+Heartache:                           0.9 : 8
+Late Night:                          0.9 : 8
+Elegant:                             0.8250000000000001 : 7
+Bittersweet:                         0.75 : 6
+Gentle:                              0.75 : 6
+Intimate:                            0.75 : 6
+Soft/Quiet:                          0.75 : 6
+Rainy Day:                           0.75 : 6
+Guitar Jazz:                         0.675 : 5
+Jazz Instrument:                     0.675 : 5
+Vocal Jazz:                          0.675 : 5
+Wistful:                             0.675 : 5
+Laid-Back/Mellow:                    0.6 : 4

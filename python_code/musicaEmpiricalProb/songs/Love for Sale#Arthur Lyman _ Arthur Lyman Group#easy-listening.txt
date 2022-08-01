@@ -1,0 +1,13 @@
+Lounge:                              0.9 : 8
+Amiable/Good-Natured:                0.7999999999999999 : 7
+Carefree:                            0.7999999999999999 : 7
+Fun:                                 0.7999999999999999 : 7
+Playful_mood:                        0.7999999999999999 : 7
+Refined:                             0.7999999999999999 : 7
+Stylish:                             0.7999999999999999 : 7
+Whimsical:                           0.7999999999999999 : 7
+Witty:                               0.7999999999999999 : 7
+Drinking:                            0.6 : 5
+Hanging Out:                         0.6 : 5
+Partying:                            0.6 : 5
+Playful:                             0.6 : 5

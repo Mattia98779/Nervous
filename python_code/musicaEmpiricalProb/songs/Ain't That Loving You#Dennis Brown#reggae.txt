@@ -1,0 +1,33 @@
+Lovers Rock:                         0.9 : 8
+Boisterous:                          0.9 : 8
+Roots Reggae:                        0.8 : 7
+Confident:                           0.8 : 7
+Earthy:                              0.8 : 7
+Gentle:                              0.8 : 7
+Passionate:                          0.8 : 7
+Summery:                             0.8 : 7
+Feeling Blue:                        0.8 : 7
+Rainy Day:                           0.8 : 7
+Summer:                              0.8 : 7
+Exuberant:                           0.7 : 6
+Romantic:                            0.7 : 6
+Reggae-Pop:                          0.6 : 5
+Smooth Reggae:                       0.6 : 5
+Amiable/Good-Natured:                0.6 : 5
+Earnest:                             0.6 : 5
+Intimate:                            0.6 : 5
+Organic:                             0.6 : 5
+Plaintive:                           0.6 : 5
+Poignant:                            0.6 : 5
+Sweet:                               0.6 : 5
+Warm:                                0.6 : 5
+Wistful:                             0.6 : 5
+Yearning:                            0.6 : 5
+Affection/Fondness:                  0.6 : 5
+Affirmation:                         0.6 : 5
+Empowering:                          0.6 : 5
+Freedom:                             0.6 : 5
+Hanging Out:                         0.6 : 5
+Late Night:                          0.6 : 5
+Road Trip:                           0.6 : 5
+Sunday Afternoon:                    0.6 : 5

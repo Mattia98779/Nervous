@@ -1,0 +1,17 @@
+Contemporary Pop/Rock:               0.9 : 9
+Hard Rock:                           0.9 : 9
+Heavy Metal:                         0.9 : 9
+Album Rock:                          0.825 : 8
+Arena Rock:                          0.825 : 8
+Plaintive:                           0.825 : 8
+Poignant:                            0.825 : 8
+Theatrical:                          0.825 : 8
+Autumnal:                            0.75 : 7
+Melancholy:                          0.75 : 7
+Brash:                               0.675 : 6
+Confident:                           0.675 : 6
+Energetic:                           0.675 : 6
+Raucous:                             0.675 : 6
+Reflective:                          0.6 : 5
+Feeling Blue:                        0.6 : 5
+Reminiscing:                         0.6 : 5

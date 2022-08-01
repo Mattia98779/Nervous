@@ -1,0 +1,22 @@
+Passionate:                          0.9 : 9
+Smooth:                              0.9 : 9
+Soothing:                            0.9 : 9
+Sophisticated:                       0.9 : 9
+Warm:                                0.9 : 9
+Contemporary R&B:                    0.825 : 8
+Urban:                               0.825 : 8
+Searching:                           0.825 : 8
+Slick:                               0.825 : 8
+Confident:                           0.75 : 7
+Lively:                              0.75 : 7
+Rousing:                             0.75 : 7
+Sparkling:                           0.75 : 7
+Uplifting:                           0.75 : 7
+Day Driving:                         0.75 : 7
+Girls Night Out:                     0.75 : 7
+Bright:                              0.6749999999999999 : 6
+Energetic:                           0.6749999999999999 : 6
+Heartache:                           0.6749999999999999 : 6
+Bravado:                             0.6 : 5
+Stylish:                             0.6 : 5
+Sweet:                               0.6 : 5

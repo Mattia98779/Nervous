@@ -1,0 +1,17 @@
+IDM:                                 0.9 : 9
+Hypnotic:                            0.9 : 9
+Nocturnal:                           0.9 : 9
+Reflective:                          0.9 : 9
+Introspection:                       0.9 : 9
+Ambient Techno:                      0.825 : 8
+Soothing:                            0.825 : 8
+Trippy:                              0.825 : 8
+Wintry:                              0.825 : 8
+Late Night:                          0.825 : 8
+Somber:                              0.75 : 7
+Reflection:                          0.75 : 7
+Techno:                              0.675 : 6
+Cold:                                0.675 : 6
+Restrained:                          0.675 : 6
+Detached:                            0.6 : 5
+Ethereal:                            0.6 : 5

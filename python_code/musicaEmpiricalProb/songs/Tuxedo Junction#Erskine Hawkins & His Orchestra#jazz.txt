@@ -1,0 +1,26 @@
+Big Band:                            0.9 : 9
+Amiable/Good-Natured:                0.9 : 9
+Elegant:                             0.9 : 9
+Affection/Fondness:                  0.9 : 9
+Celebration:                         0.9 : 9
+Day Driving:                         0.9 : 9
+Hanging Out:                         0.9 : 9
+Late Night:                          0.9 : 9
+Sunday Afternoon:                    0.9 : 9
+New York Blues:                      0.8400000000000001 : 8
+Regional Blues:                      0.8400000000000001 : 8
+Bright:                              0.8400000000000001 : 8
+Lively:                              0.8400000000000001 : 8
+Carefree:                            0.78 : 7
+Joyous:                              0.78 : 7
+Light:                               0.78 : 7
+Swing:                               0.72 : 6
+Rollicking:                          0.72 : 6
+Slick:                               0.72 : 6
+Celebratory:                         0.66 : 5
+Happy:                               0.66 : 5
+Innocent:                            0.66 : 5
+Refined:                             0.66 : 5
+Smooth:                              0.6 : 4
+Sophisticated:                       0.6 : 4
+Stylish:                             0.6 : 4

@@ -1,0 +1,16 @@
+Classical Pop:                       0.9 : 8
+Refined:                             0.9 : 8
+Amiable/Good-Natured:                0.75 : 7
+Dramatic:                            0.75 : 7
+Elaborate:                           0.75 : 7
+Elegant:                             0.75 : 7
+Light:                               0.75 : 7
+Lush:                                0.75 : 7
+Romantic:                            0.75 : 7
+Theatrical:                          0.75 : 7
+Dinner Ambiance:                     0.75 : 7
+Sentimental:                         0.6 : 6
+Soothing:                            0.6 : 6
+Sophisticated:                       0.6 : 6
+Stylish:                             0.6 : 6
+Romantic Evening:                    0.6 : 6

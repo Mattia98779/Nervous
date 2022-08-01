@@ -1,0 +1,16 @@
+Vocal Pop:                           0.9 : 9
+Brassy:                              0.9 : 9
+Lively:                              0.9 : 9
+Playful_mood:                        0.9 : 9
+Rousing:                             0.9 : 9
+Freedom:                             0.9 : 9
+Traditional Pop:                     0.8 : 8
+Cheerful:                            0.8 : 8
+Boisterous:                          0.7 : 7
+Carefree:                            0.7 : 7
+Energetic:                           0.7 : 7
+Fun:                                 0.7 : 7
+Day Driving:                         0.7 : 7
+Light:                               0.6 : 6
+Rollicking:                          0.6 : 6
+Cool & Cocky:                        0.6 : 6

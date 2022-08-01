@@ -1,0 +1,22 @@
+Electric Blues:                      0.9000000000000001 : 9
+Electric Chicago Blues:              0.9000000000000001 : 9
+Regional Blues:                      0.9000000000000001 : 9
+Boisterous:                          0.9000000000000001 : 9
+Earthy:                              0.9000000000000001 : 9
+Chicago Blues:                       0.84 : 8
+Exciting:                            0.84 : 8
+Rowdy:                               0.84 : 8
+Cool & Cocky:                        0.84 : 8
+Guys Night Out:                      0.84 : 8
+Earnest:                             0.78 : 7
+Laid-Back/Mellow:                    0.78 : 7
+Yearning:                            0.78 : 7
+In Love:                             0.78 : 7
+Seduction:                           0.78 : 7
+Sex:                                 0.78 : 7
+Gritty:                              0.72 : 6
+Rollicking:                          0.72 : 6
+Amiable/Good-Natured:                0.6599999999999999 : 5
+Passionate:                          0.6599999999999999 : 5
+Greasy:                              0.6 : 4
+Organic:                             0.6 : 4

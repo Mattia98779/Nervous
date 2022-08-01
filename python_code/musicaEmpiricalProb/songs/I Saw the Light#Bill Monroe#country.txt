@@ -1,0 +1,20 @@
+Plaintive:                           0.9 : 9
+Bluegrass-Gospel:                    0.8250000000000001 : 8
+Gospel:                              0.8250000000000001 : 8
+Sunday Afternoon:                    0.75 : 7
+Amiable/Good-Natured:                0.6749999999999999 : 6
+Earnest:                             0.6749999999999999 : 6
+Earthy:                              0.6749999999999999 : 6
+Joyous:                              0.6749999999999999 : 6
+Organic:                             0.6749999999999999 : 6
+Passionate:                          0.6749999999999999 : 6
+Poignant:                            0.6749999999999999 : 6
+Reflective:                          0.6749999999999999 : 6
+Reverent:                            0.6749999999999999 : 6
+Spiritual:                           0.6749999999999999 : 6
+Affirmation:                         0.6749999999999999 : 6
+Empowering:                          0.6749999999999999 : 6
+Bluegrass:                           0.6 : 5
+Close Harmony:                       0.6 : 5
+Old-Timey:                           0.6 : 5
+Traditional Bluegrass:               0.6 : 5

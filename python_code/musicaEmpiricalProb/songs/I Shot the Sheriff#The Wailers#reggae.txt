@@ -1,0 +1,44 @@
+AM Pop:                              0.9 : 9
+Adult Contemporary:                  0.9 : 9
+Album Rock:                          0.9 : 9
+Contemporary Pop/Rock:               0.9 : 9
+Reggae-Pop:                          0.9 : 9
+Soft Rock:                           0.9 : 9
+Greasy:                              0.9 : 9
+Organic:                             0.9 : 9
+Slick:                               0.9 : 9
+Smooth:                              0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Introspection:                       0.9 : 9
+Reflection:                          0.9 : 9
+Regret:                              0.9 : 9
+Political Reggae:                    0.8500000000000001 : 8
+Roots Reggae:                        0.8500000000000001 : 8
+Passionate:                          0.8500000000000001 : 8
+Plaintive:                           0.8500000000000001 : 8
+Rousing:                             0.8500000000000001 : 8
+Sophisticated:                       0.8500000000000001 : 8
+Visceral:                            0.8500000000000001 : 8
+Maverick:                            0.8500000000000001 : 8
+Revolutionary:                       0.8500000000000001 : 8
+Summer:                              0.8500000000000001 : 8
+Bleak:                               0.8 : 7
+Dramatic:                            0.8 : 7
+Fierce:                              0.8 : 7
+Bitter:                              0.75 : 6
+Cathartic:                           0.75 : 6
+Earnest:                             0.75 : 6
+Earthy:                              0.75 : 6
+Hypnotic:                            0.75 : 6
+Poignant:                            0.75 : 6
+Weary:                               0.75 : 6
+Reflective:                          0.7 : 5
+Relaxed:                             0.7 : 5
+Street-Smart:                        0.7 : 5
+Summery:                             0.7 : 5
+Wistful:                             0.7 : 5
+Day Driving:                         0.7 : 5
+Politics/Society:                    0.7 : 5
+Relaxation:                          0.7 : 5
+Laid-Back/Mellow:                    0.65 : 4
+Yearning:                            0.6 : 3

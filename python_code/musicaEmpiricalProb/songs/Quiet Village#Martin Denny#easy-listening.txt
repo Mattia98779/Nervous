@@ -1,0 +1,40 @@
+Exotica:                             0.9 : 9
+Atmospheric:                         0.9 : 9
+Calm/Peaceful:                       0.9 : 9
+Dreamy:                              0.9 : 9
+Eccentric:                           0.9 : 9
+Fun:                                 0.9 : 9
+Giddy:                               0.9 : 9
+Light:                               0.9 : 9
+Relaxed:                             0.9 : 9
+Smooth:                              0.9 : 9
+Sophisticated:                       0.9 : 9
+Sparkling:                           0.9 : 9
+Spicy:                               0.9 : 9
+Background Music:                    0.9 : 9
+Meditation:                          0.9 : 9
+Pool Party:                          0.9 : 9
+Relaxation:                          0.9 : 9
+Dramatic:                            0.8250000000000001 : 8
+Hypnotic:                            0.8250000000000001 : 8
+Laid-Back/Mellow:                    0.8250000000000001 : 8
+Meandering:                          0.8250000000000001 : 8
+Nocturnal:                           0.8250000000000001 : 8
+Playful_mood:                        0.8250000000000001 : 8
+Quirky:                              0.8250000000000001 : 8
+Romantic:                            0.8250000000000001 : 8
+Sensual:                             0.8250000000000001 : 8
+Soothing:                            0.8250000000000001 : 8
+Stylish:                             0.8250000000000001 : 8
+Warm:                                0.8250000000000001 : 8
+Whimsical:                           0.8250000000000001 : 8
+At the Beach:                        0.8250000000000001 : 8
+Dinner Ambiance:                     0.8250000000000001 : 8
+Late Night:                          0.8250000000000001 : 8
+Romantic Evening:                    0.8250000000000001 : 8
+Seduction:                           0.8250000000000001 : 8
+Sweet Dreams:                        0.8250000000000001 : 8
+Orchestral/Easy Listening:           0.75 : 7
+Space Age Pop:                       0.75 : 7
+Playful:                             0.75 : 7
+Lounge:                              0.6 : 5

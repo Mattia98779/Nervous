@@ -1,0 +1,31 @@
+#Title composizione
+Title : jazz#pop-rock
+
+#Concetto Principale
+Head Concept Name : jazz
+Head Concept Count : 48
+
+#Concetto Modificatore
+Modifier Concept Name : pop-rock
+Modifier Concept Count : 45
+
+
+
+
+
+T(modifier), -New Romantic, 0.9, 44
+T(modifier), -Spicy, 0.9, 44
+T(modifier), Rousing, 0.9, 30
+T(modifier), Contemporary Pop/Rock, 0.8689655172413793, 27
+T(modifier), Album Rock, 0.8172413793103448, 22
+T(modifier), Confident, 0.8172413793103448, 22
+
+T(head), -Soundtracks, 0.9, 47
+T(head), -Movie Themes, 0.9, 47
+T(head), Sophisticated, 0.9, 38
+T(head), Freewheeling, 0.8675675675675676, 34
+T(head), Confident, 0.8432432432432433, 31
+T(head), Amiable/Good-Natured, 0.8432432432432433, 31
+
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 6.3108646577612095

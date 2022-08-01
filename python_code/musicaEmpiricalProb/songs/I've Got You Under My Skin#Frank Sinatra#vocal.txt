@@ -1,0 +1,29 @@
+Vocal Jazz:                          0.9 : 9
+Cheerful:                            0.9 : 9
+Exuberant:                           0.9 : 9
+Joyous:                              0.9 : 9
+Sentimental:                         0.9 : 9
+Warm:                                0.9 : 9
+New Love:                            0.9 : 9
+American Popular Song:               0.825 : 8
+Standards:                           0.825 : 8
+Swing:                               0.825 : 8
+Traditional Pop:                     0.825 : 8
+Carefree:                            0.825 : 8
+Effervescent:                        0.825 : 8
+Romantic:                            0.825 : 8
+Rousing:                             0.825 : 8
+Stylish:                             0.825 : 8
+Dinner Ambiance:                     0.825 : 8
+Romantic Evening:                    0.825 : 8
+Brassy:                              0.75 : 7
+Dramatic:                            0.75 : 7
+Elegant:                             0.75 : 7
+Exciting:                            0.75 : 7
+Poignant:                            0.75 : 7
+Sophisticated:                       0.75 : 7
+Confident:                           0.6749999999999999 : 6
+Happy:                               0.6749999999999999 : 6
+Lively:                              0.6749999999999999 : 6
+Refined:                             0.6 : 5
+In Love:                             0.6 : 5

@@ -1,0 +1,31 @@
+#Title composizione
+Title : pop-rock#avant-garde
+
+#Concetto Principale
+Head Concept Name : pop-rock
+Head Concept Count : 45
+
+#Concetto Modificatore
+Modifier Concept Name : avant-garde
+Modifier Concept Count : 13
+
+
+
+
+
+T(modifier), -Freedom, 0.9, 12
+T(modifier), -Dramatic, 0.9, 12
+T(modifier), The Creative Side, 0.9, 6
+T(modifier), Cerebral, 0.84, 5
+T(modifier), Uncompromising, 0.78, 4
+T(modifier), Provocative, 0.78, 4
+
+T(head), -New Romantic, 0.9, 44
+T(head), -Spicy, 0.9, 44
+T(head), Rousing, 0.9, 30
+T(head), Contemporary Pop/Rock, 0.8689655172413793, 27
+T(head), Album Rock, 0.8172413793103448, 22
+T(head), Confident, 0.8172413793103448, 22
+
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 5.287495431771293

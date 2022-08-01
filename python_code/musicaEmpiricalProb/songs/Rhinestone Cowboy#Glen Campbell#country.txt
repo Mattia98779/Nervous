@@ -1,0 +1,26 @@
+Nashville Sound/Countrypolitan:      0.9 : 9
+Soft Rock:                           0.9 : 9
+Laid-Back/Mellow:                    0.9 : 9
+Reflective:                          0.9 : 9
+Self-Conscious:                      0.9 : 9
+Smooth:                              0.9 : 9
+Soothing:                            0.9 : 9
+Wistful:                             0.9 : 9
+At the Office:                       0.9 : 9
+Day Driving:                         0.9 : 9
+Late Night:                          0.9 : 9
+Night Driving:                       0.9 : 9
+Summer:                              0.9 : 9
+The Great Outdoors:                  0.9 : 9
+Dramatic:                            0.75 : 7
+Happy:                               0.75 : 7
+Lush:                                0.75 : 7
+Melancholy:                          0.75 : 7
+Feeling Blue:                        0.75 : 7
+In Love:                             0.75 : 7
+Loss/Grief:                          0.75 : 7
+Urban Cowboy:                        0.675 : 6
+Intimate:                            0.675 : 6
+Country-Pop:                         0.6 : 5
+Passionate:                          0.6 : 5
+Sentimental:                         0.6 : 5

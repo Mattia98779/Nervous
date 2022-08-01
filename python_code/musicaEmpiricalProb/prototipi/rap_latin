@@ -1,0 +1,31 @@
+#Title composizione
+Title : rap#latin
+
+#Concetto Principale
+Head Concept Name : rap
+Head Concept Count : 32
+
+#Concetto Modificatore
+Modifier Concept Name : latin
+Modifier Concept Count : 5
+
+
+
+
+
+T(modifier), -Summer, 0.9, 4
+T(modifier), -Partying, 0.9, 4
+T(modifier), Rousing, 0.9, 3
+T(modifier), Romantic, 0.9, 3
+T(modifier), Latin Pop, 0.75, 2
+T(modifier), Celebration, 0.75, 2
+
+T(head), -Unsettling, 0.9, 31
+T(head), -Solitude, 0.9, 31
+T(head), Brash, 0.9, 26
+T(head), Street-Smart, 0.864, 23
+T(head), Confident, 0.8400000000000001, 21
+T(head), Partying, 0.8400000000000001, 21
+
+
+Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '0', '1', 5.399750000000001

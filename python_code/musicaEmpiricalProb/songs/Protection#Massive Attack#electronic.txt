@@ -1,0 +1,42 @@
+Alternative Dance:                   0.9 : 9
+Electronica:                         0.9 : 9
+Trip-Hop:                            0.9 : 9
+Atmospheric:                         0.8400000000000001 : 8
+Dreamy:                              0.8400000000000001 : 8
+Hypnotic:                            0.8400000000000001 : 8
+Intimate:                            0.8400000000000001 : 8
+Laid-Back/Mellow:                    0.8400000000000001 : 8
+Nocturnal:                           0.8400000000000001 : 8
+Relaxed:                             0.8400000000000001 : 8
+Sensual:                             0.8400000000000001 : 8
+Slick:                               0.8400000000000001 : 8
+Smooth:                              0.8400000000000001 : 8
+Sophisticated:                       0.8400000000000001 : 8
+Spacey:                              0.8400000000000001 : 8
+Stylish:                             0.8400000000000001 : 8
+Comfort:                             0.8400000000000001 : 8
+Contemporary Pop/Rock:               0.78 : 7
+Downtempo:                           0.78 : 7
+Earnest:                             0.78 : 7
+Elegant:                             0.78 : 7
+Ethereal:                            0.78 : 7
+Happy:                               0.78 : 7
+Reflective:                          0.78 : 7
+Reserved:                            0.78 : 7
+Somber:                              0.78 : 7
+Uplifting:                           0.78 : 7
+Warm:                                0.78 : 7
+Yearning:                            0.78 : 7
+Feeling Blue:                        0.78 : 7
+Heartache:                           0.78 : 7
+Introspection:                       0.78 : 7
+Late Night:                          0.78 : 7
+Night Driving:                       0.78 : 7
+Reflection:                          0.78 : 7
+The Creative Side:                   0.78 : 7
+Gentle:                              0.72 : 6
+Trippy:                              0.72 : 6
+In Love:                             0.66 : 5
+Stay in Bed:                         0.66 : 5
+Club/Dance:                          0.6 : 4
+Soothing:                            0.6 : 4

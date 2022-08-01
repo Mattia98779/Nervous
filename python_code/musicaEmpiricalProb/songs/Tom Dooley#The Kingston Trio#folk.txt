@@ -1,0 +1,13 @@
+Folk Revival:                        0.9 : 8
+Folk-Pop:                            0.9 : 8
+Traditional Folk:                    0.9 : 8
+Bittersweet:                         0.9 : 8
+Melancholy:                          0.84 : 7
+Dramatic:                            0.78 : 6
+Plaintive:                           0.72 : 5
+Somber:                              0.72 : 5
+Wistful:                             0.72 : 5
+Introspection:                       0.72 : 5
+Ironic:                              0.66 : 4
+Bleak:                               0.6 : 3
+Gloomy:                              0.6 : 3

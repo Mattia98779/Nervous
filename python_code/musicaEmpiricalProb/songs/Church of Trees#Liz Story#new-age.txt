@@ -1,0 +1,16 @@
+Adult Alternative:                   0.9 : 8
+Contemporary Instrumental:           0.9 : 8
+Solo Instrumental:                   0.9 : 8
+Ethereal:                            0.9 : 8
+Reflection:                          0.9 : 8
+Delicate:                            0.75 : 7
+Gentle:                              0.75 : 7
+Intimate:                            0.75 : 7
+Reflective:                          0.75 : 7
+Restrained:                          0.75 : 7
+Soothing:                            0.75 : 7
+Sophisticated:                       0.75 : 7
+Introspection:                       0.75 : 7
+Relaxation:                          0.75 : 7
+Long Walk:                           0.6 : 6
+Solitude:                            0.6 : 6

@@ -1,0 +1,26 @@
+Contemporary Pop/Rock:               0.9 : 9
+Motown:                              0.9 : 9
+Soul:                                0.9 : 9
+Bright:                              0.9 : 9
+Energetic:                           0.9 : 9
+Fiery:                               0.9 : 9
+Greasy:                              0.9 : 9
+Gritty:                              0.9 : 9
+Rousing:                             0.9 : 9
+Sophisticated:                       0.9 : 9
+Street-Smart:                        0.9 : 9
+Visceral:                            0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Introspection:                       0.9 : 9
+Reflection:                          0.9 : 9
+Psychedelic Soul:                    0.8625 : 8
+Poignant:                            0.8625 : 8
+Reflective:                          0.8625 : 8
+Earnest:                             0.825 : 7
+Happy:                               0.825 : 7
+Lively:                              0.75 : 5
+Swaggering:                          0.75 : 5
+Motivation:                          0.75 : 5
+Partying:                            0.75 : 5
+Funk:                                0.6 : 1
+Singer/Songwriter:                   0.6 : 1

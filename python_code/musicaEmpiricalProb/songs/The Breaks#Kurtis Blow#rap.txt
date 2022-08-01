@@ -1,0 +1,24 @@
+Old-School Rap:                      0.9 : 9
+Rousing:                             0.9 : 9
+Summery:                             0.9 : 9
+Guys Night Out:                      0.9 : 9
+Partying:                            0.9 : 9
+Summer:                              0.9 : 9
+Boisterous:                          0.825 : 8
+Cheerful:                            0.825 : 8
+Freewheeling:                        0.825 : 8
+Gritty:                              0.825 : 8
+Playful_mood:                        0.825 : 8
+Hanging Out:                         0.825 : 8
+Confident:                           0.75 : 7
+Gleeful:                             0.75 : 7
+Hypnotic:                            0.75 : 7
+Raucous:                             0.75 : 7
+Rollicking:                          0.75 : 7
+Picnic:                              0.75 : 7
+Amiable/Good-Natured:                0.6749999999999999 : 6
+Celebratory:                         0.6749999999999999 : 6
+Rowdy:                               0.6749999999999999 : 6
+Street-Smart:                        0.6749999999999999 : 6
+Pool Party:                          0.6749999999999999 : 6
+Motivation:                          0.6 : 5

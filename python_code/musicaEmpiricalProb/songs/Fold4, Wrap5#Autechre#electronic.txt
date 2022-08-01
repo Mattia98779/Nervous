@@ -1,0 +1,26 @@
+IDM:                                 0.9 : 9
+Electro-Techno:                      0.7500000000000001 : 8
+Experimental Techno:                 0.7500000000000001 : 8
+Techno:                              0.7500000000000001 : 8
+Atmospheric:                         0.7500000000000001 : 8
+Clinical:                            0.7500000000000001 : 8
+Cold:                                0.7500000000000001 : 8
+Complex:                             0.7500000000000001 : 8
+Eccentric:                           0.7500000000000001 : 8
+Ethereal:                            0.7500000000000001 : 8
+Hypnotic:                            0.7500000000000001 : 8
+Relaxed:                             0.7500000000000001 : 8
+Sophisticated:                       0.7500000000000001 : 8
+Trippy:                              0.7500000000000001 : 8
+Background Music:                    0.7500000000000001 : 8
+Late Night:                          0.7500000000000001 : 8
+Relaxation:                          0.7500000000000001 : 8
+Solitude:                            0.7500000000000001 : 8
+The Creative Side:                   0.7500000000000001 : 8
+Bright:                              0.6 : 7
+Dreamy:                              0.6 : 7
+Nocturnal:                           0.6 : 7
+Quirky:                              0.6 : 7
+Refined:                             0.6 : 7
+Slick:                               0.6 : 7
+Meditation:                          0.6 : 7

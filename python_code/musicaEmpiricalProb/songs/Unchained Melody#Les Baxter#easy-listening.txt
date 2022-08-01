@@ -1,0 +1,16 @@
+Instrumental Pop:                    0.9 : 9
+Exotica:                             0.8400000000000001 : 8
+Lounge:                              0.8400000000000001 : 8
+Amiable/Good-Natured:                0.78 : 7
+Lush:                                0.78 : 7
+Refined:                             0.78 : 7
+Romantic:                            0.78 : 7
+Theatrical:                          0.78 : 7
+Sunday Afternoon:                    0.78 : 7
+Sentimental:                         0.72 : 6
+Spring:                              0.72 : 6
+Dinner Ambiance:                     0.66 : 5
+In Love:                             0.66 : 5
+Relaxation:                          0.66 : 5
+Romantic Evening:                    0.66 : 5
+Precious:                            0.6 : 4

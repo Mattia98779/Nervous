@@ -1,0 +1,15 @@
+Amiable/Good-Natured:                0.9 : 8
+Earnest:                             0.9 : 8
+Literate:                            0.9 : 8
+Laid-Back/Mellow:                    0.8 : 7
+Empowering:                          0.8 : 7
+Family Gatherings:                   0.8 : 7
+Hanging Out:                         0.8 : 7
+Cheerful:                            0.7000000000000001 : 6
+Gentle:                              0.7000000000000001 : 6
+Lively:                              0.7000000000000001 : 6
+Soothing:                            0.7000000000000001 : 6
+Playful:                             0.7000000000000001 : 6
+Children's Folk:                     0.6 : 5
+Sing-Alongs:                         0.6 : 5
+The Creative Side:                   0.6 : 5

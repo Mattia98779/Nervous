@@ -1,0 +1,16 @@
+Adult Alternative:                   0.9 : 8
+Solitude:                            0.9 : 8
+Solo Instrumental:                   0.8 : 7
+Autumnal:                            0.8 : 7
+Lush:                                0.8 : 7
+Yearning:                            0.8 : 7
+Dreamy:                              0.7 : 6
+Elegant:                             0.7 : 6
+Pastoral:                            0.7 : 6
+Reflective:                          0.7 : 6
+Smooth:                              0.7 : 6
+Wistful:                             0.7 : 6
+Background Music:                    0.7 : 6
+Relaxation:                          0.6 : 5
+Atmospheric:                         0.6 : 5
+Bittersweet:                         0.6 : 5

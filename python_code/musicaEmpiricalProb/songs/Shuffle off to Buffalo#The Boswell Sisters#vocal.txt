@@ -1,0 +1,28 @@
+Tin Pan Alley Pop:                   0.9 : 9
+Cheerful:                            0.9 : 9
+Fun:                                 0.9 : 9
+Vacation:                            0.9 : 9
+Harmony Vocal Group:                 0.825 : 8
+Traditional Pop:                     0.825 : 8
+Joyous:                              0.825 : 8
+Lively:                              0.825 : 8
+Playful_mood:                        0.825 : 8
+Summery:                             0.825 : 8
+Carefree:                            0.75 : 7
+Energetic:                           0.75 : 7
+Rollicking:                          0.75 : 7
+Rousing:                             0.75 : 7
+Sparkling:                           0.75 : 7
+Warm:                                0.75 : 7
+Vocal Pop:                           0.6749999999999999 : 6
+Amiable/Good-Natured:                0.6749999999999999 : 6
+Exuberant:                           0.6749999999999999 : 6
+Light:                               0.6749999999999999 : 6
+Romantic:                            0.6749999999999999 : 6
+Smooth:                              0.6749999999999999 : 6
+Boisterous:                          0.6 : 5
+Brash:                               0.6 : 5
+Confident:                           0.6 : 5
+Elegant:                             0.6 : 5
+In Love:                             0.6 : 5
+Wedding:                             0.6 : 5

@@ -1,0 +1,31 @@
+#Title composizione
+Title : international#childrens
+
+#Concetto Principale
+Head Concept Name : international
+Head Concept Count : 3
+
+#Concetto Modificatore
+Modifier Concept Name : childrens
+Modifier Concept Count : 23
+
+
+
+
+
+T(modifier), -Wry, 0.9, 22
+T(modifier), -Quirky, 0.9, 22
+T(modifier), Hanging Out, 0.9, 22
+T(modifier), Playful, 0.9, 22
+T(modifier), Fun, 0.8857142857142857, 21
+T(modifier), Sing-Alongs, 0.8714285714285714, 20
+
+T(head), -Playful, 0.9, 2
+T(head), -TGIF, 0.9, 2
+T(head), Stylish, 0.9, 2
+T(head), Boisterous, 0.9, 2
+T(head), Exuberant, 0.9, 2
+T(head), Yearning, 0.9, 2
+
+
+Result : '1', '1', '1', '0', '1', '1', '0', '0', '0', '0', '1', '0', 5.7722567287784665

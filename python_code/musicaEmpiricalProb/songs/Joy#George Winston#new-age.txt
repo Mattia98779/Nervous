@@ -1,0 +1,23 @@
+Adult Alternative:                   0.9 : 8
+Contemporary Instrumental:           0.9 : 8
+Reserved:                            0.9 : 8
+Sentimental:                         0.9 : 8
+Soothing:                            0.9 : 8
+Light:                               0.8 : 7
+Warm:                                0.8 : 7
+Reflection:                          0.8 : 7
+Sunday Afternoon:                    0.8 : 7
+Amiable/Good-Natured:                0.7 : 6
+Atmospheric:                         0.7 : 6
+Dreamy:                              0.7 : 6
+Gentle:                              0.7 : 6
+Organic:                             0.7 : 6
+Pastoral:                            0.7 : 6
+Plaintive:                           0.7 : 6
+Wistful:                             0.7 : 6
+Introspection:                       0.7 : 6
+Reminiscing:                         0.7 : 6
+Delicate:                            0.6 : 5
+Searching:                           0.6 : 5
+Yearning:                            0.6 : 5
+Rainy Day:                           0.6 : 5

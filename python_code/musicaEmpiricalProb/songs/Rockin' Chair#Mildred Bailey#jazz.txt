@@ -1,0 +1,18 @@
+Traditional Pop:                     0.9000000000000001 : 9
+Melancholy:                          0.9000000000000001 : 9
+Weary:                               0.9000000000000001 : 9
+Regret:                              0.9000000000000001 : 9
+Dramatic:                            0.825 : 8
+Gloomy:                              0.825 : 8
+Vocal Jazz:                          0.75 : 7
+Brooding:                            0.75 : 7
+Feeling Blue:                        0.75 : 7
+American Popular Song:               0.6749999999999999 : 6
+Tin Pan Alley Pop:                   0.6749999999999999 : 6
+Bleak:                               0.6749999999999999 : 6
+Plaintive:                           0.6749999999999999 : 6
+Sad:                                 0.6749999999999999 : 6
+Yearning:                            0.6749999999999999 : 6
+Introspection:                       0.6749999999999999 : 6
+Bitter:                              0.6 : 5
+Reflective:                          0.6 : 5

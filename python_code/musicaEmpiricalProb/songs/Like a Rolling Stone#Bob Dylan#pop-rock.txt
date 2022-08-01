@@ -1,0 +1,36 @@
+Album Rock:                          0.9000000000000001 : 9
+Contemporary Pop/Rock:               0.9000000000000001 : 9
+Folk-Rock:                           0.9000000000000001 : 9
+Psychedelic/Garage:                  0.9000000000000001 : 9
+Rock & Roll:                         0.9000000000000001 : 9
+Singer/Songwriter:                   0.9000000000000001 : 9
+Acerbic:                             0.9000000000000001 : 9
+Angry:                               0.9000000000000001 : 9
+Bitter:                              0.9000000000000001 : 9
+Confrontational:                     0.9000000000000001 : 9
+Cynical/Sarcastic:                   0.9000000000000001 : 9
+Freewheeling:                        0.9000000000000001 : 9
+Intense:                             0.9000000000000001 : 9
+Laid-Back/Mellow:                    0.9000000000000001 : 9
+Lazy:                                0.9000000000000001 : 9
+Literate:                            0.9000000000000001 : 9
+Lively:                              0.9000000000000001 : 9
+Relaxed:                             0.9000000000000001 : 9
+Rollicking:                          0.9000000000000001 : 9
+Rousing:                             0.9000000000000001 : 9
+Sardonic:                            0.9000000000000001 : 9
+Snide:                               0.9000000000000001 : 9
+Swaggering:                          0.9000000000000001 : 9
+Uncompromising:                      0.9000000000000001 : 9
+Visceral:                            0.9000000000000001 : 9
+Warm:                                0.9000000000000001 : 9
+Witty:                               0.9000000000000001 : 9
+Hanging Out:                         0.9000000000000001 : 9
+Introspection:                       0.9000000000000001 : 9
+Night Driving:                       0.9000000000000001 : 9
+Reflection:                          0.9000000000000001 : 9
+Revolutionary:                       0.9000000000000001 : 9
+Road Trip:                           0.9000000000000001 : 9
+Fiery:                               0.825 : 8
+Country-Rock:                        0.6 : 5
+In Love:                             0.6 : 5

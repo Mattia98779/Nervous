@@ -1,0 +1,21 @@
+Amiable/Good-Natured:                0.9 : 9
+Romantic:                            0.9 : 9
+Sentimental:                         0.9 : 9
+Soothing:                            0.9 : 9
+Dinner Ambiance:                     0.9 : 9
+Relaxation:                          0.9 : 9
+Romantic Evening:                    0.9 : 9
+Contemporary Country:                0.8250000000000001 : 8
+Earnest:                             0.8250000000000001 : 8
+Reflective:                          0.8250000000000001 : 8
+Yearning:                            0.8250000000000001 : 8
+New Traditionalist:                  0.75 : 7
+Earthy:                              0.75 : 7
+Refined:                             0.75 : 7
+Self-Conscious:                      0.75 : 7
+Smooth:                              0.75 : 7
+Warm:                                0.75 : 7
+Intimate:                            0.675 : 6
+Plaintive:                           0.675 : 6
+Innocent:                            0.6 : 5
+Relaxed:                             0.6 : 5

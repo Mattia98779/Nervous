@@ -1,0 +1,183 @@
+#Numero di canzoni: 48
+
+Summery:                             0.9, 35
+Roots Reggae:                        0.8735294117647059, 32
+Earnest:                             0.8558823529411764, 30
+Earthy:                              0.8117647058823529, 25
+Rousing:                             0.8029411764705883, 24
+Summer:                              0.8029411764705883, 24
+Organic:                             0.7852941176470588, 22
+Poignant:                            0.7764705882352941, 21
+Amiable/Good-Natured:                0.7676470588235293, 20
+Hypnotic:                            0.75, 18
+Laid-Back/Mellow:                    0.75, 18
+Confident:                           0.7323529411764705, 16
+Reflective:                          0.7323529411764705, 16
+Political Reggae:                    0.7235294117647059, 15
+Passionate:                          0.7235294117647059, 15
+Sweet:                               0.7235294117647059, 15
+Freedom:                             0.7235294117647059, 15
+Hanging Out:                         0.7235294117647059, 15
+Reggae-Pop:                          0.7147058823529412, 14
+Boisterous:                          0.7147058823529412, 14
+Revolutionary:                       0.7058823529411764, 13
+Exuberant:                           0.7058823529411764, 13
+Druggy:                              0.7058823529411764, 13
+Playful_mood:                        0.7058823529411764, 13
+Atmospheric:                         0.6970588235294117, 12
+Empowering:                          0.6882352941176471, 11
+Lively:                              0.6882352941176471, 11
+Road Trip:                           0.6882352941176471, 11
+Soothing:                            0.6882352941176471, 11
+Gentle:                              0.6882352941176471, 11
+Intimate:                            0.6794117647058824, 10
+Spiritual:                           0.6705882352941176, 9
+Plaintive:                           0.6705882352941176, 9
+Yearning:                            0.6705882352941176, 9
+Late Night:                          0.6705882352941176, 9
+Cathartic:                           0.6617647058823529, 8
+Motivation:                          0.6617647058823529, 8
+Celebratory:                         0.6617647058823529, 8
+Pool Party:                          0.6617647058823529, 8
+Partying:                            0.6617647058823529, 8
+Bittersweet:                         0.6617647058823529, 8
+Cheerful:                            0.6617647058823529, 8
+Street-Smart:                        0.6617647058823529, 8
+Rainy Day:                           0.6617647058823529, 8
+Spacey:                              0.6617647058823529, 8
+Trippy:                              0.6617647058823529, 8
+Politics/Society:                    0.6529411764705882, 7
+Bright:                              0.6529411764705882, 7
+Provocative:                         0.6529411764705882, 7
+Freewheeling:                        0.6529411764705882, 7
+Reverent:                            0.6441176470588235, 6
+Rocksteady:                          0.6441176470588235, 6
+At the Beach:                        0.6441176470588235, 6
+Warm:                                0.6441176470588235, 6
+Eerie:                               0.6441176470588235, 6
+Dub:                                 0.6441176470588235, 6
+Smooth:                              0.6441176470588235, 6
+Dancehall:                           0.6441176470588235, 6
+In Love:                             0.6441176470588235, 6
+Feeling Blue:                        0.6441176470588235, 6
+Fun:                                 0.6441176470588235, 6
+Energetic:                           0.6352941176470588, 5
+Affirmation:                         0.6352941176470588, 5
+Introspection:                       0.6352941176470588, 5
+Ska:                                 0.6352941176470588, 5
+DJ/Toasting:                         0.6352941176470588, 5
+Relaxation:                          0.6352941176470588, 5
+Ethereal:                            0.6352941176470588, 5
+Ragga:                               0.6352941176470588, 5
+Romantic:                            0.6352941176470588, 5
+Sentimental:                         0.6352941176470588, 5
+Rebellious:                          0.6264705882352941, 4
+Stately:                             0.6264705882352941, 4
+Urgent:                              0.6264705882352941, 4
+Day Driving:                         0.6264705882352941, 4
+Small Gathering:                     0.6264705882352941, 4
+Relaxed:                             0.6264705882352941, 4
+Slick:                               0.6264705882352941, 4
+Wistful:                             0.6264705882352941, 4
+Sensual:                             0.6264705882352941, 4
+Swaggering:                          0.6264705882352941, 4
+Carefree:                            0.6264705882352941, 4
+Club/Dance:                          0.6264705882352941, 4
+Happy:                               0.6264705882352941, 4
+Outraged:                            0.6264705882352941, 4
+Stylish:                             0.6264705882352941, 4
+Contemporary Reggae:                 0.6264705882352941, 4
+Rollicking:                          0.6176470588235294, 3
+Hedonistic:                          0.6176470588235294, 3
+Joyous:                              0.6176470588235294, 3
+Restrained:                          0.6176470588235294, 3
+Calm/Peaceful:                       0.6176470588235294, 3
+Cool & Cocky:                        0.6176470588235294, 3
+Lovers Rock:                         0.6176470588235294, 3
+Smooth Reggae:                       0.6176470588235294, 3
+Affection/Fondness:                  0.6176470588235294, 3
+Gritty:                              0.6176470588235294, 3
+Celebration:                         0.6176470588235294, 3
+Optimistic:                          0.6176470588235294, 3
+Sunday Afternoon:                    0.6176470588235294, 3
+Spring:                              0.6088235294117647, 2
+Exercise/Workout:                    0.6088235294117647, 2
+Sparkling:                           0.6088235294117647, 2
+Effervescent:                        0.6088235294117647, 2
+Weary:                               0.6088235294117647, 2
+Soul:                                0.6088235294117647, 2
+Bluebeat:                            0.6088235294117647, 2
+Refined:                             0.6088235294117647, 2
+Sparse:                              0.6088235294117647, 2
+Dreamy:                              0.6088235294117647, 2
+Greasy:                              0.6088235294117647, 2
+Bleak:                               0.6088235294117647, 2
+Dramatic:                            0.6088235294117647, 2
+Bitter:                              0.6088235294117647, 2
+Reflection:                          0.6088235294117647, 2
+Gutsy:                               0.6088235294117647, 2
+Silly:                               0.6088235294117647, 2
+Melancholy:                          0.6088235294117647, 2
+New Love:                            0.6088235294117647, 2
+Innocent:                            0.6088235294117647, 2
+Nocturnal:                           0.6088235294117647, 2
+Ominous:                             0.6088235294117647, 2
+Elegant:                             0.6088235294117647, 2
+Wry:                                 0.6088235294117647, 2
+TGIF:                                0.6088235294117647, 2
+Searching:                           0.6088235294117647, 2
+Ambitious:                           0.6, 1
+Central European Traditions:         0.6, 1
+German:                              0.6, 1
+Angry:                               0.6, 1
+AM Pop:                              0.6, 1
+Adult Contemporary:                  0.6, 1
+Album Rock:                          0.6, 1
+Contemporary Pop/Rock:               0.6, 1
+Soft Rock:                           0.6, 1
+Sophisticated:                       0.6, 1
+Visceral:                            0.6, 1
+Fierce:                              0.6, 1
+Regret:                              0.6, 1
+Maverick:                            0.6, 1
+Intense:                             0.6, 1
+Fiery:                               0.6, 1
+Crunchy:                             0.6, 1
+Brash:                               0.6, 1
+Soft/Quiet:                          0.6, 1
+Long Walk:                           0.6, 1
+Wedding:                             0.6, 1
+Loss/Grief:                          0.6, 1
+Bravado:                             0.6, 1
+Sexy:                                0.6, 1
+Humorous:                            0.6, 1
+Seduction:                           0.6, 1
+Sex:                                 0.6, 1
+Light:                               0.6, 1
+Sugary:                              0.6, 1
+Vacation:                            0.6, 1
+Drinking:                            0.6, 1
+Rambunctious:                        0.6, 1
+Reminiscing:                         0.6, 1
+Delicate:                            0.6, 1
+Eccentric:                           0.6, 1
+Literate:                            0.6, 1
+Quirky:                              0.6, 1
+Early Morning:                       0.6, 1
+Exciting:                            0.6, 1
+Sexual:                              0.6, 1
+Playful:                             0.6, 1
+Snide:                               0.6, 1
+Breakup:                             0.6, 1
+Acerbic:                             0.6, 1
+Witty:                               0.6, 1
+Somber:                              0.6, 1
+Guys Night Out:                      0.6, 1
+Meandering:                          0.6, 1
+Austere:                             0.6, 1
+Pastoral:                            0.6, 1
+Rustic:                              0.6, 1
+Benevolent:                          0.6, 1
+Extroverted:                         0.6, 1
+Healing/Comfort:                     0.6, 1
+Night Driving:                       0.6, 1

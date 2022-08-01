@@ -1,0 +1,42 @@
+Literate:                            0.9 : 9
+Feeling Blue:                        0.9 : 9
+Contemporary Folk:                   0.8250000000000001 : 8
+Contemporary Singer/Songwriter:      0.8250000000000001 : 8
+Country-Rock:                        0.8250000000000001 : 8
+Progressive Country:                 0.8250000000000001 : 8
+Progressive Folk:                    0.8250000000000001 : 8
+Singer/Songwriter:                   0.8250000000000001 : 8
+Atmospheric:                         0.8250000000000001 : 8
+Earnest:                             0.8250000000000001 : 8
+Earthy:                              0.8250000000000001 : 8
+Intimate:                            0.8250000000000001 : 8
+Sad:                                 0.8250000000000001 : 8
+Introspection:                       0.8250000000000001 : 8
+Americana:                           0.75 : 7
+Country-Folk:                        0.75 : 7
+Autumnal:                            0.75 : 7
+Bittersweet:                         0.75 : 7
+Plaintive:                           0.75 : 7
+Theatrical:                          0.75 : 7
+Wistful:                             0.75 : 7
+Contemporary Country:                0.675 : 6
+New Traditionalist:                  0.675 : 6
+Gentle:                              0.675 : 6
+Reflective:                          0.675 : 6
+Sentimental:                         0.675 : 6
+Bright:                              0.6 : 5
+Brittle:                             0.6 : 5
+Carefree:                            0.6 : 5
+Dramatic:                            0.6 : 5
+Exuberant:                           0.6 : 5
+Freewheeling:                        0.6 : 5
+Lively:                              0.6 : 5
+Melancholy:                          0.6 : 5
+Organic:                             0.6 : 5
+Restrained:                          0.6 : 5
+Somber:                              0.6 : 5
+Sweet:                               0.6 : 5
+Yearning:                            0.6 : 5
+Affection/Fondness:                  0.6 : 5
+Comfort:                             0.6 : 5
+Small Gathering:                     0.6 : 5

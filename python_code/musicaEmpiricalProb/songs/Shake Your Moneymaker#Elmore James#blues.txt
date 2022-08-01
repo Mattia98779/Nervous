@@ -1,0 +1,27 @@
+Electric Blues:                      0.9 : 9
+Electric Chicago Blues:              0.9 : 9
+Regional Blues:                      0.9 : 9
+Slide Guitar Blues:                  0.9 : 9
+Exciting:                            0.9 : 9
+Gritty:                              0.9 : 9
+Lively:                              0.9 : 9
+Rollicking:                          0.9 : 9
+Rousing:                             0.9 : 9
+Swaggering:                          0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Drinking:                            0.9 : 9
+Guys Night Out:                      0.9 : 9
+Hanging Out:                         0.9 : 9
+Late Night:                          0.9 : 9
+Night Driving:                       0.9 : 9
+Partying:                            0.9 : 9
+Road Trip:                           0.9 : 9
+Joyous:                              0.8250000000000001 : 8
+Passionate:                          0.8250000000000001 : 8
+Fiery:                               0.75 : 7
+Intense:                             0.75 : 7
+Urgent:                              0.75 : 7
+Confident:                           0.675 : 6
+Earthy:                              0.675 : 6
+Freedom:                             0.675 : 6
+Boisterous:                          0.6 : 5

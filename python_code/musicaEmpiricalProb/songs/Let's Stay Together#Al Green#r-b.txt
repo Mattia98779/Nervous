@@ -1,0 +1,49 @@
+Smooth Soul:                         0.9 : 9
+Soul:                                0.9 : 9
+Intimate:                            0.9 : 9
+Sensual:                             0.9 : 9
+Soothing:                            0.9 : 9
+Warm:                                0.9 : 9
+Comfort:                             0.9 : 9
+Feeling Blue:                        0.9 : 9
+In Love:                             0.9 : 9
+Late Night:                          0.9 : 9
+New Love:                            0.9 : 9
+Romantic Evening:                    0.9 : 9
+Sex:                                 0.9 : 9
+Southern Soul:                       0.8625 : 8
+Bittersweet:                         0.8625 : 8
+Greasy:                              0.8625 : 8
+Gutsy:                               0.8625 : 8
+Laid-Back/Mellow:                    0.8625 : 8
+Plaintive:                           0.8625 : 8
+Relaxed:                             0.8625 : 8
+Romantic:                            0.8625 : 8
+Sentimental:                         0.8625 : 8
+Sexy:                                0.8625 : 8
+Smooth:                              0.8625 : 8
+Sophisticated:                       0.8625 : 8
+Stylish:                             0.8625 : 8
+Sweet:                               0.8625 : 8
+Wistful:                             0.8625 : 8
+Seduction:                           0.8625 : 8
+Slow Dance:                          0.8625 : 8
+Calm/Peaceful:                       0.825 : 7
+Confident:                           0.825 : 7
+Earthy:                              0.825 : 7
+Nocturnal:                           0.825 : 7
+Organic:                             0.825 : 7
+Poignant:                            0.825 : 7
+Reserved:                            0.825 : 7
+Yearning:                            0.825 : 7
+Affirmation:                         0.825 : 7
+Relaxation:                          0.825 : 7
+Earnest:                             0.7875 : 6
+Passionate:                          0.7875 : 6
+Reflective:                          0.7875 : 6
+Summery:                             0.7875 : 6
+Theatrical:                          0.7875 : 6
+Dinner Ambiance:                     0.7875 : 6
+Delicate:                            0.75 : 5
+Optimistic:                          0.75 : 5
+Memphis Soul:                        0.6 : 1

@@ -1,0 +1,43 @@
+Early Jazz:                          0.9 : 9
+Modern Big Band:                     0.9 : 9
+Standards:                           0.9 : 9
+Swing:                               0.9 : 9
+Amiable/Good-Natured:                0.9 : 9
+Brassy:                              0.9 : 9
+Carefree:                            0.9 : 9
+Cheerful:                            0.9 : 9
+Elegant:                             0.9 : 9
+Energetic:                           0.9 : 9
+Freewheeling:                        0.9 : 9
+Fun:                                 0.9 : 9
+Light:                               0.9 : 9
+Lively:                              0.9 : 9
+Playful_mood:                        0.9 : 9
+Refined:                             0.9 : 9
+Rollicking:                          0.9 : 9
+Rousing:                             0.9 : 9
+Smooth:                              0.9 : 9
+Sophisticated:                       0.9 : 9
+Stylish:                             0.9 : 9
+Swaggering:                          0.9 : 9
+Visceral:                            0.9 : 9
+Warm:                                0.9 : 9
+At the Beach:                        0.9 : 9
+Celebration:                         0.9 : 9
+Day Driving:                         0.9 : 9
+Family Gatherings:                   0.9 : 9
+Girls Night Out:                     0.9 : 9
+Guys Night Out:                      0.9 : 9
+Hanging Out:                         0.9 : 9
+Housework:                           0.9 : 9
+Motivation:                          0.9 : 9
+Night Driving:                       0.9 : 9
+Playful:                             0.9 : 9
+Rainy Day:                           0.9 : 9
+Relaxation:                          0.9 : 9
+Road Trip:                           0.9 : 9
+Sports:                              0.9 : 9
+TGIF:                                0.9 : 9
+The Creative Side:                   0.9 : 9
+Vacation:                            0.9 : 9
+Big Band:                            0.6 : 8

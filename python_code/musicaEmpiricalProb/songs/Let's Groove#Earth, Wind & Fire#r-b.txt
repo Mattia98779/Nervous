@@ -1,0 +1,35 @@
+Funk:                                0.9 : 9
+Soul:                                0.9 : 9
+Urban:                               0.9 : 9
+Carefree:                            0.8250000000000001 : 7
+Celebratory:                         0.8250000000000001 : 7
+Confident:                           0.8250000000000001 : 7
+Energetic:                           0.8250000000000001 : 7
+Exuberant:                           0.8250000000000001 : 7
+Freewheeling:                        0.8250000000000001 : 7
+Fun:                                 0.8250000000000001 : 7
+Gleeful:                             0.8250000000000001 : 7
+Happy:                               0.8250000000000001 : 7
+Joyous:                              0.8250000000000001 : 7
+Playful_mood:                        0.8250000000000001 : 7
+Romantic:                            0.8250000000000001 : 7
+Sensual:                             0.8250000000000001 : 7
+Sexual:                              0.8250000000000001 : 7
+Whimsical:                           0.8250000000000001 : 7
+Disco:                               0.7875000000000001 : 6
+Partying:                            0.7875000000000001 : 6
+Smooth Soul:                         0.75 : 5
+Affirmation:                         0.75 : 5
+At the Office:                       0.75 : 5
+Birthday:                            0.75 : 5
+Celebration:                         0.75 : 5
+Club:                                0.75 : 5
+Empowering:                          0.75 : 5
+Exercise/Workout:                    0.75 : 5
+Freedom:                             0.75 : 5
+Playful:                             0.75 : 5
+TGIF:                                0.75 : 5
+Victory:                             0.75 : 5
+Free Funk:                           0.6 : 1
+Pop:                                 0.6 : 1
+Post-Disco:                          0.6 : 1

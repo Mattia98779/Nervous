@@ -1,0 +1,30 @@
+Delicate:                            0.9 : 9
+Plaintive:                           0.9 : 9
+Poignant:                            0.9 : 9
+Traditional Pop:                     0.825 : 8
+Vocal Pop:                           0.825 : 8
+Amiable/Good-Natured:                0.825 : 8
+Elegant:                             0.825 : 8
+Gentle:                              0.825 : 8
+Lush:                                0.825 : 8
+Romantic:                            0.825 : 8
+Sentimental:                         0.825 : 8
+Soothing:                            0.825 : 8
+Sweet:                               0.825 : 8
+In Love:                             0.825 : 8
+New Love:                            0.825 : 8
+Romantic Evening:                    0.825 : 8
+Slow Dance:                          0.825 : 8
+Dramatic:                            0.75 : 7
+Innocent:                            0.75 : 7
+Springlike:                          0.75 : 7
+Dinner Ambiance:                     0.75 : 7
+Seduction:                           0.75 : 7
+Calm/Peaceful:                       0.675 : 6
+Reserved:                            0.675 : 6
+Smooth:                              0.675 : 6
+Warm:                                0.675 : 6
+Comfort:                             0.675 : 6
+Relaxation:                          0.675 : 6
+Intimate:                            0.6 : 5
+Restrained:                          0.6 : 5

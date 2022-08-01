@@ -1,0 +1,35 @@
+Smooth Reggae:                       0.9 : 8
+Lively:                              0.9 : 8
+Empowering:                          0.9 : 8
+Roots Reggae:                        0.8400000000000001 : 7
+Bittersweet:                         0.8400000000000001 : 7
+Cathartic:                           0.8400000000000001 : 7
+Earthy:                              0.8400000000000001 : 7
+Gentle:                              0.8400000000000001 : 7
+Romantic:                            0.8400000000000001 : 7
+Searching:                           0.8400000000000001 : 7
+Feeling Blue:                        0.8400000000000001 : 7
+Rainy Day:                           0.8400000000000001 : 7
+Summer:                              0.8400000000000001 : 7
+Lovers Rock:                         0.78 : 6
+Confident:                           0.78 : 6
+Hypnotic:                            0.78 : 6
+Summery:                             0.78 : 6
+Sweet:                               0.78 : 6
+Wistful:                             0.78 : 6
+Reggae-Pop:                          0.72 : 5
+Earnest:                             0.72 : 5
+Intimate:                            0.72 : 5
+Organic:                             0.72 : 5
+Plaintive:                           0.72 : 5
+Poignant:                            0.72 : 5
+Warm:                                0.72 : 5
+Yearning:                            0.72 : 5
+Affection/Fondness:                  0.72 : 5
+Affirmation:                         0.72 : 5
+Freedom:                             0.72 : 5
+Hanging Out:                         0.72 : 5
+Late Night:                          0.72 : 5
+Road Trip:                           0.72 : 5
+Sunday Afternoon:                    0.72 : 5
+Breakup:                             0.6 : 3

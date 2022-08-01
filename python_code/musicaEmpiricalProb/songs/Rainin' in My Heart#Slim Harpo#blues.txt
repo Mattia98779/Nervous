@@ -1,0 +1,44 @@
+Early R&B:                           0.9000000000000001 : 9
+Rock & Roll:                         0.9000000000000001 : 9
+Louisiana Blues:                     0.84 : 8
+Regional Blues:                      0.84 : 8
+Swamp Blues:                         0.84 : 8
+Greasy:                              0.84 : 8
+Juke Joint Blues:                    0.78 : 7
+Gritty:                              0.78 : 7
+Gutsy:                               0.78 : 7
+Playful_mood:                        0.78 : 7
+Electric Harmonica Blues:            0.72 : 6
+Swamp Pop:                           0.72 : 6
+Confident:                           0.72 : 6
+Hypnotic:                            0.72 : 6
+Atmospheric:                         0.6599999999999999 : 5
+Austere:                             0.6599999999999999 : 5
+Autumnal:                            0.6599999999999999 : 5
+Bittersweet:                         0.6599999999999999 : 5
+Brooding:                            0.6599999999999999 : 5
+Earthy:                              0.6599999999999999 : 5
+Intimate:                            0.6599999999999999 : 5
+Lazy:                                0.6599999999999999 : 5
+Melancholy:                          0.6599999999999999 : 5
+Organic:                             0.6599999999999999 : 5
+Plaintive:                           0.6599999999999999 : 5
+Poignant:                            0.6599999999999999 : 5
+Romantic:                            0.6599999999999999 : 5
+Rustic:                              0.6599999999999999 : 5
+Sad:                                 0.6599999999999999 : 5
+Somber:                              0.6599999999999999 : 5
+Sparse:                              0.6599999999999999 : 5
+Weary:                               0.6599999999999999 : 5
+Wistful:                             0.6599999999999999 : 5
+Yearning:                            0.6599999999999999 : 5
+Affection/Fondness:                  0.6599999999999999 : 5
+Autumn:                              0.6599999999999999 : 5
+Breakup:                             0.6599999999999999 : 5
+Cool & Cocky:                        0.6599999999999999 : 5
+Feeling Blue:                        0.6599999999999999 : 5
+Hanging Out:                         0.6599999999999999 : 5
+Late Night:                          0.6599999999999999 : 5
+Seduction:                           0.6599999999999999 : 5
+Slow Dance:                          0.6599999999999999 : 5
+Ramshackle:                          0.6 : 4

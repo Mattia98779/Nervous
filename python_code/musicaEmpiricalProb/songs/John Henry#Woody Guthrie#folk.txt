@@ -1,0 +1,13 @@
+Traditional Folk:                    0.9 : 7
+Amiable/Good-Natured:                0.9 : 7
+Austere:                             0.9 : 7
+Earthy:                              0.9 : 7
+The Great Outdoors:                  0.9 : 7
+Bittersweet:                         0.6 : 6
+Earnest:                             0.6 : 6
+Fun:                                 0.6 : 6
+Intimate:                            0.6 : 6
+Nostalgic:                           0.6 : 6
+Playful_mood:                        0.6 : 6
+Quirky:                              0.6 : 6
+Empowering:                          0.6 : 6

@@ -1,0 +1,3 @@
+Cerebral:                            0.9 : 8
+Poignant:                            0.72 : 5
+Rustic:                              0.72 : 5

@@ -1,0 +1,23 @@
+Progressive Electronic:              0.9 : 9
+Calm/Peaceful:                       0.84 : 8
+Wintry:                              0.84 : 8
+Introspection:                       0.84 : 8
+Meditation:                          0.84 : 8
+Rainy Day:                           0.84 : 8
+Winter:                              0.84 : 8
+Cerebral:                            0.78 : 7
+Ethereal:                            0.78 : 7
+Somber:                              0.78 : 7
+Background Music:                    0.78 : 7
+Reflection:                          0.78 : 7
+Reminiscing:                         0.78 : 7
+Minimalism:                          0.72 : 6
+Dreamy:                              0.72 : 6
+Gentle:                              0.72 : 6
+Reserved:                            0.72 : 6
+Restrained:                          0.72 : 6
+Solitude:                            0.72 : 6
+Hypnotic:                            0.6599999999999999 : 5
+Trippy:                              0.6599999999999999 : 5
+Detached:                            0.6 : 4
+Reflective:                          0.6 : 4

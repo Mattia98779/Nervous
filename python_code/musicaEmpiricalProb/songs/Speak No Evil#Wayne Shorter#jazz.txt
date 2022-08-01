@@ -1,0 +1,16 @@
+Hard Bop:                            0.9 : 8
+Modal Music:                         0.9 : 8
+Post-Bop:                            0.9 : 8
+Cerebral:                            0.9 : 8
+Complex:                             0.9 : 8
+Passionate:                          0.9 : 8
+Sophisticated:                       0.9 : 8
+Elegant:                             0.8 : 7
+Reflection:                          0.8 : 7
+Small Gathering:                     0.7 : 6
+The Creative Side:                   0.7 : 6
+Exuberant:                           0.6 : 5
+Lush:                                0.6 : 5
+Searching:                           0.6 : 5
+Self-Conscious:                      0.6 : 5
+Soothing:                            0.6 : 5

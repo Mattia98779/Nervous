@@ -1,0 +1,9 @@
+Brash:                               0.9 : 8
+Urban:                               0.8571428571428572 : 7
+Rousing:                             0.8571428571428572 : 7
+New Jack Swing:                      0.6 : 1
+Fun:                                 0.6 : 1
+Playful_mood:                        0.6 : 1
+Street-Smart:                        0.6 : 1
+Mischievous:                         0.6 : 1
+Playful:                             0.6 : 1

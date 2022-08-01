@@ -1,0 +1,25 @@
+Honky Tonk:                          0.9 : 9
+Traditional Country:                 0.9 : 9
+Angry:                               0.9 : 9
+Bitter:                              0.9 : 9
+Brash:                               0.9 : 9
+Bravado:                             0.9 : 9
+Confrontational:                     0.9 : 9
+Cynical/Sarcastic:                   0.9 : 9
+Earthy:                              0.9 : 9
+Gutsy:                               0.9 : 9
+Raucous:                             0.9 : 9
+Rebellious:                          0.9 : 9
+Reckless:                            0.9 : 9
+Rollicking:                          0.9 : 9
+Rousing:                             0.9 : 9
+Swaggering:                          0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Drinking:                            0.9 : 9
+Guys Night Out:                      0.9 : 9
+Late Night:                          0.9 : 9
+TGIF:                                0.9 : 9
+Outlaw Country:                      0.6 : 8
+Boisterous:                          0.6 : 8
+Fiery:                               0.6 : 8
+Rowdy:                               0.6 : 8

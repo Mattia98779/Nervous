@@ -1,0 +1,22 @@
+Contemporary Country:                0.9 : 9
+Country-Pop:                         0.9 : 9
+Nashville Sound/Countrypolitan:      0.9 : 9
+Traditional Country:                 0.9 : 9
+Amiable/Good-Natured:                0.9 : 9
+Earnest:                             0.9 : 9
+Innocent:                            0.9 : 9
+Organic:                             0.9 : 9
+Plaintive:                           0.9 : 9
+Reflective:                          0.9 : 9
+Relaxed:                             0.9 : 9
+Sentimental:                         0.9 : 9
+Sweet:                               0.9 : 9
+Wistful:                             0.9 : 9
+Affirmation:                         0.9 : 9
+Comfort:                             0.9 : 9
+Empowering:                          0.9 : 9
+Introspection:                       0.9 : 9
+Reflection:                          0.9 : 9
+Reminiscing:                         0.9 : 9
+Earthy:                              0.6 : 8
+Passionate:                          0.6 : 8

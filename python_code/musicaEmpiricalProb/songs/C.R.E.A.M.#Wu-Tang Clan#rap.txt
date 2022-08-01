@@ -1,0 +1,22 @@
+East Coast Rap:                      0.9 : 9
+Laid-Back/Mellow:                    0.9 : 9
+Rowdy:                               0.9 : 9
+Swaggering:                          0.9 : 9
+Visceral:                            0.9 : 9
+Guys Night Out:                      0.9 : 9
+Hardcore Rap:                        0.825 : 8
+Detached:                            0.825 : 8
+Thuggish:                            0.825 : 8
+Cool & Cocky:                        0.825 : 8
+Freedom:                             0.825 : 8
+Confident:                           0.75 : 7
+Hedonistic:                          0.75 : 7
+Rambunctious:                        0.75 : 7
+Rebellious:                          0.75 : 7
+Drinking:                            0.75 : 7
+Aggressive:                          0.6749999999999999 : 6
+Boisterous:                          0.6749999999999999 : 6
+Freewheeling:                        0.6749999999999999 : 6
+Ominous:                             0.6749999999999999 : 6
+Provocative:                         0.6749999999999999 : 6
+Street-Smart:                        0.6 : 5

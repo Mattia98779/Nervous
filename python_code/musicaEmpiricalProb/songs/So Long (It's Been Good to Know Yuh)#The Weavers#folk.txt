@@ -1,0 +1,17 @@
+Folk Revival:                        0.9 : 8
+Political Folk:                      0.9 : 8
+Traditional Folk:                    0.9 : 8
+Warm:                                0.9 : 8
+Amiable/Good-Natured:                0.7000000000000001 : 6
+Dramatic:                            0.7000000000000001 : 6
+Earnest:                             0.7000000000000001 : 6
+Earthy:                              0.7000000000000001 : 6
+Exuberant:                           0.7000000000000001 : 6
+Plaintive:                           0.7000000000000001 : 6
+Poignant:                            0.7000000000000001 : 6
+Reverent:                            0.7000000000000001 : 6
+Rousing:                             0.7000000000000001 : 6
+Irreverent:                          0.6 : 5
+Whimsical:                           0.6 : 5
+Summer:                              0.6 : 5
+Sunday Afternoon:                    0.6 : 5

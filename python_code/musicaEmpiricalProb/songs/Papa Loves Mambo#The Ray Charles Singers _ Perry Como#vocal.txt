@@ -1,0 +1,27 @@
+Boisterous:                          0.9 : 9
+Fun:                                 0.9 : 9
+Happy:                               0.9 : 9
+Lively:                              0.9 : 9
+Playful_mood:                        0.9 : 9
+Reserved:                            0.9 : 9
+Dinner Ambiance:                     0.9 : 9
+Picnic:                              0.9 : 9
+Pool Party:                          0.9 : 9
+Vocal Pop:                           0.8250000000000001 : 8
+Celebratory:                         0.8250000000000001 : 8
+Exuberant:                           0.8250000000000001 : 8
+Summer:                              0.8250000000000001 : 8
+Traditional Pop:                     0.75 : 7
+Amiable/Good-Natured:                0.75 : 7
+Energetic:                           0.75 : 7
+Rousing:                             0.75 : 7
+Smooth:                              0.75 : 7
+Summery:                             0.75 : 7
+Partying:                            0.75 : 7
+Gleeful:                             0.675 : 6
+Joyous:                              0.675 : 6
+Light:                               0.675 : 6
+Warm:                                0.675 : 6
+Celebration:                         0.675 : 6
+Carefree:                            0.6 : 5
+Cheerful:                            0.6 : 5

@@ -1,0 +1,38 @@
+Hard Bop:                            0.9 : 9
+Mainstream Jazz:                     0.9 : 9
+Soul Jazz:                           0.9 : 9
+Amiable/Good-Natured:                0.9 : 9
+Confident:                           0.9 : 9
+Exuberant:                           0.9 : 9
+Freewheeling:                        0.9 : 9
+Lively:                              0.9 : 9
+Rollicking:                          0.9 : 9
+Searching:                           0.9 : 9
+Sophisticated:                       0.9 : 9
+Stylish:                             0.9 : 9
+Witty:                               0.9 : 9
+Empowering:                          0.9 : 9
+Freedom:                             0.9 : 9
+Hanging Out:                         0.9 : 9
+Mischievous:                         0.9 : 9
+Motivation:                          0.9 : 9
+Small Gathering:                     0.9 : 9
+The Creative Side:                   0.9 : 9
+Victory:                             0.9 : 9
+Gritty:                              0.75 : 8
+Playful_mood:                        0.75 : 8
+Street-Smart:                        0.75 : 8
+Playful:                             0.75 : 8
+The Great Outdoors:                  0.75 : 8
+Carefree:                            0.6 : 7
+Dramatic:                            0.6 : 7
+Earnest:                             0.6 : 7
+Earthy:                              0.6 : 7
+Energetic:                           0.6 : 7
+Lazy:                                0.6 : 7
+Literate:                            0.6 : 7
+Passionate:                          0.6 : 7
+Warm:                                0.6 : 7
+Wry:                                 0.6 : 7
+Affirmation:                         0.6 : 7
+Cool & Cocky:                        0.6 : 7

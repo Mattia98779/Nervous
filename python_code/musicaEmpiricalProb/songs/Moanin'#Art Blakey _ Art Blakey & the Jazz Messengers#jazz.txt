@@ -1,0 +1,22 @@
+Hard Bop:                            0.9000000000000001 : 9
+Aggressive:                          0.9000000000000001 : 9
+Cathartic:                           0.9000000000000001 : 9
+Intense:                             0.9000000000000001 : 9
+Hanging Out:                         0.9000000000000001 : 9
+Late Night:                          0.9000000000000001 : 9
+Small Gathering:                     0.9000000000000001 : 9
+The Creative Side:                   0.9000000000000001 : 9
+Confident:                           0.84 : 8
+Earthy:                              0.84 : 8
+Sophisticated:                       0.84 : 8
+Energetic:                           0.78 : 7
+Fiery:                               0.78 : 7
+Rousing:                             0.78 : 7
+Boisterous:                          0.72 : 6
+Passionate:                          0.72 : 6
+Relaxed:                             0.72 : 6
+Swaggering:                          0.72 : 6
+Complex:                             0.6599999999999999 : 5
+Celebration:                         0.6599999999999999 : 5
+TGIF:                                0.6599999999999999 : 5
+Playful_mood:                        0.6 : 4

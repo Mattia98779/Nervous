@@ -1,0 +1,17 @@
+Adult Alternative:                   0.9 : 8
+Ambitious:                           0.8 : 7
+Complex:                             0.8 : 7
+Dramatic:                            0.8 : 7
+Elaborate:                           0.8 : 7
+Literate:                            0.8 : 7
+Lush:                                0.8 : 7
+Refined:                             0.8 : 7
+Reflective:                          0.8 : 7
+Soothing:                            0.8 : 7
+Theatrical:                          0.8 : 7
+Contemporary Instrumental:           0.6 : 5
+Introspection:                       0.6 : 5
+Meditation:                          0.6 : 5
+Reflection:                          0.6 : 5
+Relaxation:                          0.6 : 5
+Solitude:                            0.6 : 5

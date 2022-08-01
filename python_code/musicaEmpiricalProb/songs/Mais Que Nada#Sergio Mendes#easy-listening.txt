@@ -1,0 +1,26 @@
+Brazilian Traditions:                0.9 : 9
+Latin Pop:                           0.9 : 9
+Lounge:                              0.9 : 9
+Samba:                               0.9 : 9
+Boisterous:                          0.9 : 9
+Bright:                              0.9 : 9
+Confident:                           0.9 : 9
+Effervescent:                        0.9 : 9
+Energetic:                           0.9 : 9
+Exciting:                            0.9 : 9
+Exuberant:                           0.9 : 9
+Fun:                                 0.9 : 9
+Lively:                              0.9 : 9
+Sexy:                                0.9 : 9
+Slick:                               0.9 : 9
+Smooth:                              0.9 : 9
+Sophisticated:                       0.9 : 9
+Spicy:                               0.9 : 9
+Summery:                             0.9 : 9
+Hanging Out:                         0.9 : 9
+Partying:                            0.9 : 9
+Playful:                             0.9 : 9
+Road Trip:                           0.9 : 9
+Sex:                                 0.9 : 9
+Summer:                              0.9 : 9
+Laid-Back/Mellow:                    0.6 : 8

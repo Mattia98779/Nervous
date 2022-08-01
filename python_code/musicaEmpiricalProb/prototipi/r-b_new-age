@@ -1,0 +1,31 @@
+#Title composizione
+Title : r-b#new-age
+
+#Concetto Principale
+Head Concept Name : r-b
+Head Concept Count : 43
+
+#Concetto Modificatore
+Modifier Concept Name : new-age
+Modifier Concept Count : 48
+
+
+
+
+
+T(modifier), -Worldbeat, 0.9, 47
+T(modifier), -Crossover Jazz, 0.9, 47
+T(modifier), Reflection, 0.9, 29
+T(modifier), Soothing, 0.8892857142857142, 28
+T(modifier), Introspection, 0.8892857142857142, 28
+T(modifier), Hypnotic, 0.8785714285714286, 27
+
+T(head), -Teen Pop, 0.9, 42
+T(head), -Separation, 0.9, 42
+T(head), Soul, 0.9, 21
+T(head), Playful_mood, 0.855, 18
+T(head), Energetic, 0.855, 18
+T(head), Partying, 0.855, 18
+
+
+Result : '1', '1', '1', '0', '1', '0', '1', '1', '0', '0', '0', '0', 5.843359288482834

@@ -1,0 +1,31 @@
+#Title composizione
+Title : avant-garde#jazz
+
+#Concetto Principale
+Head Concept Name : avant-garde
+Head Concept Count : 13
+
+#Concetto Modificatore
+Modifier Concept Name : jazz
+Modifier Concept Count : 48
+
+
+
+
+
+T(modifier), -Soundtracks, 0.9, 47
+T(modifier), -Movie Themes, 0.9, 47
+T(modifier), Sophisticated, 0.9, 38
+T(modifier), Freewheeling, 0.8675675675675676, 34
+T(modifier), Confident, 0.8432432432432433, 31
+T(modifier), Amiable/Good-Natured, 0.8432432432432433, 31
+
+T(head), -Freedom, 0.9, 12
+T(head), -Dramatic, 0.9, 12
+T(head), The Creative Side, 0.9, 6
+T(head), Cerebral, 0.84, 5
+T(head), Uncompromising, 0.78, 4
+T(head), Provocative, 0.78, 4
+
+
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 5.502228863478864

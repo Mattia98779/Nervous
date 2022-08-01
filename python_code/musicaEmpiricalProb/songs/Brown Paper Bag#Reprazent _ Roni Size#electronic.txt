@@ -1,0 +1,17 @@
+Club/Dance:                          0.9 : 9
+Jungle/Drum'n'Bass:                  0.9 : 9
+Energetic:                           0.9 : 9
+Exciting:                            0.9 : 9
+Club:                                0.9 : 9
+Intense:                             0.8500000000000001 : 8
+Hypnotic:                            0.8 : 7
+Night Driving:                       0.8 : 7
+Ambitious:                           0.75 : 6
+Complex:                             0.75 : 6
+Rousing:                             0.75 : 6
+Sophisticated:                       0.75 : 6
+Late Night:                          0.75 : 6
+Lively:                              0.7 : 5
+Restrained:                          0.65 : 4
+Partying:                            0.65 : 4
+Dreamy:                              0.6 : 3

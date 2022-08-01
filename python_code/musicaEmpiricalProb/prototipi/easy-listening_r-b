@@ -1,0 +1,31 @@
+#Title composizione
+Title : easy-listening#r-b
+
+#Concetto Principale
+Head Concept Name : easy-listening
+Head Concept Count : 43
+
+#Concetto Modificatore
+Modifier Concept Name : r-b
+Modifier Concept Count : 43
+
+
+
+
+
+T(modifier), -Teen Pop, 0.9, 42
+T(modifier), -Separation, 0.9, 42
+T(modifier), Soul, 0.9, 21
+T(modifier), Playful_mood, 0.855, 18
+T(modifier), Energetic, 0.855, 18
+T(modifier), Partying, 0.855, 18
+
+T(head), -Wry, 0.9, 42
+T(head), -Gleeful, 0.9, 42
+T(head), Dinner Ambiance, 0.9, 27
+T(head), Amiable/Good-Natured, 0.8884615384615384, 26
+T(head), Relaxation, 0.8653846153846154, 24
+T(head), Soothing, 0.8653846153846154, 24
+
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 5.999803220035779

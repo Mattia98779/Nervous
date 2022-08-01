@@ -1,0 +1,72 @@
+Mainstream Jazz:                     0.9000000000000001 : 9
+Epic:                                0.9000000000000001 : 9
+Gentle:                              0.9000000000000001 : 9
+Intimate:                            0.9000000000000001 : 9
+Nocturnal:                           0.9000000000000001 : 9
+Passionate:                          0.9000000000000001 : 9
+Romantic:                            0.9000000000000001 : 9
+Sentimental:                         0.9000000000000001 : 9
+Soothing:                            0.9000000000000001 : 9
+Comfort:                             0.9000000000000001 : 9
+In Love:                             0.9000000000000001 : 9
+Romantic Evening:                    0.9000000000000001 : 9
+Slow Dance:                          0.9000000000000001 : 9
+Cool:                                0.825 : 8
+West Coast Jazz:                     0.825 : 8
+Elegant:                             0.825 : 8
+Pastoral:                            0.825 : 8
+Precious:                            0.825 : 8
+Provocative:                         0.825 : 8
+Searching:                           0.825 : 8
+Sexual:                              0.825 : 8
+Sexy:                                0.825 : 8
+Soft/Quiet:                          0.825 : 8
+Stately:                             0.825 : 8
+Wistful:                             0.825 : 8
+Affection/Fondness:                  0.825 : 8
+Late Night:                          0.825 : 8
+Reminiscing:                         0.825 : 8
+Sex:                                 0.825 : 8
+Stay in Bed:                         0.825 : 8
+Sweet Dreams:                        0.825 : 8
+Torch Songs:                         0.75 : 7
+Vocal Jazz:                          0.75 : 7
+Delicate:                            0.75 : 7
+Innocent:                            0.75 : 7
+Laid-Back/Mellow:                    0.75 : 7
+Poignant:                            0.75 : 7
+Smooth:                              0.75 : 7
+Sophisticated:                       0.75 : 7
+Stylish:                             0.75 : 7
+Sweet:                               0.75 : 7
+Affirmation:                         0.75 : 7
+Introspection:                       0.75 : 7
+Long Walk:                           0.75 : 7
+Rainy Day:                           0.75 : 7
+Autumnal:                            0.6749999999999999 : 6
+Bittersweet:                         0.6749999999999999 : 6
+Melancholy:                          0.6749999999999999 : 6
+Reflective:                          0.6749999999999999 : 6
+Springlike:                          0.6749999999999999 : 6
+Seduction:                           0.6749999999999999 : 6
+Sunday Afternoon:                    0.6749999999999999 : 6
+Amiable/Good-Natured:                0.6 : 5
+Brooding:                            0.6 : 5
+Calm/Peaceful:                       0.6 : 5
+Earnest:                             0.6 : 5
+Earthy:                              0.6 : 5
+Ethereal:                            0.6 : 5
+Literate:                            0.6 : 5
+Plaintive:                           0.6 : 5
+Refined:                             0.6 : 5
+Restrained:                          0.6 : 5
+Street-Smart:                        0.6 : 5
+Warm:                                0.6 : 5
+Empowering:                          0.6 : 5
+Freedom:                             0.6 : 5
+Motivation:                          0.6 : 5
+Reflection:                          0.6 : 5
+Sports:                              0.6 : 5
+The Creative Side:                   0.6 : 5
+The Great Outdoors:                  0.6 : 5
+Victory:                             0.6 : 5

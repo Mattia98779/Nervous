@@ -1,0 +1,31 @@
+#Title composizione
+Title : rap#classical
+
+#Concetto Principale
+Head Concept Name : rap
+Head Concept Count : 32
+
+#Concetto Modificatore
+Modifier Concept Name : classical
+Modifier Concept Count : 7
+
+
+
+
+
+T(modifier), -Wistful, 0.9, 6
+T(modifier), -Tender, 0.9, 6
+T(modifier), Sentimental, 0.9, 4
+T(modifier), Confident, 0.9, 4
+T(modifier), Classical Crossover, 0.8, 3
+T(modifier), Melancholy, 0.8, 3
+
+T(head), -Unsettling, 0.9, 31
+T(head), -Solitude, 0.9, 31
+T(head), Brash, 0.9, 26
+T(head), Street-Smart, 0.864, 23
+T(head), Confident, 0.8400000000000001, 21
+T(head), Partying, 0.8400000000000001, 21
+
+
+Result : '0', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '1', 5.448678571428571

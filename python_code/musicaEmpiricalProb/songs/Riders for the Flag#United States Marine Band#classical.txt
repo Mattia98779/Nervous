@@ -1,0 +1,13 @@
+Marches:                             0.9 : 9
+Brassy:                              0.9 : 9
+Boisterous:                          0.6 : 8
+Confident:                           0.6 : 8
+Dramatic:                            0.6 : 8
+Exuberant:                           0.6 : 8
+Joyous:                              0.6 : 8
+Rousing:                             0.6 : 8
+Award Winners:                       0.6 : 8
+Celebration:                         0.6 : 8
+Empowering:                          0.6 : 8
+Freedom:                             0.6 : 8
+Victory:                             0.6 : 8

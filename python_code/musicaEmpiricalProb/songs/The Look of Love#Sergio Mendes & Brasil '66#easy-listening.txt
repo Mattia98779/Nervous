@@ -1,0 +1,45 @@
+Early Pop/Rock:                      0.9 : 9
+Latin Pop:                           0.9 : 9
+Brassy:                              0.9 : 9
+Bright:                              0.9 : 9
+Dreamy:                              0.9 : 9
+Laid-Back/Mellow:                    0.9 : 9
+Light:                               0.9 : 9
+Lively:                              0.9 : 9
+Nocturnal:                           0.9 : 9
+Plaintive:                           0.9 : 9
+Reflective:                          0.9 : 9
+Romantic:                            0.9 : 9
+Sensual:                             0.9 : 9
+Sexy:                                0.9 : 9
+Slick:                               0.9 : 9
+Smooth:                              0.9 : 9
+Sophisticated:                       0.9 : 9
+Spicy:                               0.9 : 9
+Stylish:                             0.9 : 9
+Warm:                                0.9 : 9
+Wistful:                             0.9 : 9
+Background Music:                    0.9 : 9
+Dinner Ambiance:                     0.9 : 9
+In Love:                             0.9 : 9
+New Love:                            0.9 : 9
+Relaxation:                          0.9 : 9
+Romantic Evening:                    0.9 : 9
+Seduction:                           0.9 : 9
+Sex:                                 0.9 : 9
+Spring:                              0.9 : 9
+Summer:                              0.9 : 9
+Bossa Nova:                          0.84 : 8
+Brazilian Traditions:                0.84 : 8
+Lounge:                              0.84 : 8
+Refined:                             0.84 : 8
+Sweet:                               0.84 : 8
+Relaxed:                             0.78 : 7
+Soothing:                            0.78 : 7
+Summery:                             0.78 : 7
+Samba:                               0.72 : 6
+Elegant:                             0.72 : 6
+Gentle:                              0.72 : 6
+Innocent:                            0.72 : 6
+Amiable/Good-Natured:                0.6599999999999999 : 5
+Soft Rock:                           0.6 : 4

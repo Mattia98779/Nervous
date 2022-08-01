@@ -1,0 +1,47 @@
+Acoustic Blues:                      0.9 : 8
+Blues Revival:                       0.9 : 8
+Country Blues:                       0.9 : 8
+Delta Blues:                         0.9 : 8
+Regional Blues:                      0.9 : 8
+Organic:                             0.9 : 8
+Earthy:                              0.8 : 7
+Ethereal:                            0.8 : 7
+Laid-Back/Mellow:                    0.8 : 7
+Atmospheric:                         0.7 : 6
+Hypnotic:                            0.7 : 6
+Pre-War Country Blues:               0.6 : 5
+Angst-Ridden:                        0.6 : 5
+Austere:                             0.6 : 5
+Autumnal:                            0.6 : 5
+Bleak:                               0.6 : 5
+Brooding:                            0.6 : 5
+Delicate:                            0.6 : 5
+Eccentric:                           0.6 : 5
+Eerie:                               0.6 : 5
+Intense:                             0.6 : 5
+Intimate:                            0.6 : 5
+Ominous:                             0.6 : 5
+Plaintive:                           0.6 : 5
+Poignant:                            0.6 : 5
+Quirky:                              0.6 : 5
+Rustic:                              0.6 : 5
+Sad:                                 0.6 : 5
+Somber:                              0.6 : 5
+Sparse:                              0.6 : 5
+Spooky:                              0.6 : 5
+Tense/Anxious:                       0.6 : 5
+Urgent:                              0.6 : 5
+Weary:                               0.6 : 5
+Wistful:                             0.6 : 5
+Autumn:                              0.6 : 5
+Early Morning:                       0.6 : 5
+Empowering:                          0.6 : 5
+Feeling Blue:                        0.6 : 5
+Freedom:                             0.6 : 5
+Hanging Out:                         0.6 : 5
+Introspection:                       0.6 : 5
+Late Night:                          0.6 : 5
+Rainy Day:                           0.6 : 5
+Road Trip:                           0.6 : 5
+Solitude:                            0.6 : 5
+Sunday Afternoon:                    0.6 : 5

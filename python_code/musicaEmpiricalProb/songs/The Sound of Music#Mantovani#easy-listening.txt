@@ -1,0 +1,22 @@
+Orchestral/Easy Listening:           0.9 : 8
+Delicate:                            0.8 : 7
+Gentle:                              0.8 : 7
+Intimate:                            0.8 : 7
+Lush:                                0.8 : 7
+Precious:                            0.8 : 7
+Refined:                             0.8 : 7
+Restrained:                          0.8 : 7
+Soft/Quiet:                          0.8 : 7
+Soothing:                            0.8 : 7
+Sweet:                               0.8 : 7
+Dinner Ambiance:                     0.8 : 7
+Introspection:                       0.8 : 7
+Reflection:                          0.8 : 7
+Romantic Evening:                    0.8 : 7
+Stay in Bed:                         0.8 : 7
+Sunday Afternoon:                    0.8 : 7
+Reflective:                          0.7 : 6
+Sentimental:                         0.7 : 6
+Wistful:                             0.7 : 6
+Sweet Dreams:                        0.7 : 6
+Laid-Back/Mellow:                    0.6 : 5

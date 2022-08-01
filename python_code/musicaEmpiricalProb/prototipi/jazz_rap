@@ -1,0 +1,31 @@
+#Title composizione
+Title : jazz#rap
+
+#Concetto Principale
+Head Concept Name : jazz
+Head Concept Count : 48
+
+#Concetto Modificatore
+Modifier Concept Name : rap
+Modifier Concept Count : 32
+
+
+
+
+
+T(modifier), -Unsettling, 0.9, 31
+T(modifier), -Solitude, 0.9, 31
+T(modifier), Brash, 0.9, 26
+T(modifier), Street-Smart, 0.864, 23
+T(modifier), Confident, 0.8400000000000001, 21
+T(modifier), Partying, 0.8400000000000001, 21
+
+T(head), -Soundtracks, 0.9, 47
+T(head), -Movie Themes, 0.9, 47
+T(head), Sophisticated, 0.9, 38
+T(head), Freewheeling, 0.8675675675675676, 34
+T(head), Confident, 0.8432432432432433, 31
+T(head), Amiable/Good-Natured, 0.8432432432432433, 31
+
+
+Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 6.090242117117118

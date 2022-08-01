@@ -1,0 +1,20 @@
+Organic:                             0.9 : 8
+Continental Jazz:                    0.6 : 5
+Gypsy:                               0.6 : 5
+South/Eastern European Traditions:   0.6 : 5
+Swing:                               0.6 : 5
+Cheerful:                            0.6 : 5
+Delicate:                            0.6 : 5
+Energetic:                           0.6 : 5
+Freewheeling:                        0.6 : 5
+Lively:                              0.6 : 5
+Playful_mood:                        0.6 : 5
+Refined:                             0.6 : 5
+Rollicking:                          0.6 : 5
+Sweet:                               0.6 : 5
+Whimsical:                           0.6 : 5
+Witty:                               0.6 : 5
+Hanging Out:                         0.6 : 5
+Romantic Evening:                    0.6 : 5
+Summer:                              0.6 : 5
+TGIF:                                0.6 : 5

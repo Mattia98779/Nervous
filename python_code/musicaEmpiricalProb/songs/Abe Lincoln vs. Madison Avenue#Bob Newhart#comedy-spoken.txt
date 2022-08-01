@@ -1,0 +1,25 @@
+Observational Humor:                 0.9 : 9
+Standup Comedy:                      0.9 : 9
+Cerebral:                            0.9 : 9
+Cynical/Sarcastic:                   0.9 : 9
+Earnest:                             0.9 : 9
+Eccentric:                           0.9 : 9
+Humorous:                            0.9 : 9
+Ironic:                              0.9 : 9
+Quirky:                              0.9 : 9
+Refined:                             0.9 : 9
+Reflective:                          0.9 : 9
+Sophisticated:                       0.9 : 9
+Wry:                                 0.9 : 9
+Mischievous:                         0.9 : 9
+Comedy:                              0.8250000000000001 : 8
+Playful_mood:                        0.75 : 7
+Silly:                               0.75 : 7
+Witty:                               0.75 : 7
+Political Comedy:                    0.6749999999999999 : 6
+Relaxed:                             0.6749999999999999 : 6
+Hanging Out:                         0.6749999999999999 : 6
+Literate:                            0.6 : 5
+Self-Conscious:                      0.6 : 5
+Playful:                             0.6 : 5
+The Creative Side:                   0.6 : 5

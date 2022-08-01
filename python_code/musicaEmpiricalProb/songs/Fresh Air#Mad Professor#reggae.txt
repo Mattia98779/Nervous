@@ -1,0 +1,11 @@
+Dub:                                 0.9 : 8
+Spacey:                              0.9 : 8
+Sparse:                              0.9 : 8
+Roots Reggae:                        0.825 : 7
+Hypnotic:                            0.825 : 7
+Summery:                             0.825 : 7
+Ethereal:                            0.75 : 6
+Trippy:                              0.75 : 6
+At the Beach:                        0.6749999999999999 : 5
+Pool Party:                          0.6749999999999999 : 5
+Meandering:                          0.6 : 4

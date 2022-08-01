@@ -1,0 +1,45 @@
+Early Jazz:                          0.9 : 9
+Bright:                              0.9 : 9
+Celebratory:                         0.9 : 9
+Cheerful:                            0.9 : 9
+Confident:                           0.9 : 9
+Energetic:                           0.9 : 9
+Freewheeling:                        0.9 : 9
+Happy:                               0.9 : 9
+Light:                               0.9 : 9
+Lively:                              0.9 : 9
+Playful_mood:                        0.9 : 9
+Stylish:                             0.9 : 9
+Swaggering:                          0.9 : 9
+Reunion:                             0.9 : 9
+Big Band:                            0.825 : 8
+Swing:                               0.825 : 8
+Boisterous:                          0.825 : 8
+Carefree:                            0.825 : 8
+Fun:                                 0.825 : 8
+Rollicking:                          0.825 : 8
+Sophisticated:                       0.825 : 8
+Warm:                                0.825 : 8
+Cool & Cocky:                        0.825 : 8
+Day Driving:                         0.825 : 8
+Mainstream Jazz:                     0.75 : 7
+Amiable/Good-Natured:                0.75 : 7
+Earnest:                             0.75 : 7
+Elegant:                             0.75 : 7
+Literate:                            0.75 : 7
+Refined:                             0.75 : 7
+Restrained:                          0.75 : 7
+Witty:                               0.75 : 7
+Homecoming:                          0.75 : 7
+Playful:                             0.75 : 7
+Whimsical:                           0.675 : 6
+Affirmation:                         0.675 : 6
+The Great Outdoors:                  0.675 : 6
+Earthy:                              0.6 : 5
+Humorous:                            0.6 : 5
+Passionate:                          0.6 : 5
+Freedom:                             0.6 : 5
+Hanging Out:                         0.6 : 5
+Motivation:                          0.6 : 5
+Sports:                              0.6 : 5
+The Creative Side:                   0.6 : 5

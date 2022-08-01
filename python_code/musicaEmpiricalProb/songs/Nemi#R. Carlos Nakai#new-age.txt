@@ -1,0 +1,27 @@
+Contemporary Instrumental:           0.9 : 9
+Atmospheric:                         0.9 : 9
+Austere:                             0.9 : 9
+Calm/Peaceful:                       0.9 : 9
+Delicate:                            0.9 : 9
+Earthy:                              0.9 : 9
+Ethereal:                            0.9 : 9
+Gentle:                              0.9 : 9
+Hypnotic:                            0.9 : 9
+Intimate:                            0.9 : 9
+Laid-Back/Mellow:                    0.9 : 9
+Organic:                             0.9 : 9
+Pastoral:                            0.9 : 9
+Plaintive:                           0.9 : 9
+Relaxed:                             0.9 : 9
+Sensual:                             0.9 : 9
+Smooth:                              0.9 : 9
+Soothing:                            0.9 : 9
+Spiritual:                           0.9 : 9
+Background Music:                    0.9 : 9
+Early Morning:                       0.9 : 9
+Introspection:                       0.9 : 9
+Meditation:                          0.9 : 9
+Reflection:                          0.9 : 9
+Relaxation:                          0.9 : 9
+Solitude:                            0.9 : 9
+Ethnic Fusion:                       0.6 : 8

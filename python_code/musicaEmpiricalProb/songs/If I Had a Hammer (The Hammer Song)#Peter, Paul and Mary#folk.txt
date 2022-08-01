@@ -1,0 +1,17 @@
+Traditional Folk:                    0.9 : 9
+Folk-Pop:                            0.8 : 8
+Calm/Peaceful:                       0.8 : 8
+Pastoral:                            0.8 : 8
+Precious:                            0.8 : 8
+Refined:                             0.8 : 8
+Sentimental:                         0.8 : 8
+Soothing:                            0.8 : 8
+Warm:                                0.8 : 8
+Amiable/Good-Natured:                0.7 : 7
+Gentle:                              0.7 : 7
+Poignant:                            0.7 : 7
+Relaxed:                             0.7 : 7
+Motivation:                          0.7 : 7
+Affection/Fondness:                  0.6 : 6
+Affirmation:                         0.6 : 6
+Empowering:                          0.6 : 6

@@ -1,0 +1,31 @@
+#Title composizione
+Title : avant-garde#electronic
+
+#Concetto Principale
+Head Concept Name : avant-garde
+Head Concept Count : 13
+
+#Concetto Modificatore
+Modifier Concept Name : electronic
+Modifier Concept Count : 38
+
+
+
+
+
+T(modifier), -Delicate, 0.9, 37
+T(modifier), -Sprawling, 0.9, 37
+T(modifier), Hypnotic, 0.9, 27
+T(modifier), Electronica, 0.8538461538461538, 23
+T(modifier), Trippy, 0.8538461538461538, 23
+T(modifier), Techno, 0.8307692307692307, 21
+
+T(head), -Freedom, 0.9, 12
+T(head), -Dramatic, 0.9, 12
+T(head), The Creative Side, 0.9, 6
+T(head), Cerebral, 0.84, 5
+T(head), Uncompromising, 0.78, 4
+T(head), Provocative, 0.78, 4
+
+
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 5.368987854251013

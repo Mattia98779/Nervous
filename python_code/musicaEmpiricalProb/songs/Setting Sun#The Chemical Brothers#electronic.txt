@@ -1,0 +1,40 @@
+Big Beat:                            0.9 : 9
+Electronica:                         0.9 : 9
+Funky Breaks:                        0.9 : 9
+Cathartic:                           0.9 : 9
+Fiery:                               0.9 : 9
+Harsh:                               0.9 : 9
+Intense:                             0.9 : 9
+Manic:                               0.9 : 9
+Rousing:                             0.9 : 9
+Trippy:                              0.9 : 9
+Club:                                0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Guys Night Out:                      0.9 : 9
+Motivation:                          0.9 : 9
+Road Trip:                           0.9 : 9
+TGIF:                                0.9 : 9
+Club/Dance:                          0.8625 : 8
+Trip-Hop:                            0.8625 : 8
+Energetic:                           0.8625 : 8
+Raucous:                             0.8625 : 8
+Urgent:                              0.8625 : 8
+Visceral:                            0.8625 : 8
+Freedom:                             0.8625 : 8
+Partying:                            0.8625 : 8
+Sports:                              0.8625 : 8
+Acid House:                          0.825 : 7
+House:                               0.825 : 7
+Boisterous:                          0.825 : 7
+Brash:                               0.825 : 7
+Celebratory:                         0.825 : 7
+Clinical:                            0.825 : 7
+Stylish:                             0.825 : 7
+Swaggering:                          0.825 : 7
+Exercise/Workout:                    0.825 : 7
+Housework:                           0.825 : 7
+Aggressive:                          0.7875 : 6
+Confident:                           0.7875 : 6
+Exuberant:                           0.7875 : 6
+Rambunctious:                        0.7875 : 6
+Experimental:                        0.6 : 1

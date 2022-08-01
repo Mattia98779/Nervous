@@ -1,0 +1,9 @@
+Early R&B:                           0.9 : 8
+Jump Blues:                          0.9 : 8
+Regional Blues:                      0.9 : 8
+West Coast Blues:                    0.9 : 8
+Boisterous:                          0.9 : 8
+Exuberant:                           0.9 : 8
+Rowdy:                               0.9 : 8
+Happy:                               0.6 : 7
+Rousing:                             0.6 : 7

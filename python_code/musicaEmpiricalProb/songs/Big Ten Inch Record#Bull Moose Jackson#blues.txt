@@ -1,0 +1,15 @@
+Dirty Blues:                         0.9 : 9
+Jump Blues:                          0.9 : 9
+Fun:                                 0.9 : 9
+Playful_mood:                        0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Playful:                             0.9 : 9
+TGIF:                                0.9 : 9
+Early R&B:                           0.8400000000000001 : 8
+Exuberant:                           0.8400000000000001 : 8
+Boisterous:                          0.78 : 7
+Energetic:                           0.78 : 7
+Humorous:                            0.78 : 7
+Rousing:                             0.72 : 6
+Gleeful:                             0.6599999999999999 : 5
+Carefree:                            0.6 : 4

@@ -1,0 +1,19 @@
+Adult Alternative:                   0.9 : 9
+Club/Dance:                          0.9 : 9
+Experimental Electronic:             0.9 : 9
+Mixed Media:                         0.9 : 9
+Progressive Electronic:              0.75 : 8
+Cerebral:                            0.75 : 8
+Eerie:                               0.75 : 8
+Happy:                               0.75 : 8
+Hypnotic:                            0.75 : 8
+Sophisticated:                       0.75 : 8
+Stylish:                             0.75 : 8
+Theatrical:                          0.75 : 8
+Detached:                            0.6 : 7
+Dramatic:                            0.6 : 7
+Elaborate:                           0.6 : 7
+Playful_mood:                        0.6 : 7
+Poignant:                            0.6 : 7
+Reflective:                          0.6 : 7
+Rousing:                             0.6 : 7

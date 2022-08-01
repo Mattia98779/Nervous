@@ -1,0 +1,25 @@
+Experimental Techno:                 0.9 : 9
+IDM:                                 0.9 : 9
+Techno:                              0.9 : 9
+Brittle:                             0.9 : 9
+Cerebral:                            0.9 : 9
+Clinical:                            0.9 : 9
+Cold:                                0.9 : 9
+Detached:                            0.9 : 9
+Wintry:                              0.9 : 9
+Late Night:                          0.9 : 9
+The Creative Side:                   0.9 : 9
+Ambient Techno:                      0.8 : 8
+Electro-Techno:                      0.8 : 8
+Circular:                            0.8 : 8
+Winter:                              0.8 : 8
+Crunchy:                             0.7000000000000001 : 7
+Fractured:                           0.7000000000000001 : 7
+Hypnotic:                            0.7000000000000001 : 7
+Somber:                              0.7000000000000001 : 7
+Scary Music:                         0.7000000000000001 : 7
+Electronica:                         0.6 : 6
+Gloomy:                              0.6 : 6
+Ominous:                             0.6 : 6
+Restrained:                          0.6 : 6
+Trippy:                              0.6 : 6

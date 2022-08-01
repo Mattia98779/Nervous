@@ -1,0 +1,48 @@
+Contemporary Instrumental:           0.9 : 9
+Progressive Electronic:              0.9 : 9
+Bright:                              0.9 : 9
+Cerebral:                            0.9 : 9
+Hypnotic:                            0.9 : 9
+Laid-Back/Mellow:                    0.9 : 9
+Light:                               0.9 : 9
+Reserved:                            0.9 : 9
+Smooth:                              0.9 : 9
+Soothing:                            0.9 : 9
+Affirmation:                         0.9 : 9
+Background Music:                    0.9 : 9
+Comfort:                             0.9 : 9
+Empowering:                          0.9 : 9
+Introspection:                       0.9 : 9
+Meditation:                          0.9 : 9
+Reflection:                          0.9 : 9
+Relaxation:                          0.9 : 9
+Solitude:                            0.9 : 9
+Sweet Dreams:                        0.9 : 9
+The Creative Side:                   0.9 : 9
+Ambient:                             0.825 : 8
+Atmospheric:                         0.825 : 8
+Calm/Peaceful:                       0.825 : 8
+Dreamy:                              0.825 : 8
+Elegant:                             0.825 : 8
+Ethereal:                            0.825 : 8
+Gentle:                              0.825 : 8
+Intimate:                            0.825 : 8
+Refined:                             0.825 : 8
+Relaxed:                             0.825 : 8
+Sophisticated:                       0.825 : 8
+Spacey:                              0.825 : 8
+Sparkling:                           0.825 : 8
+Sparse:                              0.825 : 8
+Spiritual:                           0.825 : 8
+Adult Alternative:                   0.75 : 7
+Healing:                             0.6749999999999999 : 6
+Meditation/Relaxation:               0.6749999999999999 : 6
+Relaxation:                          0.6749999999999999 : 6
+Self-Help & Development:             0.6749999999999999 : 6
+Spiritual:                           0.6749999999999999 : 6
+Spoken Word:                         0.6749999999999999 : 6
+Space:                               0.6 : 5
+Amiable/Good-Natured:                0.6 : 5
+Delicate:                            0.6 : 5
+Lazy:                                0.6 : 5
+Pastoral:                            0.6 : 5

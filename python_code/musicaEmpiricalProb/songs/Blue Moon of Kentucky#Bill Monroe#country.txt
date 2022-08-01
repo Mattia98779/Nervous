@@ -1,0 +1,22 @@
+Bluegrass:                           0.9 : 9
+Close Harmony:                       0.9 : 9
+Traditional Bluegrass:               0.9 : 9
+Earnest:                             0.9 : 9
+Comfort:                             0.9 : 9
+Picnic:                              0.9 : 9
+Relaxation:                          0.9 : 9
+Sunday Afternoon:                    0.9 : 9
+Pastoral:                            0.8500000000000001 : 8
+Plaintive:                           0.8500000000000001 : 8
+Rustic:                              0.8500000000000001 : 8
+Amiable/Good-Natured:                0.8 : 7
+Sentimental:                         0.8 : 7
+Autumnal:                            0.75 : 6
+Traditional Country:                 0.7 : 5
+Earthy:                              0.7 : 5
+Playful_mood:                        0.7 : 5
+Rousing:                             0.7 : 5
+Old-Timey:                           0.65 : 4
+Organic:                             0.65 : 4
+Melancholy:                          0.6 : 3
+Reflective:                          0.6 : 3

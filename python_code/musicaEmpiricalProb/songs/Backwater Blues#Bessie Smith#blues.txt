@@ -1,0 +1,22 @@
+Acoustic Blues:                      0.9000000000000001 : 9
+Anguished/Distraught:                0.9000000000000001 : 9
+Organic:                             0.9000000000000001 : 9
+Weary:                               0.9000000000000001 : 9
+Feeling Blue:                        0.9000000000000001 : 9
+Introspection:                       0.9000000000000001 : 9
+Late Night:                          0.9000000000000001 : 9
+Classic Female Blues:                0.84 : 8
+Early Jazz:                          0.84 : 8
+Dramatic:                            0.84 : 8
+Melancholy:                          0.84 : 8
+Gloomy:                              0.78 : 7
+Intimate:                            0.78 : 7
+Passionate:                          0.78 : 7
+Reflective:                          0.78 : 7
+Cathartic:                           0.72 : 6
+Gutsy:                               0.72 : 6
+Intense:                             0.72 : 6
+Ominous:                             0.72 : 6
+Angst-Ridden:                        0.6599999999999999 : 5
+Earnest:                             0.6599999999999999 : 5
+Rustic:                              0.6 : 4

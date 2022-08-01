@@ -1,0 +1,18 @@
+Blues Revival:                       0.9 : 9
+Country Blues:                       0.9 : 9
+Folk-Blues:                          0.9 : 9
+Brash:                               0.9 : 9
+Street-Smart:                        0.9 : 9
+Freedom:                             0.9 : 9
+Confident:                           0.8400000000000001 : 8
+Uncompromising:                      0.8400000000000001 : 8
+Intimate:                            0.78 : 7
+Theatrical:                          0.78 : 7
+Club:                                0.78 : 7
+Swaggering:                          0.72 : 6
+Amiable/Good-Natured:                0.66 : 5
+Angst-Ridden:                        0.66 : 5
+Gritty:                              0.66 : 5
+Organic:                             0.66 : 5
+Sunday Afternoon:                    0.66 : 5
+Reflective:                          0.6 : 4

@@ -1,0 +1,18 @@
+Adult Alternative:                   0.9 : 8
+Contemporary Instrumental:           0.9 : 8
+Atmospheric:                         0.8 : 7
+Delicate:                            0.8 : 7
+Ethereal:                            0.8 : 7
+Gentle:                              0.8 : 7
+Lively:                              0.8 : 7
+Reflective:                          0.8 : 7
+Reflection:                          0.8 : 7
+Light:                               0.7 : 6
+Refined:                             0.7 : 6
+Restrained:                          0.7 : 6
+Introspection:                       0.7 : 6
+The Creative Side:                   0.7 : 6
+Ethnic Fusion:                       0.6 : 5
+Meditation/Relaxation:               0.6 : 5
+Dreamy:                              0.6 : 5
+Laid-Back/Mellow:                    0.6 : 5

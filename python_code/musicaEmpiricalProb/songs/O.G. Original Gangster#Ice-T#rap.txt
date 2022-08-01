@@ -1,0 +1,26 @@
+Hardcore Rap:                        0.9 : 9
+Gangsta Rap:                         0.8250000000000001 : 8
+Golden Age:                          0.8250000000000001 : 8
+West Coast Rap:                      0.8250000000000001 : 8
+Confrontational:                     0.8250000000000001 : 8
+Reckless:                            0.8250000000000001 : 8
+Aggressive:                          0.6 : 5
+Angry:                               0.6 : 5
+Cynical/Sarcastic:                   0.6 : 5
+Harsh:                               0.6 : 5
+Hostile:                             0.6 : 5
+Intense:                             0.6 : 5
+Menacing:                            0.6 : 5
+Outrageous:                          0.6 : 5
+Passionate:                          0.6 : 5
+Provocative:                         0.6 : 5
+Rousing:                             0.6 : 5
+Street-Smart:                        0.6 : 5
+Tense/Anxious:                       0.6 : 5
+Thuggish:                            0.6 : 5
+Uncompromising:                      0.6 : 5
+Urgent:                              0.6 : 5
+Visceral:                            0.6 : 5
+Volatile:                            0.6 : 5
+Empowering:                          0.6 : 5
+Motivation:                          0.6 : 5

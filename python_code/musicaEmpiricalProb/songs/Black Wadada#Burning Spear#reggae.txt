@@ -1,0 +1,9 @@
+Dub:                                 0.9000000000000001 : 9
+Hypnotic:                            0.825 : 8
+Trippy:                              0.825 : 8
+Ethereal:                            0.75 : 7
+Somber:                              0.75 : 7
+Hanging Out:                         0.75 : 7
+Druggy:                              0.6749999999999999 : 6
+Restrained:                          0.6749999999999999 : 6
+Roots Reggae:                        0.6 : 5

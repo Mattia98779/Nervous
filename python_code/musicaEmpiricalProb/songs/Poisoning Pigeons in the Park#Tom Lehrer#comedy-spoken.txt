@@ -1,0 +1,23 @@
+Mischievous:                         0.9 : 9
+Partying:                            0.9 : 9
+Playful:                             0.9 : 9
+Comedy:                              0.825 : 8
+Music Comedy:                        0.825 : 8
+Satire:                              0.825 : 8
+Irreverent:                          0.825 : 8
+Wry:                                 0.825 : 8
+Novelty:                             0.75 : 7
+Standup Comedy:                      0.75 : 7
+Acerbic:                             0.6 : 5
+Bitter:                              0.6 : 5
+Cerebral:                            0.6 : 5
+Cynical/Sarcastic:                   0.6 : 5
+Energetic:                           0.6 : 5
+Gutsy:                               0.6 : 5
+Humorous:                            0.6 : 5
+Literate:                            0.6 : 5
+Outrageous:                          0.6 : 5
+Playful_mood:                        0.6 : 5
+Quirky:                              0.6 : 5
+Theatrical:                          0.6 : 5
+Witty:                               0.6 : 5

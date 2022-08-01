@@ -1,0 +1,25 @@
+Andean Folk:                         0.9 : 9
+Experimental:                        0.9 : 9
+South American Traditions:           0.9 : 9
+Spooky:                              0.9 : 9
+Latin Folk:                          0.8250000000000001 : 8
+Calm/Peaceful:                       0.8250000000000001 : 8
+Delicate:                            0.8250000000000001 : 8
+Gentle:                              0.8250000000000001 : 8
+Introspection:                       0.8250000000000001 : 8
+Relaxation:                          0.8250000000000001 : 8
+Amiable/Good-Natured:                0.75 : 7
+Ethnic Fusion:                       0.6749999999999999 : 6
+Aggressive:                          0.6 : 5
+Brash:                               0.6 : 5
+Confrontational:                     0.6 : 5
+Dramatic:                            0.6 : 5
+Earnest:                             0.6 : 5
+Hostile:                             0.6 : 5
+Manic:                               0.6 : 5
+Outrageous:                          0.6 : 5
+Provocative:                         0.6 : 5
+Tense/Anxious:                       0.6 : 5
+Theatrical:                          0.6 : 5
+Volatile:                            0.6 : 5
+The Creative Side:                   0.6 : 5

@@ -1,0 +1,32 @@
+Album Rock:                          0.9 : 9
+British Blues:                       0.9 : 9
+British Psychedelia:                 0.9 : 9
+Regional Blues:                      0.9 : 9
+Atmospheric:                         0.9 : 9
+Druggy:                              0.9 : 9
+Eerie:                               0.9 : 9
+Epic:                                0.9 : 9
+Ethereal:                            0.9 : 9
+Fiery:                               0.9 : 9
+Freewheeling:                        0.9 : 9
+Nocturnal:                           0.9 : 9
+Ominous:                             0.9 : 9
+Rousing:                             0.9 : 9
+Sophisticated:                       0.9 : 9
+Spooky:                              0.9 : 9
+Sprawling:                           0.9 : 9
+Trippy:                              0.9 : 9
+Volatile:                            0.9 : 9
+Late Night:                          0.9 : 9
+Night Driving:                       0.9 : 9
+Scary Music:                         0.9 : 9
+The Creative Side:                   0.9 : 9
+Blues-Rock:                          0.8625 : 8
+Psychedelic/Garage:                  0.8625 : 8
+Gutsy:                               0.825 : 7
+Hypnotic:                            0.825 : 7
+Menacing:                            0.825 : 7
+Dramatic:                            0.7125 : 4
+Intense:                             0.7125 : 4
+Visceral:                            0.675 : 3
+Hard Rock:                           0.6 : 1

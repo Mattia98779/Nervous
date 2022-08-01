@@ -1,0 +1,40 @@
+Acoustic Blues:                      0.9 : 9
+Acoustic Memphis Blues:              0.85 : 8
+Blues Revival:                       0.85 : 8
+Piedmont Blues:                      0.85 : 8
+Regional Blues:                      0.85 : 8
+Amiable/Good-Natured:                0.85 : 8
+Earthy:                              0.85 : 8
+Earnest:                             0.7999999999999999 : 7
+Gritty:                              0.7999999999999999 : 7
+Organic:                             0.7999999999999999 : 7
+Rousing:                             0.7999999999999999 : 7
+Sparse:                              0.7999999999999999 : 7
+Hanging Out:                         0.7999999999999999 : 7
+Small Gathering:                     0.7999999999999999 : 7
+Atmospheric:                         0.75 : 6
+Intimate:                            0.75 : 6
+East Coast Blues:                    0.7 : 5
+Slide Guitar Blues:                  0.7 : 5
+Austere:                             0.7 : 5
+Boisterous:                          0.7 : 5
+Confident:                           0.7 : 5
+Passionate:                          0.7 : 5
+Reflective:                          0.7 : 5
+Rustic:                              0.7 : 5
+Street-Smart:                        0.7 : 5
+Comfort:                             0.7 : 5
+Day Driving:                         0.7 : 5
+Early Morning:                       0.7 : 5
+Feeling Blue:                        0.7 : 5
+Freedom:                             0.7 : 5
+Introspection:                       0.7 : 5
+Late Night:                          0.7 : 5
+Reflection:                          0.7 : 5
+Reminiscing:                         0.7 : 5
+Road Trip:                           0.7 : 5
+Sunday Afternoon:                    0.7 : 5
+The Creative Side:                   0.7 : 5
+Folk-Blues:                          0.65 : 4
+Songster:                            0.65 : 4
+Country Blues:                       0.6 : 3

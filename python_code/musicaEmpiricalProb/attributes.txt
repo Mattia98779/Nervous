@@ -1,0 +1,84 @@
+Amiable/Good-Natured:                207
+Atmospheric:                         109
+Bittersweet:                         83
+Boisterous:                          117
+Brash:                               87
+Bright:                              90
+Calm/Peaceful:                       73
+Carefree:                            110
+Celebratory:                         92
+Cheerful:                            108
+Confident:                           180
+Confrontational:                     63
+Cool & Cocky:                        111
+Delicate:                            61
+Dinner Ambiance:                     62
+Dramatic:                            153
+Dreamy:                              69
+Earnest:                             188
+Earthy:                              168
+Elegant:                             94
+Empowering:                          86
+Energetic:                           151
+Ethereal:                            63
+Exuberant:                           130
+Feeling Blue:                        87
+Freedom:                             114
+Freewheeling:                        123
+Fun:                                 149
+Gentle:                              115
+Gritty:                              68
+Guys Night Out:                      79
+Hanging Out:                         174
+Happy:                               66
+Hypnotic:                            100
+In Love:                             96
+Intense:                             70
+Intimate:                            123
+Introspection:                       123
+Joyous:                              62
+Laid-Back/Mellow:                    127
+Late Night:                          141
+Light:                               86
+Literate:                            72
+Lively:                              152
+Melancholy:                          79
+Nocturnal:                           80
+Organic:                             113
+Partying:                            116
+Passionate:                          144
+Plaintive:                           114
+Playful:                             104
+Playful_mood:                        219
+Poignant:                            121
+Refined:                             132
+Reflection:                          127
+Reflective:                          180
+Relaxation:                          103
+Relaxed:                             86
+Road Trip:                           71
+Rollicking:                          94
+Romantic:                            91
+Romantic Evening:                    71
+Rousing:                             199
+Searching:                           71
+Sentimental:                         127
+Smooth:                              130
+Soothing:                            131
+Sophisticated:                       138
+Street-Smart:                        99
+Stylish:                             126
+Summer:                              83
+Summery:                             90
+Sunday Afternoon:                    66
+Swaggering:                          119
+Sweet:                               100
+TGIF:                                71
+The Creative Side:                   104
+Theatrical:                          69
+Urgent:                              61
+Warm:                                119
+Whimsical:                           73
+Wistful:                             104
+Witty:                               62
+Yearning:                            111

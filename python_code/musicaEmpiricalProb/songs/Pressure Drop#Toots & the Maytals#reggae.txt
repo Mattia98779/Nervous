@@ -1,0 +1,22 @@
+Rocksteady:                          0.9 : 8
+Celebratory:                         0.9 : 8
+Exuberant:                           0.9 : 8
+Lively:                              0.9 : 8
+Summery:                             0.9 : 8
+At the Beach:                        0.9 : 8
+Pool Party:                          0.9 : 8
+Spring:                              0.9 : 8
+Summer:                              0.9 : 8
+Boisterous:                          0.825 : 7
+Energetic:                           0.825 : 7
+Rousing:                             0.825 : 7
+Urgent:                              0.825 : 7
+Partying:                            0.825 : 7
+Roots Reggae:                        0.75 : 6
+Carefree:                            0.75 : 6
+Sweet:                               0.75 : 6
+Day Driving:                         0.75 : 6
+Road Trip:                           0.75 : 6
+Atmospheric:                         0.6749999999999999 : 5
+Rollicking:                          0.6749999999999999 : 5
+Exercise/Workout:                    0.6 : 4

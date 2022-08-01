@@ -1,0 +1,29 @@
+Album Rock:                          0.9 : 9
+Hard Rock:                           0.9 : 9
+Heavy Metal:                         0.9 : 9
+Atmospheric:                         0.9 : 9
+Dramatic:                            0.9 : 9
+Enigmatic:                           0.9 : 9
+Epic:                                0.9 : 9
+Pastoral:                            0.9 : 9
+Rousing:                             0.9 : 9
+Searching:                           0.9 : 9
+Swaggering:                          0.9 : 9
+Yearning:                            0.9 : 9
+Bittersweet:                         0.8625 : 8
+Lush:                                0.8625 : 8
+Reflective:                          0.8625 : 8
+Wistful:                             0.8625 : 8
+Autumnal:                            0.8250000000000001 : 7
+Springlike:                          0.8250000000000001 : 7
+Rainy Day:                           0.8250000000000001 : 7
+Reflection:                          0.8250000000000001 : 7
+The Great Outdoors:                  0.8250000000000001 : 7
+Theatrical:                          0.7875000000000001 : 6
+Hanging Out:                         0.7875000000000001 : 6
+Long Walk:                           0.7875000000000001 : 6
+Freedom:                             0.75 : 5
+Politics/Society:                    0.75 : 5
+British Metal:                       0.6 : 1
+Prog-Rock:                           0.6 : 1
+British Folk-Rock:                   0.6 : 1

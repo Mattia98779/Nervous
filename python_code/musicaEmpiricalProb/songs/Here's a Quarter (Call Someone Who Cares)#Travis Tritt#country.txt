@@ -1,0 +1,14 @@
+Contemporary Country:                0.9 : 9
+New Traditionalist:                  0.9 : 9
+Brash:                               0.9 : 9
+Cynical/Sarcastic:                   0.9 : 9
+Earthy:                              0.9 : 9
+Freewheeling:                        0.9 : 9
+Rebellious:                          0.9 : 9
+Sardonic:                            0.9 : 9
+Swaggering:                          0.9 : 9
+Feeling Blue:                        0.9 : 9
+Heartache:                           0.9 : 9
+Honky Tonk:                          0.6 : 8
+Breakup:                             0.6 : 8
+D-I-V-O-R-C-E:                       0.6 : 8

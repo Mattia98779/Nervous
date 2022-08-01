@@ -1,0 +1,26 @@
+East Coast Rap:                      0.9 : 9
+Golden Age:                          0.9 : 9
+Political Rap:                       0.9 : 9
+Aggressive:                          0.9 : 9
+Angry:                               0.9 : 9
+Brash:                               0.9 : 9
+Cathartic:                           0.9 : 9
+Confrontational:                     0.9 : 9
+Fiery:                               0.9 : 9
+Hostile:                             0.9 : 9
+Intense:                             0.9 : 9
+Passionate:                          0.9 : 9
+Provocative:                         0.9 : 9
+Raucous:                             0.9 : 9
+Rebellious:                          0.9 : 9
+Swaggering:                          0.9 : 9
+Tense/Anxious:                       0.9 : 9
+Uncompromising:                      0.9 : 9
+Urgent:                              0.9 : 9
+Visceral:                            0.9 : 9
+Volatile:                            0.9 : 9
+Empowering:                          0.9 : 9
+Freedom:                             0.9 : 9
+Revolutionary:                       0.9 : 9
+Summer:                              0.9 : 9
+Dramatic:                            0.6 : 7

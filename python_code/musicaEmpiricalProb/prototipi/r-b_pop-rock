@@ -1,0 +1,31 @@
+#Title composizione
+Title : r-b#pop-rock
+
+#Concetto Principale
+Head Concept Name : r-b
+Head Concept Count : 43
+
+#Concetto Modificatore
+Modifier Concept Name : pop-rock
+Modifier Concept Count : 45
+
+
+
+
+
+T(modifier), -New Romantic, 0.9, 44
+T(modifier), -Spicy, 0.9, 44
+T(modifier), Rousing, 0.9, 30
+T(modifier), Contemporary Pop/Rock, 0.8689655172413793, 27
+T(modifier), Album Rock, 0.8172413793103448, 22
+T(modifier), Confident, 0.8172413793103448, 22
+
+T(head), -Teen Pop, 0.9, 42
+T(head), -Separation, 0.9, 42
+T(head), Soul, 0.9, 21
+T(head), Playful_mood, 0.855, 18
+T(head), Energetic, 0.855, 18
+T(head), Partying, 0.855, 18
+
+
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 6.004944845406755

@@ -1,0 +1,17 @@
+Aggressive:                          0.9 : 9
+Sophisticated:                       0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Drinking:                            0.9 : 9
+Traditional Pop:                     0.8 : 8
+Brash:                               0.8 : 8
+Lush:                                0.8 : 8
+Passionate:                          0.8 : 8
+Vocal Jazz:                          0.7 : 7
+Acerbic:                             0.7 : 7
+Cynical/Sarcastic:                   0.7 : 7
+Dinner Ambiance:                     0.7 : 7
+Vocal Pop:                           0.6 : 6
+Dramatic:                            0.6 : 6
+Elegant:                             0.6 : 6
+Refined:                             0.6 : 6
+Warm:                                0.6 : 6

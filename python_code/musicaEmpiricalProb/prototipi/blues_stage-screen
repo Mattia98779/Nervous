@@ -1,0 +1,31 @@
+#Title composizione
+Title : blues#stage-screen
+
+#Concetto Principale
+Head Concept Name : blues
+Head Concept Count : 48
+
+#Concetto Modificatore
+Modifier Concept Name : stage-screen
+Modifier Concept Count : 18
+
+
+
+
+
+T(modifier), -Introspection, 0.9, 17
+T(modifier), -Rainy Day, 0.9, 17
+T(modifier), Soundtracks, 0.9, 13
+T(modifier), Dramatic, 0.875, 12
+T(modifier), Original Score, 0.8500000000000001, 11
+T(modifier), Theatrical, 0.825, 10
+
+T(head), -The Creative Side, 0.9, 47
+T(head), -Day Driving, 0.9, 47
+T(head), Regional Blues, 0.9, 40
+T(head), Earthy, 0.8615384615384616, 35
+T(head), Gritty, 0.8615384615384616, 35
+T(head), Passionate, 0.8153846153846154, 29
+
+
+Result : '0', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 5.766559829059829

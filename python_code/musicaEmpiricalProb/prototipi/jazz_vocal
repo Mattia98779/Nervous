@@ -1,0 +1,31 @@
+#Title composizione
+Title : jazz#vocal
+
+#Concetto Principale
+Head Concept Name : jazz
+Head Concept Count : 48
+
+#Concetto Modificatore
+Modifier Concept Name : vocal
+Modifier Concept Count : 49
+
+
+
+
+
+T(modifier), -Jazz Instrument, 0.9, 48
+T(modifier), -Guitar Jazz, 0.9, 48
+T(modifier), Traditional Pop, 0.9, 47
+T(modifier), Vocal Pop, 0.8478260869565217, 39
+T(modifier), Refined, 0.7630434782608696, 26
+T(modifier), Sentimental, 0.7630434782608696, 26
+
+T(head), -Soundtracks, 0.9, 47
+T(head), -Movie Themes, 0.9, 47
+T(head), Sophisticated, 0.9, 38
+T(head), Freewheeling, 0.8675675675675676, 34
+T(head), Confident, 0.8432432432432433, 31
+T(head), Amiable/Good-Natured, 0.8432432432432433, 31
+
+
+Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 6.742118066380488

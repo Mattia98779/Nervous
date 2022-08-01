@@ -1,0 +1,31 @@
+#Title composizione
+Title : international#country
+
+#Concetto Principale
+Head Concept Name : international
+Head Concept Count : 3
+
+#Concetto Modificatore
+Modifier Concept Name : country
+Modifier Concept Count : 49
+
+
+
+
+
+T(modifier), -Sardonic, 0.9, 48
+T(modifier), -Housework, 0.9, 48
+T(modifier), Traditional Country, 0.9, 33
+T(modifier), Earthy, 0.890625, 32
+T(modifier), Earnest, 0.8625, 29
+T(modifier), Reflective, 0.84375, 27
+
+T(head), -Playful, 0.9, 2
+T(head), -TGIF, 0.9, 2
+T(head), Stylish, 0.9, 2
+T(head), Boisterous, 0.9, 2
+T(head), Exuberant, 0.9, 2
+T(head), Yearning, 0.9, 2
+
+
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 5.1386479591836745

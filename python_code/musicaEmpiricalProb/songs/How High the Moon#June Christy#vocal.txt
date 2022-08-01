@@ -1,0 +1,20 @@
+Cheerful:                            0.9 : 9
+Elegant:                             0.9 : 9
+Gentle:                              0.9 : 9
+Refined:                             0.9 : 9
+Smooth:                              0.9 : 9
+Relaxation:                          0.9 : 9
+Springlike:                          0.8 : 8
+In Love:                             0.8 : 8
+New Love:                            0.8 : 8
+Traditional Pop:                     0.7 : 7
+Vocal Jazz:                          0.7 : 7
+Carefree:                            0.7 : 7
+Soothing:                            0.7 : 7
+Sweet:                               0.7 : 7
+Dinner Ambiance:                     0.7 : 7
+Delicate:                            0.6 : 6
+Ethereal:                            0.6 : 6
+Restrained:                          0.6 : 6
+Picnic:                              0.6 : 6
+Romantic Evening:                    0.6 : 6

@@ -1,0 +1,14 @@
+Amiable/Good-Natured:                0.9 : 7
+Carefree:                            0.9 : 7
+Cheerful:                            0.9 : 7
+Fun:                                 0.9 : 7
+Laid-Back/Mellow:                    0.9 : 7
+Playful_mood:                        0.9 : 7
+Quirky:                              0.9 : 7
+Silly:                               0.9 : 7
+Whimsical:                           0.9 : 7
+Wry:                                 0.9 : 7
+Sing-Alongs:                         0.6 : 5
+Family Gatherings:                   0.6 : 5
+Hanging Out:                         0.6 : 5
+Playful:                             0.6 : 5

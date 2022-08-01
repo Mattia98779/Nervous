@@ -1,0 +1,22 @@
+British Invasion:                    0.9 : 9
+Contemporary Pop/Rock:               0.9 : 9
+Acerbic:                             0.9 : 9
+Bravado:                             0.9 : 9
+Confident:                           0.9 : 9
+Exciting:                            0.9 : 9
+Rebellious:                          0.9 : 9
+Rowdy:                               0.9 : 9
+Sardonic:                            0.9 : 9
+Sexy:                                0.9 : 9
+Swaggering:                          0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Guys Night Out:                      0.9 : 9
+Hanging Out:                         0.9 : 9
+Late Night:                          0.9 : 9
+Partying:                            0.9 : 9
+Album Rock:                          0.75 : 5
+Motivation:                          0.75 : 5
+Politics/Society:                    0.75 : 5
+Blues-Rock:                          0.6749999999999999 : 3
+Hard Rock:                           0.6 : 1
+Rock & Roll:                         0.6 : 1

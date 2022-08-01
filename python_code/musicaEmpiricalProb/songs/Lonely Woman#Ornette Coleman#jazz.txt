@@ -1,0 +1,6 @@
+Ethereal:                            0.9 : 7
+Hypnotic:                            0.9 : 7
+Nocturnal:                           0.9 : 7
+Sophisticated:                       0.9 : 7
+Avant-Garde Jazz:                    0.6 : 5
+Revolutionary:                       0.6 : 5

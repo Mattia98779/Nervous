@@ -1,0 +1,29 @@
+Political Folk:                      0.9 : 9
+Cynical/Sarcastic:                   0.9 : 9
+Rebellious:                          0.9 : 9
+Swaggering:                          0.9 : 9
+Theatrical:                          0.9 : 9
+Uncompromising:                      0.9 : 9
+The Creative Side:                   0.9 : 9
+Contemporary Folk:                   0.8500000000000001 : 8
+Singer/Songwriter:                   0.8500000000000001 : 8
+Acerbic:                             0.8500000000000001 : 8
+Lively:                              0.8500000000000001 : 8
+Playful_mood:                        0.8500000000000001 : 8
+Quirky:                              0.8500000000000001 : 8
+Ambitious:                           0.8 : 7
+Literate:                            0.8 : 7
+Reflective:                          0.8 : 7
+Confident:                           0.75 : 6
+Confrontational:                     0.75 : 6
+Irreverent:                          0.75 : 6
+Self-Conscious:                      0.75 : 6
+Witty:                               0.75 : 6
+Reflection:                          0.75 : 6
+Earnest:                             0.7 : 5
+Humorous:                            0.7 : 5
+Paranoid:                            0.7 : 5
+Street-Smart:                        0.7 : 5
+Gutsy:                               0.65 : 4
+Wry:                                 0.65 : 4
+Ironic:                              0.6 : 3

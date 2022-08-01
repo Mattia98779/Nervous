@@ -1,0 +1,31 @@
+#Title composizione
+Title : folk#avant-garde
+
+#Concetto Principale
+Head Concept Name : folk
+Head Concept Count : 47
+
+#Concetto Modificatore
+Modifier Concept Name : avant-garde
+Modifier Concept Count : 13
+
+
+
+
+
+T(modifier), -Freedom, 0.9, 12
+T(modifier), -Dramatic, 0.9, 12
+T(modifier), The Creative Side, 0.9, 6
+T(modifier), Cerebral, 0.84, 5
+T(modifier), Uncompromising, 0.78, 4
+T(modifier), Provocative, 0.78, 4
+
+T(head), -Guys Night Out, 0.9, 46
+T(head), -Mischievous, 0.9, 46
+T(head), Earthy, 0.9, 30
+T(head), Poignant, 0.8896551724137931, 29
+T(head), Earnest, 0.8896551724137931, 29
+T(head), Bittersweet, 0.8482758620689655, 25
+
+
+Result : '0', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 5.259100400699814

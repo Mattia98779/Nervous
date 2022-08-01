@@ -1,0 +1,26 @@
+Sketch Comedy:                       0.9 : 9
+Standup Comedy:                      0.9 : 9
+Amiable/Good-Natured:                0.9 : 9
+Confident:                           0.9 : 9
+Swaggering:                          0.9 : 9
+Urgent:                              0.9 : 9
+Hanging Out:                         0.9 : 9
+Partying:                            0.9 : 9
+Playful:                             0.9 : 9
+Comedy:                              0.8400000000000001 : 8
+Spoken Comedy:                       0.8400000000000001 : 8
+Confrontational:                     0.8400000000000001 : 8
+Exuberant:                           0.8400000000000001 : 8
+Irreverent:                          0.8400000000000001 : 8
+Brash:                               0.78 : 7
+Fun:                                 0.78 : 7
+Literate:                            0.78 : 7
+Whimsical:                           0.78 : 7
+Eccentric:                           0.72 : 6
+Campy:                               0.66 : 5
+Lively:                              0.66 : 5
+Playful_mood:                        0.66 : 5
+Snide:                               0.66 : 5
+Bravado:                             0.6 : 4
+Humorous:                            0.6 : 4
+Silly:                               0.6 : 4

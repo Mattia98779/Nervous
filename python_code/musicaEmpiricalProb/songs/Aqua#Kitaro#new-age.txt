@@ -1,0 +1,18 @@
+Progressive Electronic:              0.9000000000000001 : 8
+Calm/Peaceful:                       0.7500000000000001 : 7
+Cold:                                0.7500000000000001 : 7
+Delicate:                            0.7500000000000001 : 7
+Ethereal:                            0.7500000000000001 : 7
+Gentle:                              0.7500000000000001 : 7
+Nocturnal:                           0.7500000000000001 : 7
+Reflective:                          0.7500000000000001 : 7
+Restrained:                          0.7500000000000001 : 7
+Introspection:                       0.7500000000000001 : 7
+Late Night:                          0.7500000000000001 : 7
+Meditation:                          0.7500000000000001 : 7
+Relaxation:                          0.7500000000000001 : 7
+The Creative Side:                   0.7500000000000001 : 7
+Refined:                             0.6 : 6
+Soothing:                            0.6 : 6
+Reflection:                          0.6 : 6
+Solitude:                            0.6 : 6

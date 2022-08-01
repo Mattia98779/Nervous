@@ -1,0 +1,47 @@
+#Numero di canzoni: 3
+
+Stylish:                             0.9, 2
+Boisterous:                          0.9, 2
+Exuberant:                           0.9, 2
+Yearning:                            0.9, 2
+European Folk:                       0.6, 1
+Fado:                                0.6, 1
+Western European Traditions:         0.6, 1
+Dramatic:                            0.6, 1
+Romantic:                            0.6, 1
+Elegant:                             0.6, 1
+Refined:                             0.6, 1
+Searching:                           0.6, 1
+Theatrical:                          0.6, 1
+Laid-Back/Mellow:                    0.6, 1
+Light:                               0.6, 1
+Passionate:                          0.6, 1
+Smooth:                              0.6, 1
+Wistful:                             0.6, 1
+Bittersweet:                         0.6, 1
+Fiery:                               0.6, 1
+Plaintive:                           0.6, 1
+In Love:                             0.6, 1
+Dinner Ambiance:                     0.6, 1
+Happy:                               0.6, 1
+Mischievous:                         0.6, 1
+Alternative/Indie Rock:              0.6, 1
+Garage Rock Revival:                 0.6, 1
+Indie Rock:                          0.6, 1
+Playful_mood:                        0.6, 1
+Visceral:                            0.6, 1
+Witty:                               0.6, 1
+Confident:                           0.6, 1
+Energetic:                           0.6, 1
+Rousing:                             0.6, 1
+Freewheeling:                        0.6, 1
+Fun:                                 0.6, 1
+Rambunctious:                        0.6, 1
+Amiable/Good-Natured:                0.6, 1
+Brash:                               0.6, 1
+Carefree:                            0.6, 1
+Lively:                              0.6, 1
+Cool & Cocky:                        0.6, 1
+Guys Night Out:                      0.6, 1
+TGIF:                                0.6, 1
+Playful:                             0.6, 1

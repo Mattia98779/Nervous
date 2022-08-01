@@ -1,0 +1,14 @@
+Roots Reggae:                        0.9 : 8
+Earnest:                             0.825 : 7
+Hypnotic:                            0.825 : 7
+Laid-Back/Mellow:                    0.825 : 7
+Acerbic:                             0.75 : 6
+Earthy:                              0.75 : 6
+Political Reggae:                    0.675 : 5
+Passionate:                          0.675 : 5
+Spacey:                              0.675 : 5
+Trippy:                              0.675 : 5
+Witty:                               0.675 : 5
+Reflective:                          0.6 : 4
+Reverent:                            0.6 : 4
+Rousing:                             0.6 : 4

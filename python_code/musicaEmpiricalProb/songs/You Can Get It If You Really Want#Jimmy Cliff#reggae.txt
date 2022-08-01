@@ -1,0 +1,14 @@
+Reggae-Pop:                          0.9 : 8
+Amiable/Good-Natured:                0.9 : 8
+Summery:                             0.9 : 8
+Cheerful:                            0.8 : 7
+Earnest:                             0.8 : 7
+Passionate:                          0.8 : 7
+Empowering:                          0.8 : 7
+Motivation:                          0.8 : 7
+Confident:                           0.7 : 6
+Joyous:                              0.7 : 6
+Sweet:                               0.7 : 6
+Central European Traditions:         0.6 : 5
+German:                              0.6 : 5
+Soul:                                0.6 : 5

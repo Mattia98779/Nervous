@@ -1,0 +1,24 @@
+The Great Outdoors:                  0.9 : 9
+Traditional Country:                 0.8625 : 8
+Amiable/Good-Natured:                0.8625 : 8
+Organic:                             0.8625 : 8
+Plaintive:                           0.8625 : 8
+Earthy:                              0.825 : 7
+Rustic:                              0.825 : 7
+Picnic:                              0.825 : 7
+Refined:                             0.7875000000000001 : 6
+Atmospheric:                         0.75 : 5
+Autumnal:                            0.75 : 5
+Earnest:                             0.75 : 5
+Pastoral:                            0.75 : 5
+Autumn:                              0.75 : 5
+Day Driving:                         0.75 : 5
+Early Morning:                       0.75 : 5
+Feeling Blue:                        0.75 : 5
+Freedom:                             0.75 : 5
+Hanging Out:                         0.75 : 5
+Late Night:                          0.75 : 5
+Road Trip:                           0.75 : 5
+Sunday Afternoon:                    0.75 : 5
+Smooth:                              0.7125 : 4
+Cheerful:                            0.6 : 1

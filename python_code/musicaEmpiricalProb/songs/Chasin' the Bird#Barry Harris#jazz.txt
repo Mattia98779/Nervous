@@ -1,0 +1,45 @@
+Bop:                                 0.9 : 9
+Mainstream Jazz:                     0.9 : 9
+Standards:                           0.9 : 9
+Exuberant:                           0.9 : 9
+Freewheeling:                        0.9 : 9
+Sophisticated:                       0.9 : 9
+Warm:                                0.9 : 9
+Empowering:                          0.9 : 9
+Relaxation:                          0.9 : 9
+Victory:                             0.9 : 9
+Intimate:                            0.84 : 8
+Literate:                            0.84 : 8
+Lively:                              0.84 : 8
+Passionate:                          0.84 : 8
+Playful_mood:                        0.84 : 8
+Refined:                             0.84 : 8
+Rousing:                             0.84 : 8
+Searching:                           0.84 : 8
+Sentimental:                         0.84 : 8
+Stately:                             0.84 : 8
+Street-Smart:                        0.84 : 8
+Stylish:                             0.84 : 8
+Witty:                               0.84 : 8
+Mischievous:                         0.84 : 8
+Playful:                             0.84 : 8
+Amiable/Good-Natured:                0.78 : 7
+Confident:                           0.78 : 7
+Dramatic:                            0.78 : 7
+Earnest:                             0.78 : 7
+Earthy:                              0.78 : 7
+Elaborate:                           0.78 : 7
+Light:                               0.78 : 7
+Plaintive:                           0.78 : 7
+Wry:                                 0.78 : 7
+Affirmation:                         0.78 : 7
+Cool & Cocky:                        0.78 : 7
+Freedom:                             0.78 : 7
+Late Night:                          0.78 : 7
+The Creative Side:                   0.78 : 7
+The Great Outdoors:                  0.78 : 7
+At the Office:                       0.72 : 6
+Sensual:                             0.6599999999999999 : 5
+Whimsical:                           0.6599999999999999 : 5
+Relaxed:                             0.6 : 4
+Swaggering:                          0.6 : 4

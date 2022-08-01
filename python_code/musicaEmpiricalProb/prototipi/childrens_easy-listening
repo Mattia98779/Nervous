@@ -1,0 +1,31 @@
+#Title composizione
+Title : childrens#easy-listening
+
+#Concetto Principale
+Head Concept Name : childrens
+Head Concept Count : 23
+
+#Concetto Modificatore
+Modifier Concept Name : easy-listening
+Modifier Concept Count : 43
+
+
+
+
+
+T(modifier), -Wry, 0.9, 42
+T(modifier), -Gleeful, 0.9, 42
+T(modifier), Dinner Ambiance, 0.9, 27
+T(modifier), Amiable/Good-Natured, 0.8884615384615384, 26
+T(modifier), Relaxation, 0.8653846153846154, 24
+T(modifier), Soothing, 0.8653846153846154, 24
+
+T(head), -Wry, 0.9, 22
+T(head), -Quirky, 0.9, 22
+T(head), Hanging Out, 0.9, 22
+T(head), Playful, 0.9, 22
+T(head), Fun, 0.8857142857142857, 21
+T(head), Sing-Alongs, 0.8714285714285714, 20
+
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 5.847191635462617

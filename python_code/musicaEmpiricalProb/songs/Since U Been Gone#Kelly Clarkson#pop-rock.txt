@@ -1,0 +1,27 @@
+Club/Dance:                          0.9000000000000001 : 8
+Cathartic:                           0.9000000000000001 : 8
+Contemporary Pop/Rock:               0.8 : 7
+Teen Pop:                            0.8 : 7
+Aggressive:                          0.8 : 7
+Brash:                               0.8 : 7
+Confident:                           0.8 : 7
+Earnest:                             0.8 : 7
+Exuberant:                           0.8 : 7
+Happy:                               0.8 : 7
+Passionate:                          0.8 : 7
+Rousing:                             0.8 : 7
+Slick:                               0.8 : 7
+Stylish:                             0.8 : 7
+Club:                                0.8 : 7
+In Love:                             0.8 : 7
+Adult Contemporary:                  0.7 : 6
+Bittersweet:                         0.7 : 6
+Lively:                              0.7 : 6
+Rambunctious:                        0.7 : 6
+Empowering:                          0.7 : 6
+Solitude:                            0.7 : 6
+Bitter:                              0.6 : 5
+Energetic:                           0.6 : 5
+Breakup:                             0.6 : 5
+Girls Night Out:                     0.6 : 5
+Heartache:                           0.6 : 5

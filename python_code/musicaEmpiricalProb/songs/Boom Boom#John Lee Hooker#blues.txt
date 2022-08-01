@@ -1,0 +1,66 @@
+British Blues:                       0.9 : 9
+British Invasion:                    0.9 : 9
+Regional Blues:                      0.9 : 9
+Rock & Roll:                         0.9 : 9
+Aggressive:                          0.9 : 9
+Brash:                               0.9 : 9
+Bravado:                             0.9 : 9
+Brooding:                            0.9 : 9
+Energetic:                           0.9 : 9
+Exciting:                            0.9 : 9
+Fiery:                               0.9 : 9
+Freewheeling:                        0.9 : 9
+Raucous:                             0.9 : 9
+Reckless:                            0.9 : 9
+Rollicking:                          0.9 : 9
+Rousing:                             0.9 : 9
+Rowdy:                               0.9 : 9
+Street-Smart:                        0.9 : 9
+Swaggering:                          0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Drinking:                            0.9 : 9
+Guys Night Out:                      0.9 : 9
+Hanging Out:                         0.9 : 9
+Late Night:                          0.9 : 9
+Mischievous:                         0.9 : 9
+Partying:                            0.9 : 9
+Road Trip:                           0.9 : 9
+Blues Revival:                       0.8625 : 8
+Detroit Blues:                       0.8625 : 8
+Electric Blues:                      0.8625 : 8
+Electric Delta Blues:                0.8625 : 8
+Earthy:                              0.8625 : 8
+Gritty:                              0.8625 : 8
+Organic:                             0.8625 : 8
+Uncompromising:                      0.8625 : 8
+Dramatic:                            0.8250000000000001 : 7
+Greasy:                              0.8250000000000001 : 7
+Happy:                               0.8250000000000001 : 7
+Passionate:                          0.8250000000000001 : 7
+Plaintive:                           0.8250000000000001 : 7
+Rebellious:                          0.8250000000000001 : 7
+Romantic:                            0.8250000000000001 : 7
+Sexual:                              0.8250000000000001 : 7
+Sleazy:                              0.8250000000000001 : 7
+Thuggish:                            0.8250000000000001 : 7
+Wry:                                 0.8250000000000001 : 7
+Yearning:                            0.8250000000000001 : 7
+Freedom:                             0.8250000000000001 : 7
+Reflection:                          0.8250000000000001 : 7
+Seduction:                           0.8250000000000001 : 7
+Sex:                                 0.8250000000000001 : 7
+Cathartic:                           0.7875000000000001 : 6
+Earnest:                             0.7875000000000001 : 6
+Intimate:                            0.7875000000000001 : 6
+Lazy:                                0.7875000000000001 : 6
+Regret:                              0.7875000000000001 : 6
+Bittersweet:                         0.75 : 5
+Bleak:                               0.75 : 5
+Confident:                           0.75 : 5
+Confrontational:                     0.75 : 5
+Laid-Back/Mellow:                    0.75 : 5
+Reflective:                          0.75 : 5
+In Love:                             0.75 : 5
+Blues-Rock:                          0.6 : 1
+Juke Joint Blues:                    0.6 : 1
+Early R&B:                           0.6 : 1

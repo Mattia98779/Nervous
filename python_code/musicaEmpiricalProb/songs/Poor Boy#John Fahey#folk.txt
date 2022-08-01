@@ -1,0 +1,9 @@
+Finger-Picked Guitar:                0.9000000000000001 : 8
+New Acoustic:                        0.9000000000000001 : 8
+Progressive Folk:                    0.9000000000000001 : 8
+Intimate:                            0.7500000000000001 : 7
+Traditional Folk:                    0.6 : 6
+Earthy:                              0.6 : 6
+Organic:                             0.6 : 6
+Pastoral:                            0.6 : 6
+Relaxed:                             0.6 : 6

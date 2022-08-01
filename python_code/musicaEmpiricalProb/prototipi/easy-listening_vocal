@@ -1,0 +1,31 @@
+#Title composizione
+Title : easy-listening#vocal
+
+#Concetto Principale
+Head Concept Name : easy-listening
+Head Concept Count : 43
+
+#Concetto Modificatore
+Modifier Concept Name : vocal
+Modifier Concept Count : 49
+
+
+
+
+
+T(modifier), -Jazz Instrument, 0.9, 48
+T(modifier), -Guitar Jazz, 0.9, 48
+T(modifier), Traditional Pop, 0.9, 47
+T(modifier), Vocal Pop, 0.8478260869565217, 39
+T(modifier), Refined, 0.7630434782608696, 26
+T(modifier), Sentimental, 0.7630434782608696, 26
+
+T(head), -Wry, 0.9, 42
+T(head), -Gleeful, 0.9, 42
+T(head), Dinner Ambiance, 0.9, 27
+T(head), Amiable/Good-Natured, 0.8884615384615384, 26
+T(head), Relaxation, 0.8653846153846154, 24
+T(head), Soothing, 0.8653846153846154, 24
+
+
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 6.466620740230446

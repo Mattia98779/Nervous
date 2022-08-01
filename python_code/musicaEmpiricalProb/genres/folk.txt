@@ -1,0 +1,166 @@
+#Numero di canzoni: 47
+
+Earthy:                              0.9, 30
+Poignant:                            0.8896551724137931, 29
+Earnest:                             0.8896551724137931, 29
+Bittersweet:                         0.8482758620689655, 25
+Reflective:                          0.8172413793103448, 22
+Plaintive:                           0.806896551724138, 21
+Traditional Folk:                    0.806896551724138, 21
+Wistful:                             0.7965517241379311, 20
+Yearning:                            0.7965517241379311, 20
+Folk Revival:                        0.7965517241379311, 20
+Amiable/Good-Natured:                0.7862068965517242, 19
+Empowering:                          0.7862068965517242, 19
+Intimate:                            0.7758620689655172, 18
+Reflection:                          0.7758620689655172, 18
+Freedom:                             0.7758620689655172, 18
+Organic:                             0.7655172413793103, 17
+Melancholy:                          0.7551724137931035, 16
+Sentimental:                         0.7551724137931035, 16
+Passionate:                          0.7448275862068965, 15
+Introspection:                       0.7448275862068965, 15
+Sunday Afternoon:                    0.7344827586206897, 14
+Political Folk:                      0.7344827586206897, 14
+Feeling Blue:                        0.7344827586206897, 14
+Literate:                            0.7137931034482758, 12
+Early Morning:                       0.7137931034482758, 12
+Autumn:                              0.703448275862069, 11
+Rainy Day:                           0.703448275862069, 11
+Folksongs:                           0.703448275862069, 11
+Contemporary Folk:                   0.703448275862069, 11
+Autumnal:                            0.6931034482758621, 10
+Atmospheric:                         0.6931034482758621, 10
+Sparse:                              0.6931034482758621, 10
+Hanging Out:                         0.6931034482758621, 10
+Folk-Pop:                            0.6931034482758621, 10
+Playful_mood:                        0.6931034482758621, 10
+Singer/Songwriter:                   0.6827586206896552, 9
+Gentle:                              0.6827586206896552, 9
+Folk-Blues:                          0.6827586206896552, 9
+Austere:                             0.6827586206896552, 9
+Heartache:                           0.6827586206896552, 9
+Rousing:                             0.6827586206896552, 9
+Sweet:                               0.6827586206896552, 9
+Whimsical:                           0.6724137931034483, 8
+Gritty:                              0.6724137931034483, 8
+Late Night:                          0.6724137931034483, 8
+Dramatic:                            0.6724137931034483, 8
+Fun:                                 0.6724137931034483, 8
+Long Walk:                           0.6620689655172414, 7
+Reminiscing:                         0.6620689655172414, 7
+Weary:                               0.6620689655172414, 7
+Sad:                                 0.6620689655172414, 7
+Loss/Grief:                          0.6620689655172414, 7
+Revolutionary:                       0.6620689655172414, 7
+Relaxed:                             0.6620689655172414, 7
+Warm:                                0.6620689655172414, 7
+Searching:                           0.6517241379310345, 6
+Rustic:                              0.6517241379310345, 6
+Rollicking:                          0.6517241379310345, 6
+Road Trip:                           0.6517241379310345, 6
+Pastoral:                            0.6517241379310345, 6
+Reverent:                            0.6517241379310345, 6
+The Great Outdoors:                  0.6517241379310345, 6
+Irreverent:                          0.6517241379310345, 6
+Refined:                             0.6517241379310345, 6
+Motivation:                          0.6517241379310345, 6
+Exuberant:                           0.6517241379310345, 6
+Confrontational:                     0.6413793103448275, 5
+Songster:                            0.6413793103448275, 5
+Small Gathering:                     0.6413793103448275, 5
+Soothing:                            0.6413793103448275, 5
+Affection/Fondness:                  0.6413793103448275, 5
+Folk-Rock:                           0.6413793103448275, 5
+Psychedelic/Garage:                  0.6413793103448275, 5
+Solitude:                            0.6413793103448275, 5
+British Folk:                        0.6310344827586207, 4
+British Folk-Rock:                   0.6310344827586207, 4
+Brooding:                            0.6310344827586207, 4
+Acoustic Blues:                      0.6310344827586207, 4
+Country Blues:                       0.6310344827586207, 4
+Somber:                              0.6310344827586207, 4
+Carefree:                            0.6310344827586207, 4
+Quirky:                              0.6310344827586207, 4
+Wry:                                 0.6310344827586207, 4
+Calm/Peaceful:                       0.6310344827586207, 4
+Affirmation:                         0.6310344827586207, 4
+Intense:                             0.6310344827586207, 4
+Joyous:                              0.6310344827586207, 4
+Summer:                              0.6310344827586207, 4
+Innocent:                            0.6310344827586207, 4
+Field Recordings:                    0.6206896551724138, 3
+In Love:                             0.6206896551724138, 3
+Confident:                           0.6206896551724138, 3
+Comfort:                             0.6206896551724138, 3
+Rebellious:                          0.6206896551724138, 3
+Gutsy:                               0.6206896551724138, 3
+Contemporary Singer/Songwriter:      0.6206896551724138, 3
+Cathartic:                           0.6206896551724138, 3
+Precious:                            0.6206896551724138, 3
+Delicate:                            0.6206896551724138, 3
+Old-Timey:                           0.6206896551724138, 3
+Cheerful:                            0.6206896551724138, 3
+Nostalgic:                           0.6206896551724138, 3
+Ironic:                              0.6103448275862069, 2
+Freewheeling:                        0.6103448275862069, 2
+Theatrical:                          0.6103448275862069, 2
+Uncompromising:                      0.6103448275862069, 2
+Witty:                               0.6103448275862069, 2
+Humorous:                            0.6103448275862069, 2
+The Creative Side:                   0.6103448275862069, 2
+Playful:                             0.6103448275862069, 2
+Progressive Folk:                    0.6103448275862069, 2
+Cerebral:                            0.6103448275862069, 2
+Ethereal:                            0.6103448275862069, 2
+Laid-Back/Mellow:                    0.6103448275862069, 2
+Sophisticated:                       0.6103448275862069, 2
+Elegant:                             0.6103448275862069, 2
+Stylish:                             0.6103448275862069, 2
+Happy:                               0.6103448275862069, 2
+Children's Folk:                     0.6103448275862069, 2
+Birthday:                            0.6103448275862069, 2
+Nocturnal:                           0.6103448275862069, 2
+Traditional Country:                 0.6103448275862069, 2
+Bleak:                               0.6, 1
+Gloomy:                              0.6, 1
+Brittle:                             0.6, 1
+Relaxation:                          0.6, 1
+Cynical/Sarcastic:                   0.6, 1
+Swaggering:                          0.6, 1
+Acerbic:                             0.6, 1
+Lively:                              0.6, 1
+Ambitious:                           0.6, 1
+Self-Conscious:                      0.6, 1
+Paranoid:                            0.6, 1
+Street-Smart:                        0.6, 1
+Smooth:                              0.6, 1
+Provocative:                         0.6, 1
+Unsettling:                          0.6, 1
+Appalachian:                         0.6, 1
+North American Traditions:           0.6, 1
+Urgent:                              0.6, 1
+Bright:                              0.6, 1
+Light:                               0.6, 1
+Enigmatic:                           0.6, 1
+Circular:                            0.6, 1
+Illness:                             0.6, 1
+Naive:                               0.6, 1
+Eerie:                               0.6, 1
+Ominous:                             0.6, 1
+Restrained:                          0.6, 1
+Stately:                             0.6, 1
+Romantic:                            0.6, 1
+Finger-Picked Guitar:                0.6, 1
+New Acoustic:                        0.6, 1
+Brash:                               0.6, 1
+Energetic:                           0.6, 1
+Spiritual:                           0.6, 1
+Night Driving:                       0.6, 1
+Regret:                              0.6, 1
+Travel:                              0.6, 1
+Summery:                             0.6, 1
+Gleeful:                             0.6, 1
+Silly:                               0.6, 1
+Mischievous:                         0.6, 1
+Guys Night Out:                      0.6, 1

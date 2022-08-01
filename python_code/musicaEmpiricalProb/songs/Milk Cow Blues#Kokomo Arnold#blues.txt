@@ -1,0 +1,24 @@
+Acoustic Chicago Blues:              0.9 : 8
+Pre-War Blues:                       0.9 : 8
+Regional Blues:                      0.9 : 8
+Amiable/Good-Natured:                0.9 : 8
+Earthy:                              0.9 : 8
+Rollicking:                          0.9 : 8
+Acoustic Blues:                      0.8 : 7
+Atmospheric:                         0.8 : 7
+Bittersweet:                         0.8 : 7
+Intense:                             0.8 : 7
+Intimate:                            0.8 : 7
+Organic:                             0.8 : 7
+Provocative:                         0.8 : 7
+Rustic:                              0.8 : 7
+Sparse:                              0.8 : 7
+Tense/Anxious:                       0.8 : 7
+Urgent:                              0.8 : 7
+Slide Guitar Blues:                  0.6 : 5
+Autumn:                              0.6 : 5
+Breakup:                             0.6 : 5
+Feeling Blue:                        0.6 : 5
+Freedom:                             0.6 : 5
+Hanging Out:                         0.6 : 5
+Late Night:                          0.6 : 5

@@ -1,0 +1,21 @@
+Tin Pan Alley Pop:                   0.9 : 9
+Traditional Pop:                     0.9 : 9
+Calm/Peaceful:                       0.9 : 9
+Confident:                           0.9 : 9
+Poignant:                            0.9 : 9
+Refined:                             0.9 : 9
+Comfort:                             0.9 : 9
+American Popular Song:               0.8 : 8
+Standards:                           0.8 : 8
+Elegant:                             0.8 : 8
+Reserved:                            0.8 : 8
+Soothing:                            0.8 : 8
+Delicate:                            0.7 : 7
+Gentle:                              0.7 : 7
+Springlike:                          0.7 : 7
+Atmospheric:                         0.6 : 6
+Dramatic:                            0.6 : 6
+Plaintive:                           0.6 : 6
+Restrained:                          0.6 : 6
+Sentimental:                         0.6 : 6
+Soft/Quiet:                          0.6 : 6

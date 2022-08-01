@@ -1,0 +1,174 @@
+#Numero di canzoni: 32
+
+Brash:                               0.9, 26
+Street-Smart:                        0.864, 23
+Confident:                           0.8400000000000001, 21
+Partying:                            0.8400000000000001, 21
+East Coast Rap:                      0.804, 18
+Swaggering:                          0.804, 18
+Guys Night Out:                      0.792, 17
+Cool & Cocky:                        0.792, 17
+Celebratory:                         0.78, 16
+Rousing:                             0.78, 16
+Energetic:                           0.78, 16
+Aggressive:                          0.768, 15
+Boisterous:                          0.768, 15
+Playful_mood:                        0.768, 15
+Confrontational:                     0.756, 14
+Hanging Out:                         0.756, 14
+Rambunctious:                        0.744, 13
+Raucous:                             0.732, 12
+Golden Age:                          0.72, 11
+Uncompromising:                      0.72, 11
+Visceral:                            0.72, 11
+Hardcore Rap:                        0.72, 11
+Fun:                                 0.72, 11
+Rebellious:                          0.708, 10
+Urgent:                              0.708, 10
+Thuggish:                            0.708, 10
+Rowdy:                               0.708, 10
+Fiery:                               0.696, 9
+Humorous:                            0.696, 9
+Menacing:                            0.696, 9
+Pop-Rap:                             0.696, 9
+Intense:                             0.684, 8
+Provocative:                         0.684, 8
+Revolutionary:                       0.684, 8
+Reckless:                            0.684, 8
+Fierce:                              0.684, 8
+Freewheeling:                        0.684, 8
+Empowering:                          0.672, 7
+Bravado:                             0.672, 7
+TGIF:                                0.672, 7
+Motivation:                          0.672, 7
+Dramatic:                            0.66, 6
+Hedonistic:                          0.66, 6
+Irreverent:                          0.66, 6
+Old-School Rap:                      0.66, 6
+Rollicking:                          0.66, 6
+Alternative Rap:                     0.66, 6
+Quirky:                              0.66, 6
+Outrageous:                          0.66, 6
+Exciting:                            0.66, 6
+Angry:                               0.648, 5
+Hostile:                             0.648, 5
+Tense/Anxious:                       0.648, 5
+Freedom:                             0.648, 5
+Gangsta Rap:                         0.648, 5
+West Coast Rap:                      0.648, 5
+Witty:                               0.648, 5
+Silly:                               0.648, 5
+Sleazy:                              0.636, 4
+Harsh:                               0.636, 4
+Club:                                0.636, 4
+Summery:                             0.636, 4
+Lively:                              0.636, 4
+New Jack Swing:                      0.636, 4
+Exuberant:                           0.636, 4
+Victory:                             0.636, 4
+Late Night:                          0.636, 4
+Acerbic:                             0.636, 4
+Passionate:                          0.624, 3
+Volatile:                            0.624, 3
+Summer:                              0.624, 3
+G-Funk:                              0.624, 3
+Druggy:                              0.624, 3
+Slick:                               0.624, 3
+Cynical/Sarcastic:                   0.624, 3
+Sexual:                              0.624, 3
+Poignant:                            0.624, 3
+Hypnotic:                            0.624, 3
+Amiable/Good-Natured:                0.624, 3
+Pool Party:                          0.624, 3
+Club/Dance:                          0.624, 3
+Ominous:                             0.624, 3
+Drinking:                            0.624, 3
+Mischievous:                         0.624, 3
+Playful:                             0.624, 3
+Political Rap:                       0.612, 2
+Laid-Back/Mellow:                    0.612, 2
+Gleeful:                             0.612, 2
+Malevolent:                          0.612, 2
+Nihilistic:                          0.612, 2
+Day Driving:                         0.612, 2
+Somber:                              0.612, 2
+Reflective:                          0.612, 2
+Yearning:                            0.612, 2
+Reflection:                          0.612, 2
+Cheerful:                            0.612, 2
+Gritty:                              0.612, 2
+Dirty South:                         0.612, 2
+Southern Rap:                        0.612, 2
+Spacey:                              0.612, 2
+Detached:                            0.612, 2
+Carefree:                            0.612, 2
+At the Beach:                        0.612, 2
+Prom:                                0.612, 2
+Urban:                               0.612, 2
+Party Rap:                           0.612, 2
+Celebration:                         0.612, 2
+Exercise/Workout:                    0.612, 2
+Nocturnal:                           0.612, 2
+Night Driving:                       0.612, 2
+School:                              0.612, 2
+Cerebral:                            0.612, 2
+Gutsy:                               0.612, 2
+Manic:                               0.612, 2
+Cathartic:                           0.6, 1
+Stylish:                             0.6, 1
+Paranoid:                            0.6, 1
+Bitter:                              0.6, 1
+Theatrical:                          0.6, 1
+Anguished/Distraught:                0.6, 1
+Brooding:                            0.6, 1
+Melancholy:                          0.6, 1
+Angst-Ridden:                        0.6, 1
+Complex:                             0.6, 1
+Elegant:                             0.6, 1
+Searching:                           0.6, 1
+Introspection:                       0.6, 1
+Affirmation:                         0.6, 1
+Picnic:                              0.6, 1
+Soothing:                            0.6, 1
+Smooth:                              0.6, 1
+Earnest:                             0.6, 1
+Sweet:                               0.6, 1
+Relaxed:                             0.6, 1
+Electro:                             0.6, 1
+Bright:                              0.6, 1
+Joyous:                              0.6, 1
+Girls Night Out:                     0.6, 1
+Disco:                               0.6, 1
+Funk:                                0.6, 1
+Homecoming:                          0.6, 1
+Comedy Rap:                          0.6, 1
+Whimsical:                           0.6, 1
+Latin Rap:                           0.6, 1
+Ramshackle:                          0.6, 1
+Wry:                                 0.6, 1
+Sports:                              0.6, 1
+Sardonic:                            0.6, 1
+Snide:                               0.6, 1
+Sexy:                                0.6, 1
+Vacation:                            0.6, 1
+Sex:                                 0.6, 1
+Campy:                               0.6, 1
+Happy:                               0.6, 1
+Warm:                                0.6, 1
+Heavy Metal:                         0.6, 1
+Nü Metal:                            0.6, 1
+Alternative/Indie Rock:              0.6, 1
+Hardcore Punk:                       0.6, 1
+Ironic:                              0.6, 1
+Uplifting:                           0.6, 1
+Enigmatic:                           0.6, 1
+Ambitious:                           0.6, 1
+Literate:                            0.6, 1
+Left-Field Hip-Hop:                  0.6, 1
+Underground Rap:                     0.6, 1
+Insular:                             0.6, 1
+Dreamy:                              0.6, 1
+Trippy:                              0.6, 1
+Maverick:                            0.6, 1
+Solitude:                            0.6, 1
+Unsettling:                          0.6, 1

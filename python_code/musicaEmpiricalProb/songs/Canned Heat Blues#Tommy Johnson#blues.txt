@@ -1,0 +1,29 @@
+Pre-War Country Blues:               0.9 : 9
+Gritty:                              0.9 : 9
+Intense:                             0.9 : 9
+Late Night:                          0.9 : 9
+Country Blues:                       0.8500000000000001 : 8
+Delta Blues:                         0.8500000000000001 : 8
+Pre-War Blues:                       0.8500000000000001 : 8
+Regional Blues:                      0.8500000000000001 : 8
+Eerie:                               0.8500000000000001 : 8
+Unsettling:                          0.8500000000000001 : 8
+Feeling Blue:                        0.8500000000000001 : 8
+Bleak:                               0.8 : 7
+Ominous:                             0.8 : 7
+Plaintive:                           0.8 : 7
+Regret:                              0.8 : 7
+Acoustic Blues:                      0.75 : 6
+Earthy:                              0.75 : 6
+Angst-Ridden:                        0.7 : 5
+Anguished/Distraught:                0.7 : 5
+Intimate:                            0.7 : 5
+Searching:                           0.7 : 5
+Early Morning:                       0.7 : 5
+Freedom:                             0.7 : 5
+Hanging Out:                         0.7 : 5
+Rainy Day:                           0.7 : 5
+Road Trip:                           0.7 : 5
+Sunday Afternoon:                    0.7 : 5
+Paranoid:                            0.65 : 4
+Sad:                                 0.6 : 3

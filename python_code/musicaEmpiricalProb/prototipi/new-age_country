@@ -1,0 +1,31 @@
+#Title composizione
+Title : new-age#country
+
+#Concetto Principale
+Head Concept Name : new-age
+Head Concept Count : 48
+
+#Concetto Modificatore
+Modifier Concept Name : country
+Modifier Concept Count : 49
+
+
+
+
+
+T(modifier), -Sardonic, 0.9, 48
+T(modifier), -Housework, 0.9, 48
+T(modifier), Traditional Country, 0.9, 33
+T(modifier), Earthy, 0.890625, 32
+T(modifier), Earnest, 0.8625, 29
+T(modifier), Reflective, 0.84375, 27
+
+T(head), -Worldbeat, 0.9, 47
+T(head), -Crossover Jazz, 0.9, 47
+T(head), Reflection, 0.9, 29
+T(head), Soothing, 0.8892857142857142, 28
+T(head), Introspection, 0.8892857142857142, 28
+T(head), Hypnotic, 0.8785714285714286, 27
+
+
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 6.118265609815355

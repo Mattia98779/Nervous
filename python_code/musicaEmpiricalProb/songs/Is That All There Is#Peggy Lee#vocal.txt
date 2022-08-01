@@ -1,0 +1,36 @@
+Torch Songs:                         0.9000000000000001 : 9
+Vocal Pop:                           0.9000000000000001 : 9
+Bitter:                              0.9000000000000001 : 9
+Bittersweet:                         0.9000000000000001 : 9
+Bleak:                               0.9000000000000001 : 9
+Elegant:                             0.9000000000000001 : 9
+Gloomy:                              0.9000000000000001 : 9
+Ironic:                              0.9000000000000001 : 9
+Refined:                             0.9000000000000001 : 9
+Weary:                               0.9000000000000001 : 9
+Heartache:                           0.9000000000000001 : 9
+Regret:                              0.9000000000000001 : 9
+Traditional Pop:                     0.825 : 8
+Relaxed:                             0.825 : 8
+Sardonic:                            0.825 : 8
+Feeling Blue:                        0.825 : 8
+Introspection:                       0.825 : 8
+Rainy Day:                           0.825 : 8
+Vocal Jazz:                          0.75 : 7
+Brooding:                            0.75 : 7
+Cynical/Sarcastic:                   0.75 : 7
+Dramatic:                            0.75 : 7
+Reflective:                          0.75 : 7
+Reserved:                            0.75 : 7
+Somber:                              0.75 : 7
+Wry:                                 0.75 : 7
+Relaxation:                          0.75 : 7
+Early Pop/Rock:                      0.6749999999999999 : 6
+Cathartic:                           0.6749999999999999 : 6
+Detached:                            0.6749999999999999 : 6
+Eccentric:                           0.6749999999999999 : 6
+Melancholy:                          0.6749999999999999 : 6
+Nihilistic:                          0.6749999999999999 : 6
+Theatrical:                          0.6749999999999999 : 6
+Wintry:                              0.6749999999999999 : 6
+Acerbic:                             0.6 : 5

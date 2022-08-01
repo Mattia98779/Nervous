@@ -1,0 +1,60 @@
+Bossa Nova:                          0.9 : 9
+Atmospheric:                         0.9 : 9
+Delicate:                            0.9 : 9
+Dreamy:                              0.9 : 9
+Nocturnal:                           0.9 : 9
+Plaintive:                           0.9 : 9
+Reflective:                          0.9 : 9
+Reserved:                            0.9 : 9
+Sensual:                             0.9 : 9
+Sexy:                                0.9 : 9
+Slick:                               0.9 : 9
+Soft/Quiet:                          0.9 : 9
+Stylish:                             0.9 : 9
+Summery:                             0.9 : 9
+Affection/Fondness:                  0.9 : 9
+Background Music:                    0.9 : 9
+Introspection:                       0.9 : 9
+Late Night:                          0.9 : 9
+Picnic:                              0.9 : 9
+Reflection:                          0.9 : 9
+Relaxation:                          0.9 : 9
+Romantic Evening:                    0.9 : 9
+Sex:                                 0.9 : 9
+Spring:                              0.9 : 9
+Brazilian Traditions:                0.8625 : 8
+Mood Music:                          0.8625 : 8
+Vocal Pop:                           0.8625 : 8
+Elegant:                             0.8625 : 8
+Laid-Back/Mellow:                    0.8625 : 8
+Relaxed:                             0.8625 : 8
+Sophisticated:                       0.8625 : 8
+Springlike:                          0.8625 : 8
+Warm:                                0.8625 : 8
+At the Beach:                        0.8625 : 8
+Dinner Ambiance:                     0.8625 : 8
+Summer:                              0.8625 : 8
+Early Pop/Rock:                      0.825 : 7
+Calm/Peaceful:                       0.825 : 7
+Gentle:                              0.825 : 7
+Intimate:                            0.825 : 7
+Light:                               0.825 : 7
+Playful_mood:                        0.825 : 7
+Poignant:                            0.825 : 7
+Smooth:                              0.825 : 7
+Soothing:                            0.825 : 7
+Sweet:                               0.825 : 7
+Wistful:                             0.825 : 7
+Comfort:                             0.825 : 7
+In Love:                             0.825 : 7
+Sweet Dreams:                        0.825 : 7
+Brazilian Jazz:                      0.7875 : 6
+Carefree:                            0.7875 : 6
+Ethereal:                            0.7875 : 6
+Organic:                             0.7875 : 6
+Romantic:                            0.7875 : 6
+World Fusion:                        0.75 : 5
+Amiable/Good-Natured:                0.75 : 5
+Cheerful:                            0.75 : 5
+Refined:                             0.75 : 5
+Brazilian Pop:                       0.6 : 1

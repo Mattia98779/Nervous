@@ -1,0 +1,42 @@
+Big Band:                            0.9 : 9
+Sweet Bands:                         0.9 : 9
+Amiable/Good-Natured:                0.9 : 9
+Cheerful:                            0.9 : 9
+Happy:                               0.9 : 9
+Refined:                             0.9 : 9
+Rousing:                             0.9 : 9
+Smooth:                              0.9 : 9
+Sweet:                               0.9 : 9
+Celebration:                         0.9 : 9
+Comfort:                             0.9 : 9
+Reminiscing:                         0.9 : 9
+Sunday Afternoon:                    0.9 : 9
+Swing:                               0.8250000000000001 : 8
+Brash:                               0.8250000000000001 : 8
+Bright:                              0.8250000000000001 : 8
+Carefree:                            0.8250000000000001 : 8
+Lively:                              0.8250000000000001 : 8
+Soothing:                            0.8250000000000001 : 8
+Girls Night Out:                     0.8250000000000001 : 8
+Guys Night Out:                      0.8250000000000001 : 8
+Boisterous:                          0.75 : 7
+Brassy:                              0.75 : 7
+Confident:                           0.75 : 7
+Exciting:                            0.75 : 7
+Exuberant:                           0.75 : 7
+Joyous:                              0.75 : 7
+Light:                               0.75 : 7
+Relaxed:                             0.75 : 7
+Sophisticated:                       0.75 : 7
+Stylish:                             0.75 : 7
+Reunion:                             0.75 : 7
+Celebratory:                         0.675 : 6
+Elegant:                             0.675 : 6
+Fun:                                 0.675 : 6
+Gleeful:                             0.675 : 6
+Innocent:                            0.675 : 6
+Playful_mood:                        0.675 : 6
+Sparkling:                           0.675 : 6
+Knotty:                              0.6 : 5
+Romantic:                            0.6 : 5
+Summery:                             0.6 : 5

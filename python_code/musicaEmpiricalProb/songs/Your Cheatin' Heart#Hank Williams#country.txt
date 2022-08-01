@@ -1,0 +1,30 @@
+Honky Tonk:                          0.9 : 9
+Traditional Country:                 0.9 : 9
+Bittersweet:                         0.9 : 9
+Earthy:                              0.9 : 9
+Melancholy:                          0.9 : 9
+Organic:                             0.9 : 9
+Plaintive:                           0.9 : 9
+Poignant:                            0.9 : 9
+Sad:                                 0.9 : 9
+Searching:                           0.9 : 9
+Weary:                               0.9 : 9
+Wistful:                             0.9 : 9
+Yearning:                            0.9 : 9
+Drinking:                            0.9 : 9
+Feeling Blue:                        0.9 : 9
+Heartache:                           0.9 : 9
+Late Night:                          0.9 : 9
+Regret:                              0.9 : 9
+Rustic:                              0.8500000000000001 : 8
+Earnest:                             0.8 : 7
+Intimate:                            0.8 : 7
+Loss/Grief:                          0.8 : 7
+Cathartic:                           0.75 : 6
+Passionate:                          0.75 : 6
+Reflection:                          0.75 : 6
+Circular:                            0.7 : 5
+Early Morning:                       0.7 : 5
+Freedom:                             0.7 : 5
+Road Trip:                           0.7 : 5
+Exuberant:                           0.6 : 3

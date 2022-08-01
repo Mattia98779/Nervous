@@ -1,0 +1,19 @@
+Hanging Out:                         0.9 : 9
+Comedy Rap:                          0.825 : 8
+Golden Age:                          0.825 : 8
+Pop-Rap:                             0.825 : 8
+Energetic:                           0.825 : 8
+Fun:                                 0.825 : 8
+Humorous:                            0.825 : 8
+Silly:                               0.825 : 8
+Boisterous:                          0.75 : 7
+Outrageous:                          0.75 : 7
+Playful_mood:                        0.75 : 7
+Quirky:                              0.75 : 7
+Whimsical:                           0.75 : 7
+Partying:                            0.75 : 7
+Playful:                             0.75 : 7
+Yearning:                            0.675 : 6
+Acerbic:                             0.6 : 5
+Rollicking:                          0.6 : 5
+Street-Smart:                        0.6 : 5

@@ -1,0 +1,13 @@
+Children's Folk:                     0.9000000000000001 : 9
+Sing-Alongs:                         0.8 : 8
+Day Driving:                         0.8 : 8
+Hanging Out:                         0.8 : 8
+Playful:                             0.8 : 8
+Cheerful:                            0.7 : 7
+Laid-Back/Mellow:                    0.7 : 7
+Springlike:                          0.7 : 7
+Amiable/Good-Natured:                0.6 : 6
+Fun:                                 0.6 : 6
+Playful_mood:                        0.6 : 6
+Whimsical:                           0.6 : 6
+Sunday Afternoon:                    0.6 : 6

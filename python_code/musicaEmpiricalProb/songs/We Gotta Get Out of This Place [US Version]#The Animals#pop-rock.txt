@@ -1,0 +1,35 @@
+Angst-Ridden:                        0.9 : 9
+Brooding:                            0.9 : 9
+Cathartic:                           0.9 : 9
+Confrontational:                     0.9 : 9
+Dramatic:                            0.9 : 9
+Fiery:                               0.9 : 9
+Freewheeling:                        0.9 : 9
+Intense:                             0.9 : 9
+Raucous:                             0.9 : 9
+Rebellious:                          0.9 : 9
+Reckless:                            0.9 : 9
+Rollicking:                          0.9 : 9
+Rowdy:                               0.9 : 9
+Street-Smart:                        0.9 : 9
+Swaggering:                          0.9 : 9
+Tense/Anxious:                       0.9 : 9
+Urgent:                              0.9 : 9
+Visceral:                            0.9 : 9
+Volatile:                            0.9 : 9
+Yearning:                            0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Drinking:                            0.9 : 9
+Empowering:                          0.9 : 9
+Freedom:                             0.9 : 9
+Guys Night Out:                      0.9 : 9
+Hanging Out:                         0.9 : 9
+Late Night:                          0.9 : 9
+Partying:                            0.9 : 9
+Road Trip:                           0.9 : 9
+British Blues:                       0.8250000000000001 : 8
+British Invasion:                    0.8250000000000001 : 8
+Regional Blues:                      0.8250000000000001 : 8
+Rock & Roll:                         0.8250000000000001 : 8
+Passionate:                          0.8250000000000001 : 8
+Contemporary Pop/Rock:               0.6 : 5

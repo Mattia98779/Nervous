@@ -1,0 +1,23 @@
+Film Music:                          0.9 : 9
+Original Score:                      0.9 : 9
+Soundtracks:                         0.9 : 9
+Atmospheric:                         0.6 : 7
+Brooding:                            0.6 : 7
+Dramatic:                            0.6 : 7
+Dreamy:                              0.6 : 7
+Exuberant:                           0.6 : 7
+Nocturnal:                           0.6 : 7
+Nostalgic:                           0.6 : 7
+Ominous:                             0.6 : 7
+Poignant:                            0.6 : 7
+Reflective:                          0.6 : 7
+Rousing:                             0.6 : 7
+Searching:                           0.6 : 7
+Somber:                              0.6 : 7
+Tense/Anxious:                       0.6 : 7
+Theatrical:                          0.6 : 7
+Wistful:                             0.6 : 7
+Empowering:                          0.6 : 7
+Late Night:                          0.6 : 7
+The Creative Side:                   0.6 : 7
+Victory:                             0.6 : 7

@@ -1,0 +1,10 @@
+Roots Reggae:                        0.9 : 8
+Organic:                             0.9 : 8
+Summery:                             0.9 : 8
+Laid-Back/Mellow:                    0.825 : 7
+Smooth:                              0.825 : 7
+Poignant:                            0.75 : 6
+Summer:                              0.75 : 6
+Druggy:                              0.6749999999999999 : 5
+Hypnotic:                            0.6749999999999999 : 5
+Earthy:                              0.6 : 4

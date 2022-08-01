@@ -1,0 +1,21 @@
+Club/Dance:                          0.9 : 9
+Dance-Pop:                           0.9 : 9
+Celebratory:                         0.9 : 9
+Fun:                                 0.9 : 9
+Nocturnal:                           0.9 : 9
+Playful_mood:                        0.9 : 9
+Sensual:                             0.9 : 9
+Sexy:                                0.9 : 9
+Stylish:                             0.9 : 9
+Partying:                            0.9 : 9
+Sex:                                 0.9 : 9
+Contemporary Pop/Rock:               0.8250000000000001 : 8
+Freewheeling:                        0.8250000000000001 : 8
+Energetic:                           0.75 : 7
+Teen Pop:                            0.6 : 5
+Brassy:                              0.6 : 5
+Exuberant:                           0.6 : 5
+Rousing:                             0.6 : 5
+Club:                                0.6 : 5
+Girls Night Out:                     0.6 : 5
+Guys Night Out:                      0.6 : 5

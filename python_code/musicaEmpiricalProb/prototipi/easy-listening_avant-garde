@@ -1,0 +1,31 @@
+#Title composizione
+Title : easy-listening#avant-garde
+
+#Concetto Principale
+Head Concept Name : easy-listening
+Head Concept Count : 43
+
+#Concetto Modificatore
+Modifier Concept Name : avant-garde
+Modifier Concept Count : 13
+
+
+
+
+
+T(modifier), -Freedom, 0.9, 12
+T(modifier), -Dramatic, 0.9, 12
+T(modifier), The Creative Side, 0.9, 6
+T(modifier), Cerebral, 0.84, 5
+T(modifier), Uncompromising, 0.78, 4
+T(modifier), Provocative, 0.78, 4
+
+T(head), -Wry, 0.9, 42
+T(head), -Gleeful, 0.9, 42
+T(head), Dinner Ambiance, 0.9, 27
+T(head), Amiable/Good-Natured, 0.8884615384615384, 26
+T(head), Relaxation, 0.8653846153846154, 24
+T(head), Soothing, 0.8653846153846154, 24
+
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 5.250948121645798

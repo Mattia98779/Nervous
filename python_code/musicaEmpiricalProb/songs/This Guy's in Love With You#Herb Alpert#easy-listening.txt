@@ -1,0 +1,41 @@
+Early Pop/Rock:                      0.9 : 9
+Amiable/Good-Natured:                0.9 : 9
+Atmospheric:                         0.9 : 9
+Brassy:                              0.9 : 9
+Bright:                              0.9 : 9
+Calm/Peaceful:                       0.9 : 9
+Carefree:                            0.9 : 9
+Confident:                           0.9 : 9
+Delicate:                            0.9 : 9
+Dreamy:                              0.9 : 9
+Earnest:                             0.9 : 9
+Elegant:                             0.9 : 9
+Gentle:                              0.9 : 9
+Intimate:                            0.9 : 9
+Laid-Back/Mellow:                    0.9 : 9
+Light:                               0.9 : 9
+Lively:                              0.9 : 9
+Plaintive:                           0.9 : 9
+Reflective:                          0.9 : 9
+Relaxed:                             0.9 : 9
+Romantic:                            0.9 : 9
+Sensual:                             0.9 : 9
+Sentimental:                         0.9 : 9
+Slick:                               0.9 : 9
+Smooth:                              0.9 : 9
+Soothing:                            0.9 : 9
+Sophisticated:                       0.9 : 9
+Spicy:                               0.9 : 9
+Stylish:                             0.9 : 9
+Sweet:                               0.9 : 9
+Warm:                                0.9 : 9
+Background Music:                    0.9 : 9
+Dinner Ambiance:                     0.9 : 9
+In Love:                             0.9 : 9
+Relaxation:                          0.9 : 9
+Romantic Evening:                    0.9 : 9
+Slow Dance:                          0.9 : 9
+Instrumental Pop:                    0.75 : 8
+Jazz-Pop:                            0.75 : 8
+Refined:                             0.75 : 8
+Brill Building Pop:                  0.6 : 7

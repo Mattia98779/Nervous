@@ -1,0 +1,31 @@
+#Title composizione
+Title : pop-rock#international
+
+#Concetto Principale
+Head Concept Name : pop-rock
+Head Concept Count : 45
+
+#Concetto Modificatore
+Modifier Concept Name : international
+Modifier Concept Count : 3
+
+
+
+
+
+T(modifier), -Playful, 0.9, 2
+T(modifier), -TGIF, 0.9, 2
+T(modifier), Stylish, 0.9, 2
+T(modifier), Boisterous, 0.9, 2
+T(modifier), Exuberant, 0.9, 2
+T(modifier), Yearning, 0.9, 2
+
+T(head), -New Romantic, 0.9, 44
+T(head), -Spicy, 0.9, 44
+T(head), Rousing, 0.9, 30
+T(head), Contemporary Pop/Rock, 0.8689655172413793, 27
+T(head), Album Rock, 0.8172413793103448, 22
+T(head), Confident, 0.8172413793103448, 22
+
+
+Result : '0', '0', '0', '0', '1', '0', '1', '1', '1', '1', '0', '1', 4.868045977011494

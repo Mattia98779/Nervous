@@ -1,0 +1,12 @@
+Original Score:                      0.9 : 8
+Soundtracks:                         0.9 : 8
+Dramatic:                            0.9 : 8
+Organic:                             0.9 : 8
+Sparse:                              0.9 : 8
+Theatrical:                          0.9 : 8
+Ominous:                             0.6 : 5
+Urgent:                              0.6 : 5
+Visceral:                            0.6 : 5
+Volatile:                            0.6 : 5
+The Great Outdoors:                  0.6 : 5
+Victory:                             0.6 : 5

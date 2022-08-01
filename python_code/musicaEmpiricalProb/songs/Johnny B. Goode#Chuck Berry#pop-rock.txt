@@ -1,0 +1,39 @@
+Energetic:                           0.9 : 9
+Exciting:                            0.9 : 9
+Freewheeling:                        0.9 : 9
+Literate:                            0.9 : 9
+Raucous:                             0.9 : 9
+Rollicking:                          0.9 : 9
+Rowdy:                               0.9 : 9
+Swaggering:                          0.9 : 9
+Witty:                               0.9 : 9
+Freedom:                             0.9 : 9
+Hanging Out:                         0.9 : 9
+Motivation:                          0.9 : 9
+Road Trip:                           0.9 : 9
+Early R&B:                           0.8625 : 8
+Boisterous:                          0.8625 : 8
+Carefree:                            0.8625 : 8
+Confident:                           0.8625 : 8
+Lively:                              0.8625 : 8
+Rebellious:                          0.8625 : 8
+Summery:                             0.8625 : 8
+Day Driving:                         0.8625 : 8
+Guys Night Out:                      0.8625 : 8
+Summer:                              0.8625 : 8
+TGIF:                                0.8625 : 8
+Bravado:                             0.825 : 7
+Celebratory:                         0.825 : 7
+Cheerful:                            0.825 : 7
+Exuberant:                           0.825 : 7
+Fun:                                 0.825 : 7
+Rousing:                             0.825 : 7
+Cool & Cocky:                        0.825 : 7
+Drinking:                            0.825 : 7
+Partying:                            0.825 : 7
+Aggressive:                          0.7875 : 6
+Fiery:                               0.7875 : 6
+Playful_mood:                        0.7875 : 6
+Rambunctious:                        0.7875 : 6
+School:                              0.7875 : 6
+Rock & Roll:                         0.6 : 1

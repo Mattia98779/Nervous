@@ -1,0 +1,24 @@
+Contemporary Pop/Rock:               0.9 : 9
+Dance-Pop:                           0.9 : 9
+Club:                                0.9 : 9
+Partying:                            0.9 : 9
+Seduction:                           0.9 : 9
+Sex:                                 0.9 : 9
+Bright:                              0.825 : 8
+Celebratory:                         0.825 : 8
+Energetic:                           0.825 : 8
+Irreverent:                          0.825 : 8
+Provocative:                         0.825 : 8
+Sensual:                             0.825 : 8
+Sexy:                                0.825 : 8
+Club/Dance:                          0.75 : 7
+Confident:                           0.75 : 7
+Lively:                              0.75 : 7
+Playful_mood:                        0.75 : 7
+Girls Night Out:                     0.75 : 7
+Stylish:                             0.6749999999999999 : 6
+Witty:                               0.6749999999999999 : 6
+Hanging Out:                         0.6749999999999999 : 6
+Brash:                               0.6 : 5
+In Love:                             0.6 : 5
+Summer:                              0.6 : 5

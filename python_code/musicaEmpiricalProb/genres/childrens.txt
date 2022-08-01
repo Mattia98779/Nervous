@@ -1,0 +1,65 @@
+#Numero di canzoni: 23
+
+Hanging Out:                         0.9, 22
+Playful:                             0.9, 22
+Fun:                                 0.8857142857142857, 21
+Sing-Alongs:                         0.8714285714285714, 20
+Amiable/Good-Natured:                0.8714285714285714, 20
+Playful_mood:                        0.8714285714285714, 20
+Cheerful:                            0.8571428571428572, 19
+Children's Folk:                     0.7857142857142857, 14
+Family Gatherings:                   0.7714285714285715, 13
+Whimsical:                           0.7571428571428571, 12
+Laid-Back/Mellow:                    0.7428571428571429, 11
+Energetic:                           0.7285714285714286, 10
+Carefree:                            0.7142857142857143, 9
+Earnest:                             0.6857142857142857, 7
+Exuberant:                           0.6857142857142857, 7
+Bright:                              0.6714285714285714, 6
+Gentle:                              0.6714285714285714, 6
+Rollicking:                          0.6714285714285714, 6
+Sweet:                               0.6571428571428571, 5
+Gleeful:                             0.6571428571428571, 5
+The Creative Side:                   0.6571428571428571, 5
+Organic:                             0.6428571428571428, 4
+Literate:                            0.6428571428571428, 4
+Sunday Afternoon:                    0.6428571428571428, 4
+Silly:                               0.6428571428571428, 4
+Lively:                              0.6428571428571428, 4
+Soothing:                            0.6285714285714286, 3
+Freewheeling:                        0.6285714285714286, 3
+TGIF:                                0.6285714285714286, 3
+Empowering:                          0.6285714285714286, 3
+Relaxed:                             0.6142857142857142, 2
+Earthy:                              0.6142857142857142, 2
+Joyous:                              0.6142857142857142, 2
+Rousing:                             0.6142857142857142, 2
+Freedom:                             0.6142857142857142, 2
+Springlike:                          0.6142857142857142, 2
+Day Driving:                         0.6142857142857142, 2
+Refined:                             0.6, 1
+Confident:                           0.6, 1
+Spiritual:                           0.6, 1
+Motivation:                          0.6, 1
+Revolutionary:                       0.6, 1
+Lullabies:                           0.6, 1
+Calm/Peaceful:                       0.6, 1
+Delicate:                            0.6, 1
+Dreamy:                              0.6, 1
+Elegant:                             0.6, 1
+Hypnotic:                            0.6, 1
+Innocent:                            0.6, 1
+Intimate:                            0.6, 1
+Light:                               0.6, 1
+Nocturnal:                           0.6, 1
+Plaintive:                           0.6, 1
+Reserved:                            0.6, 1
+Soft/Quiet:                          0.6, 1
+Sparse:                              0.6, 1
+Warm:                                0.6, 1
+Late Night:                          0.6, 1
+Meditation:                          0.6, 1
+Relaxation:                          0.6, 1
+Sweet Dreams:                        0.6, 1
+Quirky:                              0.6, 1
+Wry:                                 0.6, 1

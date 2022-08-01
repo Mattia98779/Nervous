@@ -1,0 +1,192 @@
+#Numero di canzoni: 49
+
+Traditional Pop:                     0.9, 47
+Vocal Pop:                           0.8478260869565217, 39
+Refined:                             0.7630434782608696, 26
+Sentimental:                         0.7630434782608696, 26
+Romantic:                            0.75, 24
+Sweet:                               0.7434782608695653, 23
+Cheerful:                            0.7369565217391304, 22
+Elegant:                             0.7369565217391304, 22
+Soothing:                            0.7369565217391304, 22
+Warm:                                0.7369565217391304, 22
+Smooth:                              0.7304347826086957, 21
+Dinner Ambiance:                     0.7304347826086957, 21
+Romantic Evening:                    0.7304347826086957, 21
+Carefree:                            0.7239130434782608, 20
+In Love:                             0.7239130434782608, 20
+Gentle:                              0.717391304347826, 19
+Delicate:                            0.717391304347826, 19
+Poignant:                            0.717391304347826, 19
+Amiable/Good-Natured:                0.7108695652173913, 18
+Light:                               0.7108695652173913, 18
+Lively:                              0.7108695652173913, 18
+Vocal Jazz:                          0.7043478260869565, 17
+Dramatic:                            0.7043478260869565, 17
+Confident:                           0.6978260869565217, 16
+Playful_mood:                        0.6978260869565217, 16
+Reflective:                          0.6978260869565217, 16
+Intimate:                            0.6978260869565217, 16
+Happy:                               0.691304347826087, 15
+Comfort:                             0.691304347826087, 15
+Rousing:                             0.6847826086956521, 14
+Fun:                                 0.6847826086956521, 14
+Relaxation:                          0.6847826086956521, 14
+Energetic:                           0.6782608695652174, 13
+Exuberant:                           0.6782608695652174, 13
+Springlike:                          0.6782608695652174, 13
+Calm/Peaceful:                       0.6782608695652174, 13
+Sophisticated:                       0.6782608695652174, 13
+Boisterous:                          0.6717391304347826, 12
+Innocent:                            0.6717391304347826, 12
+Restrained:                          0.6717391304347826, 12
+Plaintive:                           0.6717391304347826, 12
+Stylish:                             0.6717391304347826, 12
+Wistful:                             0.6652173913043478, 11
+Harmony Vocal Group:                 0.658695652173913, 10
+Earnest:                             0.658695652173913, 10
+New Love:                            0.658695652173913, 10
+Standards:                           0.658695652173913, 10
+Theatrical:                          0.658695652173913, 10
+Early Pop/Rock:                      0.6521739130434783, 9
+Soft/Quiet:                          0.6521739130434783, 9
+Reminiscing:                         0.6521739130434783, 9
+Yearning:                            0.6521739130434783, 9
+Reserved:                            0.6521739130434783, 9
+Reflection:                          0.6521739130434783, 9
+Lush:                                0.6521739130434783, 9
+Summery:                             0.6456521739130434, 8
+Joyous:                              0.6456521739130434, 8
+Cast Recordings:                     0.6456521739130434, 8
+Show Tunes:                          0.6456521739130434, 8
+American Popular Song:               0.6456521739130434, 8
+Melancholy:                          0.6456521739130434, 8
+Bittersweet:                         0.6456521739130434, 8
+Picnic:                              0.6391304347826087, 7
+Ethereal:                            0.6391304347826087, 7
+Dreamy:                              0.6391304347826087, 7
+Sensual:                             0.6391304347826087, 7
+Laid-Back/Mellow:                    0.6391304347826087, 7
+Heartache:                           0.6391304347826087, 7
+Feeling Blue:                        0.6391304347826087, 7
+Introspection:                       0.6326086956521739, 6
+Torch Songs:                         0.6326086956521739, 6
+Autumnal:                            0.6326086956521739, 6
+Slow Dance:                          0.6326086956521739, 6
+Affection/Fondness:                  0.6326086956521739, 6
+Rollicking:                          0.6260869565217391, 5
+Passionate:                          0.6260869565217391, 5
+Nocturnal:                           0.6260869565217391, 5
+Bright:                              0.6260869565217391, 5
+Exciting:                            0.6260869565217391, 5
+Sparkling:                           0.6260869565217391, 5
+Tin Pan Alley Pop:                   0.6260869565217391, 5
+Relaxed:                             0.6260869565217391, 5
+Pastoral:                            0.6260869565217391, 5
+Atmospheric:                         0.6195652173913043, 4
+Precious:                            0.6195652173913043, 4
+Spring:                              0.6195652173913043, 4
+Brassy:                              0.6195652173913043, 4
+Brash:                               0.6195652173913043, 4
+Cool & Cocky:                        0.6195652173913043, 4
+Freedom:                             0.6195652173913043, 4
+Partying:                            0.6195652173913043, 4
+Sunday Afternoon:                    0.6195652173913043, 4
+Humorous:                            0.6130434782608696, 3
+Family Gatherings:                   0.6130434782608696, 3
+Searching:                           0.6130434782608696, 3
+Seduction:                           0.6130434782608696, 3
+Swing:                               0.6130434782608696, 3
+Effervescent:                        0.6130434782608696, 3
+Gutsy:                               0.6130434782608696, 3
+Celebratory:                         0.6130434782608696, 3
+Drinking:                            0.6130434782608696, 3
+Gleeful:                             0.6130434782608696, 3
+Silly:                               0.6130434782608696, 3
+Pool Party:                          0.6130434782608696, 3
+Bitter:                              0.6130434782608696, 3
+Gloomy:                              0.6130434782608696, 3
+Weary:                               0.6130434782608696, 3
+Brooding:                            0.6130434782608696, 3
+Somber:                              0.6130434782608696, 3
+Regret:                              0.6130434782608696, 3
+Slick:                               0.6130434782608696, 3
+Big Band:                            0.6130434782608696, 3
+Solitude:                            0.6130434782608696, 3
+Breakup:                             0.6130434782608696, 3
+Sweet Dreams:                        0.6130434782608696, 3
+Celebration:                         0.6130434782608696, 3
+Stay in Bed:                         0.6130434782608696, 3
+Vacation:                            0.6130434782608696, 3
+Affirmation:                         0.6065217391304347, 2
+Musicals:                            0.6065217391304347, 2
+Naive:                               0.6065217391304347, 2
+Autumn:                              0.6065217391304347, 2
+Late Night:                          0.6065217391304347, 2
+Swaggering:                          0.6065217391304347, 2
+Wedding:                             0.6065217391304347, 2
+Literate:                            0.6065217391304347, 2
+Guys Night Out:                      0.6065217391304347, 2
+TGIF:                                0.6065217391304347, 2
+Small Gathering:                     0.6065217391304347, 2
+Whimsical:                           0.6065217391304347, 2
+Motivation:                          0.6065217391304347, 2
+Homecoming:                          0.6065217391304347, 2
+Day Driving:                         0.6065217391304347, 2
+Reverent:                            0.6065217391304347, 2
+Wintry:                              0.6065217391304347, 2
+Bleak:                               0.6065217391304347, 2
+Cynical/Sarcastic:                   0.6065217391304347, 2
+Acerbic:                             0.6065217391304347, 2
+Rainy Day:                           0.6065217391304347, 2
+Nostalgic:                           0.6065217391304347, 2
+Sad:                                 0.6065217391304347, 2
+Summer:                              0.6065217391304347, 2
+Witty:                               0.6065217391304347, 2
+Hypnotic:                            0.6, 1
+Organic:                             0.6, 1
+Sexy:                                0.6, 1
+Sex:                                 0.6, 1
+Freewheeling:                        0.6, 1
+Girls Night Out:                     0.6, 1
+Playful:                             0.6, 1
+Lazy:                                0.6, 1
+Christmas Party:                     0.6, 1
+Winter:                              0.6, 1
+Ironic:                              0.6, 1
+Sardonic:                            0.6, 1
+Wry:                                 0.6, 1
+Cathartic:                           0.6, 1
+Detached:                            0.6, 1
+Eccentric:                           0.6, 1
+Nihilistic:                          0.6, 1
+Bravado:                             0.6, 1
+Elaborate:                           0.6, 1
+Soft Rock:                           0.6, 1
+Adult Contemporary:                  0.6, 1
+Loss/Grief:                          0.6, 1
+Mood Music:                          0.6, 1
+Movie Themes:                        0.6, 1
+Orchestral/Easy Listening:           0.6, 1
+Soundtracks:                         0.6, 1
+Background Music:                    0.6, 1
+Early R&B:                           0.6, 1
+Hanging Out:                         0.6, 1
+Housework:                           0.6, 1
+Cabaret:                             0.6, 1
+Irreverent:                          0.6, 1
+Earthy:                              0.6, 1
+Progressive Jazz:                    0.6, 1
+Quirky:                              0.6, 1
+Giddy:                               0.6, 1
+Hawaiian Pop:                        0.6, 1
+Oceanic Traditions:                  0.6, 1
+Sweet Bands:                         0.6, 1
+Anniversary:                         0.6, 1
+Reunion:                             0.6, 1
+Ominous:                             0.6, 1
+Indulgent:                           0.6, 1
+Eerie:                               0.6, 1
+Aggressive:                          0.6, 1
+Guitar Jazz:                         0.6, 1
+Jazz Instrument:                     0.6, 1

@@ -1,0 +1,26 @@
+Country-Pop:                         0.9 : 9
+Amiable/Good-Natured:                0.9 : 9
+Earnest:                             0.9 : 9
+Earthy:                              0.9 : 9
+Gutsy:                               0.9 : 9
+Lively:                              0.9 : 9
+Passionate:                          0.9 : 9
+Plaintive:                           0.9 : 9
+Poignant:                            0.9 : 9
+Reflective:                          0.9 : 9
+Rousing:                             0.9 : 9
+Searching:                           0.9 : 9
+Slick:                               0.9 : 9
+Smooth:                              0.9 : 9
+Sophisticated:                       0.9 : 9
+Wistful:                             0.9 : 9
+Yearning:                            0.9 : 9
+Comfort:                             0.9 : 9
+Introspection:                       0.9 : 9
+Reflection:                          0.9 : 9
+Contemporary Country:                0.8625 : 8
+Neo-Traditionalist Country:          0.8625 : 8
+Confident:                           0.8625 : 8
+Empowering:                          0.8625 : 8
+Bluegrass:                           0.6 : 1
+Progressive Bluegrass:               0.6 : 1

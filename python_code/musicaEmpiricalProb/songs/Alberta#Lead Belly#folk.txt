@@ -1,0 +1,15 @@
+Folk-Blues:                          0.9 : 8
+Folksongs:                           0.9 : 8
+Organic:                             0.9 : 8
+Feeling Blue:                        0.9 : 8
+Rollicking:                          0.8 : 7
+Rousing:                             0.8 : 7
+Earnest:                             0.7000000000000001 : 6
+Earthy:                              0.7000000000000001 : 6
+Intimate:                            0.7000000000000001 : 6
+Passionate:                          0.7000000000000001 : 6
+Plaintive:                           0.7000000000000001 : 6
+Yearning:                            0.7000000000000001 : 6
+Acoustic Blues:                      0.6 : 5
+Songster:                            0.6 : 5
+Loss/Grief:                          0.6 : 5

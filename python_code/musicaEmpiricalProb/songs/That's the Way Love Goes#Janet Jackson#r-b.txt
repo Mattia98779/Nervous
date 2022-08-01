@@ -1,0 +1,24 @@
+Urban:                               0.9 : 9
+Passionate:                          0.9 : 9
+Sensual:                             0.9 : 9
+Sexy:                                0.9 : 9
+Soothing:                            0.9 : 9
+Sophisticated:                       0.9 : 9
+Comfort:                             0.9 : 9
+In Love:                             0.9 : 9
+Late Night:                          0.9 : 9
+Seduction:                           0.9 : 9
+Sex:                                 0.9 : 9
+Slow Dance:                          0.9 : 9
+Light:                               0.7999999999999999 : 8
+Stylish:                             0.7999999999999999 : 8
+Dreamy:                              0.7000000000000001 : 7
+Druggy:                              0.7000000000000001 : 7
+Intimate:                            0.7000000000000001 : 7
+Laid-Back/Mellow:                    0.7000000000000001 : 7
+Sexual:                              0.7000000000000001 : 7
+Slick:                               0.7000000000000001 : 7
+Soft/Quiet:                          0.7000000000000001 : 7
+Sweet:                               0.7000000000000001 : 7
+Warm:                                0.7000000000000001 : 7
+Smooth:                              0.6 : 6

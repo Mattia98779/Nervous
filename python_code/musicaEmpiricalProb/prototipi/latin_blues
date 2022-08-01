@@ -1,0 +1,31 @@
+#Title composizione
+Title : latin#blues
+
+#Concetto Principale
+Head Concept Name : latin
+Head Concept Count : 5
+
+#Concetto Modificatore
+Modifier Concept Name : blues
+Modifier Concept Count : 48
+
+
+
+
+
+T(modifier), -The Creative Side, 0.9, 47
+T(modifier), -Day Driving, 0.9, 47
+T(modifier), Regional Blues, 0.9, 40
+T(modifier), Earthy, 0.8615384615384616, 35
+T(modifier), Gritty, 0.8615384615384616, 35
+T(modifier), Passionate, 0.8153846153846154, 29
+
+T(head), -Summer, 0.9, 4
+T(head), -Partying, 0.9, 4
+T(head), Rousing, 0.9, 3
+T(head), Romantic, 0.9, 3
+T(head), Latin Pop, 0.75, 2
+T(head), Celebration, 0.75, 2
+
+
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 5.526538461538462

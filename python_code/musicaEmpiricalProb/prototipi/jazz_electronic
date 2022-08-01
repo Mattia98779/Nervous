@@ -1,0 +1,31 @@
+#Title composizione
+Title : jazz#electronic
+
+#Concetto Principale
+Head Concept Name : jazz
+Head Concept Count : 48
+
+#Concetto Modificatore
+Modifier Concept Name : electronic
+Modifier Concept Count : 38
+
+
+
+
+
+T(modifier), -Delicate, 0.9, 37
+T(modifier), -Sprawling, 0.9, 37
+T(modifier), Hypnotic, 0.9, 27
+T(modifier), Electronica, 0.8538461538461538, 23
+T(modifier), Trippy, 0.8538461538461538, 23
+T(modifier), Techno, 0.8307692307692307, 21
+
+T(head), -Soundtracks, 0.9, 47
+T(head), -Movie Themes, 0.9, 47
+T(head), Sophisticated, 0.9, 38
+T(head), Freewheeling, 0.8675675675675676, 34
+T(head), Confident, 0.8432432432432433, 31
+T(head), Amiable/Good-Natured, 0.8432432432432433, 31
+
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 6.167995563883723

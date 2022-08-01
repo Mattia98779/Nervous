@@ -1,0 +1,28 @@
+Dramatic:                            0.9 : 9
+Light:                               0.9 : 9
+Poignant:                            0.9 : 9
+Soothing:                            0.9 : 9
+Sweet:                               0.9 : 9
+Relaxation:                          0.9 : 9
+Reminiscing:                         0.9 : 9
+Early Pop/Rock:                      0.7999999999999999 : 8
+Vocal Pop:                           0.7999999999999999 : 8
+Reflective:                          0.7999999999999999 : 8
+Sentimental:                         0.7999999999999999 : 8
+Comfort:                             0.7999999999999999 : 8
+Dinner Ambiance:                     0.7999999999999999 : 8
+Romantic Evening:                    0.7999999999999999 : 8
+Traditional Pop:                     0.7 : 7
+Cheerful:                            0.7 : 7
+Earnest:                             0.7 : 7
+Innocent:                            0.7 : 7
+Plaintive:                           0.7 : 7
+Restrained:                          0.7 : 7
+Introspection:                       0.7 : 7
+Delicate:                            0.6 : 6
+Dreamy:                              0.6 : 6
+Gentle:                              0.6 : 6
+Romantic:                            0.6 : 6
+Soft/Quiet:                          0.6 : 6
+Springlike:                          0.6 : 6
+Warm:                                0.6 : 6

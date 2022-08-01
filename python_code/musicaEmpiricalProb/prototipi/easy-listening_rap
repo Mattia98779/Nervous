@@ -1,0 +1,31 @@
+#Title composizione
+Title : easy-listening#rap
+
+#Concetto Principale
+Head Concept Name : easy-listening
+Head Concept Count : 43
+
+#Concetto Modificatore
+Modifier Concept Name : rap
+Modifier Concept Count : 32
+
+
+
+
+
+T(modifier), -Unsettling, 0.9, 31
+T(modifier), -Solitude, 0.9, 31
+T(modifier), Brash, 0.9, 26
+T(modifier), Street-Smart, 0.864, 23
+T(modifier), Confident, 0.8400000000000001, 21
+T(modifier), Partying, 0.8400000000000001, 21
+
+T(head), -Wry, 0.9, 42
+T(head), -Gleeful, 0.9, 42
+T(head), Dinner Ambiance, 0.9, 27
+T(head), Amiable/Good-Natured, 0.8884615384615384, 26
+T(head), Relaxation, 0.8653846153846154, 24
+T(head), Soothing, 0.8653846153846154, 24
+
+
+Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 5.967782871198571

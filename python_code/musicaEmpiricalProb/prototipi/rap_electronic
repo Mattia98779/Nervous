@@ -1,0 +1,31 @@
+#Title composizione
+Title : rap#electronic
+
+#Concetto Principale
+Head Concept Name : rap
+Head Concept Count : 32
+
+#Concetto Modificatore
+Modifier Concept Name : electronic
+Modifier Concept Count : 38
+
+
+
+
+
+T(modifier), -Delicate, 0.9, 37
+T(modifier), -Sprawling, 0.9, 37
+T(modifier), Hypnotic, 0.9, 27
+T(modifier), Electronica, 0.8538461538461538, 23
+T(modifier), Trippy, 0.8538461538461538, 23
+T(modifier), Techno, 0.8307692307692307, 21
+
+T(head), -Unsettling, 0.9, 31
+T(head), -Solitude, 0.9, 31
+T(head), Brash, 0.9, 26
+T(head), Street-Smart, 0.864, 23
+T(head), Confident, 0.8400000000000001, 21
+T(head), Partying, 0.8400000000000001, 21
+
+
+Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 6.225609817813765

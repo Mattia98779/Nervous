@@ -1,0 +1,21 @@
+Cowboy:                              0.9 : 8
+Traditional Country:                 0.9 : 8
+Fun:                                 0.9 : 8
+Giddy:                               0.9 : 8
+Refined:                             0.9 : 8
+The Great Outdoors:                  0.9 : 8
+Earthy:                              0.8400000000000001 : 7
+Sentimental:                         0.8400000000000001 : 7
+Atmospheric:                         0.78 : 6
+Earnest:                             0.78 : 6
+Organic:                             0.78 : 6
+Amiable/Good-Natured:                0.72 : 5
+Rousing:                             0.72 : 5
+Rustic:                              0.72 : 5
+Day Driving:                         0.72 : 5
+Early Morning:                       0.72 : 5
+Feeling Blue:                        0.72 : 5
+Freedom:                             0.72 : 5
+Housework:                           0.72 : 5
+Road Trip:                           0.72 : 5
+Sweet:                               0.6 : 3

@@ -1,0 +1,24 @@
+Ambient Breakbeat:                   0.9 : 9
+Trip-Hop:                            0.9 : 9
+Hypnotic:                            0.9 : 9
+Trippy:                              0.9 : 9
+Small Gathering:                     0.9 : 9
+Turntablism:                         0.825 : 8
+Druggy:                              0.825 : 8
+Background Music:                    0.825 : 8
+Reflection:                          0.825 : 8
+Relaxation:                          0.825 : 8
+Cerebral:                            0.75 : 7
+Detached:                            0.75 : 7
+Eerie:                               0.75 : 7
+Laid-Back/Mellow:                    0.75 : 7
+Relaxed:                             0.75 : 7
+Late Night:                          0.75 : 7
+Clinical:                            0.6749999999999999 : 6
+Nocturnal:                           0.6749999999999999 : 6
+Restrained:                          0.6749999999999999 : 6
+Smooth:                              0.6749999999999999 : 6
+Spacey:                              0.6749999999999999 : 6
+Ethereal:                            0.6 : 5
+Paranoid:                            0.6 : 5
+Warm:                                0.6 : 5

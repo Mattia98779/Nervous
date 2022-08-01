@@ -1,0 +1,37 @@
+Brash:                               0.9 : 9
+Raucous:                             0.9 : 9
+Rowdy:                               0.9 : 9
+Celebration:                         0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Drinking:                            0.9 : 9
+Guys Night Out:                      0.9 : 9
+Partying:                            0.9 : 9
+Contemporary Country:                0.825 : 8
+New Traditionalist:                  0.825 : 8
+Boisterous:                          0.825 : 8
+Carefree:                            0.825 : 8
+Celebratory:                         0.825 : 8
+Confident:                           0.825 : 8
+Rollicking:                          0.825 : 8
+Freedom:                             0.825 : 8
+Hanging Out:                         0.825 : 8
+Playful:                             0.825 : 8
+Amiable/Good-Natured:                0.75 : 7
+Cheerful:                            0.75 : 7
+Exuberant:                           0.75 : 7
+Freewheeling:                        0.75 : 7
+Lively:                              0.75 : 7
+Playful_mood:                        0.75 : 7
+Rambunctious:                        0.75 : 7
+Reckless:                            0.75 : 7
+Rousing:                             0.75 : 7
+Whimsical:                           0.75 : 7
+TGIF:                                0.75 : 7
+Bittersweet:                         0.675 : 6
+Light:                               0.675 : 6
+Reflective:                          0.675 : 6
+Summery:                             0.675 : 6
+Warm:                                0.675 : 6
+Picnic:                              0.675 : 6
+Nostalgic:                           0.6 : 5
+Swaggering:                          0.6 : 5

@@ -1,0 +1,14 @@
+Hedonistic:                          0.9 : 9
+Swaggering:                          0.9 : 9
+East Coast Rap:                      0.825 : 8
+Brash:                               0.825 : 8
+Confident:                           0.825 : 8
+Street-Smart:                        0.825 : 8
+Thuggish:                            0.825 : 8
+Cool & Cocky:                        0.825 : 8
+Guys Night Out:                      0.825 : 8
+Boisterous:                          0.75 : 7
+Bravado:                             0.75 : 7
+Rousing:                             0.6749999999999999 : 6
+Lively:                              0.6 : 5
+Rambunctious:                        0.6 : 5

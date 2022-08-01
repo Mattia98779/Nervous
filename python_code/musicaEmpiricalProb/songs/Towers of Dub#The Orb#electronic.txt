@@ -1,0 +1,41 @@
+Ambient House:                       0.9 : 9
+Dreamy:                              0.9 : 9
+Hypnotic:                            0.9 : 9
+Relaxed:                             0.9 : 9
+Late Night:                          0.9 : 9
+Reflection:                          0.9 : 9
+Solitude:                            0.9 : 9
+Ambient Dub:                         0.8250000000000001 : 8
+Dub:                                 0.8250000000000001 : 8
+Atmospheric:                         0.8250000000000001 : 8
+Calm/Peaceful:                       0.8250000000000001 : 8
+Laid-Back/Mellow:                    0.8250000000000001 : 8
+Playful_mood:                        0.8250000000000001 : 8
+Soothing:                            0.8250000000000001 : 8
+Spacey:                              0.8250000000000001 : 8
+Trippy:                              0.8250000000000001 : 8
+Ambient Techno:                      0.75 : 7
+Techno:                              0.75 : 7
+Circular:                            0.75 : 7
+Druggy:                              0.75 : 7
+Ethereal:                            0.75 : 7
+Meandering:                          0.75 : 7
+Nocturnal:                           0.75 : 7
+Smooth:                              0.75 : 7
+The Creative Side:                   0.75 : 7
+Winter:                              0.75 : 7
+Electronica:                         0.6749999999999999 : 6
+IDM:                                 0.6749999999999999 : 6
+Cerebral:                            0.6749999999999999 : 6
+Clinical:                            0.6749999999999999 : 6
+Cold:                                0.6749999999999999 : 6
+Eerie:                               0.6749999999999999 : 6
+Ominous:                             0.6749999999999999 : 6
+Reflective:                          0.6749999999999999 : 6
+Sprawling:                           0.6749999999999999 : 6
+Hanging Out:                         0.6749999999999999 : 6
+Amiable/Good-Natured:                0.6 : 5
+Brittle:                             0.6 : 5
+Delicate:                            0.6 : 5
+Detached:                            0.6 : 5
+Gentle:                              0.6 : 5

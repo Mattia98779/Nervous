@@ -1,0 +1,17 @@
+Political Reggae:                    0.9 : 8
+Earnest:                             0.9 : 8
+Organic:                             0.9 : 8
+Spiritual:                           0.9 : 8
+Reggae-Pop:                          0.6 : 5
+Roots Reggae:                        0.6 : 5
+Atmospheric:                         0.6 : 5
+Calm/Peaceful:                       0.6 : 5
+Earthy:                              0.6 : 5
+Intimate:                            0.6 : 5
+Optimistic:                          0.6 : 5
+Passionate:                          0.6 : 5
+Poignant:                            0.6 : 5
+Reflective:                          0.6 : 5
+Sensual:                             0.6 : 5
+Sentimental:                         0.6 : 5
+Summery:                             0.6 : 5

@@ -1,0 +1,28 @@
+Country Blues:                       0.9 : 9
+Earthy:                              0.9 : 9
+Folk Revival:                        0.84 : 8
+Folk-Blues:                          0.84 : 8
+Folksongs:                           0.84 : 8
+Long Walk:                           0.84 : 8
+Exuberant:                           0.78 : 7
+Joyous:                              0.78 : 7
+Organic:                             0.78 : 7
+Reverent:                            0.78 : 7
+Yearning:                            0.78 : 7
+Intense:                             0.72 : 6
+Melancholy:                          0.72 : 6
+Passionate:                          0.72 : 6
+Rousing:                             0.72 : 6
+Sophisticated:                       0.72 : 6
+Bittersweet:                         0.66 : 5
+Earnest:                             0.66 : 5
+Gritty:                              0.66 : 5
+Reflective:                          0.66 : 5
+Affirmation:                         0.66 : 5
+Empowering:                          0.66 : 5
+Freedom:                             0.66 : 5
+Motivation:                          0.66 : 5
+Sunday Afternoon:                    0.66 : 5
+The Great Outdoors:                  0.66 : 5
+Plaintive:                           0.6 : 4
+Wistful:                             0.6 : 4

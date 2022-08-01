@@ -1,0 +1,26 @@
+Bitter:                              0.9 : 9
+Brooding:                            0.9 : 9
+Enigmatic:                           0.9 : 9
+Greasy:                              0.9 : 9
+Gritty:                              0.9 : 9
+Gutsy:                               0.9 : 9
+Malevolent:                          0.9 : 9
+Searching:                           0.9 : 9
+Street-Smart:                        0.9 : 9
+Visceral:                            0.9 : 9
+Yearning:                            0.9 : 9
+Feeling Blue:                        0.9 : 9
+Introspection:                       0.9 : 9
+Reflection:                          0.9 : 9
+Album Rock:                          0.8625 : 8
+British Metal:                       0.8625 : 8
+Aggressive:                          0.8625 : 8
+Paranoid:                            0.8625 : 8
+Brash:                               0.825 : 7
+Crunchy:                             0.825 : 7
+Harsh:                               0.825 : 7
+Tense/Anxious:                       0.825 : 7
+Urgent:                              0.825 : 7
+Energetic:                           0.7875 : 6
+Confrontational:                     0.75 : 5
+Heavy Metal:                         0.6 : 1

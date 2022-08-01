@@ -1,0 +1,50 @@
+Mainstream Jazz:                     0.9 : 9
+Modal Music:                         0.9 : 9
+Soul Jazz:                           0.9 : 9
+Confident:                           0.9 : 9
+Exuberant:                           0.9 : 9
+Freewheeling:                        0.9 : 9
+Rousing:                             0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Empowering:                          0.9 : 9
+Freedom:                             0.9 : 9
+Hanging Out:                         0.9 : 9
+Motivation:                          0.9 : 9
+Victory:                             0.9 : 9
+Bright:                              0.8250000000000001 : 8
+Earthy:                              0.8250000000000001 : 8
+Effervescent:                        0.8250000000000001 : 8
+Energetic:                           0.8250000000000001 : 8
+Playful_mood:                        0.8250000000000001 : 8
+Rollicking:                          0.8250000000000001 : 8
+Street-Smart:                        0.8250000000000001 : 8
+Warm:                                0.8250000000000001 : 8
+Playful:                             0.8250000000000001 : 8
+Amiable/Good-Natured:                0.75 : 7
+Cheerful:                            0.75 : 7
+Circular:                            0.75 : 7
+Dramatic:                            0.75 : 7
+Earnest:                             0.75 : 7
+Literate:                            0.75 : 7
+Lively:                              0.75 : 7
+Passionate:                          0.75 : 7
+Rambunctious:                        0.75 : 7
+Searching:                           0.75 : 7
+Self-Conscious:                      0.75 : 7
+Sophisticated:                       0.75 : 7
+Stately:                             0.75 : 7
+Stylish:                             0.75 : 7
+Swaggering:                          0.75 : 7
+Witty:                               0.75 : 7
+Wry:                                 0.75 : 7
+Affirmation:                         0.75 : 7
+Girls Night Out:                     0.75 : 7
+Guys Night Out:                      0.75 : 7
+Late Night:                          0.75 : 7
+Mischievous:                         0.75 : 7
+Sports:                              0.75 : 7
+The Creative Side:                   0.75 : 7
+The Great Outdoors:                  0.75 : 7
+Summery:                             0.6749999999999999 : 6
+Joyous:                              0.6 : 5
+Picnic:                              0.6 : 5

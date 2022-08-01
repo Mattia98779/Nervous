@@ -1,0 +1,31 @@
+#Title composizione
+Title : stage-screen#international
+
+#Concetto Principale
+Head Concept Name : stage-screen
+Head Concept Count : 18
+
+#Concetto Modificatore
+Modifier Concept Name : international
+Modifier Concept Count : 3
+
+
+
+
+
+T(modifier), -Playful, 0.9, 2
+T(modifier), -TGIF, 0.9, 2
+T(modifier), Stylish, 0.9, 2
+T(modifier), Boisterous, 0.9, 2
+T(modifier), Exuberant, 0.9, 2
+T(modifier), Yearning, 0.9, 2
+
+T(head), -Introspection, 0.9, 17
+T(head), -Rainy Day, 0.9, 17
+T(head), Soundtracks, 0.9, 13
+T(head), Dramatic, 0.875, 12
+T(head), Original Score, 0.8500000000000001, 11
+T(head), Theatrical, 0.825, 10
+
+
+Result : '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', 5.094444444444445

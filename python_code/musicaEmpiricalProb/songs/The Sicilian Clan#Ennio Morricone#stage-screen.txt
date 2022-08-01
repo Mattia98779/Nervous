@@ -1,0 +1,20 @@
+Film Music:                          0.9 : 7
+Soundtracks:                         0.9 : 7
+Atmospheric:                         0.9 : 7
+Bittersweet:                         0.9 : 7
+Dramatic:                            0.9 : 7
+Eerie:                               0.9 : 7
+Literate:                            0.9 : 7
+Melancholy:                          0.9 : 7
+Reflective:                          0.9 : 7
+Somber:                              0.9 : 7
+Theatrical:                          0.9 : 7
+Feeling Blue:                        0.9 : 7
+Rainy Day:                           0.9 : 7
+The Creative Side:                   0.9 : 7
+Original Score:                      0.6 : 6
+Brooding:                            0.6 : 6
+Restrained:                          0.6 : 6
+Wistful:                             0.6 : 6
+Introspection:                       0.6 : 6
+Reflection:                          0.6 : 6

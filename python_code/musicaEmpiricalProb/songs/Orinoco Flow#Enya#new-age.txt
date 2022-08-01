@@ -1,0 +1,41 @@
+Atmospheric:                         0.9 : 9
+Circular:                            0.9 : 9
+Complex:                             0.9 : 9
+Dreamy:                              0.9 : 9
+Elegant:                             0.9 : 9
+Gentle:                              0.9 : 9
+Hypnotic:                            0.9 : 9
+Light:                               0.9 : 9
+Lush:                                0.9 : 9
+Pastoral:                            0.9 : 9
+Plaintive:                           0.9 : 9
+Refined:                             0.9 : 9
+Reflective:                          0.9 : 9
+Slick:                               0.9 : 9
+Smooth:                              0.9 : 9
+Soft/Quiet:                          0.9 : 9
+Sophisticated:                       0.9 : 9
+Sparkling:                           0.9 : 9
+Wistful:                             0.9 : 9
+Introspection:                       0.9 : 9
+Meditation:                          0.9 : 9
+Reflection:                          0.9 : 9
+Relaxation:                          0.9 : 9
+Adult Alternative:                   0.75 : 8
+Adult Alternative Pop/Rock:          0.75 : 8
+Alternative/Indie Rock:              0.75 : 8
+Celtic:                              0.75 : 8
+Celtic New Age:                      0.75 : 8
+Contemporary Celtic:                 0.75 : 8
+Contemporary Instrumental:           0.75 : 8
+Calm/Peaceful:                       0.75 : 8
+Detached:                            0.75 : 8
+Ethereal:                            0.75 : 8
+Soothing:                            0.75 : 8
+Ethnic Fusion:                       0.6 : 7
+Happy:                               0.6 : 7
+Rousing:                             0.6 : 7
+Spicy:                               0.6 : 7
+Spiritual:                           0.6 : 7
+Yearning:                            0.6 : 7
+Celebration:                         0.6 : 7

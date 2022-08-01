@@ -1,0 +1,6 @@
+Cast Recordings:                     0.9 : 9
+Musicals:                            0.9 : 9
+Show Tunes:                          0.9 : 9
+Reverent:                            0.7000000000000001 : 7
+Stately:                             0.7000000000000001 : 7
+Earnest:                             0.6 : 6

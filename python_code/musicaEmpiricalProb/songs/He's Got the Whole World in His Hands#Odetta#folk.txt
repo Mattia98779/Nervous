@@ -1,0 +1,18 @@
+Intense:                             0.9000000000000001 : 9
+Folk-Blues:                          0.825 : 8
+Folksongs:                           0.825 : 8
+Earthy:                              0.825 : 8
+Long Walk:                           0.825 : 8
+Bittersweet:                         0.75 : 7
+Exuberant:                           0.75 : 7
+Gritty:                              0.75 : 7
+Joyous:                              0.75 : 7
+Organic:                             0.75 : 7
+Reverent:                            0.75 : 7
+Passionate:                          0.6749999999999999 : 6
+Rousing:                             0.6749999999999999 : 6
+Empowering:                          0.6 : 5
+Freedom:                             0.6 : 5
+Motivation:                          0.6 : 5
+Sunday Afternoon:                    0.6 : 5
+The Great Outdoors:                  0.6 : 5

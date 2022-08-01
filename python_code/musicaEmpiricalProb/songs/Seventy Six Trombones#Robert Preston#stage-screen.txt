@@ -1,0 +1,2 @@
+Happy:                               0.9 : 7
+Sentimental:                         0.9 : 7

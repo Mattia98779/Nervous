@@ -1,0 +1,22 @@
+Traditional Pop:                     0.9 : 9
+Boisterous:                          0.9 : 9
+Carefree:                            0.9 : 9
+Cheerful:                            0.9 : 9
+Confident:                           0.9 : 9
+Exuberant:                           0.9 : 9
+Fun:                                 0.9 : 9
+Motivation:                          0.9 : 9
+Vocal Pop:                           0.825 : 8
+Light:                               0.825 : 8
+Lively:                              0.825 : 8
+Harmony Vocal Group:                 0.75 : 7
+Amiable/Good-Natured:                0.75 : 7
+Energetic:                           0.75 : 7
+Happy:                               0.75 : 7
+Playful_mood:                        0.75 : 7
+TGIF:                                0.75 : 7
+Brash:                               0.6749999999999999 : 6
+Joyous:                              0.6749999999999999 : 6
+Rousing:                             0.6749999999999999 : 6
+Summery:                             0.6749999999999999 : 6
+Sweet:                               0.6 : 5

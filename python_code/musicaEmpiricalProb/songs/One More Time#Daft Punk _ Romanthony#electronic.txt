@@ -1,0 +1,37 @@
+Bravado:                             0.9 : 9
+Celebration:                         0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Club/Dance:                          0.8400000000000001 : 8
+Electronica:                         0.8400000000000001 : 8
+Bright:                              0.8400000000000001 : 8
+Celebratory:                         0.8400000000000001 : 8
+Energetic:                           0.8400000000000001 : 8
+Freewheeling:                        0.8400000000000001 : 8
+Fun:                                 0.8400000000000001 : 8
+Nocturnal:                           0.8400000000000001 : 8
+Rousing:                             0.8400000000000001 : 8
+Urgent:                              0.8400000000000001 : 8
+Exercise/Workout:                    0.8400000000000001 : 8
+Partying:                            0.8400000000000001 : 8
+Dance-Pop:                           0.78 : 7
+Carefree:                            0.78 : 7
+Confident:                           0.78 : 7
+Exuberant:                           0.78 : 7
+Hypnotic:                            0.78 : 7
+Lively:                              0.78 : 7
+Sparkling:                           0.78 : 7
+Stylish:                             0.78 : 7
+Trippy:                              0.78 : 7
+Whimsical:                           0.78 : 7
+Club:                                0.78 : 7
+Hanging Out:                         0.78 : 7
+Playful:                             0.78 : 7
+Left-Field House:                    0.72 : 6
+Playful_mood:                        0.72 : 6
+Witty:                               0.72 : 6
+Adult Alternative Pop/Rock:          0.66 : 5
+Alternative/Indie Rock:              0.66 : 5
+Euro-Dance:                          0.66 : 5
+House:                               0.66 : 5
+Theatrical:                          0.66 : 5
+Indulgent:                           0.6 : 4

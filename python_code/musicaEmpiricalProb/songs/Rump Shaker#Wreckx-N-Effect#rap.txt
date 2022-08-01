@@ -1,0 +1,27 @@
+New Jack Swing:                      0.9000000000000001 : 8
+Party Rap:                           0.9000000000000001 : 8
+Pop-Rap:                             0.9000000000000001 : 8
+Sleazy:                              0.9000000000000001 : 8
+At the Beach:                        0.9000000000000001 : 8
+Brash:                               0.8500000000000001 : 7
+Confident:                           0.8500000000000001 : 7
+Raucous:                             0.8500000000000001 : 7
+Sexual:                              0.8500000000000001 : 7
+Guys Night Out:                      0.8500000000000001 : 7
+Partying:                            0.8500000000000001 : 7
+Pool Party:                          0.8500000000000001 : 7
+Celebratory:                         0.8 : 6
+Rambunctious:                        0.8 : 6
+Silly:                               0.8 : 6
+Cool & Cocky:                        0.8 : 6
+Aggressive:                          0.75 : 5
+Freewheeling:                        0.75 : 5
+Fun:                                 0.75 : 5
+Irreverent:                          0.75 : 5
+Playful_mood:                        0.75 : 5
+Rowdy:                               0.75 : 5
+Summery:                             0.75 : 5
+Visceral:                            0.75 : 5
+Hanging Out:                         0.75 : 5
+TGIF:                                0.75 : 5
+Witty:                               0.6 : 2

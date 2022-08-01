@@ -1,0 +1,19 @@
+Disco:                               0.9 : 9
+Funk:                                0.9 : 9
+Summer:                              0.9 : 9
+TGIF:                                0.9 : 9
+Amiable/Good-Natured:                0.6 : 8
+Carefree:                            0.6 : 8
+Celebratory:                         0.6 : 8
+Confident:                           0.6 : 8
+Exuberant:                           0.6 : 8
+Freewheeling:                        0.6 : 8
+Fun:                                 0.6 : 8
+Happy:                               0.6 : 8
+Playful_mood:                        0.6 : 8
+Quirky:                              0.6 : 8
+Rousing:                             0.6 : 8
+Girls Night Out:                     0.6 : 8
+Guys Night Out:                      0.6 : 8
+Hanging Out:                         0.6 : 8
+Partying:                            0.6 : 8

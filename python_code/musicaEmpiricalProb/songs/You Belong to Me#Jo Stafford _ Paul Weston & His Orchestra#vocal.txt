@@ -1,0 +1,30 @@
+Traditional Pop:                     0.9 : 9
+Calm/Peaceful:                       0.9 : 9
+Dreamy:                              0.9 : 9
+Sentimental:                         0.9 : 9
+Soothing:                            0.9 : 9
+Sweet:                               0.9 : 9
+Warm:                                0.9 : 9
+Comfort:                             0.9 : 9
+Relaxation:                          0.9 : 9
+Delicate:                            0.825 : 8
+Intimate:                            0.825 : 8
+Reflection:                          0.825 : 8
+Reminiscing:                         0.825 : 8
+Vocal Pop:                           0.75 : 7
+Gentle:                              0.75 : 7
+Poignant:                            0.75 : 7
+Restrained:                          0.75 : 7
+Romantic:                            0.75 : 7
+Smooth:                              0.75 : 7
+Slow Dance:                          0.75 : 7
+Solitude:                            0.75 : 7
+Vocal Jazz:                          0.675 : 6
+Earnest:                             0.675 : 6
+Lush:                                0.675 : 6
+Reflective:                          0.675 : 6
+Wistful:                             0.675 : 6
+Big Band:                            0.6 : 5
+Standards:                           0.6 : 5
+Torch Songs:                         0.6 : 5
+Searching:                           0.6 : 5

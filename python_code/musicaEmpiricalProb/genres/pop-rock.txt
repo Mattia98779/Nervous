@@ -1,0 +1,275 @@
+#Numero di canzoni: 45
+
+Rousing:                             0.9, 30
+Contemporary Pop/Rock:               0.8689655172413793, 27
+Album Rock:                          0.8172413793103448, 22
+Confident:                           0.8172413793103448, 22
+Energetic:                           0.8172413793103448, 22
+Cool & Cocky:                        0.806896551724138, 21
+Swaggering:                          0.7965517241379311, 20
+Partying:                            0.7862068965517242, 19
+Freewheeling:                        0.7862068965517242, 19
+Raucous:                             0.7862068965517242, 19
+Hanging Out:                         0.7758620689655172, 18
+Brash:                               0.7758620689655172, 18
+Guys Night Out:                      0.7655172413793103, 17
+Urgent:                              0.7655172413793103, 17
+Hard Rock:                           0.7551724137931035, 16
+Rock & Roll:                         0.7551724137931035, 16
+Rebellious:                          0.7551724137931035, 16
+In Love:                             0.7551724137931035, 16
+Playful_mood:                        0.7551724137931035, 16
+TGIF:                                0.7551724137931035, 16
+Summer:                              0.7448275862068966, 15
+Intense:                             0.7448275862068966, 15
+Dramatic:                            0.7448275862068966, 15
+Celebratory:                         0.7344827586206897, 14
+Road Trip:                           0.7344827586206897, 14
+Visceral:                            0.7344827586206897, 14
+Bravado:                             0.7241379310344828, 13
+Exciting:                            0.7241379310344828, 13
+Rowdy:                               0.7241379310344828, 13
+Fiery:                               0.7241379310344828, 13
+Yearning:                            0.7137931034482758, 12
+Fun:                                 0.7137931034482758, 12
+Rollicking:                          0.7137931034482758, 12
+Lively:                              0.7137931034482758, 12
+Aggressive:                          0.7137931034482758, 12
+Stylish:                             0.7137931034482758, 12
+Late Night:                          0.7034482758620689, 11
+Freedom:                             0.7034482758620689, 11
+Boisterous:                          0.7034482758620689, 11
+Exuberant:                           0.7034482758620689, 11
+Theatrical:                          0.7034482758620689, 11
+Street-Smart:                        0.7034482758620689, 11
+Bittersweet:                         0.693103448275862, 10
+Drinking:                            0.693103448275862, 10
+Reckless:                            0.693103448275862, 10
+Confrontational:                     0.693103448275862, 10
+Wistful:                             0.6827586206896552, 9
+Day Driving:                         0.6827586206896552, 9
+Empowering:                          0.6827586206896552, 9
+Acerbic:                             0.6724137931034483, 8
+Sexy:                                0.6724137931034483, 8
+Psychedelic/Garage:                  0.6724137931034483, 8
+Reminiscing:                         0.6724137931034483, 8
+Passionate:                          0.6724137931034483, 8
+Introspection:                       0.6724137931034483, 8
+Cathartic:                           0.6724137931034483, 8
+Volatile:                            0.6724137931034483, 8
+Girls Night Out:                     0.6724137931034483, 8
+Feeling Blue:                        0.6620689655172414, 7
+Heartache:                           0.6620689655172414, 7
+Amiable/Good-Natured:                0.6620689655172414, 7
+Summery:                             0.6620689655172414, 7
+Carefree:                            0.6620689655172414, 7
+Happy:                               0.6620689655172414, 7
+Literate:                            0.6620689655172414, 7
+Reflection:                          0.6620689655172414, 7
+Heavy Metal:                         0.6620689655172414, 7
+Sex:                                 0.6620689655172414, 7
+Nocturnal:                           0.6620689655172414, 7
+Gutsy:                               0.6620689655172414, 7
+British Invasion:                    0.6517241379310345, 6
+Blues-Rock:                          0.6517241379310345, 6
+Plaintive:                           0.6517241379310345, 6
+Poignant:                            0.6517241379310345, 6
+Reflective:                          0.6517241379310345, 6
+Searching:                           0.6517241379310345, 6
+Melancholy:                          0.6517241379310345, 6
+Warm:                                0.6517241379310345, 6
+Bright:                              0.6517241379310345, 6
+Trippy:                              0.6517241379310345, 6
+Joyous:                              0.6517241379310345, 6
+Witty:                               0.6517241379310345, 6
+Rambunctious:                        0.6517241379310345, 6
+Cynical/Sarcastic:                   0.6517241379310345, 6
+Night Driving:                       0.6517241379310345, 6
+Angst-Ridden:                        0.6517241379310345, 6
+Tense/Anxious:                       0.6517241379310345, 6
+Lush:                                0.6517241379310345, 6
+Club/Dance:                          0.6517241379310345, 6
+Motivation:                          0.6413793103448275, 5
+Singer/Songwriter:                   0.6413793103448275, 5
+Early Pop/Rock:                      0.6413793103448275, 5
+Breakup:                             0.6413793103448275, 5
+Sophisticated:                       0.6413793103448275, 5
+Epic:                                0.6413793103448275, 5
+Bitter:                              0.6413793103448275, 5
+Snide:                               0.6413793103448275, 5
+Sentimental:                         0.6413793103448275, 5
+Atmospheric:                         0.6413793103448275, 5
+Dance-Pop:                           0.6413793103448275, 5
+Provocative:                         0.6413793103448275, 5
+Sensual:                             0.6413793103448275, 5
+Club:                                0.6413793103448275, 5
+Earthy:                              0.6413793103448275, 5
+Wry:                                 0.6413793103448275, 5
+Brooding:                            0.6413793103448275, 5
+Detached:                            0.6413793103448275, 5
+Arena Rock:                          0.6413793103448275, 5
+Greasy:                              0.6413793103448275, 5
+Sardonic:                            0.6310344827586207, 4
+Politics/Society:                    0.6310344827586207, 4
+Earnest:                             0.6310344827586207, 4
+Druggy:                              0.6310344827586207, 4
+Cheerful:                            0.6310344827586207, 4
+Manic:                               0.6310344827586207, 4
+Outrageous:                          0.6310344827586207, 4
+Rockabilly:                          0.6310344827586207, 4
+British Metal:                       0.6310344827586207, 4
+Hypnotic:                            0.6310344827586207, 4
+The Creative Side:                   0.6310344827586207, 4
+Power Pop:                           0.6310344827586207, 4
+Soft Rock:                           0.6310344827586207, 4
+Ironic:                              0.6310344827586207, 4
+Slick:                               0.6310344827586207, 4
+Gritty:                              0.6310344827586207, 4
+New Wave:                            0.6310344827586207, 4
+Punk/New Wave:                       0.6310344827586207, 4
+Mischievous:                         0.6310344827586207, 4
+Folk-Rock:                           0.6206896551724138, 3
+Baroque Pop:                         0.6206896551724138, 3
+Intimate:                            0.6206896551724138, 3
+Early R&B:                           0.6206896551724138, 3
+Ambitious:                           0.6206896551724138, 3
+Elaborate:                           0.6206896551724138, 3
+Quirky:                              0.6206896551724138, 3
+Sexual:                              0.6206896551724138, 3
+Humorous:                            0.6206896551724138, 3
+Fierce:                              0.6206896551724138, 3
+Angry:                               0.6206896551724138, 3
+Revolutionary:                       0.6206896551724138, 3
+Harsh:                               0.6206896551724138, 3
+Innocent:                            0.6206896551724138, 3
+Sweet:                               0.6206896551724138, 3
+Prog-Rock:                           0.6206896551724138, 3
+Enigmatic:                           0.6206896551724138, 3
+Autumnal:                            0.6206896551724138, 3
+Irreverent:                          0.6206896551724138, 3
+Seduction:                           0.6206896551724138, 3
+Indulgent:                           0.6206896551724138, 3
+Brassy:                              0.6206896551724138, 3
+Playful:                             0.6206896551724138, 3
+Sprawling:                           0.6206896551724138, 3
+British Trad Rock:                   0.6206896551724138, 3
+Nostalgic:                           0.6206896551724138, 3
+Eerie:                               0.6206896551724138, 3
+British Psychedelia:                 0.6103448275862069, 2
+Delicate:                            0.6103448275862069, 2
+Precious:                            0.6103448275862069, 2
+Organic:                             0.6103448275862069, 2
+Acid Rock:                           0.6103448275862069, 2
+Smooth:                              0.6103448275862069, 2
+Spacey:                              0.6103448275862069, 2
+Affection/Fondness:                  0.6103448275862069, 2
+Maverick:                            0.6103448275862069, 2
+At the Beach:                        0.6103448275862069, 2
+Frat Rock:                           0.6103448275862069, 2
+Garage Rock:                         0.6103448275862069, 2
+Celebration:                         0.6103448275862069, 2
+Laid-Back/Mellow:                    0.6103448275862069, 2
+Relaxed:                             0.6103448275862069, 2
+Uncompromising:                      0.6103448275862069, 2
+Alternative/Indie Rock:              0.6103448275862069, 2
+Bleak:                               0.6103448275862069, 2
+Rainy Day:                           0.6103448275862069, 2
+Proto-Punk:                          0.6103448275862069, 2
+Mod:                                 0.6103448275862069, 2
+Whimsical:                           0.6103448275862069, 2
+American Trad Rock:                  0.6103448275862069, 2
+Regret:                              0.6103448275862069, 2
+Light:                               0.6103448275862069, 2
+Optimistic:                          0.6103448275862069, 2
+Art Rock:                            0.6103448275862069, 2
+Glam Rock:                           0.6103448275862069, 2
+Paranoid:                            0.6103448275862069, 2
+British Blues:                       0.6103448275862069, 2
+Regional Blues:                      0.6103448275862069, 2
+Synth Pop:                           0.6103448275862069, 2
+Hedonistic:                          0.6103448275862069, 2
+Teen Pop:                            0.6103448275862069, 2
+Adult Contemporary:                  0.6103448275862069, 2
+Self-Conscious:                      0.6103448275862069, 2
+Crunchy:                             0.6103448275862069, 2
+Cold:                                0.6103448275862069, 2
+Dreamy:                              0.6103448275862069, 2
+Menacing:                            0.6103448275862069, 2
+Spooky:                              0.6103448275862069, 2
+New Love:                            0.6103448275862069, 2
+Chamber Pop:                         0.6, 1
+Loss/Grief:                          0.6, 1
+Psychedelic Pop:                     0.6, 1
+Sunshine Pop:                        0.6, 1
+Doo Wop:                             0.6, 1
+Complex:                             0.6, 1
+Sparkling:                           0.6, 1
+Sugary:                              0.6, 1
+Picnic:                              0.6, 1
+Pool Party:                          0.6, 1
+Spring:                              0.6, 1
+School:                              0.6, 1
+Messy:                               0.6, 1
+Country-Rock:                        0.6, 1
+Lazy:                                0.6, 1
+Alternative Pop/Rock:                0.6, 1
+Grunge:                              0.6, 1
+Brill Building Pop:                  0.6, 1
+Girl Groups:                         0.6, 1
+Romantic:                            0.6, 1
+Naive:                               0.6, 1
+Romantic Evening:                    0.6, 1
+British Folk-Rock:                   0.6, 1
+Pastoral:                            0.6, 1
+Springlike:                          0.6, 1
+The Great Outdoors:                  0.6, 1
+Long Walk:                           0.6, 1
+Gleeful:                             0.6, 1
+Traditional Country:                 0.6, 1
+Uplifting:                           0.6, 1
+Heartland Rock:                      0.6, 1
+Nihilistic:                          0.6, 1
+D-I-V-O-R-C-E:                       0.6, 1
+At the Office:                       0.6, 1
+Campy:                               0.6, 1
+Eccentric:                           0.6, 1
+Silly:                               0.6, 1
+Folk-Pop:                            0.6, 1
+Refined:                             0.6, 1
+Sunday Afternoon:                    0.6, 1
+Autumn:                              0.6, 1
+Film Music:                          0.6, 1
+Soundtracks:                         0.6, 1
+Urban:                               0.6, 1
+Electronic/Computer Music:           0.6, 1
+Solitude:                            0.6, 1
+AM Pop:                              0.6, 1
+Malevolent:                          0.6, 1
+Disco:                               0.6, 1
+House:                               0.6, 1
+Dance-Rock:                          0.6, 1
+Alternative Dance:                   0.6, 1
+Gentle:                              0.6, 1
+Soft/Quiet:                          0.6, 1
+Southern Rock:                       0.6, 1
+Halloween:                           0.6, 1
+Scary:                               0.6, 1
+Ambient Pop:                         0.6, 1
+Detroit Rock:                        0.6, 1
+Hostile:                             0.6, 1
+Victory:                             0.6, 1
+Ethereal:                            0.6, 1
+Ominous:                             0.6, 1
+Scary Music:                         0.6, 1
+Post-Punk:                           0.6, 1
+College Rock:                        0.6, 1
+Jangle Pop:                          0.6, 1
+Fractured:                           0.6, 1
+Insular:                             0.6, 1
+Giddy:                               0.6, 1
+Pub Rock:                            0.6, 1
+Roots Rock:                          0.6, 1
+New Orleans R&B:                     0.6, 1
+Funk:                                0.6, 1
+Spicy:                               0.6, 1
+New Romantic:                        0.6, 1

@@ -1,0 +1,23 @@
+Contemporary Country:                0.9 : 9
+Amiable/Good-Natured:                0.9 : 9
+Rollicking:                          0.9 : 9
+Drinking:                            0.9 : 9
+Guys Night Out:                      0.9 : 9
+TGIF:                                0.9 : 9
+Bravado:                             0.825 : 8
+Lively:                              0.825 : 8
+Smooth:                              0.825 : 8
+Bright:                              0.75 : 7
+Celebratory:                         0.75 : 7
+Light:                               0.75 : 7
+Summery:                             0.75 : 7
+Neo-Traditionalist Country:          0.6749999999999999 : 6
+Confident:                           0.6749999999999999 : 6
+Earthy:                              0.6749999999999999 : 6
+Fun:                                 0.6749999999999999 : 6
+Playful_mood:                        0.6749999999999999 : 6
+Swaggering:                          0.6749999999999999 : 6
+New Traditionalist:                  0.6 : 5
+Earnest:                             0.6 : 5
+Energetic:                           0.6 : 5
+Whimsical:                           0.6 : 5

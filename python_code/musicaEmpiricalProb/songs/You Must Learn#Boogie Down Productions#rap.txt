@@ -1,0 +1,30 @@
+East Coast Rap:                      0.9 : 9
+Golden Age:                          0.9 : 9
+Hardcore Rap:                        0.9 : 9
+Political Rap:                       0.9 : 9
+Brash:                               0.9 : 9
+Cerebral:                            0.9 : 9
+Confident:                           0.9 : 9
+Street-Smart:                        0.9 : 9
+Swaggering:                          0.9 : 9
+Urgent:                              0.9 : 9
+Empowering:                          0.9 : 9
+Freedom:                             0.9 : 9
+Motivation:                          0.9 : 9
+Revolutionary:                       0.9 : 9
+School:                              0.9 : 9
+Angry:                               0.75 : 8
+Intense:                             0.75 : 8
+Rebellious:                          0.75 : 8
+Uncompromising:                      0.75 : 8
+Aggressive:                          0.6 : 7
+Confrontational:                     0.6 : 7
+Dramatic:                            0.6 : 7
+Energetic:                           0.6 : 7
+Exciting:                            0.6 : 7
+Fierce:                              0.6 : 7
+Fiery:                               0.6 : 7
+Gutsy:                               0.6 : 7
+Menacing:                            0.6 : 7
+Provocative:                         0.6 : 7
+Uplifting:                           0.6 : 7

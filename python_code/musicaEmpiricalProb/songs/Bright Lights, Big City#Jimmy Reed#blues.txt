@@ -1,0 +1,20 @@
+Chicago Blues:                       0.9 : 9
+Greasy:                              0.9 : 9
+Laid-Back/Mellow:                    0.9 : 9
+Relaxed:                             0.9 : 9
+Soothing:                            0.9 : 9
+Relaxation:                          0.9 : 9
+Summer:                              0.9 : 9
+Electric Blues:                      0.8250000000000001 : 8
+Electric Chicago Blues:              0.8250000000000001 : 8
+Electric Harmonica Blues:            0.8250000000000001 : 8
+Regional Blues:                      0.8250000000000001 : 8
+Carefree:                            0.8250000000000001 : 8
+Gritty:                              0.8250000000000001 : 8
+Organic:                             0.8250000000000001 : 8
+Playful_mood:                        0.8250000000000001 : 8
+Lazy:                                0.75 : 7
+Passionate:                          0.6749999999999999 : 6
+Earthy:                              0.6 : 5
+Night Driving:                       0.6 : 5
+Road Trip:                           0.6 : 5

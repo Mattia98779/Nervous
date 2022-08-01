@@ -1,0 +1,3 @@
+Happy:                               0.9 : 7
+Quirky:                              0.9 : 7
+Uplifting:                           0.9 : 7

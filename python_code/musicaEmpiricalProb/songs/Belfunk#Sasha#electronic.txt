@@ -1,0 +1,4 @@
+House:                               0.9 : 8
+Progressive House:                   0.9 : 8
+Progressive Trance:                  0.9 : 8
+Trance:                              0.9 : 8

@@ -1,0 +1,24 @@
+Big Band:                            0.9 : 9
+Swing:                               0.9 : 9
+Freewheeling:                        0.9 : 9
+Lively:                              0.9 : 9
+Motivation:                          0.9 : 9
+Reminiscing:                         0.9 : 9
+Road Trip:                           0.9 : 9
+Sweet Bands:                         0.7999999999999999 : 8
+Rousing:                             0.7999999999999999 : 8
+Bright:                              0.7000000000000001 : 7
+Carefree:                            0.7000000000000001 : 7
+Cheerful:                            0.7000000000000001 : 7
+Confident:                           0.7000000000000001 : 7
+Fun:                                 0.7000000000000001 : 7
+Playful_mood:                        0.7000000000000001 : 7
+Rollicking:                          0.7000000000000001 : 7
+Warm:                                0.7000000000000001 : 7
+Freedom:                             0.7000000000000001 : 7
+Dance Bands:                         0.6 : 6
+Aggressive:                          0.6 : 6
+Elegant:                             0.6 : 6
+Energetic:                           0.6 : 6
+Joyous:                              0.6 : 6
+Smooth:                              0.6 : 6

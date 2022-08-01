@@ -1,0 +1,8 @@
+Outlaw Country:                      0.9 : 9
+Singer/Songwriter:                   0.9 : 9
+Progressive Country:                 0.825 : 8
+Earthy:                              0.825 : 8
+Enigmatic:                           0.6 : 5
+Plaintive:                           0.6 : 5
+Poignant:                            0.6 : 5
+Reflective:                          0.6 : 5

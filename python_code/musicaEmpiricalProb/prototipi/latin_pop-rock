@@ -1,0 +1,31 @@
+#Title composizione
+Title : latin#pop-rock
+
+#Concetto Principale
+Head Concept Name : latin
+Head Concept Count : 5
+
+#Concetto Modificatore
+Modifier Concept Name : pop-rock
+Modifier Concept Count : 45
+
+
+
+
+
+T(modifier), -New Romantic, 0.9, 44
+T(modifier), -Spicy, 0.9, 44
+T(modifier), Rousing, 0.9, 30
+T(modifier), Contemporary Pop/Rock, 0.8689655172413793, 27
+T(modifier), Album Rock, 0.8172413793103448, 22
+T(modifier), Confident, 0.8172413793103448, 22
+
+T(head), -Summer, 0.9, 4
+T(head), -Partying, 0.9, 4
+T(head), Rousing, 0.9, 3
+T(head), Romantic, 0.9, 3
+T(head), Latin Pop, 0.75, 2
+T(head), Celebration, 0.75, 2
+
+
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 5.037854406130268

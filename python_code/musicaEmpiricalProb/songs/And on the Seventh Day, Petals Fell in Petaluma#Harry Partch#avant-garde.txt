@@ -1,0 +1,11 @@
+Microtonal:                          0.9 : 8
+Knotty:                              0.9 : 8
+Uncompromising:                      0.9 : 8
+The Creative Side:                   0.9 : 8
+Cerebral:                            0.825 : 7
+Eccentric:                           0.825 : 7
+Ambitious:                           0.75 : 6
+Complex:                             0.75 : 6
+Difficult:                           0.75 : 6
+Fractured:                           0.75 : 6
+Unsettling:                          0.6 : 4

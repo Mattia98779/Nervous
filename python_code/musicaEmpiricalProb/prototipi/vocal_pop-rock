@@ -1,0 +1,31 @@
+#Title composizione
+Title : vocal#pop-rock
+
+#Concetto Principale
+Head Concept Name : vocal
+Head Concept Count : 49
+
+#Concetto Modificatore
+Modifier Concept Name : pop-rock
+Modifier Concept Count : 45
+
+
+
+
+
+T(modifier), -New Romantic, 0.9, 44
+T(modifier), -Spicy, 0.9, 44
+T(modifier), Rousing, 0.9, 30
+T(modifier), Contemporary Pop/Rock, 0.8689655172413793, 27
+T(modifier), Album Rock, 0.8172413793103448, 22
+T(modifier), Confident, 0.8172413793103448, 22
+
+T(head), -Jazz Instrument, 0.9, 48
+T(head), -Guitar Jazz, 0.9, 48
+T(head), Traditional Pop, 0.9, 47
+T(head), Vocal Pop, 0.8478260869565217, 39
+T(head), Refined, 0.7630434782608696, 26
+T(head), Sentimental, 0.7630434782608696, 26
+
+
+Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 6.551719106433177

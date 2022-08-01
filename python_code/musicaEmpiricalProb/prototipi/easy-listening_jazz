@@ -1,0 +1,31 @@
+#Title composizione
+Title : easy-listening#jazz
+
+#Concetto Principale
+Head Concept Name : easy-listening
+Head Concept Count : 43
+
+#Concetto Modificatore
+Modifier Concept Name : jazz
+Modifier Concept Count : 48
+
+
+
+
+
+T(modifier), -Soundtracks, 0.9, 47
+T(modifier), -Movie Themes, 0.9, 47
+T(modifier), Sophisticated, 0.9, 38
+T(modifier), Freewheeling, 0.8675675675675676, 34
+T(modifier), Confident, 0.8432432432432433, 31
+T(modifier), Amiable/Good-Natured, 0.8432432432432433, 31
+
+T(head), -Wry, 0.9, 42
+T(head), -Gleeful, 0.9, 42
+T(head), Dinner Ambiance, 0.9, 27
+T(head), Amiable/Good-Natured, 0.8884615384615384, 26
+T(head), Relaxation, 0.8653846153846154, 24
+T(head), Soothing, 0.8653846153846154, 24
+
+
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 6.224465744814582

@@ -1,0 +1,31 @@
+#Title composizione
+Title : jazz#international
+
+#Concetto Principale
+Head Concept Name : jazz
+Head Concept Count : 48
+
+#Concetto Modificatore
+Modifier Concept Name : international
+Modifier Concept Count : 3
+
+
+
+
+
+T(modifier), -Playful, 0.9, 2
+T(modifier), -TGIF, 0.9, 2
+T(modifier), Stylish, 0.9, 2
+T(modifier), Boisterous, 0.9, 2
+T(modifier), Exuberant, 0.9, 2
+T(modifier), Yearning, 0.9, 2
+
+T(head), -Soundtracks, 0.9, 47
+T(head), -Movie Themes, 0.9, 47
+T(head), Sophisticated, 0.9, 38
+T(head), Freewheeling, 0.8675675675675676, 34
+T(head), Confident, 0.8432432432432433, 31
+T(head), Amiable/Good-Natured, 0.8432432432432433, 31
+
+
+Result : '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', '1', 5.231193693693694

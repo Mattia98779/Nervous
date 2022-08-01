@@ -1,0 +1,27 @@
+Brill Building Pop:                  0.9 : 9
+Doo Wop:                             0.9 : 9
+Elegant:                             0.9 : 9
+Refined:                             0.9 : 9
+Stylish:                             0.9 : 9
+Feeling Blue:                        0.9 : 9
+Early Pop/Rock:                      0.8250000000000001 : 8
+Vocal Pop:                           0.8250000000000001 : 8
+Melancholy:                          0.8250000000000001 : 8
+Poignant:                            0.8250000000000001 : 8
+Searching:                           0.8250000000000001 : 8
+Yearning:                            0.8250000000000001 : 8
+Heartache:                           0.8250000000000001 : 8
+Regret:                              0.8250000000000001 : 8
+Early R&B:                           0.75 : 7
+Bittersweet:                         0.75 : 7
+Brooding:                            0.75 : 7
+Cathartic:                           0.75 : 7
+Smooth:                              0.75 : 7
+Soothing:                            0.75 : 7
+Slow Dance:                          0.75 : 7
+Dramatic:                            0.675 : 6
+Plaintive:                           0.675 : 6
+Reflective:                          0.675 : 6
+Sentimental:                         0.675 : 6
+Wistful:                             0.675 : 6
+Warm:                                0.6 : 5

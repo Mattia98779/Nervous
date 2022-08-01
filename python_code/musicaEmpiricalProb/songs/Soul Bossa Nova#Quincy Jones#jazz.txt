@@ -1,0 +1,60 @@
+Effervescent:                        0.9 : 9
+Sophisticated:                       0.9 : 9
+Mischievous:                         0.9 : 9
+The Great Outdoors:                  0.9 : 9
+Vacation:                            0.9 : 9
+Big Band:                            0.8571428571428572 : 8
+Jazz-Pop:                            0.8571428571428572 : 8
+Boisterous:                          0.8571428571428572 : 8
+Calm/Peaceful:                       0.8571428571428572 : 8
+Confident:                           0.8571428571428572 : 8
+Giddy:                               0.8571428571428572 : 8
+Humorous:                            0.8571428571428572 : 8
+Laid-Back/Mellow:                    0.8571428571428572 : 8
+Rambunctious:                        0.8571428571428572 : 8
+Relaxed:                             0.8571428571428572 : 8
+Slick:                               0.8571428571428572 : 8
+Stylish:                             0.8571428571428572 : 8
+Warm:                                0.8571428571428572 : 8
+Girls Night Out:                     0.8571428571428572 : 8
+Guys Night Out:                      0.8571428571428572 : 8
+Small Gathering:                     0.8571428571428572 : 8
+Sunday Afternoon:                    0.8571428571428572 : 8
+Exuberant:                           0.8142857142857143 : 7
+Gentle:                              0.8142857142857143 : 7
+Playful_mood:                        0.8142857142857143 : 7
+Background Music:                    0.8142857142857143 : 7
+Birthday:                            0.8142857142857143 : 7
+Day Driving:                         0.8142857142857143 : 7
+Picnic:                              0.8142857142857143 : 7
+Road Trip:                           0.8142857142857143 : 7
+The Creative Side:                   0.8142857142857143 : 7
+Victory:                             0.8142857142857143 : 7
+Latin Jazz:                          0.7714285714285715 : 6
+World Fusion:                        0.7714285714285715 : 6
+Spicy:                               0.7714285714285715 : 6
+Amiable/Good-Natured:                0.7285714285714285 : 5
+Carefree:                            0.7285714285714285 : 5
+Celebratory:                         0.7285714285714285 : 5
+Cheerful:                            0.7285714285714285 : 5
+Earnest:                             0.7285714285714285 : 5
+Earthy:                              0.7285714285714285 : 5
+Freewheeling:                        0.7285714285714285 : 5
+Fun:                                 0.7285714285714285 : 5
+Literate:                            0.7285714285714285 : 5
+Lively:                              0.7285714285714285 : 5
+Quirky:                              0.7285714285714285 : 5
+Rousing:                             0.7285714285714285 : 5
+Sprawling:                           0.7285714285714285 : 5
+Stately:                             0.7285714285714285 : 5
+Wry:                                 0.7285714285714285 : 5
+At the Beach:                        0.7285714285714285 : 5
+Celebration:                         0.7285714285714285 : 5
+Dinner Ambiance:                     0.7285714285714285 : 5
+Hanging Out:                         0.7285714285714285 : 5
+Partying:                            0.7285714285714285 : 5
+Playful:                             0.7285714285714285 : 5
+Pool Party:                          0.7285714285714285 : 5
+Relaxation:                          0.7285714285714285 : 5
+Sports:                              0.7285714285714285 : 5
+Sexy:                                0.6 : 2

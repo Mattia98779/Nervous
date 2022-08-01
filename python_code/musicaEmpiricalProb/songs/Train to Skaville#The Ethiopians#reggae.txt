@@ -1,0 +1,27 @@
+Ska:                                 0.9000000000000001 : 8
+Exuberant:                           0.9000000000000001 : 8
+Fun:                                 0.9000000000000001 : 8
+Happy:                               0.9000000000000001 : 8
+Organic:                             0.9000000000000001 : 8
+Soothing:                            0.9000000000000001 : 8
+Summery:                             0.9000000000000001 : 8
+Summer:                              0.9000000000000001 : 8
+Amiable/Good-Natured:                0.8 : 7
+Druggy:                              0.8 : 7
+Earnest:                             0.8 : 7
+Hypnotic:                            0.8 : 7
+Joyous:                              0.8 : 7
+Light:                               0.8 : 7
+Playful_mood:                        0.8 : 7
+Rousing:                             0.8 : 7
+Sweet:                               0.8 : 7
+Warm:                                0.8 : 7
+At the Beach:                        0.8 : 7
+Pool Party:                          0.8 : 7
+Road Trip:                           0.8 : 7
+Vacation:                            0.8 : 7
+Cheerful:                            0.7 : 6
+Earthy:                              0.7 : 6
+Lively:                              0.7 : 6
+Sugary:                              0.7 : 6
+Rocksteady:                          0.6 : 5

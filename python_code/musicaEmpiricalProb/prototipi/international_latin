@@ -1,0 +1,31 @@
+#Title composizione
+Title : international#latin
+
+#Concetto Principale
+Head Concept Name : international
+Head Concept Count : 3
+
+#Concetto Modificatore
+Modifier Concept Name : latin
+Modifier Concept Count : 5
+
+
+
+
+
+T(modifier), -Summer, 0.9, 4
+T(modifier), -Partying, 0.9, 4
+T(modifier), Rousing, 0.9, 3
+T(modifier), Romantic, 0.9, 3
+T(modifier), Latin Pop, 0.75, 2
+T(modifier), Celebration, 0.75, 2
+
+T(head), -Playful, 0.9, 2
+T(head), -TGIF, 0.9, 2
+T(head), Stylish, 0.9, 2
+T(head), Boisterous, 0.9, 2
+T(head), Exuberant, 0.9, 2
+T(head), Yearning, 0.9, 2
+
+
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 4.893333333333336

@@ -1,0 +1,71 @@
+Early Pop/Rock:                      0.9 : 9
+Pop-Soul:                            0.9 : 9
+Urban:                               0.9 : 9
+Cathartic:                           0.9 : 9
+Gloomy:                              0.9 : 9
+Sensual:                             0.9 : 9
+Weary:                               0.9 : 9
+Seduction:                           0.9 : 9
+Smooth Soul:                         0.8625 : 8
+Bitter:                              0.8625 : 8
+Dramatic:                            0.8625 : 8
+Intimate:                            0.8625 : 8
+Melancholy:                          0.8625 : 8
+Sexual:                              0.8625 : 8
+Sexy:                                0.8625 : 8
+Sophisticated:                       0.8625 : 8
+Yearning:                            0.8625 : 8
+Feeling Blue:                        0.8625 : 8
+In Love:                             0.8625 : 8
+Reflection:                          0.8625 : 8
+Revolutionary:                       0.8625 : 8
+Angst-Ridden:                        0.825 : 7
+Brooding:                            0.825 : 7
+Ominous:                             0.825 : 7
+Organic:                             0.825 : 7
+Passionate:                          0.825 : 7
+Poignant:                            0.825 : 7
+Provocative:                         0.825 : 7
+Reflective:                          0.825 : 7
+Romantic:                            0.825 : 7
+Searching:                           0.825 : 7
+Soothing:                            0.825 : 7
+Tense/Anxious:                       0.825 : 7
+Warm:                                0.825 : 7
+Empowering:                          0.825 : 7
+New Love:                            0.825 : 7
+Romantic Evening:                    0.825 : 7
+Sex:                                 0.825 : 7
+Slow Dance:                          0.825 : 7
+Contemporary Pop/Rock:               0.7875 : 6
+Anguished/Distraught:                0.7875 : 6
+Earnest:                             0.7875 : 6
+Earthy:                              0.7875 : 6
+Lush:                                0.7875 : 6
+Urgent:                              0.7875 : 6
+Comfort:                             0.7875 : 6
+Introspection:                       0.7875 : 6
+Motivation:                          0.7875 : 6
+Blaxploitation:                      0.75 : 5
+Quiet Storm:                         0.75 : 5
+Soundtracks:                         0.75 : 5
+Bittersweet:                         0.75 : 5
+Confrontational:                     0.75 : 5
+Elegant:                             0.75 : 5
+Gentle:                              0.75 : 5
+Intense:                             0.75 : 5
+Laid-Back/Mellow:                    0.75 : 5
+Literate:                            0.75 : 5
+Playful_mood:                        0.75 : 5
+Smooth:                              0.75 : 5
+Theatrical:                          0.75 : 5
+Affection/Fondness:                  0.75 : 5
+Heartache:                           0.75 : 5
+Late Night:                          0.75 : 5
+Long Walk:                           0.75 : 5
+Plaintive:                           0.7125 : 4
+Loss/Grief:                          0.7125 : 4
+Joyous:                              0.675 : 3
+Stylish:                             0.675 : 3
+Motown:                              0.6 : 1
+Soul:                                0.6 : 1

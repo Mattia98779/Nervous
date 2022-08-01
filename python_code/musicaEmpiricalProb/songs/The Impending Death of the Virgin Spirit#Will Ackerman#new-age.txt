@@ -1,0 +1,22 @@
+Calm/Peaceful:                       0.9 : 9
+Laid-Back/Mellow:                    0.9 : 9
+Adult Alternative:                   0.825 : 8
+Chamber Jazz:                        0.825 : 8
+Contemporary Instrumental:           0.825 : 8
+Melancholy:                          0.825 : 8
+Restrained:                          0.825 : 8
+Soothing:                            0.825 : 8
+Wistful:                             0.825 : 8
+Solo Instrumental:                   0.75 : 7
+Reflective:                          0.75 : 7
+Sentimental:                         0.75 : 7
+Background Music:                    0.75 : 7
+Comfort:                             0.75 : 7
+Long Walk:                           0.75 : 7
+Sunday Afternoon:                    0.75 : 7
+Intimate:                            0.6749999999999999 : 6
+Pastoral:                            0.6749999999999999 : 6
+Introspection:                       0.6749999999999999 : 6
+Reflection:                          0.6749999999999999 : 6
+Autumnal:                            0.6 : 5
+Gentle:                              0.6 : 5

@@ -1,0 +1,22 @@
+Political Reggae:                    0.9 : 9
+Roots Reggae:                        0.9 : 9
+Hypnotic:                            0.8500000000000001 : 8
+Refined:                             0.8500000000000001 : 8
+Laid-Back/Mellow:                    0.8 : 7
+Relaxed:                             0.8 : 7
+Restrained:                          0.8 : 7
+Revolutionary:                       0.8 : 7
+Calm/Peaceful:                       0.75 : 6
+Rousing:                             0.75 : 6
+Freedom:                             0.75 : 6
+Dub:                                 0.7 : 5
+Angry:                               0.7 : 5
+Confident:                           0.7 : 5
+Earthy:                              0.7 : 5
+Soothing:                            0.7 : 5
+Spacey:                              0.7 : 5
+Sparse:                              0.7 : 5
+Summery:                             0.7 : 5
+Druggy:                              0.65 : 4
+Earnest:                             0.65 : 4
+Dreamy:                              0.6 : 3

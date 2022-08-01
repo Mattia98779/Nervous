@@ -1,0 +1,43 @@
+Progressive Jazz:                    0.9 : 9
+Atmospheric:                         0.9 : 9
+Provocative:                         0.9 : 9
+Searching:                           0.9 : 9
+Sprawling:                           0.9 : 9
+Tense/Anxious:                       0.9 : 9
+Theatrical:                          0.9 : 9
+Visceral:                            0.9 : 9
+Drinking:                            0.9 : 9
+Introspection:                       0.9 : 9
+Late Night:                          0.9 : 9
+Reflection:                          0.9 : 9
+Scary Music:                         0.9 : 9
+Anguished/Distraught:                0.825 : 8
+Enigmatic:                           0.825 : 8
+Fractured:                           0.825 : 8
+Indulgent:                           0.825 : 8
+Melancholy:                          0.825 : 8
+Nocturnal:                           0.825 : 8
+Wistful:                             0.825 : 8
+Feeling Blue:                        0.825 : 8
+Heartache:                           0.825 : 8
+Ambitious:                           0.75 : 7
+Brooding:                            0.75 : 7
+Cathartic:                           0.75 : 7
+Dramatic:                            0.75 : 7
+Earnest:                             0.75 : 7
+Earthy:                              0.75 : 7
+Freewheeling:                        0.75 : 7
+Literate:                            0.75 : 7
+Passionate:                          0.75 : 7
+Reflective:                          0.75 : 7
+Self-Conscious:                      0.75 : 7
+Sophisticated:                       0.75 : 7
+Witty:                               0.75 : 7
+Wry:                                 0.75 : 7
+Affirmation:                         0.75 : 7
+Mischievous:                         0.75 : 7
+The Creative Side:                   0.75 : 7
+Avant-Garde Jazz:                    0.6 : 5
+Post-Bop:                            0.6 : 5
+Eerie:                               0.6 : 5
+Ethereal:                            0.6 : 5

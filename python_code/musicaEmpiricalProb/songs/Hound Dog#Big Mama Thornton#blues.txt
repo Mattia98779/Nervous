@@ -1,0 +1,40 @@
+Early R&B:                           0.9 : 9
+Juke Joint Blues:                    0.9 : 9
+Brash:                               0.9 : 9
+Sexual:                              0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Drinking:                            0.9 : 9
+Late Night:                          0.9 : 9
+Confident:                           0.8625 : 8
+Confrontational:                     0.8625 : 8
+Earthy:                              0.8625 : 8
+Passionate:                          0.8625 : 8
+Street-Smart:                        0.8625 : 8
+Regional Blues:                      0.825 : 7
+Texas Blues:                         0.825 : 7
+Brassy:                              0.825 : 7
+Dramatic:                            0.825 : 7
+Gutsy:                               0.825 : 7
+Intense:                             0.825 : 7
+Intimate:                            0.825 : 7
+Organic:                             0.825 : 7
+Quirky:                              0.825 : 7
+Rustic:                              0.825 : 7
+Snide:                               0.825 : 7
+Sparse:                              0.825 : 7
+Wry:                                 0.825 : 7
+Electric Blues:                      0.7875 : 6
+Gritty:                              0.7875 : 6
+Classic Female Blues:                0.75 : 5
+Jump Blues:                          0.75 : 5
+Greasy:                              0.75 : 5
+Playful_mood:                        0.75 : 5
+Rollicking:                          0.75 : 5
+Swaggering:                          0.75 : 5
+Freedom:                             0.75 : 5
+Girls Night Out:                     0.75 : 5
+Hanging Out:                         0.75 : 5
+Playful:                             0.75 : 5
+Road Trip:                           0.75 : 5
+Sunday Afternoon:                    0.75 : 5
+Electric Texas Blues:                0.6 : 1

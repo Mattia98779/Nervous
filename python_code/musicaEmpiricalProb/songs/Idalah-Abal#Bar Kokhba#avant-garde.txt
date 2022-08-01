@@ -1,0 +1,12 @@
+Nocturnal:                           0.9 : 9
+Late Night:                          0.9 : 9
+The Creative Side:                   0.9 : 9
+Jewish Music:                        0.7999999999999999 : 8
+World Fusion:                        0.7999999999999999 : 8
+Passionate:                          0.7999999999999999 : 8
+Uncompromising:                      0.7999999999999999 : 8
+Post-Bop:                            0.7000000000000001 : 7
+Dreamy:                              0.7000000000000001 : 7
+Laid-Back/Mellow:                    0.7000000000000001 : 7
+Relaxed:                             0.7000000000000001 : 7
+Chamber Jazz:                        0.6 : 6

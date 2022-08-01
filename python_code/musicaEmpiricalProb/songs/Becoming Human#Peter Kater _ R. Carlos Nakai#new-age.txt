@@ -1,0 +1,17 @@
+Contemporary Instrumental:           0.9 : 9
+Solo Instrumental:                   0.9 : 9
+Calm/Peaceful:                       0.8500000000000001 : 8
+Ethereal:                            0.8500000000000001 : 8
+Laid-Back/Mellow:                    0.8500000000000001 : 8
+Refined:                             0.8500000000000001 : 8
+Reserved:                            0.8500000000000001 : 8
+Soothing:                            0.8500000000000001 : 8
+Spiritual:                           0.8500000000000001 : 8
+Atmospheric:                         0.8 : 7
+Austere:                             0.8 : 7
+Eerie:                               0.8 : 7
+Hypnotic:                            0.8 : 7
+Nocturnal:                           0.8 : 7
+Healing:                             0.75 : 6
+Meditation/Relaxation:               0.75 : 6
+Ethnic Fusion:                       0.6 : 3

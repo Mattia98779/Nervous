@@ -1,0 +1,31 @@
+#Title composizione
+Title : classical#jazz
+
+#Concetto Principale
+Head Concept Name : classical
+Head Concept Count : 7
+
+#Concetto Modificatore
+Modifier Concept Name : jazz
+Modifier Concept Count : 48
+
+
+
+
+
+T(modifier), -Soundtracks, 0.9, 47
+T(modifier), -Movie Themes, 0.9, 47
+T(modifier), Sophisticated, 0.9, 38
+T(modifier), Freewheeling, 0.8675675675675676, 34
+T(modifier), Confident, 0.8432432432432433, 31
+T(modifier), Amiable/Good-Natured, 0.8432432432432433, 31
+
+T(head), -Wistful, 0.9, 6
+T(head), -Tender, 0.9, 6
+T(head), Sentimental, 0.9, 4
+T(head), Confident, 0.9, 4
+T(head), Classical Crossover, 0.8, 3
+T(head), Melancholy, 0.8, 3
+
+
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 5.44062097812098

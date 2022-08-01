@@ -1,0 +1,31 @@
+#Title composizione
+Title : classical#vocal
+
+#Concetto Principale
+Head Concept Name : classical
+Head Concept Count : 7
+
+#Concetto Modificatore
+Modifier Concept Name : vocal
+Modifier Concept Count : 49
+
+
+
+
+
+T(modifier), -Jazz Instrument, 0.9, 48
+T(modifier), -Guitar Jazz, 0.9, 48
+T(modifier), Traditional Pop, 0.9, 47
+T(modifier), Vocal Pop, 0.8478260869565217, 39
+T(modifier), Refined, 0.7630434782608696, 26
+T(modifier), Sentimental, 0.7630434782608696, 26
+
+T(head), -Wistful, 0.9, 6
+T(head), -Tender, 0.9, 6
+T(head), Sentimental, 0.9, 4
+T(head), Confident, 0.9, 4
+T(head), Classical Crossover, 0.8, 3
+T(head), Melancholy, 0.8, 3
+
+
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 5.597692990239573

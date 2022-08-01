@@ -1,0 +1,33 @@
+Piano Blues:                         0.9 : 9
+Regional Blues:                      0.9 : 9
+Texas Blues:                         0.9 : 9
+Urban Blues:                         0.9 : 9
+West Coast Blues:                    0.9 : 9
+Laid-Back/Mellow:                    0.9 : 9
+Melancholy:                          0.9 : 9
+Refined:                             0.9 : 9
+Introspection:                       0.9 : 9
+Late Night:                          0.9 : 9
+Dreamy:                              0.8400000000000001 : 8
+Earnest:                             0.8400000000000001 : 8
+Nocturnal:                           0.8400000000000001 : 8
+Smooth:                              0.8400000000000001 : 8
+Atmospheric:                         0.78 : 7
+Earthy:                              0.78 : 7
+Gentle:                              0.78 : 7
+Reflective:                          0.78 : 7
+Sensual:                             0.78 : 7
+Sentimental:                         0.78 : 7
+Delicate:                            0.72 : 6
+Intimate:                            0.72 : 6
+Passionate:                          0.72 : 6
+Reserved:                            0.72 : 6
+Jazz Blues:                          0.66 : 5
+Insular:                             0.66 : 5
+Romantic:                            0.66 : 5
+Soothing:                            0.66 : 5
+Affirmation:                         0.66 : 5
+Background Music:                    0.66 : 5
+Feeling Blue:                        0.66 : 5
+Elegant:                             0.6 : 4
+Sophisticated:                       0.6 : 4

@@ -1,0 +1,17 @@
+Contemporary Folk:                   0.9 : 8
+Contemporary Singer/Songwriter:      0.9 : 8
+Irreverent:                          0.9 : 8
+Wistful:                             0.8 : 7
+Affection/Fondness:                  0.8 : 7
+Earthy:                              0.7000000000000001 : 6
+Fun:                                 0.7000000000000001 : 6
+Reflective:                          0.7000000000000001 : 6
+Yearning:                            0.7000000000000001 : 6
+Heartache:                           0.7000000000000001 : 6
+Playful:                             0.7000000000000001 : 6
+Amiable/Good-Natured:                0.6 : 5
+Earnest:                             0.6 : 5
+Passionate:                          0.6 : 5
+Playful_mood:                        0.6 : 5
+Poignant:                            0.6 : 5
+Reflection:                          0.6 : 5

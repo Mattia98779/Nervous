@@ -1,0 +1,89 @@
+American Popular Song:               0.9 : 9
+Mainstream Jazz:                     0.9 : 9
+West Coast Jazz:                     0.9 : 9
+Amiable/Good-Natured:                0.9 : 9
+Elaborate:                           0.9 : 9
+Epic:                                0.9 : 9
+Nocturnal:                           0.9 : 9
+Poignant:                            0.9 : 9
+Precious:                            0.9 : 9
+Affection/Fondness:                  0.9 : 9
+Background Music:                    0.9 : 9
+Comfort:                             0.9 : 9
+Dinner Ambiance:                     0.9 : 9
+Hanging Out:                         0.9 : 9
+In Love:                             0.9 : 9
+Romantic Evening:                    0.9 : 9
+Small Gathering:                     0.9 : 9
+Sweet Dreams:                        0.9 : 9
+Bop:                                 0.8500000000000001 : 8
+Hard Bop:                            0.8500000000000001 : 8
+Jazz Blues:                          0.8500000000000001 : 8
+Cerebral:                            0.8500000000000001 : 8
+Complex:                             0.8500000000000001 : 8
+Freewheeling:                        0.8500000000000001 : 8
+Romantic:                            0.8500000000000001 : 8
+Searching:                           0.8500000000000001 : 8
+Sensual:                             0.8500000000000001 : 8
+Sentimental:                         0.8500000000000001 : 8
+Smooth:                              0.8500000000000001 : 8
+Empowering:                          0.8500000000000001 : 8
+Introspection:                       0.8500000000000001 : 8
+Late Night:                          0.8500000000000001 : 8
+Reflection:                          0.8500000000000001 : 8
+Relaxation:                          0.8500000000000001 : 8
+Slow Dance:                          0.8500000000000001 : 8
+Modal Music:                         0.8 : 7
+Vocal Jazz:                          0.8 : 7
+Atmospheric:                         0.8 : 7
+Austere:                             0.8 : 7
+Carefree:                            0.8 : 7
+Circular:                            0.8 : 7
+Confident:                           0.8 : 7
+Delicate:                            0.8 : 7
+Dramatic:                            0.8 : 7
+Eccentric:                           0.8 : 7
+Gentle:                              0.8 : 7
+Innocent:                            0.8 : 7
+Passionate:                          0.8 : 7
+Plaintive:                           0.8 : 7
+Quirky:                              0.8 : 7
+Reverent:                            0.8 : 7
+Warm:                                0.8 : 7
+Whimsical:                           0.8 : 7
+Witty:                               0.8 : 7
+Wry:                                 0.8 : 7
+Yearning:                            0.8 : 7
+Affirmation:                         0.8 : 7
+Feeling Blue:                        0.8 : 7
+Freedom:                             0.8 : 7
+Loss/Grief:                          0.8 : 7
+Mischievous:                         0.8 : 7
+Rainy Day:                           0.8 : 7
+The Creative Side:                   0.8 : 7
+Cool:                                0.75 : 6
+Calm/Peaceful:                       0.75 : 6
+Enigmatic:                           0.75 : 6
+Laid-Back/Mellow:                    0.75 : 6
+Melancholy:                          0.75 : 6
+Rebellious:                          0.75 : 6
+Relaxed:                             0.75 : 6
+Somber:                              0.75 : 6
+Soothing:                            0.75 : 6
+Stylish:                             0.75 : 6
+Ambitious:                           0.7 : 5
+Bittersweet:                         0.7 : 5
+Earnest:                             0.7 : 5
+Earthy:                              0.7 : 5
+Elegant:                             0.7 : 5
+Intimate:                            0.7 : 5
+Joyous:                              0.7 : 5
+Light:                               0.7 : 5
+Literate:                            0.7 : 5
+Pastoral:                            0.7 : 5
+Refined:                             0.7 : 5
+Reflective:                          0.7 : 5
+Sophisticated:                       0.7 : 5
+Intense:                             0.65 : 4
+Restrained:                          0.65 : 4
+Self-Conscious:                      0.6 : 3

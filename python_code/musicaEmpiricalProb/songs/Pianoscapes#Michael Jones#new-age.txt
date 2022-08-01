@@ -1,0 +1,8 @@
+Contemporary Instrumental:           0.9 : 7
+Autumnal:                            0.9 : 7
+Plaintive:                           0.9 : 7
+Sweet:                               0.9 : 7
+Wistful:                             0.9 : 7
+Dramatic:                            0.75 : 6
+Sentimental:                         0.6 : 5
+Background Music:                    0.6 : 5

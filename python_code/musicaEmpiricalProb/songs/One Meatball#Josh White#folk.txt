@@ -1,0 +1,32 @@
+Political Folk:                      0.9 : 9
+Folk-Blues:                          0.825 : 8
+Songster:                            0.825 : 8
+Austere:                             0.825 : 8
+Brooding:                            0.825 : 8
+Eerie:                               0.825 : 8
+Irreverent:                          0.825 : 8
+Nocturnal:                           0.825 : 8
+Ominous:                             0.825 : 8
+Playful_mood:                        0.825 : 8
+Wry:                                 0.825 : 8
+Cerebral:                            0.75 : 7
+Elegant:                             0.75 : 7
+Intimate:                            0.75 : 7
+Poignant:                            0.75 : 7
+Quirky:                              0.75 : 7
+Restrained:                          0.75 : 7
+Stately:                             0.75 : 7
+Stylish:                             0.75 : 7
+Late Night:                          0.75 : 7
+Earthy:                              0.6 : 5
+Literate:                            0.6 : 5
+Autumn:                              0.6 : 5
+Early Morning:                       0.6 : 5
+Empowering:                          0.6 : 5
+Feeling Blue:                        0.6 : 5
+Freedom:                             0.6 : 5
+Hanging Out:                         0.6 : 5
+Introspection:                       0.6 : 5
+Reflection:                          0.6 : 5
+Sunday Afternoon:                    0.6 : 5
+The Creative Side:                   0.6 : 5

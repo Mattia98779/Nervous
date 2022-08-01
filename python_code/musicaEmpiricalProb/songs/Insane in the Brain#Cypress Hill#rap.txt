@@ -1,0 +1,33 @@
+Alternative Rap:                     0.9 : 9
+Hardcore Rap:                        0.9 : 9
+Latin Rap:                           0.9 : 9
+West Coast Rap:                      0.9 : 9
+Brash:                               0.9 : 9
+Celebratory:                         0.9 : 9
+Confrontational:                     0.9 : 9
+Cynical/Sarcastic:                   0.9 : 9
+Druggy:                              0.9 : 9
+Freewheeling:                        0.9 : 9
+Hedonistic:                          0.9 : 9
+Humorous:                            0.9 : 9
+Irreverent:                          0.9 : 9
+Nocturnal:                           0.9 : 9
+Outrageous:                          0.9 : 9
+Playful_mood:                        0.9 : 9
+Provocative:                         0.9 : 9
+Quirky:                              0.9 : 9
+Raucous:                             0.9 : 9
+Rebellious:                          0.9 : 9
+Reckless:                            0.9 : 9
+Rousing:                             0.9 : 9
+Rowdy:                               0.9 : 9
+Silly:                               0.9 : 9
+Sleazy:                              0.9 : 9
+Street-Smart:                        0.9 : 9
+Swaggering:                          0.9 : 9
+Thuggish:                            0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Guys Night Out:                      0.9 : 9
+Late Night:                          0.9 : 9
+Partying:                            0.9 : 9
+Boisterous:                          0.6 : 8

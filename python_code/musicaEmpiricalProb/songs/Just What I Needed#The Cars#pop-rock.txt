@@ -1,0 +1,32 @@
+Album Rock:                          0.9 : 9
+Detached:                            0.9 : 9
+Tense/Anxious:                       0.9 : 9
+Contemporary Pop/Rock:               0.8625 : 8
+Punk/New Wave:                       0.8625 : 8
+Crunchy:                             0.8625 : 8
+Gutsy:                               0.8625 : 8
+Street-Smart:                        0.8625 : 8
+Stylish:                             0.8625 : 8
+Cool & Cocky:                        0.8625 : 8
+TGIF:                                0.8625 : 8
+Amiable/Good-Natured:                0.825 : 7
+Exciting:                            0.825 : 7
+Fun:                                 0.825 : 7
+Rousing:                             0.825 : 7
+Sweet:                               0.825 : 7
+Partying:                            0.825 : 7
+Bright:                              0.7875 : 6
+Energetic:                           0.7875 : 6
+Nocturnal:                           0.7875 : 6
+Slick:                               0.7875 : 6
+Wry:                                 0.7875 : 6
+Hanging Out:                         0.7875 : 6
+Lively:                              0.75 : 5
+Witty:                               0.75 : 5
+In Love:                             0.75 : 5
+New Love:                            0.75 : 5
+Ironic:                              0.7125 : 4
+Playful_mood:                        0.7125 : 4
+Guys Night Out:                      0.7125 : 4
+Quirky:                              0.675 : 3
+New Wave:                            0.6 : 1

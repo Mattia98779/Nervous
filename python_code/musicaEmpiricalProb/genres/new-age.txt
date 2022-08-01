@@ -1,0 +1,173 @@
+#Numero di canzoni: 48
+
+Reflection:                          0.9, 29
+Soothing:                            0.8892857142857142, 28
+Introspection:                       0.8892857142857142, 28
+Hypnotic:                            0.8785714285714286, 27
+Reflective:                          0.8785714285714286, 27
+Relaxation:                          0.8785714285714286, 27
+Contemporary Instrumental:           0.8678571428571429, 26
+Atmospheric:                         0.8571428571428572, 25
+Ethereal:                            0.8464285714285714, 24
+Background Music:                    0.8464285714285714, 24
+Adult Alternative:                   0.8357142857142857, 23
+Calm/Peaceful:                       0.8357142857142857, 23
+Refined:                             0.825, 22
+Progressive Electronic:              0.825, 22
+Meditation:                          0.8142857142857143, 21
+Gentle:                              0.8035714285714286, 20
+Dramatic:                            0.8035714285714286, 20
+Dreamy:                              0.7928571428571428, 19
+Delicate:                            0.7714285714285715, 17
+The Creative Side:                   0.7607142857142857, 16
+Solitude:                            0.7607142857142857, 16
+Wistful:                             0.75, 15
+Spiritual:                           0.75, 15
+Laid-Back/Mellow:                    0.7392857142857143, 14
+Cerebral:                            0.7285714285714285, 13
+Smooth:                              0.7178571428571429, 12
+Sophisticated:                       0.7178571428571429, 12
+Ethnic Fusion:                       0.7071428571428572, 11
+Light:                               0.7071428571428572, 11
+Pastoral:                            0.7071428571428572, 11
+Reserved:                            0.7071428571428572, 11
+Relaxed:                             0.7071428571428572, 11
+Detached:                            0.6964285714285714, 10
+Restrained:                          0.6964285714285714, 10
+Lush:                                0.6857142857142857, 9
+Plaintive:                           0.6857142857142857, 9
+Sparkling:                           0.6857142857142857, 9
+Bright:                              0.6857142857142857, 9
+Intimate:                            0.6857142857142857, 9
+Elegant:                             0.675, 8
+Amiable/Good-Natured:                0.675, 8
+Elaborate:                           0.675, 8
+Nocturnal:                           0.675, 8
+Ambient:                             0.675, 8
+Complex:                             0.6642857142857143, 7
+Yearning:                            0.6642857142857143, 7
+Theatrical:                          0.6642857142857143, 7
+Melancholy:                          0.6642857142857143, 7
+Late Night:                          0.6642857142857143, 7
+Solo Instrumental:                   0.6642857142857143, 7
+Stylish:                             0.6642857142857143, 7
+Autumnal:                            0.6642857142857143, 7
+Slick:                               0.6535714285714286, 6
+Rousing:                             0.6535714285714286, 6
+Sunday Afternoon:                    0.6535714285714286, 6
+Playful_mood:                        0.6535714285714286, 6
+Classical Crossover:                 0.6428571428571428, 5
+Wintry:                              0.6428571428571428, 5
+Sentimental:                         0.6428571428571428, 5
+Warm:                                0.6428571428571428, 5
+Organic:                             0.6428571428571428, 5
+Healing:                             0.6428571428571428, 5
+Space:                               0.6428571428571428, 5
+Spacey:                              0.6428571428571428, 5
+Meditation/Relaxation:               0.6428571428571428, 5
+Earnest:                             0.6428571428571428, 5
+Ambitious:                           0.6428571428571428, 5
+Chamber Jazz:                        0.6428571428571428, 5
+Eerie:                               0.6428571428571428, 5
+Soft/Quiet:                          0.6321428571428571, 4
+Rainy Day:                           0.6321428571428571, 4
+Romantic Evening:                    0.6321428571428571, 4
+Neo-Classical:                       0.6321428571428571, 4
+Comfort:                             0.6321428571428571, 4
+Long Walk:                           0.6321428571428571, 4
+Poignant:                            0.6321428571428571, 4
+Experimental Electronic:             0.6321428571428571, 4
+Trippy:                              0.6321428571428571, 4
+Somber:                              0.6321428571428571, 4
+Circular:                            0.6214285714285714, 3
+Happy:                               0.6214285714285714, 3
+Cold:                                0.6214285714285714, 3
+Winter:                              0.6214285714285714, 3
+Searching:                           0.6214285714285714, 3
+Reminiscing:                         0.6214285714285714, 3
+Cathartic:                           0.6214285714285714, 3
+Sweet Dreams:                        0.6214285714285714, 3
+Austere:                             0.6214285714285714, 3
+Mixed Media:                         0.6214285714285714, 3
+Bittersweet:                         0.6214285714285714, 3
+Lively:                              0.6214285714285714, 3
+Passionate:                          0.6214285714285714, 3
+Sensual:                             0.6214285714285714, 3
+Affirmation:                         0.6214285714285714, 3
+Celtic:                              0.6107142857142857, 2
+Celtic New Age:                      0.6107142857142857, 2
+Feeling Blue:                        0.6107142857142857, 2
+Earthy:                              0.6107142857142857, 2
+Exciting:                            0.6107142857142857, 2
+Early Morning:                       0.6107142857142857, 2
+Cheerful:                            0.6107142857142857, 2
+Sweet:                               0.6107142857142857, 2
+Dinner Ambiance:                     0.6107142857142857, 2
+Literate:                            0.6107142857142857, 2
+Nature:                              0.6107142857142857, 2
+Tense/Anxious:                       0.6107142857142857, 2
+Smooth Jazz:                         0.6107142857142857, 2
+Empowering:                          0.6107142857142857, 2
+Minimalism:                          0.6107142857142857, 2
+Club/Dance:                          0.6107142857142857, 2
+Adult Alternative Pop/Rock:          0.6, 1
+Alternative/Indie Rock:              0.6, 1
+Contemporary Celtic:                 0.6, 1
+Spicy:                               0.6, 1
+Celebration:                         0.6, 1
+Epic:                                0.6, 1
+Summer:                              0.6, 1
+New Acoustic:                        0.6, 1
+Freewheeling:                        0.6, 1
+At the Office:                       0.6, 1
+Flamenco:                            0.6, 1
+Western European Traditions:         0.6, 1
+Summery:                             0.6, 1
+In Love:                             0.6, 1
+New Love:                            0.6, 1
+Seduction:                           0.6, 1
+Sex:                                 0.6, 1
+Slow Dance:                          0.6, 1
+Whimsical:                           0.6, 1
+Sports:                              0.6, 1
+Folk Jazz:                           0.6, 1
+World Fusion:                        0.6, 1
+Energetic:                           0.6, 1
+Stay in Bed:                         0.6, 1
+Day Driving:                         0.6, 1
+Art Rock:                            0.6, 1
+Instrumental Rock:                   0.6, 1
+Prog-Rock:                           0.6, 1
+Album Rock:                          0.6, 1
+Contemporary Pop/Rock:               0.6, 1
+Punk/New Wave:                       0.6, 1
+Synth Pop:                           0.6, 1
+Brittle:                             0.6, 1
+Ominous:                             0.6, 1
+Halloween:                           0.6, 1
+Scary Music:                         0.6, 1
+Effervescent:                        0.6, 1
+Unsettling:                          0.6, 1
+Urgent:                              0.6, 1
+Clinical:                            0.6, 1
+Joyous:                              0.6, 1
+Self-Help & Development:             0.6, 1
+Spoken Word:                         0.6, 1
+Sparse:                              0.6, 1
+Lazy:                                0.6, 1
+Romantic:                            0.6, 1
+Andean Folk:                         0.6, 1
+Experimental:                        0.6, 1
+South American Traditions:           0.6, 1
+Latin Folk:                          0.6, 1
+Spooky:                              0.6, 1
+Aggressive:                          0.6, 1
+Brash:                               0.6, 1
+Confrontational:                     0.6, 1
+Hostile:                             0.6, 1
+Manic:                               0.6, 1
+Outrageous:                          0.6, 1
+Provocative:                         0.6, 1
+Volatile:                            0.6, 1
+Crossover Jazz:                      0.6, 1
+Worldbeat:                           0.6, 1

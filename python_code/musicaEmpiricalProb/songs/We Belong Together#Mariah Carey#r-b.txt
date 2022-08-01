@@ -1,0 +1,37 @@
+Contemporary R&B:                    0.9 : 9
+Pop:                                 0.9 : 9
+Urban:                               0.9 : 9
+Gentle:                              0.9 : 9
+Laid-Back/Mellow:                    0.9 : 9
+Reflective:                          0.9 : 9
+Relaxed:                             0.9 : 9
+Romantic:                            0.9 : 9
+Sad:                                 0.9 : 9
+Sensual:                             0.9 : 9
+Sexy:                                0.9 : 9
+Slick:                               0.9 : 9
+Sophisticated:                       0.9 : 9
+Stylish:                             0.9 : 9
+Warm:                                0.9 : 9
+Wistful:                             0.9 : 9
+Club:                                0.9 : 9
+Feeling Blue:                        0.9 : 9
+Girls Night Out:                     0.9 : 9
+Heartache:                           0.9 : 9
+Late Night:                          0.9 : 9
+Reflection:                          0.9 : 9
+Regret:                              0.9 : 9
+Romantic Evening:                    0.9 : 9
+Seduction:                           0.9 : 9
+Sex:                                 0.9 : 9
+Slow Dance:                          0.9 : 9
+Delicate:                            0.8625 : 8
+Nocturnal:                           0.8625 : 8
+Smooth:                              0.8625 : 8
+Soft/Quiet:                          0.8625 : 8
+Soothing:                            0.8625 : 8
+Tender:                              0.8625 : 8
+Poignant:                            0.825 : 7
+Calm/Peaceful:                       0.75 : 5
+Sentimental:                         0.75 : 5
+Contemporary Rap:                    0.6 : 1

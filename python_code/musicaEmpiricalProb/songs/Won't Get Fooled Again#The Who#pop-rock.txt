@@ -1,0 +1,51 @@
+Album Rock:                          0.9 : 9
+Hard Rock:                           0.9 : 9
+Aggressive:                          0.9 : 9
+Angst-Ridden:                        0.9 : 9
+Brash:                               0.9 : 9
+Cathartic:                           0.9 : 9
+Confident:                           0.9 : 9
+Confrontational:                     0.9 : 9
+Cynical/Sarcastic:                   0.9 : 9
+Energetic:                           0.9 : 9
+Exciting:                            0.9 : 9
+Fiery:                               0.9 : 9
+Freewheeling:                        0.9 : 9
+Lively:                              0.9 : 9
+Raucous:                             0.9 : 9
+Rebellious:                          0.9 : 9
+Searching:                           0.9 : 9
+Swaggering:                          0.9 : 9
+Urgent:                              0.9 : 9
+Visceral:                            0.9 : 9
+Volatile:                            0.9 : 9
+Wistful:                             0.9 : 9
+Yearning:                            0.9 : 9
+Day Driving:                         0.9 : 9
+Empowering:                          0.9 : 9
+Freedom:                             0.9 : 9
+Guys Night Out:                      0.9 : 9
+Hanging Out:                         0.9 : 9
+Partying:                            0.9 : 9
+Revolutionary:                       0.9 : 9
+Road Trip:                           0.9 : 9
+Summer:                              0.9 : 9
+TGIF:                                0.9 : 9
+Snide:                               0.8625 : 8
+Cool & Cocky:                        0.8625 : 8
+Dramatic:                            0.825 : 7
+Intense:                             0.825 : 7
+Literate:                            0.825 : 7
+Passionate:                          0.825 : 7
+Provocative:                         0.825 : 7
+Reckless:                            0.825 : 7
+Rousing:                             0.825 : 7
+Hypnotic:                            0.7875 : 6
+Rowdy:                               0.7875 : 6
+Film Music:                          0.75 : 5
+Soundtracks:                         0.75 : 5
+Acerbic:                             0.75 : 5
+Boisterous:                          0.75 : 5
+Uncompromising:                      0.75 : 5
+Politics/Society:                    0.75 : 5
+Contemporary Pop/Rock:               0.6 : 1

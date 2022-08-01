@@ -1,0 +1,31 @@
+Poignant:                            0.9 : 9
+Soothing:                            0.9 : 9
+Theatrical:                          0.9 : 9
+Warm:                                0.9 : 9
+Affirmation:                         0.9 : 9
+Comfort:                             0.9 : 9
+Cast Recordings:                     0.825 : 8
+Musicals:                            0.825 : 8
+Dramatic:                            0.825 : 8
+Sentimental:                         0.825 : 8
+Springlike:                          0.825 : 8
+Early Pop/Rock:                      0.75 : 7
+Show Tunes:                          0.75 : 7
+Standards:                           0.75 : 7
+Delicate:                            0.75 : 7
+Gentle:                              0.75 : 7
+Plaintive:                           0.75 : 7
+Refined:                             0.75 : 7
+Reflective:                          0.75 : 7
+Smooth:                              0.75 : 7
+Soft/Quiet:                          0.75 : 7
+Wistful:                             0.75 : 7
+Reminiscing:                         0.75 : 7
+Traditional Pop:                     0.6749999999999999 : 6
+Earnest:                             0.6749999999999999 : 6
+Intimate:                            0.6749999999999999 : 6
+Lush:                                0.6749999999999999 : 6
+Restrained:                          0.6749999999999999 : 6
+Introspection:                       0.6749999999999999 : 6
+Literate:                            0.6 : 5
+In Love:                             0.6 : 5

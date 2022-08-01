@@ -1,0 +1,31 @@
+#Title composizione
+Title : pop-rock#blues
+
+#Concetto Principale
+Head Concept Name : pop-rock
+Head Concept Count : 45
+
+#Concetto Modificatore
+Modifier Concept Name : blues
+Modifier Concept Count : 48
+
+
+
+
+
+T(modifier), -The Creative Side, 0.9, 47
+T(modifier), -Day Driving, 0.9, 47
+T(modifier), Regional Blues, 0.9, 40
+T(modifier), Earthy, 0.8615384615384616, 35
+T(modifier), Gritty, 0.8615384615384616, 35
+T(modifier), Passionate, 0.8153846153846154, 29
+
+T(head), -New Romantic, 0.9, 44
+T(head), -Spicy, 0.9, 44
+T(head), Rousing, 0.9, 30
+T(head), Contemporary Pop/Rock, 0.8689655172413793, 27
+T(head), Album Rock, 0.8172413793103448, 22
+T(head), Confident, 0.8172413793103448, 22
+
+
+Result : '1', '1', '1', '0', '1', '0', '1', '1', '0', '0', '0', '0', 6.372065281461833

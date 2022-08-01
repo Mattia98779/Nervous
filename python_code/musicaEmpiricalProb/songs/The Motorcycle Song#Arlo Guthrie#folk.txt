@@ -1,0 +1,18 @@
+Irreverent:                          0.9 : 8
+Amiable/Good-Natured:                0.8 : 7
+Humorous:                            0.8 : 7
+Playful_mood:                        0.8 : 7
+Wry:                                 0.8 : 7
+Fun:                                 0.7 : 6
+Quirky:                              0.7 : 6
+Silly:                               0.7 : 6
+Whimsical:                           0.7 : 6
+Witty:                               0.7 : 6
+Empowering:                          0.7 : 6
+Mischievous:                         0.7 : 6
+Contemporary Folk:                   0.6 : 5
+Folk-Rock:                           0.6 : 5
+Political Folk:                      0.6 : 5
+Psychedelic/Garage:                  0.6 : 5
+Singer/Songwriter:                   0.6 : 5
+Guys Night Out:                      0.6 : 5

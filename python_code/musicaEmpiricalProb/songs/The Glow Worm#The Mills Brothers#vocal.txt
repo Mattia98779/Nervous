@@ -1,0 +1,16 @@
+Harmony Vocal Group:                 0.9 : 9
+Traditional Pop:                     0.9 : 9
+Vocal Pop:                           0.9 : 9
+Amiable/Good-Natured:                0.9 : 9
+Bright:                              0.9 : 9
+Cheerful:                            0.9 : 9
+Elegant:                             0.9 : 9
+Fun:                                 0.9 : 9
+Happy:                               0.9 : 9
+Light:                               0.9 : 9
+Lively:                              0.9 : 9
+Playful_mood:                        0.9 : 9
+Rousing:                             0.9 : 9
+Warm:                                0.9 : 9
+Comfort:                             0.9 : 9
+Refined:                             0.6 : 8

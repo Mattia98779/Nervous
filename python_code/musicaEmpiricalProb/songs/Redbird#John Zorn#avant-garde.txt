@@ -1,0 +1,12 @@
+Detached:                            0.9 : 9
+Restrained:                          0.9 : 9
+Sparse:                              0.9 : 9
+The Creative Side:                   0.9 : 9
+Experimental:                        0.825 : 8
+Modern Composition:                  0.825 : 8
+Clinical:                            0.825 : 8
+Wintry:                              0.825 : 8
+Chamber Jazz:                        0.75 : 7
+Eerie:                               0.75 : 7
+Somber:                              0.6749999999999999 : 6
+Experimental Ambient:                0.6 : 5

@@ -1,0 +1,15 @@
+Playful:                             0.9 : 9
+Bright:                              0.8500000000000001 : 8
+Cheerful:                            0.8500000000000001 : 8
+Exuberant:                           0.8500000000000001 : 8
+Energetic:                           0.8 : 7
+Fun:                                 0.8 : 7
+Gleeful:                             0.8 : 7
+Playful_mood:                        0.8 : 7
+Silly:                               0.8 : 7
+Whimsical:                           0.8 : 7
+Hanging Out:                         0.8 : 7
+TGIF:                                0.8 : 7
+Carefree:                            0.75 : 6
+Freewheeling:                        0.75 : 6
+The Creative Side:                   0.6 : 3

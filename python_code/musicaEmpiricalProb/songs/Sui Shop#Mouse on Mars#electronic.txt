@@ -1,0 +1,17 @@
+Electronica:                         0.9 : 8
+Cerebral:                            0.9 : 8
+Refined:                             0.9 : 8
+Alternative/Indie Rock:              0.7499999999999999 : 7
+Indie Electronic:                    0.7499999999999999 : 7
+Circular:                            0.7499999999999999 : 7
+Elaborate:                           0.7499999999999999 : 7
+Literate:                            0.7499999999999999 : 7
+Playful_mood:                        0.7499999999999999 : 7
+Stylish:                             0.7499999999999999 : 7
+Witty:                               0.7499999999999999 : 7
+Introspection:                       0.7499999999999999 : 7
+Mischievous:                         0.7499999999999999 : 7
+Playful:                             0.7499999999999999 : 7
+The Creative Side:                   0.7499999999999999 : 7
+IDM:                                 0.6 : 6
+Amiable/Good-Natured:                0.6 : 6

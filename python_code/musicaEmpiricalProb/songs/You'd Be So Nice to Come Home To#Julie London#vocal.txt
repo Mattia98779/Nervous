@@ -1,0 +1,31 @@
+Traditional Pop:                     0.9 : 8
+Vocal Jazz:                          0.9 : 8
+Delicate:                            0.9 : 8
+Laid-Back/Mellow:                    0.9 : 8
+Reserved:                            0.9 : 8
+Torch Songs:                         0.8 : 7
+Vocal Pop:                           0.8 : 7
+Autumnal:                            0.8 : 7
+Intimate:                            0.8 : 7
+Refined:                             0.8 : 7
+Reflective:                          0.8 : 7
+Romantic:                            0.8 : 7
+Sensual:                             0.8 : 7
+Sexy:                                0.8 : 7
+Sophisticated:                       0.8 : 7
+Stylish:                             0.8 : 7
+Yearning:                            0.8 : 7
+Autumn:                              0.8 : 7
+In Love:                             0.8 : 7
+New Love:                            0.8 : 7
+Romantic Evening:                    0.8 : 7
+Seduction:                           0.8 : 7
+Nocturnal:                           0.7 : 6
+Restrained:                          0.7 : 6
+Sentimental:                         0.7 : 6
+Soft/Quiet:                          0.7 : 6
+Dinner Ambiance:                     0.7 : 6
+Late Night:                          0.7 : 6
+Sex:                                 0.7 : 6
+Slow Dance:                          0.7 : 6
+Smooth:                              0.6 : 5

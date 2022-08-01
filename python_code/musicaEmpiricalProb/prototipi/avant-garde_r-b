@@ -1,0 +1,31 @@
+#Title composizione
+Title : avant-garde#r-b
+
+#Concetto Principale
+Head Concept Name : avant-garde
+Head Concept Count : 13
+
+#Concetto Modificatore
+Modifier Concept Name : r-b
+Modifier Concept Count : 43
+
+
+
+
+
+T(modifier), -Teen Pop, 0.9, 42
+T(modifier), -Separation, 0.9, 42
+T(modifier), Soul, 0.9, 21
+T(modifier), Playful_mood, 0.855, 18
+T(modifier), Energetic, 0.855, 18
+T(modifier), Partying, 0.855, 18
+
+T(head), -Freedom, 0.9, 12
+T(head), -Dramatic, 0.9, 12
+T(head), The Creative Side, 0.9, 6
+T(head), Cerebral, 0.84, 5
+T(head), Uncompromising, 0.78, 4
+T(head), Provocative, 0.78, 4
+
+
+Result : '1', '1', '1', '0', '1', '0', '1', '1', '0', '0', '0', '0', 4.9171914132379255

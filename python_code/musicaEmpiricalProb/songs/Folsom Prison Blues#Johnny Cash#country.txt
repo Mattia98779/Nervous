@@ -1,0 +1,59 @@
+Progressive Country:                 0.9 : 9
+Acerbic:                             0.9 : 9
+Confrontational:                     0.9 : 9
+Earthy:                              0.9 : 9
+Lively:                              0.9 : 9
+Rollicking:                          0.9 : 9
+Drinking:                            0.9 : 9
+Guys Night Out:                      0.9 : 9
+Road Trip:                           0.9 : 9
+Outlaw Country:                      0.84 : 8
+Traditional Country:                 0.84 : 8
+Confident:                           0.84 : 8
+Cynical/Sarcastic:                   0.84 : 8
+Fiery:                               0.84 : 8
+Gritty:                              0.84 : 8
+Ramshackle:                          0.84 : 8
+Rebellious:                          0.84 : 8
+Rowdy:                               0.84 : 8
+Swaggering:                          0.84 : 8
+Cool & Cocky:                        0.84 : 8
+Honky Tonk:                          0.78 : 7
+Rock & Roll:                         0.78 : 7
+Rockabilly:                          0.78 : 7
+Aggressive:                          0.78 : 7
+Bitter:                              0.78 : 7
+Brash:                               0.78 : 7
+Brooding:                            0.78 : 7
+Cold:                                0.78 : 7
+Energetic:                           0.78 : 7
+Freewheeling:                        0.78 : 7
+Insular:                             0.78 : 7
+Irreverent:                          0.78 : 7
+Menacing:                            0.78 : 7
+Provocative:                         0.78 : 7
+Rambunctious:                        0.78 : 7
+Rousing:                             0.78 : 7
+Sad:                                 0.78 : 7
+Sparse:                              0.78 : 7
+Street-Smart:                        0.78 : 7
+Wry:                                 0.78 : 7
+Yearning:                            0.78 : 7
+Day Driving:                         0.78 : 7
+Freedom:                             0.78 : 7
+Loss/Grief:                          0.78 : 7
+Night Driving:                       0.78 : 7
+Country Boogie:                      0.72 : 6
+Detached:                            0.72 : 6
+Knotty:                              0.72 : 6
+Organic:                             0.72 : 6
+Raucous:                             0.72 : 6
+Somber:                              0.72 : 6
+Visceral:                            0.72 : 6
+Wintry:                              0.72 : 6
+Empowering:                          0.72 : 6
+Introspection:                       0.72 : 6
+Gloomy:                              0.6599999999999999 : 5
+Gutsy:                               0.6599999999999999 : 5
+Feeling Blue:                        0.6599999999999999 : 5
+Ominous:                             0.6 : 4

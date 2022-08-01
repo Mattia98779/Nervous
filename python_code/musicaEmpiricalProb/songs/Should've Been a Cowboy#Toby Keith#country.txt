@@ -1,0 +1,23 @@
+Contemporary Country:                0.9 : 9
+Bravado:                             0.9 : 9
+Earthy:                              0.9 : 9
+Swaggering:                          0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Guys Night Out:                      0.9 : 9
+Hanging Out:                         0.9 : 9
+New Traditionalist:                  0.825 : 8
+Earnest:                             0.825 : 8
+Passionate:                          0.825 : 8
+Slick:                               0.825 : 8
+Smooth:                              0.825 : 8
+Bright:                              0.75 : 7
+Stylish:                             0.75 : 7
+Rollicking:                          0.6749999999999999 : 6
+Neo-Traditionalist Country:          0.6 : 5
+Confident:                           0.6 : 5
+Playful_mood:                        0.6 : 5
+Reflective:                          0.6 : 5
+Romantic:                            0.6 : 5
+Rousing:                             0.6 : 5
+Snide:                               0.6 : 5
+Affection/Fondness:                  0.6 : 5

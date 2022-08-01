@@ -1,0 +1,20 @@
+Romantic:                            0.9 : 9
+Sentimental:                         0.9 : 9
+Yearning:                            0.9 : 9
+Vocal Pop:                           0.85 : 8
+Refined:                             0.85 : 8
+Theatrical:                          0.85 : 8
+In Love:                             0.85 : 8
+Standards:                           0.7999999999999999 : 7
+Traditional Pop:                     0.7999999999999999 : 7
+Lush:                                0.7999999999999999 : 7
+Dinner Ambiance:                     0.7999999999999999 : 7
+Dramatic:                            0.75 : 6
+Elegant:                             0.75 : 6
+Poignant:                            0.75 : 6
+Sophisticated:                       0.75 : 6
+Romantic Evening:                    0.75 : 6
+Bittersweet:                         0.7 : 5
+Breakup:                             0.7 : 5
+Heartache:                           0.7 : 5
+Sensual:                             0.6 : 3

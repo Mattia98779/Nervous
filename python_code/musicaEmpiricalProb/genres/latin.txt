@@ -1,0 +1,53 @@
+#Numero di canzoni: 5
+
+Rousing:                             0.9, 3
+Romantic:                            0.9, 3
+Latin Pop:                           0.75, 2
+Celebration:                         0.75, 2
+Yearning:                            0.75, 2
+In Love:                             0.75, 2
+Passionate:                          0.75, 2
+Sophisticated:                       0.75, 2
+Exuberant:                           0.75, 2
+Mischievous:                         0.6, 1
+Latin Dance:                         0.6, 1
+Dance-Pop:                           0.6, 1
+Adult Contemporary:                  0.6, 1
+Bittersweet:                         0.6, 1
+Brooding:                            0.6, 1
+Dramatic:                            0.6, 1
+Gentle:                              0.6, 1
+Searching:                           0.6, 1
+Sentimental:                         0.6, 1
+Wistful:                             0.6, 1
+Reflective:                          0.6, 1
+Sensual:                             0.6, 1
+Smooth:                              0.6, 1
+Earnest:                             0.6, 1
+Light:                               0.6, 1
+Plaintive:                           0.6, 1
+Refined:                             0.6, 1
+Soothing:                            0.6, 1
+Sweet:                               0.6, 1
+Breakup:                             0.6, 1
+Heartache:                           0.6, 1
+Regret:                              0.6, 1
+Rainy Day:                           0.6, 1
+Introspection:                       0.6, 1
+Reflection:                          0.6, 1
+Salsa:                               0.6, 1
+Tropical:                            0.6, 1
+Boisterous:                          0.6, 1
+Brassy:                              0.6, 1
+Celebratory:                         0.6, 1
+Confident:                           0.6, 1
+Exciting:                            0.6, 1
+Fiery:                               0.6, 1
+Lively:                              0.6, 1
+Raucous:                             0.6, 1
+Spicy:                               0.6, 1
+Street-Smart:                        0.6, 1
+Stylish:                             0.6, 1
+Summery:                             0.6, 1
+Partying:                            0.6, 1
+Summer:                              0.6, 1

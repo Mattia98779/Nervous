@@ -1,0 +1,31 @@
+#Title composizione
+Title : country#vocal
+
+#Concetto Principale
+Head Concept Name : country
+Head Concept Count : 49
+
+#Concetto Modificatore
+Modifier Concept Name : vocal
+Modifier Concept Count : 49
+
+
+
+
+
+T(modifier), -Jazz Instrument, 0.9, 48
+T(modifier), -Guitar Jazz, 0.9, 48
+T(modifier), Traditional Pop, 0.9, 47
+T(modifier), Vocal Pop, 0.8478260869565217, 39
+T(modifier), Refined, 0.7630434782608696, 26
+T(modifier), Sentimental, 0.7630434782608696, 26
+
+T(head), -Sardonic, 0.9, 48
+T(head), -Housework, 0.9, 48
+T(head), Traditional Country, 0.9, 33
+T(head), Earthy, 0.890625, 32
+T(head), Earnest, 0.8625, 29
+T(head), Reflective, 0.84375, 27
+
+
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 6.622310337178348

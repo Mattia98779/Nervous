@@ -1,0 +1,22 @@
+Gentle:                              0.9 : 9
+Background Music:                    0.9 : 9
+Relaxation:                          0.9 : 9
+Contemporary Instrumental:           0.825 : 8
+Smooth Jazz:                         0.825 : 8
+Circular:                            0.75 : 7
+Bright:                              0.6749999999999999 : 6
+Adult Alternative:                   0.6 : 5
+Atmospheric:                         0.6 : 5
+Dreamy:                              0.6 : 5
+Eerie:                               0.6 : 5
+Effervescent:                        0.6 : 5
+Hypnotic:                            0.6 : 5
+Laid-Back/Mellow:                    0.6 : 5
+Light:                               0.6 : 5
+Playful_mood:                        0.6 : 5
+Reserved:                            0.6 : 5
+Soothing:                            0.6 : 5
+Sparkling:                           0.6 : 5
+Unsettling:                          0.6 : 5
+Urgent:                              0.6 : 5
+Reflection:                          0.6 : 5

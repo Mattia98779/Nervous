@@ -1,0 +1,37 @@
+Revolutionary:                       0.9 : 9
+Folk Revival:                        0.8500000000000001 : 8
+Political Folk:                      0.8500000000000001 : 8
+Singer/Songwriter:                   0.8500000000000001 : 8
+Traditional Folk:                    0.8500000000000001 : 8
+Confrontational:                     0.8500000000000001 : 8
+Earnest:                             0.8500000000000001 : 8
+Literate:                            0.8500000000000001 : 8
+Reminiscing:                         0.8500000000000001 : 8
+Rebellious:                          0.8 : 7
+Empowering:                          0.8 : 7
+Reflection:                          0.8 : 7
+Bittersweet:                         0.75 : 6
+Earthy:                              0.75 : 6
+Passionate:                          0.75 : 6
+Plaintive:                           0.75 : 6
+Yearning:                            0.75 : 6
+Atmospheric:                         0.7 : 5
+Austere:                             0.7 : 5
+Autumnal:                            0.7 : 5
+Delicate:                            0.7 : 5
+Intimate:                            0.7 : 5
+Poignant:                            0.7 : 5
+Sparse:                              0.7 : 5
+Weary:                               0.7 : 5
+Autumn:                              0.7 : 5
+Early Morning:                       0.7 : 5
+Feeling Blue:                        0.7 : 5
+Freedom:                             0.7 : 5
+Hanging Out:                         0.7 : 5
+Introspection:                       0.7 : 5
+Late Night:                          0.7 : 5
+Rainy Day:                           0.7 : 5
+Solitude:                            0.7 : 5
+Provocative:                         0.65 : 4
+Reflective:                          0.65 : 4
+Unsettling:                          0.6 : 3

@@ -1,0 +1,30 @@
+Rock & Roll:                         0.9 : 9
+Rockabilly:                          0.9 : 9
+Boisterous:                          0.9 : 9
+Earthy:                              0.9 : 9
+Energetic:                           0.9 : 9
+Exciting:                            0.9 : 9
+Lively:                              0.9 : 9
+Plaintive:                           0.9 : 9
+Raucous:                             0.9 : 9
+Rebellious:                          0.9 : 9
+Rousing:                             0.9 : 9
+Rowdy:                               0.9 : 9
+Urgent:                              0.9 : 9
+Warm:                                0.9 : 9
+Electric Blues:                      0.8400000000000001 : 8
+Electric Delta Blues:                0.8400000000000001 : 8
+Regional Blues:                      0.8400000000000001 : 8
+Bravado:                             0.8400000000000001 : 8
+Small Gathering:                     0.8400000000000001 : 8
+Early Pop/Rock:                      0.78 : 7
+Swaggering:                          0.78 : 7
+Greasy:                              0.72 : 6
+Street-Smart:                        0.72 : 6
+Celebratory:                         0.6599999999999999 : 5
+Confident:                           0.6599999999999999 : 5
+Gritty:                              0.6599999999999999 : 5
+Playful_mood:                        0.6599999999999999 : 5
+Rollicking:                          0.6599999999999999 : 5
+Relaxation:                          0.6599999999999999 : 5
+Organic:                             0.6 : 4

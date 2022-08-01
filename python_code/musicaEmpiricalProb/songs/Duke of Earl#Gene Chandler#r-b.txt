@@ -1,0 +1,21 @@
+Brown-Eyed Soul:                     0.9 : 9
+Contemporary Pop/Rock:               0.9 : 9
+Doo Wop:                             0.9 : 9
+Early Pop/Rock:                      0.9 : 9
+Early R&B:                           0.9 : 9
+Northern Soul:                       0.9 : 9
+Soul:                                0.9 : 9
+Uptown Soul:                         0.9 : 9
+Smooth:                              0.9 : 9
+Sophisticated:                       0.9 : 9
+Street-Smart:                        0.9 : 9
+Swaggering:                          0.9 : 9
+Warm:                                0.9 : 9
+Cool & Cocky:                        0.9 : 9
+Empowering:                          0.9 : 9
+Freedom:                             0.9 : 9
+In Love:                             0.9 : 9
+Chicago Soul:                        0.6 : 8
+Cheerful:                            0.6 : 8
+Confident:                           0.6 : 8
+Refined:                             0.6 : 8

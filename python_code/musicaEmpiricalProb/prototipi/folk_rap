@@ -1,0 +1,31 @@
+#Title composizione
+Title : folk#rap
+
+#Concetto Principale
+Head Concept Name : folk
+Head Concept Count : 47
+
+#Concetto Modificatore
+Modifier Concept Name : rap
+Modifier Concept Count : 32
+
+
+
+
+
+T(modifier), -Unsettling, 0.9, 31
+T(modifier), -Solitude, 0.9, 31
+T(modifier), Brash, 0.9, 26
+T(modifier), Street-Smart, 0.864, 23
+T(modifier), Confident, 0.8400000000000001, 21
+T(modifier), Partying, 0.8400000000000001, 21
+
+T(head), -Guys Night Out, 0.9, 46
+T(head), -Mischievous, 0.9, 46
+T(head), Earthy, 0.9, 30
+T(head), Poignant, 0.8896551724137931, 29
+T(head), Earnest, 0.8896551724137931, 29
+T(head), Bittersweet, 0.8482758620689655, 25
+
+
+Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 5.891738903154806

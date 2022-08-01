@@ -1,0 +1,12 @@
+Classical Crossover:                 0.9 : 9
+Standards:                           0.9 : 9
+Amiable/Good-Natured:                0.6 : 7
+Carefree:                            0.6 : 7
+Cheerful:                            0.6 : 7
+Earnest:                             0.6 : 7
+Innocent:                            0.6 : 7
+Sentimental:                         0.6 : 7
+Sweet:                               0.6 : 7
+Picnic:                              0.6 : 7
+Spring:                              0.6 : 7
+Summer:                              0.6 : 7

@@ -1,0 +1,19 @@
+Flamenco:                            0.9 : 9
+Western European Traditions:         0.9 : 9
+Adult Alternative:                   0.825 : 8
+Ethnic Fusion:                       0.75 : 7
+Lively:                              0.75 : 7
+Organic:                             0.75 : 7
+Passionate:                          0.75 : 7
+Refined:                             0.75 : 7
+Sensual:                             0.75 : 7
+Sophisticated:                       0.75 : 7
+Stylish:                             0.75 : 7
+Summery:                             0.75 : 7
+In Love:                             0.75 : 7
+New Love:                            0.75 : 7
+Romantic Evening:                    0.75 : 7
+Seduction:                           0.75 : 7
+Sex:                                 0.75 : 7
+Reflective:                          0.675 : 6
+Slow Dance:                          0.6 : 5

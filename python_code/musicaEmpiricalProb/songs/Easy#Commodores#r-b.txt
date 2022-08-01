@@ -1,0 +1,21 @@
+Smooth Soul:                         0.9 : 9
+Soft Rock:                           0.9 : 9
+Soul:                                0.9 : 9
+Calm/Peaceful:                       0.9 : 9
+Gentle:                              0.9 : 9
+Laid-Back/Mellow:                    0.9 : 9
+Lush:                                0.9 : 9
+Relaxed:                             0.9 : 9
+Romantic:                            0.9 : 9
+Sentimental:                         0.9 : 9
+Smooth:                              0.9 : 9
+Soft/Quiet:                          0.9 : 9
+Soothing:                            0.9 : 9
+Warm:                                0.9 : 9
+Affection/Fondness:                  0.9 : 9
+Comfort:                             0.9 : 9
+Late Night:                          0.9 : 9
+Romantic Evening:                    0.9 : 9
+Seduction:                           0.9 : 9
+Slow Dance:                          0.9 : 9
+Quiet Storm:                         0.6 : 8

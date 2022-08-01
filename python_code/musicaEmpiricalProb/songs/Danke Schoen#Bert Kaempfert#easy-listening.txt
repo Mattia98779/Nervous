@@ -1,0 +1,17 @@
+Orchestral/Easy Listening:           0.9 : 9
+Dinner Ambiance:                     0.825 : 8
+Amiable/Good-Natured:                0.75 : 7
+Cheerful:                            0.75 : 7
+Gentle:                              0.75 : 7
+Laid-Back/Mellow:                    0.75 : 7
+Light:                               0.75 : 7
+Refined:                             0.75 : 7
+Smooth:                              0.75 : 7
+Sweet:                               0.75 : 7
+Innocent:                            0.675 : 6
+Restrained:                          0.675 : 6
+Sentimental:                         0.675 : 6
+Soothing:                            0.675 : 6
+Relaxation:                          0.675 : 6
+Calm/Peaceful:                       0.6 : 5
+Romantic Evening:                    0.6 : 5

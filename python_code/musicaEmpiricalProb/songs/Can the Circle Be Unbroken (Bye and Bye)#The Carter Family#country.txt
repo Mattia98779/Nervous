@@ -1,0 +1,25 @@
+Old-Timey:                           0.9 : 8
+Earthy:                              0.9 : 8
+Organic:                             0.9 : 8
+Appalachian:                         0.6 : 5
+Central European Traditions:         0.6 : 5
+German:                              0.6 : 5
+North American Traditions:           0.6 : 5
+Traditional Country:                 0.6 : 5
+Atmospheric:                         0.6 : 5
+Austere:                             0.6 : 5
+Earnest:                             0.6 : 5
+Eerie:                               0.6 : 5
+Melancholy:                          0.6 : 5
+Plaintive:                           0.6 : 5
+Poignant:                            0.6 : 5
+Rustic:                              0.6 : 5
+Spiritual:                           0.6 : 5
+Autumn:                              0.6 : 5
+Early Morning:                       0.6 : 5
+Feeling Blue:                        0.6 : 5
+Freedom:                             0.6 : 5
+In Love:                             0.6 : 5
+Introspection:                       0.6 : 5
+Late Night:                          0.6 : 5
+Sunday Afternoon:                    0.6 : 5

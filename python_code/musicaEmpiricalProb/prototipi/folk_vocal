@@ -1,0 +1,31 @@
+#Title composizione
+Title : folk#vocal
+
+#Concetto Principale
+Head Concept Name : folk
+Head Concept Count : 47
+
+#Concetto Modificatore
+Modifier Concept Name : vocal
+Modifier Concept Count : 49
+
+
+
+
+
+T(modifier), -Jazz Instrument, 0.9, 48
+T(modifier), -Guitar Jazz, 0.9, 48
+T(modifier), Traditional Pop, 0.9, 47
+T(modifier), Vocal Pop, 0.8478260869565217, 39
+T(modifier), Refined, 0.7630434782608696, 26
+T(modifier), Sentimental, 0.7630434782608696, 26
+
+T(head), -Guys Night Out, 0.9, 46
+T(head), -Mischievous, 0.9, 46
+T(head), Earthy, 0.9, 30
+T(head), Poignant, 0.8896551724137931, 29
+T(head), Earnest, 0.8896551724137931, 29
+T(head), Bittersweet, 0.8482758620689655, 25
+
+
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 6.553519722986963

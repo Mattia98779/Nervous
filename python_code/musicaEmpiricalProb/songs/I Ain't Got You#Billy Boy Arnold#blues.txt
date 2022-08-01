@@ -1,0 +1,17 @@
+Electric Chicago Blues:              0.9 : 9
+Electric Harmonica Blues:            0.9 : 9
+Harmonica Blues:                     0.9 : 9
+Regional Blues:                      0.9 : 9
+Bravado:                             0.9 : 9
+Boisterous:                          0.8500000000000001 : 8
+Sexual:                              0.8500000000000001 : 8
+Cool & Cocky:                        0.8500000000000001 : 8
+Confrontational:                     0.8 : 7
+Gritty:                              0.8 : 7
+Street-Smart:                        0.8 : 7
+Swaggering:                          0.8 : 7
+Drinking:                            0.8 : 7
+Summer:                              0.75 : 6
+Greasy:                              0.7 : 5
+Knotty:                              0.65 : 4
+Exuberant:                           0.6 : 3

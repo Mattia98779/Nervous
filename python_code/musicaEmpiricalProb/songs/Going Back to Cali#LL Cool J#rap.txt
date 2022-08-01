@@ -1,0 +1,22 @@
+East Coast Rap:                      0.9 : 9
+Golden Age:                          0.9 : 9
+Pop-Rap:                             0.9 : 9
+Bravado:                             0.9 : 9
+Celebratory:                         0.9 : 9
+Confident:                           0.9 : 9
+Sardonic:                            0.9 : 9
+Snide:                               0.9 : 9
+Swaggering:                          0.9 : 9
+Day Driving:                         0.9 : 9
+Night Driving:                       0.9 : 9
+Partying:                            0.9 : 9
+Summer:                              0.9 : 9
+Fun:                                 0.825 : 8
+Vacation:                            0.825 : 8
+Brash:                               0.75 : 7
+Hypnotic:                            0.75 : 7
+Sexy:                                0.75 : 7
+Acerbic:                             0.6 : 5
+Energetic:                           0.6 : 5
+Exciting:                            0.6 : 5
+Sex:                                 0.6 : 5

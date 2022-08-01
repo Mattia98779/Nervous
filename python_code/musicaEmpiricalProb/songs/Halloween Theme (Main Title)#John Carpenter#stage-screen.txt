@@ -1,0 +1,4 @@
+Jungle/Drum'n'Bass:                  0.9 : 7
+Hypnotic:                            0.9 : 7
+Menacing:                            0.9 : 7
+Ominous:                             0.9 : 7

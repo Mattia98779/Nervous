@@ -1,0 +1,31 @@
+#Title composizione
+Title : avant-garde#stage-screen
+
+#Concetto Principale
+Head Concept Name : avant-garde
+Head Concept Count : 13
+
+#Concetto Modificatore
+Modifier Concept Name : stage-screen
+Modifier Concept Count : 18
+
+
+
+
+
+T(modifier), -Introspection, 0.9, 17
+T(modifier), -Rainy Day, 0.9, 17
+T(modifier), Soundtracks, 0.9, 13
+T(modifier), Dramatic, 0.875, 12
+T(modifier), Original Score, 0.8500000000000001, 11
+T(modifier), Theatrical, 0.825, 10
+
+T(head), -Freedom, 0.9, 12
+T(head), -Dramatic, 0.9, 12
+T(head), The Creative Side, 0.9, 6
+T(head), Cerebral, 0.84, 5
+T(head), Uncompromising, 0.78, 4
+T(head), Provocative, 0.78, 4
+
+
+Result : '1', '1', '1', '0', '1', '0', '1', '1', '0', '0', '0', '0', 5.690085470085469

@@ -1,0 +1,31 @@
+#Title composizione
+Title : latin#classical
+
+#Concetto Principale
+Head Concept Name : latin
+Head Concept Count : 5
+
+#Concetto Modificatore
+Modifier Concept Name : classical
+Modifier Concept Count : 7
+
+
+
+
+
+T(modifier), -Wistful, 0.9, 6
+T(modifier), -Tender, 0.9, 6
+T(modifier), Sentimental, 0.9, 4
+T(modifier), Confident, 0.9, 4
+T(modifier), Classical Crossover, 0.8, 3
+T(modifier), Melancholy, 0.8, 3
+
+T(head), -Summer, 0.9, 4
+T(head), -Partying, 0.9, 4
+T(head), Rousing, 0.9, 3
+T(head), Romantic, 0.9, 3
+T(head), Latin Pop, 0.75, 2
+T(head), Celebration, 0.75, 2
+
+
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 5.251428571428572

@@ -1,0 +1,23 @@
+Boisterous:                          0.9 : 9
+Playful_mood:                        0.9 : 9
+Visceral:                            0.9 : 9
+Witty:                               0.9 : 9
+Alternative/Indie Rock:              0.7999999999999999 : 8
+Garage Rock Revival:                 0.7999999999999999 : 8
+Confident:                           0.7999999999999999 : 8
+Energetic:                           0.7999999999999999 : 8
+Exuberant:                           0.7999999999999999 : 8
+Rousing:                             0.7999999999999999 : 8
+Stylish:                             0.7999999999999999 : 8
+Cool & Cocky:                        0.7999999999999999 : 8
+Guys Night Out:                      0.7999999999999999 : 8
+Indie Rock:                          0.7000000000000001 : 7
+Freewheeling:                        0.7000000000000001 : 7
+Fun:                                 0.7000000000000001 : 7
+Rambunctious:                        0.7000000000000001 : 7
+TGIF:                                0.7000000000000001 : 7
+Amiable/Good-Natured:                0.6 : 6
+Brash:                               0.6 : 6
+Carefree:                            0.6 : 6
+Lively:                              0.6 : 6
+Playful:                             0.6 : 6

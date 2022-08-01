@@ -1,0 +1,17 @@
+Opera:                               0.9 : 9
+Laid-Back/Mellow:                    0.9 : 9
+Sparse:                              0.9 : 9
+Gentle:                              0.75 : 7
+Provocative:                         0.75 : 7
+Soft/Quiet:                          0.75 : 7
+Soothing:                            0.75 : 7
+Sophisticated:                       0.75 : 7
+Introspection:                       0.75 : 7
+Relaxation:                          0.75 : 7
+Playful_mood:                        0.675 : 6
+Relaxed:                             0.675 : 6
+Warm:                                0.675 : 6
+Solitude:                            0.675 : 6
+Vocal Pop:                           0.6 : 5
+Complex:                             0.6 : 5
+Confident:                           0.6 : 5

@@ -1,0 +1,15 @@
+Polka:                               0.9 : 9
+Drinking:                            0.9 : 9
+Hanging Out:                         0.8 : 8
+Amiable/Good-Natured:                0.7 : 7
+Carefree:                            0.7 : 7
+Celebratory:                         0.7 : 7
+Cheerful:                            0.7 : 7
+Effervescent:                        0.7 : 7
+Freewheeling:                        0.7 : 7
+Rousing:                             0.7 : 7
+Partying:                            0.7 : 7
+Energetic:                           0.6 : 6
+Fun:                                 0.6 : 6
+Playful_mood:                        0.6 : 6
+TGIF:                                0.6 : 6

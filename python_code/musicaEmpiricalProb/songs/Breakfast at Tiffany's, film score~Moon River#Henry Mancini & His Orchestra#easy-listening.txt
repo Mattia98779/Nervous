@@ -1,0 +1,36 @@
+Instrumental Pop:                    0.9000000000000001 : 9
+Mood Music:                          0.9000000000000001 : 9
+Movie Themes:                        0.9000000000000001 : 9
+Orchestral/Easy Listening:           0.9000000000000001 : 9
+Soundtracks:                         0.9000000000000001 : 9
+Amiable/Good-Natured:                0.9000000000000001 : 9
+Atmospheric:                         0.9000000000000001 : 9
+Calm/Peaceful:                       0.9000000000000001 : 9
+Dreamy:                              0.9000000000000001 : 9
+Elegant:                             0.9000000000000001 : 9
+Ethereal:                            0.9000000000000001 : 9
+Gentle:                              0.9000000000000001 : 9
+Laid-Back/Mellow:                    0.9000000000000001 : 9
+Light:                               0.9000000000000001 : 9
+Refined:                             0.9000000000000001 : 9
+Relaxed:                             0.9000000000000001 : 9
+Romantic:                            0.9000000000000001 : 9
+Searching:                           0.9000000000000001 : 9
+Sensual:                             0.9000000000000001 : 9
+Sentimental:                         0.9000000000000001 : 9
+Smooth:                              0.9000000000000001 : 9
+Soothing:                            0.9000000000000001 : 9
+Sophisticated:                       0.9000000000000001 : 9
+Sparkling:                           0.9000000000000001 : 9
+Warm:                                0.9000000000000001 : 9
+Wistful:                             0.9000000000000001 : 9
+Yearning:                            0.9000000000000001 : 9
+Background Music:                    0.9000000000000001 : 9
+Dinner Ambiance:                     0.9000000000000001 : 9
+In Love:                             0.9000000000000001 : 9
+Reflection:                          0.9000000000000001 : 9
+Relaxation:                          0.9000000000000001 : 9
+Romantic Evening:                    0.9000000000000001 : 9
+Slow Dance:                          0.9000000000000001 : 9
+Guitar Jazz:                         0.6 : 5
+Jazz Instrument:                     0.6 : 5

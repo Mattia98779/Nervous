@@ -1,0 +1,29 @@
+Contemporary Blues:                  0.9 : 9
+Modern Electric Blues:               0.9 : 9
+Passionate:                          0.9 : 9
+Refined:                             0.9 : 9
+Slick:                               0.9 : 9
+Club:                                0.9 : 9
+Guys Night Out:                      0.9 : 9
+Hanging Out:                         0.9 : 9
+Late Night:                          0.9 : 9
+Summer:                              0.9 : 9
+Reserved:                            0.8625 : 8
+Street-Smart:                        0.8625 : 8
+Weary:                               0.8625 : 8
+Soul-Blues:                          0.8250000000000001 : 7
+Smooth:                              0.8250000000000001 : 7
+Sophisticated:                       0.8250000000000001 : 7
+Swaggering:                          0.8250000000000001 : 7
+Stylish:                             0.7875000000000001 : 6
+Club/Dance:                          0.75 : 5
+Retro-Soul:                          0.75 : 5
+Soul:                                0.75 : 5
+Confrontational:                     0.75 : 5
+Energetic:                           0.75 : 5
+Gutsy:                               0.75 : 5
+Lively:                              0.75 : 5
+Relaxed:                             0.75 : 5
+Jealousy:                            0.75 : 5
+Intimate:                            0.7125 : 4
+Album Rock:                          0.6 : 1

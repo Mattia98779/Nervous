@@ -1,0 +1,14 @@
+Sing-Alongs:                         0.9 : 9
+Earnest:                             0.84 : 8
+Freedom:                             0.84 : 8
+Earthy:                              0.78 : 7
+Exuberant:                           0.78 : 7
+Joyous:                              0.78 : 7
+Rousing:                             0.78 : 7
+Amiable/Good-Natured:                0.66 : 5
+Fun:                                 0.66 : 5
+Literate:                            0.66 : 5
+Playful_mood:                        0.66 : 5
+Hanging Out:                         0.66 : 5
+Playful:                             0.66 : 5
+Sunday Afternoon:                    0.6 : 4

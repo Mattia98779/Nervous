@@ -1,0 +1,32 @@
+Big Band:                            0.9 : 9
+Nostalgic:                           0.9 : 9
+Reflective:                          0.9 : 9
+Sentimental:                         0.9 : 9
+Soothing:                            0.9 : 9
+Anniversary:                         0.9 : 9
+Comfort:                             0.9 : 9
+Dinner Ambiance:                     0.9 : 9
+Sweet Bands:                         0.825 : 8
+Traditional Pop:                     0.825 : 8
+Vocal Pop:                           0.825 : 8
+Dreamy:                              0.825 : 8
+Warm:                                0.825 : 8
+Romantic Evening:                    0.825 : 8
+American Popular Song:               0.75 : 7
+Dramatic:                            0.75 : 7
+Ethereal:                            0.75 : 7
+Poignant:                            0.75 : 7
+Romantic:                            0.75 : 7
+Sweet:                               0.75 : 7
+Wistful:                             0.75 : 7
+Autumnal:                            0.675 : 6
+Delicate:                            0.675 : 6
+Gentle:                              0.675 : 6
+Melancholy:                          0.675 : 6
+Plaintive:                           0.675 : 6
+Restrained:                          0.675 : 6
+Pastoral:                            0.6 : 5
+Affection/Fondness:                  0.6 : 5
+Reminiscing:                         0.6 : 5
+Reunion:                             0.6 : 5
+Slow Dance:                          0.6 : 5

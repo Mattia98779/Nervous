@@ -1,0 +1,31 @@
+#Title composizione
+Title : stage-screen#pop-rock
+
+#Concetto Principale
+Head Concept Name : stage-screen
+Head Concept Count : 18
+
+#Concetto Modificatore
+Modifier Concept Name : pop-rock
+Modifier Concept Count : 45
+
+
+
+
+
+T(modifier), -New Romantic, 0.9, 44
+T(modifier), -Spicy, 0.9, 44
+T(modifier), Rousing, 0.9, 30
+T(modifier), Contemporary Pop/Rock, 0.8689655172413793, 27
+T(modifier), Album Rock, 0.8172413793103448, 22
+T(modifier), Confident, 0.8172413793103448, 22
+
+T(head), -Introspection, 0.9, 17
+T(head), -Rainy Day, 0.9, 17
+T(head), Soundtracks, 0.9, 13
+T(head), Dramatic, 0.875, 12
+T(head), Original Score, 0.8500000000000001, 11
+T(head), Theatrical, 0.825, 10
+
+
+Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 5.4911877394636015

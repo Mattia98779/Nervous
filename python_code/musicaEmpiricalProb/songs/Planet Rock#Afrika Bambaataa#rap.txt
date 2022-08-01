@@ -1,0 +1,11 @@
+Club/Dance:                          0.9000000000000001 : 8
+Electro:                             0.9000000000000001 : 8
+Old-School Rap:                      0.9000000000000001 : 8
+Celebratory:                         0.9000000000000001 : 8
+Street-Smart:                        0.9000000000000001 : 8
+Partying:                            0.9000000000000001 : 8
+Spacey:                              0.84 : 7
+Energetic:                           0.78 : 6
+Confident:                           0.72 : 5
+Rousing:                             0.66 : 4
+Dramatic:                            0.6 : 3
