@@ -19,6 +19,8 @@ T(modifier), Reflection, 0.9, 29
 T(modifier), Soothing, 0.8892857142857142, 28
 T(modifier), Introspection, 0.8892857142857142, 28
 T(modifier), Hypnotic, 0.8785714285714286, 27
+T(modifier), Reflective, 0.8785714285714286, 27
+T(modifier), Relaxation, 0.8785714285714286, 27
 
 T(head), -Unsettling, 0.9, 31
 T(head), -Solitude, 0.9, 31
@@ -26,6 +28,8 @@ T(head), Brash, 0.9, 26
 T(head), Street-Smart, 0.864, 23
 T(head), Confident, 0.8400000000000001, 21
 T(head), Partying, 0.8400000000000001, 21
+T(head), East Coast Rap, 0.804, 18
+T(head), Swaggering, 0.804, 18
 
 
-Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 5.822678571428572
+Result : '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '0', '0', '0', '0', '0', 7.8030464285714265

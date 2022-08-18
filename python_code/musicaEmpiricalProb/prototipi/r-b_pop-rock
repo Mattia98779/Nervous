@@ -19,6 +19,8 @@ T(modifier), Rousing, 0.9, 30
 T(modifier), Contemporary Pop/Rock, 0.8689655172413793, 27
 T(modifier), Album Rock, 0.8172413793103448, 22
 T(modifier), Confident, 0.8172413793103448, 22
+T(modifier), Energetic, 0.8172413793103448, 22
+T(modifier), Cool & Cocky, 0.806896551724138, 21
 
 T(head), -Teen Pop, 0.9, 42
 T(head), -Separation, 0.9, 42
@@ -26,6 +28,8 @@ T(head), Soul, 0.9, 21
 T(head), Playful_mood, 0.855, 18
 T(head), Energetic, 0.855, 18
 T(head), Partying, 0.855, 18
+T(head), Warm, 0.855, 18
+T(head), Smooth, 0.855, 18
 
 
-Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 6.004944845406755
+Result : '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '0', '0', '0', '0', '0', 7.38781261694734

@@ -19,6 +19,8 @@ T(modifier), Hanging Out, 0.9, 22
 T(modifier), Playful, 0.9, 22
 T(modifier), Fun, 0.8857142857142857, 21
 T(modifier), Sing-Alongs, 0.8714285714285714, 20
+T(modifier), Amiable/Good-Natured, 0.8714285714285714, 20
+T(modifier), Playful_mood, 0.8714285714285714, 20
 
 T(head), -Wistful, 0.9, 6
 T(head), -Tender, 0.9, 6
@@ -26,6 +28,8 @@ T(head), Sentimental, 0.9, 4
 T(head), Confident, 0.9, 4
 T(head), Classical Crossover, 0.8, 3
 T(head), Melancholy, 0.8, 3
+T(head), Sensual, 0.8, 3
+T(head), Complex, 0.8, 3
 
 
-Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 6.308074534161491
+Result : '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 8.908074534161495

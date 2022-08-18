@@ -19,6 +19,8 @@ T(modifier), Soundtracks, 0.9, 13
 T(modifier), Dramatic, 0.875, 12
 T(modifier), Original Score, 0.8500000000000001, 11
 T(modifier), Theatrical, 0.825, 10
+T(modifier), Film Music, 0.7999999999999999, 9
+T(modifier), Rousing, 0.75, 7
 
 T(head), -Teen Pop, 0.9, 42
 T(head), -Separation, 0.9, 42
@@ -26,6 +28,8 @@ T(head), Soul, 0.9, 21
 T(head), Playful_mood, 0.855, 18
 T(head), Energetic, 0.855, 18
 T(head), Partying, 0.855, 18
+T(head), Warm, 0.855, 18
+T(head), Smooth, 0.855, 18
 
 
-Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 5.239715762273901
+Result : '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '1', '0', '0', '0', 6.814496124031008

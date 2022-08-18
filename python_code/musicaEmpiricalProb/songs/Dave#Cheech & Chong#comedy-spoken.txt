@@ -1,6 +1,0 @@
-Comedy:                              0.9 : 8
-Sketch Comedy:                       0.9 : 8
-Humorous:                            0.7500000000000001 : 7
-Swaggering:                          0.7500000000000001 : 7
-Cool & Cocky:                        0.7500000000000001 : 7
-Mischievous:                         0.7500000000000001 : 7

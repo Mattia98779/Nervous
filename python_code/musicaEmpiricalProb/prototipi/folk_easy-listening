@@ -19,6 +19,8 @@ T(modifier), Dinner Ambiance, 0.9, 27
 T(modifier), Amiable/Good-Natured, 0.8884615384615384, 26
 T(modifier), Relaxation, 0.8653846153846154, 24
 T(modifier), Soothing, 0.8653846153846154, 24
+T(modifier), Sophisticated, 0.8538461538461539, 23
+T(modifier), Refined, 0.8307692307692308, 21
 
 T(head), -Guys Night Out, 0.9, 46
 T(head), -Mischievous, 0.9, 46
@@ -26,6 +28,8 @@ T(head), Earthy, 0.9, 30
 T(head), Poignant, 0.8896551724137931, 29
 T(head), Earnest, 0.8896551724137931, 29
 T(head), Bittersweet, 0.8482758620689655, 25
+T(head), Reflective, 0.8172413793103448, 22
+T(head), Plaintive, 0.806896551724138, 21
 
 
-Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 5.985884551729388
+Result : '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', '0', 7.8305047793919815

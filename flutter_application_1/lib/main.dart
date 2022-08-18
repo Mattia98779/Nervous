@@ -23,10 +23,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Welcome to Flutter',
+      title: 'Nervous',
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Interface v1.0'),
+          title: const Text('Nervous 6.2.10'),
         ),
         body: tuttoWidget()
         
@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
 }
 
 Future pars() async{
-  String path = ''+value1+'_'+value2;
+  String path = 'assets/'+value1+'_'+value2;
   print(path);
   final String jsonData = await rootBundle.loadString(path);
 
@@ -83,7 +83,7 @@ class _tuttoWidgetState extends State<tuttoWidget> {
                   onPressed: () {setState(() {
                     
                   });},
-                  child: const Text('Combina'),
+                  child: const Text('Combine!'),
                 ),
               ],
             ),
@@ -116,14 +116,14 @@ class _tuttoWidgetState extends State<tuttoWidget> {
                   width: 800.0,
                   height: 42.0,
                   child: Text(
-                    "Spiegazione", style: const TextStyle(fontWeight: FontWeight.bold)
+                    "Explaination", style: const TextStyle(fontWeight: FontWeight.bold)
                     ),
                 ),
                 SizedBox(
                   width: 400.0,
                   height: 42.0,
                   child: Text(
-                    "Ascolta su youtube", style: const TextStyle(fontWeight: FontWeight.bold)
+                    "Listen on youtube", style: const TextStyle(fontWeight: FontWeight.bold)
                     ),
                 )],)] ),
         Container(child: projectWidget(),), ]);
@@ -219,7 +219,7 @@ class _MyStatefulWidgetState1 extends State<MyStatefulWidget1> {
           dropdownValue = newValue!;
         });
       },
-      items: <String>['blues','childrens','classical','comedy-spoken',
+      items: <String>['blues','childrens','classical',
       'country','easy-listening','electronic','folk','international','jazz','latin','new-age',
       'pop-rock','r-b','rap','reggae','stage-screen','vocal','avant-garde']
           .map<DropdownMenuItem<String>>((String value) {
@@ -259,7 +259,7 @@ class _MyStatefulWidgetState2 extends State<MyStatefulWidget2> {
           dropdownValue = newValue!;
         });
       },
-      items: <String>['blues','childrens','classical','comedy-spoken',
+      items: <String>['blues','childrens','classical',
       'country','easy-listening','electronic','folk','international','jazz','latin','new-age',
       'pop-rock','r-b','rap','reggae','stage-screen','vocal','avant-garde']
           .map<DropdownMenuItem<String>>((String value) {

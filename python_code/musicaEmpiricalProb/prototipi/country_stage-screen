@@ -19,6 +19,8 @@ T(modifier), Soundtracks, 0.9, 13
 T(modifier), Dramatic, 0.875, 12
 T(modifier), Original Score, 0.8500000000000001, 11
 T(modifier), Theatrical, 0.825, 10
+T(modifier), Film Music, 0.7999999999999999, 9
+T(modifier), Rousing, 0.75, 7
 
 T(head), -Sardonic, 0.9, 48
 T(head), -Housework, 0.9, 48
@@ -26,6 +28,8 @@ T(head), Traditional Country, 0.9, 33
 T(head), Earthy, 0.890625, 32
 T(head), Earnest, 0.8625, 29
 T(head), Reflective, 0.84375, 27
+T(head), Plaintive, 0.815625, 24
+T(head), Amiable/Good-Natured, 0.80625, 23
 
 
-Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 5.5162273242630375
+Result : '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', '0', 7.465136054421769

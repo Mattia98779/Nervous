@@ -19,6 +19,8 @@ T(modifier), Hypnotic, 0.9, 27
 T(modifier), Electronica, 0.8538461538461538, 23
 T(modifier), Trippy, 0.8538461538461538, 23
 T(modifier), Techno, 0.8307692307692307, 21
+T(modifier), Late Night, 0.8192307692307692, 20
+T(modifier), Club/Dance, 0.7961538461538461, 18
 
 T(head), -Jazz Instrument, 0.9, 48
 T(head), -Guitar Jazz, 0.9, 48
@@ -26,6 +28,8 @@ T(head), Traditional Pop, 0.9, 47
 T(head), Vocal Pop, 0.8478260869565217, 39
 T(head), Refined, 0.7630434782608696, 26
 T(head), Sentimental, 0.7630434782608696, 26
+T(head), Romantic, 0.75, 24
+T(head), Sweet, 0.7434782608695653, 23
 
 
-Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 6.411869227536112
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', 8.18997754778729

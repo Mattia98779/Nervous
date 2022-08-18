@@ -19,6 +19,8 @@ T(modifier), Rousing, 0.9, 30
 T(modifier), Contemporary Pop/Rock, 0.8689655172413793, 27
 T(modifier), Album Rock, 0.8172413793103448, 22
 T(modifier), Confident, 0.8172413793103448, 22
+T(modifier), Energetic, 0.8172413793103448, 22
+T(modifier), Cool & Cocky, 0.806896551724138, 21
 
 T(head), -Sardonic, 0.9, 48
 T(head), -Housework, 0.9, 48
@@ -26,6 +28,8 @@ T(head), Traditional Country, 0.9, 33
 T(head), Earthy, 0.890625, 32
 T(head), Earnest, 0.8625, 29
 T(head), Reflective, 0.84375, 27
+T(head), Plaintive, 0.815625, 24
+T(head), Amiable/Good-Natured, 0.80625, 23
 
 
-Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 6.118779517554147
+Result : '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', '0', 7.943903589021814

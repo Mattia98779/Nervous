@@ -19,6 +19,8 @@ T(modifier), Rousing, 0.9, 3
 T(modifier), Romantic, 0.9, 3
 T(modifier), Latin Pop, 0.75, 2
 T(modifier), Celebration, 0.75, 2
+T(modifier), Yearning, 0.75, 2
+T(modifier), In Love, 0.75, 2
 
 T(head), -Delicate, 0.9, 37
 T(head), -Sprawling, 0.9, 37
@@ -26,6 +28,8 @@ T(head), Hypnotic, 0.9, 27
 T(head), Electronica, 0.8538461538461538, 23
 T(head), Trippy, 0.8538461538461538, 23
 T(head), Techno, 0.8307692307692307, 21
+T(head), Late Night, 0.8192307692307692, 20
+T(head), Club/Dance, 0.7961538461538461, 18
 
 
-Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 5.152914979757084
+Result : '1', '1', '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', 6.972866396761133

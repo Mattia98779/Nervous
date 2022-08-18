@@ -19,6 +19,8 @@ T(modifier), Sophisticated, 0.9, 38
 T(modifier), Freewheeling, 0.8675675675675676, 34
 T(modifier), Confident, 0.8432432432432433, 31
 T(modifier), Amiable/Good-Natured, 0.8432432432432433, 31
+T(modifier), Playful_mood, 0.8432432432432433, 31
+T(modifier), Lively, 0.8351351351351353, 30
 
 T(head), -Wistful, 0.9, 6
 T(head), -Tender, 0.9, 6
@@ -26,6 +28,8 @@ T(head), Sentimental, 0.9, 4
 T(head), Confident, 0.9, 4
 T(head), Classical Crossover, 0.8, 3
 T(head), Melancholy, 0.8, 3
+T(head), Sensual, 0.8, 3
+T(head), Complex, 0.8, 3
 
 
-Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 5.44062097812098
+Result : '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 7.532770270270273

@@ -19,6 +19,8 @@ T(modifier), Hypnotic, 0.9, 27
 T(modifier), Electronica, 0.8538461538461538, 23
 T(modifier), Trippy, 0.8538461538461538, 23
 T(modifier), Techno, 0.8307692307692307, 21
+T(modifier), Late Night, 0.8192307692307692, 20
+T(modifier), Club/Dance, 0.7961538461538461, 18
 
 T(head), -Guys Night Out, 0.9, 46
 T(head), -Mischievous, 0.9, 46
@@ -26,6 +28,8 @@ T(head), Earthy, 0.9, 30
 T(head), Poignant, 0.8896551724137931, 29
 T(head), Earnest, 0.8896551724137931, 29
 T(head), Bittersweet, 0.8482758620689655, 25
+T(head), Reflective, 0.8172413793103448, 22
+T(head), Plaintive, 0.806896551724138, 21
 
 
-Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 5.960670303361542
+Result : '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', '0', 7.822837572513597

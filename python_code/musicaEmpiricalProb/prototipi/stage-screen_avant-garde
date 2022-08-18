@@ -19,6 +19,8 @@ T(modifier), The Creative Side, 0.9, 6
 T(modifier), Cerebral, 0.84, 5
 T(modifier), Uncompromising, 0.78, 4
 T(modifier), Provocative, 0.78, 4
+T(modifier), Revolutionary, 0.78, 4
+T(modifier), Modern Composition, 0.78, 4
 
 T(head), -Introspection, 0.9, 17
 T(head), -Rainy Day, 0.9, 17
@@ -26,6 +28,8 @@ T(head), Soundtracks, 0.9, 13
 T(head), Dramatic, 0.875, 12
 T(head), Original Score, 0.8500000000000001, 11
 T(head), Theatrical, 0.825, 10
+T(head), Film Music, 0.7999999999999999, 9
+T(head), Rousing, 0.75, 7
 
 
-Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 5.5541880341880345
+Result : '1', '0', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', 6.986384615384615

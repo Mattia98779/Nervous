@@ -19,6 +19,8 @@ T(modifier), Summery, 0.9, 35
 T(modifier), Roots Reggae, 0.8735294117647059, 32
 T(modifier), Earnest, 0.8558823529411764, 30
 T(modifier), Earthy, 0.8117647058823529, 25
+T(modifier), Rousing, 0.8029411764705883, 24
+T(modifier), Summer, 0.8029411764705883, 24
 
 T(head), -New Romantic, 0.9, 44
 T(head), -Spicy, 0.9, 44
@@ -26,6 +28,8 @@ T(head), Rousing, 0.9, 30
 T(head), Contemporary Pop/Rock, 0.8689655172413793, 27
 T(head), Album Rock, 0.8172413793103448, 22
 T(head), Confident, 0.8172413793103448, 22
+T(head), Energetic, 0.8172413793103448, 22
+T(head), Cool & Cocky, 0.806896551724138, 21
 
 
-Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 6.226703290511607
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', 8.010727180527383

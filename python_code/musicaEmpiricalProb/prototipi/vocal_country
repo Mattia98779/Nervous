@@ -19,6 +19,8 @@ T(modifier), Traditional Country, 0.9, 33
 T(modifier), Earthy, 0.890625, 32
 T(modifier), Earnest, 0.8625, 29
 T(modifier), Reflective, 0.84375, 27
+T(modifier), Plaintive, 0.815625, 24
+T(modifier), Amiable/Good-Natured, 0.80625, 23
 
 T(head), -Jazz Instrument, 0.9, 48
 T(head), -Guitar Jazz, 0.9, 48
@@ -26,6 +28,8 @@ T(head), Traditional Pop, 0.9, 47
 T(head), Vocal Pop, 0.8478260869565217, 39
 T(head), Refined, 0.7630434782608696, 26
 T(head), Sentimental, 0.7630434782608696, 26
+T(head), Romantic, 0.75, 24
+T(head), Sweet, 0.7434782608695653, 23
 
 
-Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 6.62231033717835
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', 8.52374001774623

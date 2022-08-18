@@ -19,6 +19,8 @@ T(modifier), Hanging Out, 0.9, 22
 T(modifier), Playful, 0.9, 22
 T(modifier), Fun, 0.8857142857142857, 21
 T(modifier), Sing-Alongs, 0.8714285714285714, 20
+T(modifier), Amiable/Good-Natured, 0.8714285714285714, 20
+T(modifier), Playful_mood, 0.8714285714285714, 20
 
 T(head), -Soundtracks, 0.9, 47
 T(head), -Movie Themes, 0.9, 47
@@ -26,6 +28,8 @@ T(head), Sophisticated, 0.9, 38
 T(head), Freewheeling, 0.8675675675675676, 34
 T(head), Confident, 0.8432432432432433, 31
 T(head), Amiable/Good-Natured, 0.8432432432432433, 31
+T(head), Playful_mood, 0.8432432432432433, 31
+T(head), Lively, 0.8351351351351353, 30
 
 
-Result : '1', '0', '1', '1', '0', '0', '1', '1', '1', '0', '0', '0', 5.911941133680265
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', 8.388729435957694

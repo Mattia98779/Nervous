@@ -19,6 +19,8 @@ T(modifier), Rousing, 0.9, 3
 T(modifier), Romantic, 0.9, 3
 T(modifier), Latin Pop, 0.75, 2
 T(modifier), Celebration, 0.75, 2
+T(modifier), Yearning, 0.75, 2
+T(modifier), In Love, 0.75, 2
 
 T(head), -Wry, 0.9, 42
 T(head), -Gleeful, 0.9, 42
@@ -26,6 +28,8 @@ T(head), Dinner Ambiance, 0.9, 27
 T(head), Amiable/Good-Natured, 0.8884615384615384, 26
 T(head), Relaxation, 0.8653846153846154, 24
 T(head), Soothing, 0.8653846153846154, 24
+T(head), Sophisticated, 0.8538461538461539, 23
+T(head), Refined, 0.8307692307692308, 21
 
 
-Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '0', '1', 5.043720930232559
+Result : '1', '1', '0', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', 6.9149481216457955

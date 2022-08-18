@@ -19,6 +19,8 @@ T(modifier), Reflection, 0.9, 29
 T(modifier), Soothing, 0.8892857142857142, 28
 T(modifier), Introspection, 0.8892857142857142, 28
 T(modifier), Hypnotic, 0.8785714285714286, 27
+T(modifier), Reflective, 0.8785714285714286, 27
+T(modifier), Relaxation, 0.8785714285714286, 27
 
 T(head), -Wistful, 0.9, 6
 T(head), -Tender, 0.9, 6
@@ -26,6 +28,8 @@ T(head), Sentimental, 0.9, 4
 T(head), Confident, 0.9, 4
 T(head), Classical Crossover, 0.8, 3
 T(head), Melancholy, 0.8, 3
+T(head), Sensual, 0.8, 3
+T(head), Complex, 0.8, 3
 
 
-Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 5.099851190476191
+Result : '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 7.113839285714287

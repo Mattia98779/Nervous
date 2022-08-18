@@ -19,6 +19,8 @@ T(modifier), Rousing, 0.9, 30
 T(modifier), Contemporary Pop/Rock, 0.8689655172413793, 27
 T(modifier), Album Rock, 0.8172413793103448, 22
 T(modifier), Confident, 0.8172413793103448, 22
+T(modifier), Energetic, 0.8172413793103448, 22
+T(modifier), Cool & Cocky, 0.806896551724138, 21
 
 T(head), -Unsettling, 0.9, 31
 T(head), -Solitude, 0.9, 31
@@ -26,6 +28,8 @@ T(head), Brash, 0.9, 26
 T(head), Street-Smart, 0.864, 23
 T(head), Confident, 0.8400000000000001, 21
 T(head), Partying, 0.8400000000000001, 21
+T(head), East Coast Rap, 0.804, 18
+T(head), Swaggering, 0.804, 18
 
 
-Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 5.998115229885057
+Result : '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', '0', 7.833660229885057

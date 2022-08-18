@@ -19,6 +19,8 @@ T(modifier), Hanging Out, 0.9, 22
 T(modifier), Playful, 0.9, 22
 T(modifier), Fun, 0.8857142857142857, 21
 T(modifier), Sing-Alongs, 0.8714285714285714, 20
+T(modifier), Amiable/Good-Natured, 0.8714285714285714, 20
+T(modifier), Playful_mood, 0.8714285714285714, 20
 
 T(head), -Night Driving, 0.9, 47
 T(head), -Healing/Comfort, 0.9, 47
@@ -26,6 +28,8 @@ T(head), Summery, 0.9, 35
 T(head), Roots Reggae, 0.8735294117647059, 32
 T(head), Earnest, 0.8558823529411764, 30
 T(head), Earthy, 0.8117647058823529, 25
+T(head), Rousing, 0.8029411764705883, 24
+T(head), Summer, 0.8029411764705883, 24
 
 
-Result : '0', '1', '1', '1', '0', '0', '1', '1', '1', '0', '0', '0', 5.831833820484714
+Result : '1', '1', '1', '1', '1', '0', '1', '0', '1', '1', '1', '1', '0', '0', '0', '0', 8.278720161977832

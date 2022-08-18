@@ -19,6 +19,8 @@ T(modifier), The Creative Side, 0.9, 6
 T(modifier), Cerebral, 0.84, 5
 T(modifier), Uncompromising, 0.78, 4
 T(modifier), Provocative, 0.78, 4
+T(modifier), Revolutionary, 0.78, 4
+T(modifier), Modern Composition, 0.78, 4
 
 T(head), -The Creative Side, 0.9, 47
 T(head), -Day Driving, 0.9, 47
@@ -26,6 +28,8 @@ T(head), Regional Blues, 0.9, 40
 T(head), Earthy, 0.8615384615384616, 35
 T(head), Gritty, 0.8615384615384616, 35
 T(head), Passionate, 0.8153846153846154, 29
+T(head), Late Night, 0.8153846153846154, 29
+T(head), Hanging Out, 0.7615384615384615, 22
 
 
-Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 5.621442307692306
+Result : '1', '1', '0', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', 7.431384615384615

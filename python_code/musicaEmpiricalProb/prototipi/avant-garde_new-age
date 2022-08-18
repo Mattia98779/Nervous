@@ -19,6 +19,8 @@ T(modifier), Reflection, 0.9, 29
 T(modifier), Soothing, 0.8892857142857142, 28
 T(modifier), Introspection, 0.8892857142857142, 28
 T(modifier), Hypnotic, 0.8785714285714286, 27
+T(modifier), Reflective, 0.8785714285714286, 27
+T(modifier), Relaxation, 0.8785714285714286, 27
 
 T(head), -Freedom, 0.9, 12
 T(head), -Dramatic, 0.9, 12
@@ -26,6 +28,8 @@ T(head), The Creative Side, 0.9, 6
 T(head), Cerebral, 0.84, 5
 T(head), Uncompromising, 0.78, 4
 T(head), Provocative, 0.78, 4
+T(head), Revolutionary, 0.78, 4
+T(head), Modern Composition, 0.78, 4
 
 
-Result : '1', '1', '1', '0', '1', '0', '1', '1', '0', '0', '0', '0', 5.168111263736264
+Result : '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 7.2160892857142835

@@ -19,6 +19,8 @@ T(modifier), Regional Blues, 0.9, 40
 T(modifier), Earthy, 0.8615384615384616, 35
 T(modifier), Gritty, 0.8615384615384616, 35
 T(modifier), Passionate, 0.8153846153846154, 29
+T(modifier), Late Night, 0.8153846153846154, 29
+T(modifier), Hanging Out, 0.7615384615384615, 22
 
 T(head), -Soundtracks, 0.9, 47
 T(head), -Movie Themes, 0.9, 47
@@ -26,6 +28,8 @@ T(head), Sophisticated, 0.9, 38
 T(head), Freewheeling, 0.8675675675675676, 34
 T(head), Confident, 0.8432432432432433, 31
 T(head), Amiable/Good-Natured, 0.8432432432432433, 31
+T(head), Playful_mood, 0.8432432432432433, 31
+T(head), Lively, 0.8351351351351353, 30
 
 
-Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 6.597245322245323
+Result : '1', '1', '1', '1', '1', '0', '0', '0', '1', '1', '1', '1', '1', '0', '0', '0', 8.646957726957728

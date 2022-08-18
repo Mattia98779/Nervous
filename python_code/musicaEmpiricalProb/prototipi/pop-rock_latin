@@ -19,6 +19,8 @@ T(modifier), Rousing, 0.9, 3
 T(modifier), Romantic, 0.9, 3
 T(modifier), Latin Pop, 0.75, 2
 T(modifier), Celebration, 0.75, 2
+T(modifier), Yearning, 0.75, 2
+T(modifier), In Love, 0.75, 2
 
 T(head), -New Romantic, 0.9, 44
 T(head), -Spicy, 0.9, 44
@@ -26,6 +28,8 @@ T(head), Rousing, 0.9, 30
 T(head), Contemporary Pop/Rock, 0.8689655172413793, 27
 T(head), Album Rock, 0.8172413793103448, 22
 T(head), Confident, 0.8172413793103448, 22
+T(head), Energetic, 0.8172413793103448, 22
+T(head), Cool & Cocky, 0.806896551724138, 21
 
 
-Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 5.0378544061302675
+Result : '1', '1', '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', 6.7154482758620695

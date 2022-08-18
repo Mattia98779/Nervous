@@ -19,6 +19,8 @@ T(modifier), Summery, 0.9, 35
 T(modifier), Roots Reggae, 0.8735294117647059, 32
 T(modifier), Earnest, 0.8558823529411764, 30
 T(modifier), Earthy, 0.8117647058823529, 25
+T(modifier), Rousing, 0.8029411764705883, 24
+T(modifier), Summer, 0.8029411764705883, 24
 
 T(head), -Teen Pop, 0.9, 42
 T(head), -Separation, 0.9, 42
@@ -26,6 +28,8 @@ T(head), Soul, 0.9, 21
 T(head), Playful_mood, 0.855, 18
 T(head), Energetic, 0.855, 18
 T(head), Partying, 0.855, 18
+T(head), Warm, 0.855, 18
+T(head), Smooth, 0.855, 18
 
 
-Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 6.074688069995438
+Result : '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '0', '0', '0', '0', '0', 7.631708703830371

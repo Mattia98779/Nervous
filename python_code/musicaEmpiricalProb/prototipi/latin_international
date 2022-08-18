@@ -19,6 +19,8 @@ T(modifier), Stylish, 0.9, 2
 T(modifier), Boisterous, 0.9, 2
 T(modifier), Exuberant, 0.9, 2
 T(modifier), Yearning, 0.9, 2
+T(modifier), European Folk, 0.6, 1
+T(modifier), Fado, 0.6, 1
 
 T(head), -Summer, 0.9, 4
 T(head), -Partying, 0.9, 4
@@ -26,6 +28,8 @@ T(head), Rousing, 0.9, 3
 T(head), Romantic, 0.9, 3
 T(head), Latin Pop, 0.75, 2
 T(head), Celebration, 0.75, 2
+T(head), Yearning, 0.75, 2
+T(head), In Love, 0.75, 2
 
 
-Result : '0', '1', '0', '1', '0', '0', '1', '1', '1', '1', '0', '0', 4.893333333333333
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', 6.935999999999998

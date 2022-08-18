@@ -3,22 +3,24 @@ Title : A-B
 
 #Concetto Principale
 Head Concept Name : A
-Head Concept Count : 20
+Head Concept Count : 10
 
 #Concetto Modificatore
 Modifier Concept Name : B
-Modifier Concept Count : 20
+Modifier Concept Count : 10
 
 modifier, a
 head, b
 
-T(modifier), c, 0.9, 10
-T(modifier), d, 0.8, 10
+T(modifier), -b, 0.9, 10
+T(modifier), -f, 0.9, 10
+T(modifier), e, 0.9, 10
+T(modifier), i, 0.9, 10
 
-T(head), -c, 0.7, 10
-T(head), f, 0.6, 10
+T(head), f, 0.9, 10
+T(head), g, 0.9, 10
+T(head), h, 0.9, 10
 
 
 
 
-Result : '0', '1', '0', '1', 2.0

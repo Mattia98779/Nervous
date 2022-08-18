@@ -19,6 +19,8 @@ T(modifier), Summery, 0.9, 35
 T(modifier), Roots Reggae, 0.8735294117647059, 32
 T(modifier), Earnest, 0.8558823529411764, 30
 T(modifier), Earthy, 0.8117647058823529, 25
+T(modifier), Rousing, 0.8029411764705883, 24
+T(modifier), Summer, 0.8029411764705883, 24
 
 T(head), -Jazz Instrument, 0.9, 48
 T(head), -Guitar Jazz, 0.9, 48
@@ -26,6 +28,8 @@ T(head), Traditional Pop, 0.9, 47
 T(head), Vocal Pop, 0.8478260869565217, 39
 T(head), Refined, 0.7630434782608696, 26
 T(head), Sentimental, 0.7630434782608696, 26
+T(head), Romantic, 0.75, 24
+T(head), Sweet, 0.7434782608695653, 23
 
 
-Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 6.66282817474816
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', 8.510502113889036

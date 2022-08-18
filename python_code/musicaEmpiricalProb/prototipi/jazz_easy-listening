@@ -19,6 +19,8 @@ T(modifier), Dinner Ambiance, 0.9, 27
 T(modifier), Amiable/Good-Natured, 0.8884615384615384, 26
 T(modifier), Relaxation, 0.8653846153846154, 24
 T(modifier), Soothing, 0.8653846153846154, 24
+T(modifier), Sophisticated, 0.8538461538461539, 23
+T(modifier), Refined, 0.8307692307692308, 21
 
 T(head), -Soundtracks, 0.9, 47
 T(head), -Movie Themes, 0.9, 47
@@ -26,6 +28,8 @@ T(head), Sophisticated, 0.9, 38
 T(head), Freewheeling, 0.8675675675675676, 34
 T(head), Confident, 0.8432432432432433, 31
 T(head), Amiable/Good-Natured, 0.8432432432432433, 31
+T(head), Playful_mood, 0.8432432432432433, 31
+T(head), Lively, 0.8351351351351353, 30
 
 
-Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 6.224465744814584
+Result : '1', '1', '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', 8.173530465841512

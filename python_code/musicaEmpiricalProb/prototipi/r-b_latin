@@ -19,6 +19,8 @@ T(modifier), Rousing, 0.9, 3
 T(modifier), Romantic, 0.9, 3
 T(modifier), Latin Pop, 0.75, 2
 T(modifier), Celebration, 0.75, 2
+T(modifier), Yearning, 0.75, 2
+T(modifier), In Love, 0.75, 2
 
 T(head), -Teen Pop, 0.9, 42
 T(head), -Separation, 0.9, 42
@@ -26,6 +28,8 @@ T(head), Soul, 0.9, 21
 T(head), Playful_mood, 0.855, 18
 T(head), Energetic, 0.855, 18
 T(head), Partying, 0.855, 18
+T(head), Warm, 0.855, 18
+T(head), Smooth, 0.855, 18
 
 
-Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 4.599302325581395
+Result : '1', '0', '1', '1', '0', '0', '0', '0', '1', '1', '1', '0', '1', '1', '1', '1', 6.137534883720929

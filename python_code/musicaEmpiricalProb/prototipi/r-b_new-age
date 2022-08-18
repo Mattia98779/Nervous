@@ -19,6 +19,8 @@ T(modifier), Reflection, 0.9, 29
 T(modifier), Soothing, 0.8892857142857142, 28
 T(modifier), Introspection, 0.8892857142857142, 28
 T(modifier), Hypnotic, 0.8785714285714286, 27
+T(modifier), Reflective, 0.8785714285714286, 27
+T(modifier), Relaxation, 0.8785714285714286, 27
 
 T(head), -Teen Pop, 0.9, 42
 T(head), -Separation, 0.9, 42
@@ -26,6 +28,8 @@ T(head), Soul, 0.9, 21
 T(head), Playful_mood, 0.855, 18
 T(head), Energetic, 0.855, 18
 T(head), Partying, 0.855, 18
+T(head), Warm, 0.855, 18
+T(head), Smooth, 0.855, 18
 
 
-Result : '1', '1', '1', '0', '1', '0', '1', '1', '0', '0', '0', '0', 5.843359288482834
+Result : '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 7.659805855481729

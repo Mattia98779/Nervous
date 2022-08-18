@@ -19,6 +19,8 @@ T(modifier), The Creative Side, 0.9, 6
 T(modifier), Cerebral, 0.84, 5
 T(modifier), Uncompromising, 0.78, 4
 T(modifier), Provocative, 0.78, 4
+T(modifier), Revolutionary, 0.78, 4
+T(modifier), Modern Composition, 0.78, 4
 
 T(head), -Jazz Instrument, 0.9, 48
 T(head), -Guitar Jazz, 0.9, 48
@@ -26,6 +28,8 @@ T(head), Traditional Pop, 0.9, 47
 T(head), Vocal Pop, 0.8478260869565217, 39
 T(head), Refined, 0.7630434782608696, 26
 T(head), Sentimental, 0.7630434782608696, 26
+T(head), Romantic, 0.75, 24
+T(head), Sweet, 0.7434782608695653, 23
 
 
-Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 5.757755784588083
+Result : '1', '1', '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', 7.236140058699066

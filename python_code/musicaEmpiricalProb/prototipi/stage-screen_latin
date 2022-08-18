@@ -19,6 +19,8 @@ T(modifier), Rousing, 0.9, 3
 T(modifier), Romantic, 0.9, 3
 T(modifier), Latin Pop, 0.75, 2
 T(modifier), Celebration, 0.75, 2
+T(modifier), Yearning, 0.75, 2
+T(modifier), In Love, 0.75, 2
 
 T(head), -Introspection, 0.9, 17
 T(head), -Rainy Day, 0.9, 17
@@ -26,6 +28,8 @@ T(head), Soundtracks, 0.9, 13
 T(head), Dramatic, 0.875, 12
 T(head), Original Score, 0.8500000000000001, 11
 T(head), Theatrical, 0.825, 10
+T(head), Film Music, 0.7999999999999999, 9
+T(head), Rousing, 0.75, 7
 
 
-Result : '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 5.265555555555556
+Result : '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', '0', 7.103666666666667

@@ -19,6 +19,8 @@ T(modifier), Sophisticated, 0.9, 38
 T(modifier), Freewheeling, 0.8675675675675676, 34
 T(modifier), Confident, 0.8432432432432433, 31
 T(modifier), Amiable/Good-Natured, 0.8432432432432433, 31
+T(modifier), Playful_mood, 0.8432432432432433, 31
+T(modifier), Lively, 0.8351351351351353, 30
 
 T(head), -Teen Pop, 0.9, 42
 T(head), -Separation, 0.9, 42
@@ -26,6 +28,8 @@ T(head), Soul, 0.9, 21
 T(head), Playful_mood, 0.855, 18
 T(head), Energetic, 0.855, 18
 T(head), Partying, 0.855, 18
+T(head), Warm, 0.855, 18
+T(head), Smooth, 0.855, 18
 
 
-Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 6.177476888225434
+Result : '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 8.078736840037713

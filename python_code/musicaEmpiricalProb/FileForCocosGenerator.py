@@ -4,6 +4,9 @@
 from operator import itemgetter
 import os
 
+n_prop_negative = -2
+n_prop = 8
+
 all_attr = open("attributes.txt", 'r')
 all_attributes = []
 for l in all_attr:
@@ -28,6 +31,7 @@ class Property:
         self.nItem = nItem
 
 def getProperties(file, con_negative_rigide=False, con_negative_tipiche=False):
+
     l_t = []
     list_rigid = []
     list_typical = []
@@ -58,8 +62,8 @@ def getProperties(file, con_negative_rigide=False, con_negative_tipiche=False):
             list_rigid.append("-"+n_p[0])
 
     if con_negative_tipiche:
-        last = list_typical[-2:]
-        list_typical=list_typical[:-2]
+        last = list_typical[n_prop_negative:]
+        list_typical=list_typical[:n_prop_negative]
         for el in last:
             p = Property("-"+el.name, 0.9, nCanzoni-1)
             list_typical.insert(0,p)
@@ -71,10 +75,11 @@ def getProperties(file, con_negative_rigide=False, con_negative_tipiche=False):
     return list_rigid, list_typical, nCanzoni
 
 def createFileForCocos(head, modifier):
+
     list_head_rigid, list_head_typical, nCanzoniHead = getProperties('./genres/' + head, con_negative_tipiche=True)
     list_modifier_rigid, list_modifier_typical, nCanzoniModifier = getProperties('./genres/' + modifier, con_negative_tipiche=True)
-    list_modifier_typical = list_modifier_typical[:6]
-    list_head_typical = list_head_typical[:6]
+    list_modifier_typical = list_modifier_typical[:n_prop]
+    list_head_typical = list_head_typical[:n_prop]
     head = head.replace(".txt", "")
     modifier = modifier.replace(".txt", "")
     print(head, modifier)

@@ -19,6 +19,8 @@ T(modifier), The Creative Side, 0.9, 6
 T(modifier), Cerebral, 0.84, 5
 T(modifier), Uncompromising, 0.78, 4
 T(modifier), Provocative, 0.78, 4
+T(modifier), Revolutionary, 0.78, 4
+T(modifier), Modern Composition, 0.78, 4
 
 T(head), -Playful, 0.9, 2
 T(head), -TGIF, 0.9, 2
@@ -26,6 +28,8 @@ T(head), Stylish, 0.9, 2
 T(head), Boisterous, 0.9, 2
 T(head), Exuberant, 0.9, 2
 T(head), Yearning, 0.9, 2
+T(head), European Folk, 0.6, 1
+T(head), Fado, 0.6, 1
 
 
-Result : '1', '1', '1', '0', '0', '0', '0', '0', '1', '1', '1', '0', 4.504615384615384
+Result : '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', '0', 6.258461538461537

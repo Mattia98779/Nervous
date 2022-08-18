@@ -19,6 +19,8 @@ T(modifier), Soul, 0.9, 21
 T(modifier), Playful_mood, 0.855, 18
 T(modifier), Energetic, 0.855, 18
 T(modifier), Partying, 0.855, 18
+T(modifier), Warm, 0.855, 18
+T(modifier), Smooth, 0.855, 18
 
 T(head), -Wry, 0.9, 22
 T(head), -Quirky, 0.9, 22
@@ -26,6 +28,8 @@ T(head), Hanging Out, 0.9, 22
 T(head), Playful, 0.9, 22
 T(head), Fun, 0.8857142857142857, 21
 T(head), Sing-Alongs, 0.8714285714285714, 20
+T(head), Amiable/Good-Natured, 0.8714285714285714, 20
+T(head), Playful_mood, 0.8714285714285714, 20
 
 
-Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 5.797620973566374
+Result : '1', '1', '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', 7.9723198035533756

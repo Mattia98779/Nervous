@@ -19,6 +19,8 @@ T(modifier), Traditional Pop, 0.9, 47
 T(modifier), Vocal Pop, 0.8478260869565217, 39
 T(modifier), Refined, 0.7630434782608696, 26
 T(modifier), Sentimental, 0.7630434782608696, 26
+T(modifier), Romantic, 0.75, 24
+T(modifier), Sweet, 0.7434782608695653, 23
 
 T(head), -Unsettling, 0.9, 31
 T(head), -Solitude, 0.9, 31
@@ -26,6 +28,8 @@ T(head), Brash, 0.9, 26
 T(head), Street-Smart, 0.864, 23
 T(head), Confident, 0.8400000000000001, 21
 T(head), Partying, 0.8400000000000001, 21
+T(head), East Coast Rap, 0.804, 18
+T(head), Swaggering, 0.804, 18
 
 
-Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 6.315578194321206
+Result : '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', '0', 8.312815439219165

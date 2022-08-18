@@ -19,6 +19,8 @@ T(modifier), Stylish, 0.9, 2
 T(modifier), Boisterous, 0.9, 2
 T(modifier), Exuberant, 0.9, 2
 T(modifier), Yearning, 0.9, 2
+T(modifier), European Folk, 0.6, 1
+T(modifier), Fado, 0.6, 1
 
 T(head), -Guys Night Out, 0.9, 46
 T(head), -Mischievous, 0.9, 46
@@ -26,6 +28,8 @@ T(head), Earthy, 0.9, 30
 T(head), Poignant, 0.8896551724137931, 29
 T(head), Earnest, 0.8896551724137931, 29
 T(head), Bittersweet, 0.8482758620689655, 25
+T(head), Reflective, 0.8172413793103448, 22
+T(head), Plaintive, 0.806896551724138, 21
 
 
-Result : '0', '0', '0', '1', '0', '0', '1', '1', '1', '1', '1', '0', 5.011200782587429
+Result : '1', '1', '1', '0', '0', '1', '0', '0', '1', '1', '1', '1', '1', '1', '0', '0', 6.790696991929567

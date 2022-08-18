@@ -19,6 +19,8 @@ T(modifier), Sentimental, 0.9, 4
 T(modifier), Confident, 0.9, 4
 T(modifier), Classical Crossover, 0.8, 3
 T(modifier), Melancholy, 0.8, 3
+T(modifier), Sensual, 0.8, 3
+T(modifier), Complex, 0.8, 3
 
 T(head), -Introspection, 0.9, 17
 T(head), -Rainy Day, 0.9, 17
@@ -26,6 +28,8 @@ T(head), Soundtracks, 0.9, 13
 T(head), Dramatic, 0.875, 12
 T(head), Original Score, 0.8500000000000001, 11
 T(head), Theatrical, 0.825, 10
+T(head), Film Music, 0.7999999999999999, 9
+T(head), Rousing, 0.75, 7
 
 
-Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 5.392063492063492
+Result : '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', '0', 7.1969047619047615

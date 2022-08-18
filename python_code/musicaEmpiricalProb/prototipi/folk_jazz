@@ -19,6 +19,8 @@ T(modifier), Sophisticated, 0.9, 38
 T(modifier), Freewheeling, 0.8675675675675676, 34
 T(modifier), Confident, 0.8432432432432433, 31
 T(modifier), Amiable/Good-Natured, 0.8432432432432433, 31
+T(modifier), Playful_mood, 0.8432432432432433, 31
+T(modifier), Lively, 0.8351351351351353, 30
 
 T(head), -Guys Night Out, 0.9, 46
 T(head), -Mischievous, 0.9, 46
@@ -26,6 +28,8 @@ T(head), Earthy, 0.9, 30
 T(head), Poignant, 0.8896551724137931, 29
 T(head), Earnest, 0.8896551724137931, 29
 T(head), Bittersweet, 0.8482758620689655, 25
+T(head), Reflective, 0.8172413793103448, 22
+T(head), Plaintive, 0.806896551724138, 21
 
 
-Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 6.313135893597193
+Result : '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '0', '0', '0', '0', '0', 8.261705349884

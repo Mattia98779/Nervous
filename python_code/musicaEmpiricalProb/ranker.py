@@ -4,7 +4,7 @@ import collections
 import numpy as np
 import json
 
-#ciao
+
 class CanzoneToJson:
     def __init__(self, c, spiegazione):
         self.title = c.title
@@ -201,10 +201,10 @@ def statistichePrototipi(listaPrototipi):
     plt.bar(range(len(propertyOccurrencesOrdered)), valori, tick_label=labels)
     plt.title("most used property")
     plt.show()
-    print("!")
 
 
 def statisticheClassifica(allClassifica):
+    sogliaMinima = 0
     scoreMedi = {}
     for clas in allClassifica:
         scores = [row[1] for row in clas[1]]
@@ -255,17 +255,21 @@ def statisticheClassifica(allClassifica):
 
     scoreMaggioreZeroCont = {}
     for c in allClassifica[0][1]:
-        if c[1]>0:
-            scoreMaggioreZeroCont[c[0]] = 0
-        else:
+        if c[1]>sogliaMinima:
             scoreMaggioreZeroCont[c[0]] = 1
+        else:
+            scoreMaggioreZeroCont[c[0]] = 0
     for clas in allClassifica[1:]:
         for c in clas[1]:
             app = scoreMaggioreZeroCont[c[0]]
-            if c[1]>0 :
+            if c[1]>sogliaMinima :
                 app=app+1
             scoreMaggioreZeroCont[c[0]] = app
-
+    totale_canzoni_non_classificate = 0
+    for elem in scoreMaggioreZeroCont.keys():
+        if scoreMaggioreZeroCont[elem] == 0:
+            totale_canzoni_non_classificate = totale_canzoni_non_classificate + 1
+    print("totale_canzoni_non_classificate= ", str(totale_canzoni_non_classificate))
     plt.clf()
     #scoreMaggioreZeroCont = dict(
     #    sorted(scoreMaggioreZeroCont.items(), key=lambda item: item[1], reverse=True))
@@ -274,7 +278,12 @@ def statisticheClassifica(allClassifica):
         labels.append(k.title)
     valori = list(scoreMaggioreZeroCont.values())
     plt.bar(range(len(scoreMaggioreZeroCont)), valori, tick_label=labels)
-    plt.title("conteggio score maggiore 0 per canzone")
+    plt.title("Number of genre for each song")
+    somma = 0
+    for el in valori:
+        somma = somma + el
+    media = somma / len(valori)
+    print("media generi in cui è classificata ogni canzone=", str(media))
     plt.show()
 
     plt.clf()
@@ -282,7 +291,7 @@ def statisticheClassifica(allClassifica):
     for c in allClassifica:
         n = 0
         for s in c[1]:
-            if s[1]>0:
+            if s[1]>sogliaMinima:
                 n=n+1
         nCanzoniPerClassifica[c[0].name] = n
     plt.clf()
@@ -292,8 +301,21 @@ def statisticheClassifica(allClassifica):
     for k in nCanzoniPerClassifica:
         labels.append(k)
     valori = list(nCanzoniPerClassifica.values())
+    valoriCopia = valori
     plt.bar(range(len(nCanzoniPerClassifica)), valori, tick_label=labels)
-    plt.title("n canzoni score maggiore 0 per prototipo")
+    plt.title("Number of song re-classified in each derived genre")
+    nparray = np.array(valori)
+    media = np.mean(nparray)
+    print("media canzoni in ogni prototipo= ",str(media))
+    step = [0,50,100,150,200,250,300,350,400]
+    ris = {}
+    for s in step:
+        count = 0
+        for v in valori:
+            if v>s and v<s+50:
+                count = count + 1
+        ris[s] = count
+    count=0
     plt.show()
 
     nCanzoniAppartenentiAiGeneriBase = {}
@@ -302,7 +324,7 @@ def statisticheClassifica(allClassifica):
         g1 = c[0].name.split("#")[0]
         g2 = c[0].name.split("#")[1]
         for s in c[1]:
-            if s[0].genre!=g1 and s[0].genre!=g2 and s[1]>0:
+            if s[0].genre!=g1 and s[0].genre!=g2 and s[1]>sogliaMinima:
                 n = n + 1
         nCanzoniAppartenentiAiGeneriBase[c[0].name] = n
     plt.clf()
@@ -316,7 +338,22 @@ def statisticheClassifica(allClassifica):
     plt.title("n canzoni non appartenenti ai generi di base")
     plt.show()
 
-    print("!")
+
+    # rapporto canzoni apaprtenenti / non appartenenti
+    plt.clf()
+    labels = []
+    for k in nCanzoniAppartenentiAiGeneriBase:
+        labels.append(k)
+    valori = list(nCanzoniAppartenentiAiGeneriBase.values())
+    for i in range(len(valori)):
+        valori[i]= valori[i] / valoriCopia[i] * 100
+    media = np.mean(np.array(valori))
+    print("rapporto canzoni appartenenti / non appartenenti=", str(media))
+    plt.bar(range(len(nCanzoniAppartenentiAiGeneriBase)), valori, tick_label=labels)
+    plt.title("rapporto canzoni appartenenti / non appartenenti")
+    plt.show()
+
+
 
 def scriviJson(toWrite):
     for el in toWrite:
@@ -351,4 +388,4 @@ if __name__ == '__main__':
     statisticheClassifica(allClassifiche)
     #scriviJson(allClassifiche)
     print("FINE STATISTICHE")
-    print("!")
+

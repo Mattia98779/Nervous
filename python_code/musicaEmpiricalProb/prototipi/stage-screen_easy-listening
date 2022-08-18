@@ -19,6 +19,8 @@ T(modifier), Dinner Ambiance, 0.9, 27
 T(modifier), Amiable/Good-Natured, 0.8884615384615384, 26
 T(modifier), Relaxation, 0.8653846153846154, 24
 T(modifier), Soothing, 0.8653846153846154, 24
+T(modifier), Sophisticated, 0.8538461538461539, 23
+T(modifier), Refined, 0.8307692307692308, 21
 
 T(head), -Introspection, 0.9, 17
 T(head), -Rainy Day, 0.9, 17
@@ -26,6 +28,8 @@ T(head), Soundtracks, 0.9, 13
 T(head), Dramatic, 0.875, 12
 T(head), Original Score, 0.8500000000000001, 11
 T(head), Theatrical, 0.825, 10
+T(head), Film Music, 0.7999999999999999, 9
+T(head), Rousing, 0.75, 7
 
 
-Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 5.460862651560326
+Result : '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '0', '0', '0', '0', '0', 7.411568276684555

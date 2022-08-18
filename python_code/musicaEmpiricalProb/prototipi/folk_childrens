@@ -19,6 +19,8 @@ T(modifier), Hanging Out, 0.9, 22
 T(modifier), Playful, 0.9, 22
 T(modifier), Fun, 0.8857142857142857, 21
 T(modifier), Sing-Alongs, 0.8714285714285714, 20
+T(modifier), Amiable/Good-Natured, 0.8714285714285714, 20
+T(modifier), Playful_mood, 0.8714285714285714, 20
 
 T(head), -Guys Night Out, 0.9, 46
 T(head), -Mischievous, 0.9, 46
@@ -26,6 +28,8 @@ T(head), Earthy, 0.9, 30
 T(head), Poignant, 0.8896551724137931, 29
 T(head), Earnest, 0.8896551724137931, 29
 T(head), Bittersweet, 0.8482758620689655, 25
+T(head), Reflective, 0.8172413793103448, 22
+T(head), Plaintive, 0.806896551724138, 21
 
 
-Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 5.767660850425851
+Result : '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '1', '0', '0', '0', '0', '0', 8.115734564328777

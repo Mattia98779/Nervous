@@ -19,6 +19,8 @@ T(modifier), Reflection, 0.9, 29
 T(modifier), Soothing, 0.8892857142857142, 28
 T(modifier), Introspection, 0.8892857142857142, 28
 T(modifier), Hypnotic, 0.8785714285714286, 27
+T(modifier), Reflective, 0.8785714285714286, 27
+T(modifier), Relaxation, 0.8785714285714286, 27
 
 T(head), -Night Driving, 0.9, 47
 T(head), -Healing/Comfort, 0.9, 47
@@ -26,6 +28,8 @@ T(head), Summery, 0.9, 35
 T(head), Roots Reggae, 0.8735294117647059, 32
 T(head), Earnest, 0.8558823529411764, 30
 T(head), Earthy, 0.8117647058823529, 25
+T(head), Rousing, 0.8029411764705883, 24
+T(head), Summer, 0.8029411764705883, 24
 
 
-Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 6.209602591036414
+Result : '1', '1', '1', '1', '1', '0', '1', '0', '1', '1', '1', '1', '0', '0', '0', '0', 8.022200630252101

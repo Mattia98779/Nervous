@@ -19,6 +19,8 @@ T(modifier), Reflection, 0.9, 29
 T(modifier), Soothing, 0.8892857142857142, 28
 T(modifier), Introspection, 0.8892857142857142, 28
 T(modifier), Hypnotic, 0.8785714285714286, 27
+T(modifier), Reflective, 0.8785714285714286, 27
+T(modifier), Relaxation, 0.8785714285714286, 27
 
 T(head), -New Romantic, 0.9, 44
 T(head), -Spicy, 0.9, 44
@@ -26,6 +28,8 @@ T(head), Rousing, 0.9, 30
 T(head), Contemporary Pop/Rock, 0.8689655172413793, 27
 T(head), Album Rock, 0.8172413793103448, 22
 T(head), Confident, 0.8172413793103448, 22
+T(head), Energetic, 0.8172413793103448, 22
+T(head), Cool & Cocky, 0.806896551724138, 21
 
 
-Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 6.039247058018609
+Result : '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '0', '0', '0', '0', '0', 7.865110221674876

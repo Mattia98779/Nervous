@@ -19,6 +19,8 @@ T(modifier), Hypnotic, 0.9, 27
 T(modifier), Electronica, 0.8538461538461538, 23
 T(modifier), Trippy, 0.8538461538461538, 23
 T(modifier), Techno, 0.8307692307692307, 21
+T(modifier), Late Night, 0.8192307692307692, 20
+T(modifier), Club/Dance, 0.7961538461538461, 18
 
 T(head), -Introspection, 0.9, 17
 T(head), -Rainy Day, 0.9, 17
@@ -26,6 +28,8 @@ T(head), Soundtracks, 0.9, 13
 T(head), Dramatic, 0.875, 12
 T(head), Original Score, 0.8500000000000001, 11
 T(head), Theatrical, 0.825, 10
+T(head), Film Music, 0.7999999999999999, 9
+T(head), Rousing, 0.75, 7
 
 
-Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 5.597323436797121
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', 7.539895411605935

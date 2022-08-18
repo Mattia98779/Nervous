@@ -19,6 +19,8 @@ T(modifier), Hanging Out, 0.9, 22
 T(modifier), Playful, 0.9, 22
 T(modifier), Fun, 0.8857142857142857, 21
 T(modifier), Sing-Alongs, 0.8714285714285714, 20
+T(modifier), Amiable/Good-Natured, 0.8714285714285714, 20
+T(modifier), Playful_mood, 0.8714285714285714, 20
 
 T(head), -Jazz Instrument, 0.9, 48
 T(head), -Guitar Jazz, 0.9, 48
@@ -26,6 +28,8 @@ T(head), Traditional Pop, 0.9, 47
 T(head), Vocal Pop, 0.8478260869565217, 39
 T(head), Refined, 0.7630434782608696, 26
 T(head), Sentimental, 0.7630434782608696, 26
+T(head), Romantic, 0.75, 24
+T(head), Sweet, 0.7434782608695653, 23
 
 
-Result : '0', '1', '1', '1', '0', '0', '1', '1', '1', '0', '0', '0', 6.1256179490429705
+Result : '1', '1', '1', '1', '1', '0', '1', '0', '1', '1', '1', '1', '0', '0', '0', '0', 8.672744327544683

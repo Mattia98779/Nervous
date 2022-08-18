@@ -19,6 +19,8 @@ T(modifier), The Creative Side, 0.9, 6
 T(modifier), Cerebral, 0.84, 5
 T(modifier), Uncompromising, 0.78, 4
 T(modifier), Provocative, 0.78, 4
+T(modifier), Revolutionary, 0.78, 4
+T(modifier), Modern Composition, 0.78, 4
 
 T(head), -Sardonic, 0.9, 48
 T(head), -Housework, 0.9, 48
@@ -26,6 +28,8 @@ T(head), Traditional Country, 0.9, 33
 T(head), Earthy, 0.890625, 32
 T(head), Earnest, 0.8625, 29
 T(head), Reflective, 0.84375, 27
+T(head), Plaintive, 0.815625, 24
+T(head), Amiable/Good-Natured, 0.80625, 23
 
 
-Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 5.323455651491366
+Result : '1', '1', '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', 7.054130298273155

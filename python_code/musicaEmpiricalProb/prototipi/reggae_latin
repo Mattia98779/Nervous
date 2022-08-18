@@ -19,6 +19,8 @@ T(modifier), Rousing, 0.9, 3
 T(modifier), Romantic, 0.9, 3
 T(modifier), Latin Pop, 0.75, 2
 T(modifier), Celebration, 0.75, 2
+T(modifier), Yearning, 0.75, 2
+T(modifier), In Love, 0.75, 2
 
 T(head), -Night Driving, 0.9, 47
 T(head), -Healing/Comfort, 0.9, 47
@@ -26,6 +28,8 @@ T(head), Summery, 0.9, 35
 T(head), Roots Reggae, 0.8735294117647059, 32
 T(head), Earnest, 0.8558823529411764, 30
 T(head), Earthy, 0.8117647058823529, 25
+T(head), Rousing, 0.8029411764705883, 24
+T(head), Summer, 0.8029411764705883, 24
 
 
-Result : '0', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 5.252401960784313
+Result : '0', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', '1', 6.898073529411764

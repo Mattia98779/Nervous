@@ -19,6 +19,8 @@ T(modifier), Rousing, 0.9, 30
 T(modifier), Contemporary Pop/Rock, 0.8689655172413793, 27
 T(modifier), Album Rock, 0.8172413793103448, 22
 T(modifier), Confident, 0.8172413793103448, 22
+T(modifier), Energetic, 0.8172413793103448, 22
+T(modifier), Cool & Cocky, 0.806896551724138, 21
 
 T(head), -Guys Night Out, 0.9, 46
 T(head), -Mischievous, 0.9, 46
@@ -26,6 +28,8 @@ T(head), Earthy, 0.9, 30
 T(head), Poignant, 0.8896551724137931, 29
 T(head), Earnest, 0.8896551724137931, 29
 T(head), Bittersweet, 0.8482758620689655, 25
+T(head), Reflective, 0.8172413793103448, 22
+T(head), Plaintive, 0.806896551724138, 21
 
 
-Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 6.114675144697156
+Result : '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', '0', 7.931310344827588

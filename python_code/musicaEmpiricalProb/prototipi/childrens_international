@@ -19,6 +19,8 @@ T(modifier), Stylish, 0.9, 2
 T(modifier), Boisterous, 0.9, 2
 T(modifier), Exuberant, 0.9, 2
 T(modifier), Yearning, 0.9, 2
+T(modifier), European Folk, 0.6, 1
+T(modifier), Fado, 0.6, 1
 
 T(head), -Wry, 0.9, 22
 T(head), -Quirky, 0.9, 22
@@ -26,6 +28,8 @@ T(head), Hanging Out, 0.9, 22
 T(head), Playful, 0.9, 22
 T(head), Fun, 0.8857142857142857, 21
 T(head), Sing-Alongs, 0.8714285714285714, 20
+T(head), Amiable/Good-Natured, 0.8714285714285714, 20
+T(head), Playful_mood, 0.8714285714285714, 20
 
 
-Result : '0', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 5.891511387163562
+Result : '0', '1', '0', '1', '1', '0', '0', '0', '1', '1', '1', '1', '1', '0', '1', '1', 8.328198757763975

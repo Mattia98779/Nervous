@@ -19,6 +19,8 @@ T(modifier), Rousing, 0.9, 3
 T(modifier), Romantic, 0.9, 3
 T(modifier), Latin Pop, 0.75, 2
 T(modifier), Celebration, 0.75, 2
+T(modifier), Yearning, 0.75, 2
+T(modifier), In Love, 0.75, 2
 
 T(head), -Soundtracks, 0.9, 47
 T(head), -Movie Themes, 0.9, 47
@@ -26,6 +28,8 @@ T(head), Sophisticated, 0.9, 38
 T(head), Freewheeling, 0.8675675675675676, 34
 T(head), Confident, 0.8432432432432433, 31
 T(head), Amiable/Good-Natured, 0.8432432432432433, 31
+T(head), Playful_mood, 0.8432432432432433, 31
+T(head), Lively, 0.8351351351351353, 30
 
 
-Result : '0', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '1', 5.353693693693694
+Result : '1', '1', '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', 7.366601351351352

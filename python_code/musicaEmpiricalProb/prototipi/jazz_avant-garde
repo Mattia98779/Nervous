@@ -19,6 +19,8 @@ T(modifier), The Creative Side, 0.9, 6
 T(modifier), Cerebral, 0.84, 5
 T(modifier), Uncompromising, 0.78, 4
 T(modifier), Provocative, 0.78, 4
+T(modifier), Revolutionary, 0.78, 4
+T(modifier), Modern Composition, 0.78, 4
 
 T(head), -Soundtracks, 0.9, 47
 T(head), -Movie Themes, 0.9, 47
@@ -26,6 +28,8 @@ T(head), Sophisticated, 0.9, 38
 T(head), Freewheeling, 0.8675675675675676, 34
 T(head), Confident, 0.8432432432432433, 31
 T(head), Amiable/Good-Natured, 0.8432432432432433, 31
+T(head), Playful_mood, 0.8432432432432433, 31
+T(head), Lively, 0.8351351351351353, 30
 
 
-Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 5.502228863478864
+Result : '1', '1', '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', 7.467639812889815

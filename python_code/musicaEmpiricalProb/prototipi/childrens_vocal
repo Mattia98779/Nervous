@@ -19,6 +19,8 @@ T(modifier), Traditional Pop, 0.9, 47
 T(modifier), Vocal Pop, 0.8478260869565217, 39
 T(modifier), Refined, 0.7630434782608696, 26
 T(modifier), Sentimental, 0.7630434782608696, 26
+T(modifier), Romantic, 0.75, 24
+T(modifier), Sweet, 0.7434782608695653, 23
 
 T(head), -Wry, 0.9, 22
 T(head), -Quirky, 0.9, 22
@@ -26,6 +28,8 @@ T(head), Hanging Out, 0.9, 22
 T(head), Playful, 0.9, 22
 T(head), Fun, 0.8857142857142857, 21
 T(head), Sing-Alongs, 0.8714285714285714, 20
+T(head), Amiable/Good-Natured, 0.8714285714285714, 20
+T(head), Playful_mood, 0.8714285714285714, 20
 
 
-Result : '1', '1', '1', '0', '0', '0', '1', '0', '1', '1', '0', '0', 6.125617949042971
+Result : '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', '0', '1', 8.672744327544681

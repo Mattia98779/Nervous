@@ -19,6 +19,8 @@ T(modifier), Sentimental, 0.9, 4
 T(modifier), Confident, 0.9, 4
 T(modifier), Classical Crossover, 0.8, 3
 T(modifier), Melancholy, 0.8, 3
+T(modifier), Sensual, 0.8, 3
+T(modifier), Complex, 0.8, 3
 
 T(head), -Freedom, 0.9, 12
 T(head), -Dramatic, 0.9, 12
@@ -26,6 +28,8 @@ T(head), The Creative Side, 0.9, 6
 T(head), Cerebral, 0.84, 5
 T(head), Uncompromising, 0.78, 4
 T(head), Provocative, 0.78, 4
+T(head), Revolutionary, 0.78, 4
+T(head), Modern Composition, 0.78, 4
 
 
-Result : '1', '1', '1', '0', '0', '0', '1', '1', '1', '0', '0', '0', 5.032087912087911
+Result : '1', '1', '1', '1', '0', '1', '1', '0', '1', '1', '1', '1', '0', '0', '0', '0', 6.281758241758239

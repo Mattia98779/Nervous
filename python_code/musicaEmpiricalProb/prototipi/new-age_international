@@ -19,6 +19,8 @@ T(modifier), Stylish, 0.9, 2
 T(modifier), Boisterous, 0.9, 2
 T(modifier), Exuberant, 0.9, 2
 T(modifier), Yearning, 0.9, 2
+T(modifier), European Folk, 0.6, 1
+T(modifier), Fado, 0.6, 1
 
 T(head), -Worldbeat, 0.9, 47
 T(head), -Crossover Jazz, 0.9, 47
@@ -26,6 +28,8 @@ T(head), Reflection, 0.9, 29
 T(head), Soothing, 0.8892857142857142, 28
 T(head), Introspection, 0.8892857142857142, 28
 T(head), Hypnotic, 0.8785714285714286, 27
+T(head), Reflective, 0.8785714285714286, 27
+T(head), Relaxation, 0.8785714285714286, 27
 
 
-Result : '0', '0', '0', '1', '0', '0', '1', '1', '1', '1', '1', '0', 4.907886904761904
+Result : '1', '1', '0', '0', '1', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', '1', 6.8029464285714285

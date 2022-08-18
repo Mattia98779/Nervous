@@ -19,6 +19,8 @@ T(modifier), Sophisticated, 0.9, 38
 T(modifier), Freewheeling, 0.8675675675675676, 34
 T(modifier), Confident, 0.8432432432432433, 31
 T(modifier), Amiable/Good-Natured, 0.8432432432432433, 31
+T(modifier), Playful_mood, 0.8432432432432433, 31
+T(modifier), Lively, 0.8351351351351353, 30
 
 T(head), -Delicate, 0.9, 37
 T(head), -Sprawling, 0.9, 37
@@ -26,6 +28,8 @@ T(head), Hypnotic, 0.9, 27
 T(head), Electronica, 0.8538461538461538, 23
 T(head), Trippy, 0.8538461538461538, 23
 T(head), Techno, 0.8307692307692307, 21
+T(head), Late Night, 0.8192307692307692, 20
+T(head), Club/Dance, 0.7961538461538461, 18
 
 
-Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 6.167995563883722
+Result : '1', '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '0', '0', '0', '0', '0', 8.216786574023418

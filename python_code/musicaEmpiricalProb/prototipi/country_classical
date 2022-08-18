@@ -19,6 +19,8 @@ T(modifier), Sentimental, 0.9, 4
 T(modifier), Confident, 0.9, 4
 T(modifier), Classical Crossover, 0.8, 3
 T(modifier), Melancholy, 0.8, 3
+T(modifier), Sensual, 0.8, 3
+T(modifier), Complex, 0.8, 3
 
 T(head), -Sardonic, 0.9, 48
 T(head), -Housework, 0.9, 48
@@ -26,6 +28,8 @@ T(head), Traditional Country, 0.9, 33
 T(head), Earthy, 0.890625, 32
 T(head), Earnest, 0.8625, 29
 T(head), Reflective, 0.84375, 27
+T(head), Plaintive, 0.815625, 24
+T(head), Amiable/Good-Natured, 0.80625, 23
 
 
-Result : '0', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 5.20063775510204
+Result : '1', '1', '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', 6.996428571428571

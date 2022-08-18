@@ -19,6 +19,8 @@ T(modifier), Traditional Pop, 0.9, 47
 T(modifier), Vocal Pop, 0.8478260869565217, 39
 T(modifier), Refined, 0.7630434782608696, 26
 T(modifier), Sentimental, 0.7630434782608696, 26
+T(modifier), Romantic, 0.75, 24
+T(modifier), Sweet, 0.7434782608695653, 23
 
 T(head), -Summer, 0.9, 4
 T(head), -Partying, 0.9, 4
@@ -26,6 +28,8 @@ T(head), Rousing, 0.9, 3
 T(head), Romantic, 0.9, 3
 T(head), Latin Pop, 0.75, 2
 T(head), Celebration, 0.75, 2
+T(head), Yearning, 0.75, 2
+T(head), In Love, 0.75, 2
 
 
-Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 5.522590949423247
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', 7.195336291038155

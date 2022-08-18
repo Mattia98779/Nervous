@@ -19,6 +19,8 @@ T(modifier), Soul, 0.9, 21
 T(modifier), Playful_mood, 0.855, 18
 T(modifier), Energetic, 0.855, 18
 T(modifier), Partying, 0.855, 18
+T(modifier), Warm, 0.855, 18
+T(modifier), Smooth, 0.855, 18
 
 T(head), -Wistful, 0.9, 6
 T(head), -Tender, 0.9, 6
@@ -26,6 +28,8 @@ T(head), Sentimental, 0.9, 4
 T(head), Confident, 0.9, 4
 T(head), Classical Crossover, 0.8, 3
 T(head), Melancholy, 0.8, 3
+T(head), Sensual, 0.8, 3
+T(head), Complex, 0.8, 3
 
 
-Result : '1', '1', '1', '0', '1', '0', '1', '1', '0', '0', '0', '0', 4.740099667774087
+Result : '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 6.284883720930233

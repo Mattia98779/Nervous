@@ -19,6 +19,8 @@ T(modifier), Hanging Out, 0.9, 22
 T(modifier), Playful, 0.9, 22
 T(modifier), Fun, 0.8857142857142857, 21
 T(modifier), Sing-Alongs, 0.8714285714285714, 20
+T(modifier), Amiable/Good-Natured, 0.8714285714285714, 20
+T(modifier), Playful_mood, 0.8714285714285714, 20
 
 T(head), -Summer, 0.9, 4
 T(head), -Partying, 0.9, 4
@@ -26,6 +28,8 @@ T(head), Rousing, 0.9, 3
 T(head), Romantic, 0.9, 3
 T(head), Latin Pop, 0.75, 2
 T(head), Celebration, 0.75, 2
+T(head), Yearning, 0.75, 2
+T(head), In Love, 0.75, 2
 
 
-Result : '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 6.302111801242237
+Result : '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 8.82929192546584

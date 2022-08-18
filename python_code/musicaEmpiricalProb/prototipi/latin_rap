@@ -19,6 +19,8 @@ T(modifier), Brash, 0.9, 26
 T(modifier), Street-Smart, 0.864, 23
 T(modifier), Confident, 0.8400000000000001, 21
 T(modifier), Partying, 0.8400000000000001, 21
+T(modifier), East Coast Rap, 0.804, 18
+T(modifier), Swaggering, 0.804, 18
 
 T(head), -Summer, 0.9, 4
 T(head), -Partying, 0.9, 4
@@ -26,6 +28,8 @@ T(head), Rousing, 0.9, 3
 T(head), Romantic, 0.9, 3
 T(head), Latin Pop, 0.75, 2
 T(head), Celebration, 0.75, 2
+T(head), Yearning, 0.75, 2
+T(head), In Love, 0.75, 2
 
 
-Result : '1', '1', '1', '1', '1', '0', '0', '1', '0', '0', '0', '0', 5.399749999999999
+Result : '1', '1', '1', '1', '1', '0', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', 7.235124999999998

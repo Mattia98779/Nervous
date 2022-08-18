@@ -19,6 +19,8 @@ T(modifier), Hanging Out, 0.9, 22
 T(modifier), Playful, 0.9, 22
 T(modifier), Fun, 0.8857142857142857, 21
 T(modifier), Sing-Alongs, 0.8714285714285714, 20
+T(modifier), Amiable/Good-Natured, 0.8714285714285714, 20
+T(modifier), Playful_mood, 0.8714285714285714, 20
 
 T(head), -Unsettling, 0.9, 31
 T(head), -Solitude, 0.9, 31
@@ -26,6 +28,8 @@ T(head), Brash, 0.9, 26
 T(head), Street-Smart, 0.864, 23
 T(head), Confident, 0.8400000000000001, 21
 T(head), Partying, 0.8400000000000001, 21
+T(head), East Coast Rap, 0.804, 18
+T(head), Swaggering, 0.804, 18
 
 
-Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 6.277742236024844
+Result : '1', '1', '1', '1', '1', '1', '0', '1', '1', '1', '1', '0', '0', '0', '0', '0', 8.798719720496896

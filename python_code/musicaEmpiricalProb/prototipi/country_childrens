@@ -19,6 +19,8 @@ T(modifier), Hanging Out, 0.9, 22
 T(modifier), Playful, 0.9, 22
 T(modifier), Fun, 0.8857142857142857, 21
 T(modifier), Sing-Alongs, 0.8714285714285714, 20
+T(modifier), Amiable/Good-Natured, 0.8714285714285714, 20
+T(modifier), Playful_mood, 0.8714285714285714, 20
 
 T(head), -Sardonic, 0.9, 48
 T(head), -Housework, 0.9, 48
@@ -26,6 +28,8 @@ T(head), Traditional Country, 0.9, 33
 T(head), Earthy, 0.890625, 32
 T(head), Earnest, 0.8625, 29
 T(head), Reflective, 0.84375, 27
+T(head), Plaintive, 0.815625, 24
+T(head), Amiable/Good-Natured, 0.80625, 23
 
 
-Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 5.758221098998605
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', 8.176837051590821

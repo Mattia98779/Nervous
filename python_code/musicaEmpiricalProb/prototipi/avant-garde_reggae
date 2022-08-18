@@ -19,6 +19,8 @@ T(modifier), Summery, 0.9, 35
 T(modifier), Roots Reggae, 0.8735294117647059, 32
 T(modifier), Earnest, 0.8558823529411764, 30
 T(modifier), Earthy, 0.8117647058823529, 25
+T(modifier), Rousing, 0.8029411764705883, 24
+T(modifier), Summer, 0.8029411764705883, 24
 
 T(head), -Freedom, 0.9, 12
 T(head), -Dramatic, 0.9, 12
@@ -26,6 +28,8 @@ T(head), The Creative Side, 0.9, 6
 T(head), Cerebral, 0.84, 5
 T(head), Uncompromising, 0.78, 4
 T(head), Provocative, 0.78, 4
+T(head), Revolutionary, 0.78, 4
+T(head), Modern Composition, 0.78, 4
 
 
-Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 5.399440045248868
+Result : '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', 7.1515147058823505

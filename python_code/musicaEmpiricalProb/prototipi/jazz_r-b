@@ -19,6 +19,8 @@ T(modifier), Soul, 0.9, 21
 T(modifier), Playful_mood, 0.855, 18
 T(modifier), Energetic, 0.855, 18
 T(modifier), Partying, 0.855, 18
+T(modifier), Warm, 0.855, 18
+T(modifier), Smooth, 0.855, 18
 
 T(head), -Soundtracks, 0.9, 47
 T(head), -Movie Themes, 0.9, 47
@@ -26,6 +28,8 @@ T(head), Sophisticated, 0.9, 38
 T(head), Freewheeling, 0.8675675675675676, 34
 T(head), Confident, 0.8432432432432433, 31
 T(head), Amiable/Good-Natured, 0.8432432432432433, 31
+T(head), Playful_mood, 0.8432432432432433, 31
+T(head), Lively, 0.8351351351351353, 30
 
 
-Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 6.177476888225437
+Result : '1', '1', '1', '0', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '1', '0', 7.999236525769958

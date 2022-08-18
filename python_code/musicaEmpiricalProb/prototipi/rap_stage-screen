@@ -19,6 +19,8 @@ T(modifier), Soundtracks, 0.9, 13
 T(modifier), Dramatic, 0.875, 12
 T(modifier), Original Score, 0.8500000000000001, 11
 T(modifier), Theatrical, 0.825, 10
+T(modifier), Film Music, 0.7999999999999999, 9
+T(modifier), Rousing, 0.75, 7
 
 T(head), -Unsettling, 0.9, 31
 T(head), -Solitude, 0.9, 31
@@ -26,6 +28,8 @@ T(head), Brash, 0.9, 26
 T(head), Street-Smart, 0.864, 23
 T(head), Confident, 0.8400000000000001, 21
 T(head), Partying, 0.8400000000000001, 21
+T(head), East Coast Rap, 0.804, 18
+T(head), Swaggering, 0.804, 18
 
 
-Result : '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '0', '0', 5.903222222222222
+Result : '1', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', '0', 7.970822916666664

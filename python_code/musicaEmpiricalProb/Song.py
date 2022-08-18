@@ -44,7 +44,7 @@ class Song:
 
         rangeFreq = maxFreq - minFreq
         rangeScore = MAX_SCORE - MIN_SCORE
-        print("songs/", self.title, "#", self.performer, ".txt", "w+")
+        #print("songs/", self.title, "#", self.performer, ".txt", "w+")
         f = open("songs/" + self.title + "#" + self.performer + "#"+self.genre+ ".txt", "w+")
 
         # for i in range(len(self.attributes)):

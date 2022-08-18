@@ -19,6 +19,8 @@ T(modifier), Traditional Pop, 0.9, 47
 T(modifier), Vocal Pop, 0.8478260869565217, 39
 T(modifier), Refined, 0.7630434782608696, 26
 T(modifier), Sentimental, 0.7630434782608696, 26
+T(modifier), Romantic, 0.75, 24
+T(modifier), Sweet, 0.7434782608695653, 23
 
 T(head), -New Romantic, 0.9, 44
 T(head), -Spicy, 0.9, 44
@@ -26,6 +28,8 @@ T(head), Rousing, 0.9, 30
 T(head), Contemporary Pop/Rock, 0.8689655172413793, 27
 T(head), Album Rock, 0.8172413793103448, 22
 T(head), Confident, 0.8172413793103448, 22
+T(head), Energetic, 0.8172413793103448, 22
+T(head), Cool & Cocky, 0.806896551724138, 21
 
 
-Result : '1', '1', '1', '1', '0', '0', '1', '1', '0', '0', '0', '0', 6.551719106433177
+Result : '1', '1', '1', '1', '1', '1', '0', '0', '1', '1', '1', '1', '0', '0', '0', '0', 8.190199063733441

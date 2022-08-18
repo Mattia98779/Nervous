@@ -19,6 +19,8 @@ T(modifier), Soundtracks, 0.9, 13
 T(modifier), Dramatic, 0.875, 12
 T(modifier), Original Score, 0.8500000000000001, 11
 T(modifier), Theatrical, 0.825, 10
+T(modifier), Film Music, 0.7999999999999999, 9
+T(modifier), Rousing, 0.75, 7
 
 T(head), -Worldbeat, 0.9, 47
 T(head), -Crossover Jazz, 0.9, 47
@@ -26,6 +28,8 @@ T(head), Reflection, 0.9, 29
 T(head), Soothing, 0.8892857142857142, 28
 T(head), Introspection, 0.8892857142857142, 28
 T(head), Hypnotic, 0.8785714285714286, 27
+T(head), Reflective, 0.8785714285714286, 27
+T(head), Relaxation, 0.8785714285714286, 27
 
 
-Result : '0', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '0', 5.298164682539682
+Result : '0', '1', '1', '1', '0', '0', '0', '0', '1', '1', '1', '1', '1', '1', '0', '1', 7.227217261904761
